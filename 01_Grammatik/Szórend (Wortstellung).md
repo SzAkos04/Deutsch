@@ -70,7 +70,7 @@ Ha több határozó is van a mondatban, általában ezt a sorrendet követik:
 3. **Mo**dal (**M**ód)
 4. **Lo**kal (**H**ely)
 
-[!TIP] **I**gen **o**kos **m**esét **h**allottam.
+> [!TIP] **Jegyezd meg:** **I**gen **o**kos **m**esét **h**allottam.
 
 ### A) Ha mindkettő főnév
 
