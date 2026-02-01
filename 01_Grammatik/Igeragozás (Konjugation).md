@@ -8,7 +8,7 @@ tags:
 
 A legtöbb német ige így ragozódik. Az `-en` végződést levágjuk, és helyére illesztjük a ragokat.
 
-**Példa:** *lernen* (tanulni) $\to$ *lern-*
+**Példa:** lernen (tanulni) $\to$ lern-
 
 | **Személy**         | **Rag** | **Példa**           |
 | ------------------- | ------- | ------------------- |
@@ -19,13 +19,15 @@ A legtöbb német ige így ragozódik. Az `-en` végződést levágjuk, és hely
 | **ihr** (ti)        | **-t**  | ihr lern**t**       |
 | **sie/Sie** (ők/Ön) | **-en** | sie/Sie lern**en**  |
 
+---
+
 ## 2. Rendhagyó igék (Tőhangváltós igék)
 
 Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőhangzó. A ragok ugyanazok maradnak!
 
 ### A) e $\to$ i / ie
 
-**Példa:** *helfen* (segíteni)
+**Példa:** helfen (segíteni)
 
 | **Személy**         | **Példa**      |
 | ------------------- | -------------- |
@@ -38,7 +40,7 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 
 ---
 
-**Példa:** *lesen* (olvasni)
+**Példa:** lesen (olvasni)
 
 | **Személy**         | **Példa**     |
 | ------------------- | ------------- |
@@ -51,7 +53,7 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 
 ### a $\to$ ä
 
-**Példa:** *fahren* (utazni)
+**Példa:** fahren (utazni)
 
 | **Személy**         | **Példa**      |
 | ------------------- | -------------- |
@@ -62,13 +64,24 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 | **ihr** (ti)        | ihr fahrt      |
 | **sie/Sie** (ők/Ön) | sie/Sie fahren |
 
+---
+
 ## 3. A két legfontosabb kivétel
 
-| **Személy**   | **sein** (létige) | **haben** (birtok) |
-| ------------- | ----------------- | ------------------ |
-| **ich**       | bin               | habe               |
-| **du**        | bist              | hast               |
-| **er/sie/es** | ist               | hat                |
-| **wir**       | sind              | haben              |
-| **ihr**       | seid              | habt               |
-| **sie/Sie**   | sind              | haben              |
+A *sein* (lenni) és a *haben* (birtokolni) igék teljesen rendhagyóak.
+
+| **Személy**   | **sein** (lenni) | **haben** (birtokolni) |
+| ------------- | ---------------- | ---------------------- |
+| **ich**       | bin              | habe                   |
+| **du**        | bist             | hast                   |
+| **er/sie/es** | ist              | hat                    |
+| **wir**       | sind             | haben                  |
+| **ihr**       | seid             | habt                   |
+| **sie/Sie**   | sind             | haben                  |
+
+## 4. Helyesírási alapszabályok
+
+Ha az igető **-d,** **-t,** vagy mássalhangzó-torlódásos **-n** (pl. *rechnen*) végű, a kiejtés miatt egy kötő **-e** kerül a rag elé:
+**Példa:** arbeiten
+- du arbeite**st**
+- er arbeite**t**
