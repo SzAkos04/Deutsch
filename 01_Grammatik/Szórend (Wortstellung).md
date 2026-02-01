@@ -26,6 +26,8 @@ A kötőszó utáni alany az 1. helyen áll, az ige pedig marad a **2. helyen.**
 - **S**ondern (hanem)
 - **O**der (vagy)
 
+---
+
 ## 2. Fordított szórend (Inversion)
 
 - **Képlet:** `Kiemelt mondatrész + Ragozott ige + Alany + ...`
@@ -35,6 +37,8 @@ A kötőszó utáni alany az 1. helyen áll, az ige pedig marad a **2. helyen.**
 
 Vannak kötőszók, amik után **egyből az ige jön** (fordított szórend), ilyenek például: _deshalb,_ _darum,_ _trotzdem,_ _sonst._
 - **Példa:** Ich bin müde, deshalb gehe ich schlafen.
+
+---
 
 ## 3. Kérdő mondatok
 
@@ -48,11 +52,15 @@ Az ige az _1. helyre_ kerül.
 A kérdőszó az 1., a ragozott ige a _2. helyen_ áll.
 - **Példa:** Wohin gehst du heute?
 
+---
+
 ## 4. KATI szórend (Mellékmondati szórend)
 
 Bizonyos kötőszók (pl. _weil,_ _dass,_ _wenn,_ _ob,_ _obwohl_) a mondat *legvégére* kényszerítik a ragozott igét.
 - **Képlet:** `Kötőszó + Alany + ... + Ragozott ige`
 - **Példa:** Ich bin müde, weil ich viel arbeite.
+
+---
 
 ## 5. Te-Ka-Mo-Lo szabálya (I-O-M-H)
 
@@ -81,6 +89,8 @@ Ha több határozó is van a mondatban, általában ezt a sorrendet követik:
 - Ich gebe **ihm** (D, névmás) **den Apfel** (A, főnév).
 - Ich gebe **ihn** (A, névmás) **dem Kind** (D, főnév).
 
+---
+
 ## 6. Az "IGE-KERET" (Satzklammer)
 
 Összetett igealakoknál (módbeli segédigék, múlt idő, elváló igekötők) a ragozott rész a _2. helyen,_ a mondat többi része pedig a _legvégén_ van.
@@ -97,6 +107,8 @@ Amikor egy mellékmondatban (KATI) összetett igealak van (pl. Perfekt vagy mód
 KATI szórendnél az igekötő és az ige **összeolvad** a mondat végén.
 - **Egyenes:** Ich **stehe** um 6 Uhr **auf.**
 - **KATI:** ..., weil ich um 6 Uhr **aufstehe.**
+
+---
 
 | **Típus**              | **1. pozíció**   | **2. pozíció**             | **Mondat vége**                        |
 | ---------------------- | ---------------- | -------------------------- | -------------------------------------- |

@@ -104,7 +104,7 @@ Ha az igető **-s, -ss, -ß, -z** vagy **-x** végű, akkor **E/2.** személyben
 
 ## 5. Elváló igekötős igék (Trennbare Verben)
 
-Csak az alapigét ragozzuk, az igekötőt nem.
+Mondatalkotáskor az igekötő a **mondat legvégére** kerül, az alapigét ragozzuk, az igekötőt nem.
 **Példa:** aufstehen (felkelni)
 - Ich **stehe** jeden Tag um 6 Uhr **auf.**
 
