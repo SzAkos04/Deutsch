@@ -2,6 +2,7 @@
 Titel: Szórend (Wortstellung)
 tags:
   - Grammatik
+aliases:
 ---
 # Wortstellung
 
@@ -40,7 +41,7 @@ Vannak kötőszók, amik után **egyből az ige jön** (fordított szórend), il
 ### A) Eldöntendő (Ja/Nein Frage)
 
 Az ige az *1. helyre* kerül.
-- **Példa:** *Gehst* do heute ins Kino?
+- **Példa:** *Gehst* du heute ins Kino?
 
 ### B) Kérdőszavas (W-Frage)
 
