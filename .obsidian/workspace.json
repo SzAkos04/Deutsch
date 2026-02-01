@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/Melléknévragozás (Adjektivdeklination).md",
+                "file": "02_Wortschatz/Melléknévragozás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Melléknévragozás (Adjektivdeklination)"
+              "title": "Melléknévragozás"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Grammatik/Melléknévragozás (Adjektivdeklination).md",
+                "file": "02_Wortschatz/Melléknévragozás.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Melléknévragozás (Adjektivdeklination)"
+              "title": "Outline of Melléknévragozás"
             }
           }
         ],
@@ -214,9 +214,10 @@
   },
   "active": "455a02c9dbfdf6c7",
   "lastOpenFiles": [
-    "01_Grammatik/Névelők és névmások (Artikel und Pronomen).md",
+    "02_Wortschatz/Melléknévragozás.md",
     "01_Grammatik/Melléknévragozás (Adjektivdeklination).md",
     "01_Grammatik/Igeragozás (Konjugation).md",
+    "01_Grammatik/Névelők és névmások (Artikel und Pronomen).md",
     "01_Grammatik/Szórend (Wortstellung).md",
     "01_Grammatik/_Grammatik MOC.md",
     "01_Grammatik/Elöljárószók (Präpositionen).md",
