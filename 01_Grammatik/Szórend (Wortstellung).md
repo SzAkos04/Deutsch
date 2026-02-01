@@ -15,7 +15,7 @@ A szórend típusát szinte mindig az határozza meg, hogy a ragozott ige hol á
 ## 1. Egyenes szórend (Hauptsatz)
 
 - **Képlet:** `Alany + Ragozott ige + ...’
-- **Példa:** Ich *gehe* heute ins Kino.
+- **Példa:** Ich _gehe_ heute ins Kino.
 
 ### A "Nulladik" kötőszók (ADUSO)
 
@@ -29,18 +29,18 @@ A kötőszó utáni alany az 1. helyen áll, az ige pedig marad a **2. helyen.**
 ## 2. Fordított szórend (Inversion)
 
 - **Képlet:** `Kiemelt mondatrész + Ragozott ige + Alany + ...`
-- **Példa:** Heute *gehe* ich ins Kino.
+- **Példa:** Heute _gehe_ ich ins Kino.
 
 ### Kötőszók
 
-Vannak kötőszók, amik után **egyből az ige jön** (fordított szórend), ilyenek például: *deshalb,* *darum,* *trotzdem,* *sonst.*
+Vannak kötőszók, amik után **egyből az ige jön** (fordított szórend), ilyenek például: _deshalb,_ _darum,_ _trotzdem,_ _sonst._
 - **Példa:** Ich bin müde, deshalb gehe ich schlafen.
 
 ## 3. Kérdő mondatok
 
 ### A) Eldöntendő (Ja/Nein Frage)
 
-Az ige az *1. helyre* kerül.
+Az ige az 1. helyre kerül.
 - **Példa:** *Gehst* du heute ins Kino?
 
 ### B) Kérdőszavas (W-Frage)

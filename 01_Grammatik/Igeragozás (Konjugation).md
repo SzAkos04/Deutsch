@@ -68,7 +68,7 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 
 ## 3. A két legfontosabb kivétel
 
-A *sein* (lenni) és a *haben* (birtokolni) igék teljesen rendhagyóak.
+A _sein_ (lenni) és a _haben_ (birtokolni) igék teljesen rendhagyóak.
 
 | **Személy**   | **sein** (lenni) | **haben** (birtokolni) |
 | ------------- | ---------------- | ---------------------- |
@@ -83,12 +83,22 @@ A *sein* (lenni) és a *haben* (birtokolni) igék teljesen rendhagyóak.
 
 ## 4. Helyesírási alapszabályok
 
-### A) -d, -t, vagy mássalhangzó-torlódásos -n végű szavak
+A kiejtés könnyítése érdekében két speciális esetet különböztetünk meg az igető végződése alapján:
 
-Ha az igető **-d,** **-t,** vagy mássalhangzó-torlódásos **-n** (pl. *rechnen*) végű, a kiejtés miatt egy kötő **-e** kerül a rag elé:
+### A) Kötő -e beékelődése
+
+Ha az igető **-d, -t**, vagy mássalhangzó-torlódásos **-n** (pl. _rechnen, zeichnen_) végű, a kiejtés miatt egy **kötő -e** kerül a rag elé **du**, **er/sie/es** és **ihr** személyekben.
 **Példa:** arbeiten (dolgozni)
-- du arbeite**st**
-- er arbeite**t**
+- du arbeit**est**
+- er arbeit**et**
+- ihr arbeit**et**
+
+### Az -s elhagyása
+
+Ha az igető **-s, -ss, -ß, -z** vagy **-x** végű, akkor **du** (te) személyben nem kap plusz _-s_-t, csak egy **-t** ragot (mivel a sziszegő hang már benne van a tőben).
+
+**Példa:** _heißen_ (hívni) → igető: _heiß-_
+- du hei**ßt**
 
 ---
 
@@ -102,4 +112,7 @@ Csak az alapigét ragozzuk, az igekötőt nem.
 
 ## 6. Módbeli segédigék (Modalverben)
 
-A módbeli segédigék esetén (pl. *können,*, *müssen,* *wollen*) az 
+A módbeli segédigék esetén (pl. *können,*, *müssen,* *wollen*) az **E/1.** és **E/3.** személy alakja megegyezik, és nincs rájuk rag.
+**Példa:** können (tudni)
+- ich **kann**
+- er/sie/es **kann**
