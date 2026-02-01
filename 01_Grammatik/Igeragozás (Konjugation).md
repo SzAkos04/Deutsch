@@ -6,7 +6,7 @@ tags:
 
 ## 1. Gyenge igék (Szabályos ragozás)
 
-A legtöbb német ige így ragozódik. Az `-en` végződést levágjuk, és helyére illesztjük a ragokat.
+A legtöbb német ige így ragozódik. Az `-en` végződést levágjuk, és a maradék szótőhöz illesztjük a ragokat.
 
 **Példa:** lernen (tanulni) $\to$ lern-
 
@@ -32,8 +32,8 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 | **Személy**         | **Példa**      |
 | ------------------- | -------------- |
 | **ich** (én)        | ich helfe      |
-| **du** (te)         | du hilfst      |
-| **er/sie/es** (ő)   | er hilft       |
+| **du** (te)         | du h**i**lfst  |
+| **er/sie/es** (ő)   | er h**i**lft   |
 | **wir** (mi)        | wir helfen     |
 | **ihr** (ti)        | ihr helft      |
 | **sie/Sie** (ők/Ön) | sie/Sie helfen |
@@ -45,8 +45,8 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 | **Személy**         | **Példa**     |
 | ------------------- | ------------- |
 | **ich** (én)        | ich lese      |
-| **du** (te)         | du liest      |
-| **er/sie/es** (ő)   | er liest      |
+| **du** (te)         | du l**ie**st  |
+| **er/sie/es** (ő)   | er l**ie**st  |
 | **wir** (mi)        | wir lesen     |
 | **ihr** (ti)        | ihr lest      |
 | **sie/Sie** (ők/Ön) | sie/Sie lesen |
@@ -58,8 +58,8 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 | **Személy**         | **Példa**      |
 | ------------------- | -------------- |
 | **ich** (én)        | ich fahre      |
-| **du** (te)         | du fährst      |
-| **er/sie/es** (ő)   | er fährt       |
+| **du** (te)         | du f**ä**hrst  |
+| **er/sie/es** (ő)   | er f**ä**hrt   |
 | **wir** (mi)        | wir fahren     |
 | **ihr** (ti)        | ihr fahrt      |
 | **sie/Sie** (ők/Ön) | sie/Sie fahren |
@@ -87,13 +87,13 @@ A kiejtés könnyítése érdekében két speciális esetet különböztetünk m
 
 ### A) Kötő -e beékelődése
 
-Ha az igető **-d, -t**, vagy mássalhangzó-torlódásos **-n** (pl. _rechnen, zeichnen_) végű, a kiejtés miatt egy **kötő -e** kerül a rag elé **du**, **er/sie/es** és **ihr** személyekben.
+Ha az igető **-d, -t** (pl. _arbeiten_) vagy mássalhangzó-torlódásos **-n** (pl. _rechnen_) végű, a kiejtés miatt egy **kötő -e** kerül a rag elé **du**, **er/sie/es** és **ihr** személyekben.
 **Példa:** arbeiten (dolgozni)
 - du arbeit**est**
 - er arbeit**et**
 - ihr arbeit**et**
 
-### Az -s elhagyása
+### B) Az -s elhagyása
 
 Ha az igető **-s, -ss, -ß, -z** vagy **-x** végű, akkor **E/2.** személyben nem kap plusz _-s_-t, csak egy **-t** ragot (mivel a sziszegő hang már benne van a tőben).
 
@@ -112,7 +112,7 @@ Csak az alapigét ragozzuk, az igekötőt nem.
 
 ## 6. Módbeli segédigék (Modalverben)
 
-A módbeli segédigék (pl. *können,*, *müssen,* *wollen*), plusz a _wissen_ ige esetén  az **E/1.** és **E/3.** személy alakja megegyezik, és nincs rájuk rag, valamint *sollen* kivételével az összes tőhangváltós.
+A módbeli segédigék (pl. *können,* *müssen,* *wollen*), plusz a _wissen_ (tudni - tényeket) ige esetén az **E/1.** és **E/3.** személy alakja megegyezik, és nincs rájuk rag, valamint *sollen* kivételével az összes tőhangváltós.
 **Példa:** können (tudni)
 - ich **kann**
 - er/sie/es **kann**
