@@ -1,6 +1,7 @@
 ---
 Titel: Igeragozás (Konjugation)
 tags:
+  - Grammatik
 ---
 # Igeragozás (Konjugation)
 

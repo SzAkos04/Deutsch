@@ -2,9 +2,8 @@
 Titel: Szórend (Wortstellung)
 tags:
   - Grammatik
-aliases:
 ---
-# Wortstellung
+# Szórend (Wortstellung)
 
 ## Alapszabály
 

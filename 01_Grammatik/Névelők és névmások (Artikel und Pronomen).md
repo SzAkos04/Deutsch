@@ -1,17 +1,18 @@
 ---
 Titel: Névelők és névmások (Artikel und Pronomen)
 tags:
+  - Grammatik
 ---
 # Névelők és névmások (Artikel und Pronomen)
 
 ## Nyelvtani esetek (Kasus)
 
-|**Eset neve (latinul)**|**Magyar megnevezés**|**Kérdőszó**|
-|---|---|---|
-|**Nominativ**|Alanyeset|Wer? Was? (Ki? Mi?)|
-|**Akkusativ**|Tárgyeset|Wen? Was? (Kit? Mit?)|
-|**Dativ**|Részes eset|Wem? (Kinek? Minek?)|
-|**Genitiv**|Birtokos eset|Wessen? (Kié? Minek a...?)|
+| **Eset neve (latinul)**                                                               | **Magyar megnevezés** | **Kérdőszó**               |
+| ------------------------------------------------------------------------------------- | --------------------- | -------------------------- |
+| **Nominativ**                                                                         | Alanyeset             | Wer? Was? (Ki? Mi?)        |
+| **[[Elöljárószók (Präpositionen)#1. Akkusativ-os elöljárók (Tárgyeset)\|Akkusativ]]** | Tárgyeset             | Wen? Was? (Kit? Mit?)      |
+| **[[Elöljárószók (Präpositionen)#2. Dativ-os elöljárók (Részes eset)\|Dativ]]**       | Részes eset           | Wem? (Kinek? Minek?)       |
+| **Genitiv**                                                                           | Birtokos eset         | Wessen? (Kié? Minek a...?) |
 
 ## I. Névelők
 
