@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Vorlagen/Allgemeine Vorlage.md",
+                "file": "01_Grammatik/Szórend (Wortstellung).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allgemeine Vorlage"
+              "title": "Szórend (Wortstellung)"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Vorlagen/Allgemeine Vorlage.md",
+                "file": "01_Grammatik/Szórend (Wortstellung).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Allgemeine Vorlage"
+              "title": "Backlinks for Szórend (Wortstellung)"
             }
           },
           {
@@ -165,13 +166,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "01_Grammatik/Szórend (Wortstellung).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Szórend (Wortstellung)"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "9afdaf56f0dcfca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b994ebb02fca3fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -189,13 +207,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff1d5dce06c1bee8",
+  "active": "ad595bdb163e411e",
   "lastOpenFiles": [
     "_Vorlagen/Allgemeine Vorlage.md",
+    "01_Grammatik/Szórend (Wortstellung).md",
     "_Vorlagen",
     "02_Wortschatz",
     "01_Grammatik",
