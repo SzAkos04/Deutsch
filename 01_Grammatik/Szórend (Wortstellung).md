@@ -14,7 +14,7 @@ A szórend típusát szinte mindig az határozza meg, hogy a ragozott ige hol á
 
 ## 1. Egyenes szórend (Hauptsatz)
 
-- **Képlet:** `Alany + Ragozott ide + ...
+- **Képlet:** `Alany + Ragozott ige + ...’
 - **Példa:** Ich *gehe* heute ins Kino.
 
 ### A "Nulladik" kötőszók (ADUSO)
@@ -28,7 +28,7 @@ A kötőszó utáni alany az 1. helyen áll, az ige pedig marad a **2. helyen.**
 
 ## 2. Fordított szórend (Inversion)
 
-- **Képlet:** `Kiemelt mondatrész + Ragozott ide + Alany + ...`
+- **Képlet:** `Kiemelt mondatrész + Ragozott ige + Alany + ...`
 - **Példa:** Heute *gehe* ich ins Kino.
 
 ### Kötőszók
