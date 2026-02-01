@@ -1,13 +1,13 @@
 ---
-Titel: Elöljárószók (Präpositionen)
+Titel: Präpositionen (Elöljárószók)
 tags:
   - Grammatik
 ---
-# Elöljárószók (Präpositionen)
+# Präpositionen (Elöljárószók)
 
 ## Alapszabály
 
-A németben az elöljárószó határozza meg a mögötte álló főnév vagy névmás [[Névelők és névmások (Artikel und Pronomen)|esetét]], **függetlenül attól, hogy az ige mit vonzana.**
+A németben az elöljárószó határozza meg a mögötte álló főnév vagy névmás [[Artikel und Pronomen (Névelők és névmások)|esetét]], **függetlenül attól, hogy az ige mit vonzana.**
 
 ---
 

@@ -1,17 +1,17 @@
 ---
-Titel: Melléknévragozás (Adjektivdeklination)
+Titel: Adjektivdeklination (Melléknévragozás)
 tags:
   - Grammatik
-Wortschatz: "[[Melléknévragozás]]"
+Wortschatz: "[[Adjektivdeklination]]"
 ---
-# Melléknévragozás (Adjektivdeklination)
+# Adjektivdeklination (Melléknévragozás)
 
 ## Alapszabály
 
 A németben a melléknév ragozása (a végződése) attól függ, hogy:
 1. Milyen **névelő** áll előtte (határozott, határozatlan vagy semmilyen).
 2. Mi a főnév **neme** (hímnem, nőnem, semleges, többes szám).
-3. Milyen **esetben** van a főnév ([[Névelők és névmások (Artikel und Pronomen)#Nyelvtani esetek (Kasus)|Nominativ, Akkusativ, Dativ, Genitiv]]).
+3. Milyen **esetben** van a főnév ([[Artikel und Pronomen (Névelők és névmások)#Nyelvtani esetek (Kasus)|Nominativ, Akkusativ, Dativ, Genitiv]]).
 
 ---
 
@@ -37,7 +37,7 @@ Akkor használjuk, ha a melléknév előtt **der, die, das** (vagy _dieser,_ _je
 
 ## 2. Vegyes ragozás (Határozatlan névelő után)
 
-Akkor használjuk, ha a melléknév előtt **ein, eine, kein** vagy **birtokos névmások** ([[Névelők és névmások (Artikel und Pronomen)#III. Birtokos névmások (Possessivpronomen)|mein, dein, sein...]]) állnak.
+Akkor használjuk, ha a melléknév előtt **ein, eine, kein** vagy **birtokos névmások** ([[Artikel und Pronomen (Névelők és névmások)#III. Birtokos névmások (Possessivpronomen)|mein, dein, sein...]]) állnak.
 
 |**Eset**|**Hímnem (m)**|**Nőnem (f)**|**Semleges (n)**|**Többes (Pl.)**|
 |---|---|---|---|---|

@@ -1,9 +1,9 @@
 ---
-Titel: Igeragozás (Konjugation)
+Titel: Konjugation (Igeragozás)
 tags:
   - Grammatik
 ---
-# Igeragozás (Konjugation)
+# Konjugation (Igeragozás)
 
 ## 1. Gyenge igék (Szabályos ragozás)
 

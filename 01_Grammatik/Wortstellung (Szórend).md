@@ -1,9 +1,9 @@
 ---
-Titel: Szórend (Wortstellung)
+Titel: Wortstellung (Szórend)
 tags:
   - Grammatik
 ---
-# Szórend (Wortstellung)
+# Wortstellung (Szórend)
 
 ## Alapszabály
 
