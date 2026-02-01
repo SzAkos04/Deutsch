@@ -40,17 +40,17 @@ Vannak kötőszók, amik után **egyből az ige jön** (fordított szórend), il
 
 ### A) Eldöntendő (Ja/Nein Frage)
 
-Az ige az 1. helyre kerül.
-- **Példa:** *Gehst* du heute ins Kino?
+Az ige az _1. helyre_ kerül.
+- **Példa:** _Gehst_ du heute ins Kino?
 
 ### B) Kérdőszavas (W-Frage)
 
-A kérdőszó az 1., a ragozott ige a *2. helyen* áll.
+A kérdőszó az 1., a ragozott ige a _2. helyen_ áll.
 - **Példa:** Wohin gehst du heute?
 
 ## 4. KATI szórend (Mellékmondati szórend)
 
-Bizonyos kötőszók (pl. *weil,* *dass,* *wenn,* *ob,* *obwohl*) a mondat *legvégére* kényszerítik a ragozott igét.
+Bizonyos kötőszók (pl. _weil,_ _dass,_ _wenn,_ _ob,_ _obwohl_) a mondat *legvégére* kényszerítik a ragozott igét.
 - **Képlet:** `Kötőszó + Alany + ... + Ragozott ige`
 - **Példa:** Ich bin müde, weil ich viel arbeite.
 
@@ -83,8 +83,8 @@ Ha több határozó is van a mondatban, általában ezt a sorrendet követik:
 
 ## 6. Az "IGE-KERET" (Satzklammer)
 
-Összetett igealakoknál (módbeli segédigék, múlt idő, elváló igekötők) a ragozott rész a *2. helyen,* a mondat többi része pedig a *legvégén* van.
-- **Módbeli segédige:** Ich *will* heute Deutsch **lernen.**
+Összetett igealakoknál (módbeli segédigék, múlt idő, elváló igekötők) a ragozott rész a _2. helyen,_ a mondat többi része pedig a _legvégén_ van.
+- **Módbeli segédige:** Ich **will** heute Deutsch **lernen.**
 - **Múlt idő (Perfekt):** Ich **habe** gestern Deutsch **gelernt.**
 - **Elváló igekötő:** Ich **stehe** jeden Tag um 6 Uhr **auf.**
 

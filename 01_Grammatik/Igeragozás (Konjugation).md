@@ -95,7 +95,7 @@ Ha az igető **-d, -t**, vagy mássalhangzó-torlódásos **-n** (pl. _rechnen, 
 
 ### Az -s elhagyása
 
-Ha az igető **-s, -ss, -ß, -z** vagy **-x** végű, akkor **du** (te) személyben nem kap plusz _-s_-t, csak egy **-t** ragot (mivel a sziszegő hang már benne van a tőben).
+Ha az igető **-s, -ss, -ß, -z** vagy **-x** végű, akkor **E/2.** személyben nem kap plusz _-s_-t, csak egy **-t** ragot (mivel a sziszegő hang már benne van a tőben).
 
 **Példa:** _heißen_ (hívni) → igető: _heiß-_
 - du hei**ßt**
@@ -112,7 +112,7 @@ Csak az alapigét ragozzuk, az igekötőt nem.
 
 ## 6. Módbeli segédigék (Modalverben)
 
-A módbeli segédigék esetén (pl. *können,*, *müssen,* *wollen*) az **E/1.** és **E/3.** személy alakja megegyezik, és nincs rájuk rag.
+A módbeli segédigék (pl. *können,*, *müssen,* *wollen*), plusz a _wissen_ ige esetén  az **E/1.** és **E/3.** személy alakja megegyezik, és nincs rájuk rag, valamint *sollen* kivételével az összes tőhangváltós.
 **Példa:** können (tudni)
 - ich **kann**
 - er/sie/es **kann**
