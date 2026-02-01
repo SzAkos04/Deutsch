@@ -79,9 +79,27 @@ A *sein* (lenni) és a *haben* (birtokolni) igék teljesen rendhagyóak.
 | **ihr**       | seid             | habt                   |
 | **sie/Sie**   | sind             | haben                  |
 
+---
+
 ## 4. Helyesírási alapszabályok
 
+### A) -d, -t, vagy mássalhangzó-torlódásos -n végű szavak
+
 Ha az igető **-d,** **-t,** vagy mássalhangzó-torlódásos **-n** (pl. *rechnen*) végű, a kiejtés miatt egy kötő **-e** kerül a rag elé:
-**Példa:** arbeiten
+**Példa:** arbeiten (dolgozni)
 - du arbeite**st**
 - er arbeite**t**
+
+---
+
+## 5. Elváló igekötős igék (Trennbare Verben)
+
+Csak az alapigét ragozzuk, az igekötőt nem.
+**Példa:** aufstehen (felkelni)
+- Ich **stehe** jeden Tag um 6 Uhr **auf.**
+
+---
+
+## 6. Módbeli segédigék (Modalverben)
+
+A módbeli segédigék esetén (pl. *können,*, *müssen,* *wollen*) az 
