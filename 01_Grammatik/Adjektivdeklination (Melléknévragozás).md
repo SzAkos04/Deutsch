@@ -19,12 +19,12 @@ A németben a melléknév ragozása (a végződése) attól függ, hogy:
 
 Akkor használjuk, ha a melléknév előtt **der, die, das** (vagy _dieser,_ _jeder,_ _welcher,_ _mancher_) áll. Mivel a névelő már pontosan megmutatja az esetet, a melléknévnek csak "gyenge" végződés kell (**-e** vagy **-en**).
 
-|**Eset**|**Hímnem (m)**|**Nőnem (f)**|**Semleges (n)**|**Többes (Pl.)**|
-|---|---|---|---|---|
-|**Nom.**|der gut**e**|die gut**e**|das gut**e**|die gut**en**|
-|**Akk.**|den gut**en**|die gut**e**|das gut**e**|die gut**en**|
-|**Dat.**|dem gut**en**|der gut**en**|dem gut**en**|den gut**en**|
-|**Gen.**|des gut**en**|der gut**en**|des gut**en**|der gut**en**|
+| **Eset** | **Hímnem (m)** | **Nőnem (f)** | **Semleges (n)** | **Többes (Pl.)** |
+| -------- | -------------- | ------------- | ---------------- | ---------------- |
+| **Nom.** | der gut**e**   | die gut**e**  | das gut**e**     | die gut**en**    |
+| **Akk.** | den gut**en**  | die gut**e**  | das gut**e**     | die gut**en**    |
+| **Dat.** | dem gut**en**  | der gut**en** | dem gut**en**    | den gut**en**    |
+| **Gen.** | des gut**en**  | der gut**en** | des gut**en**    | der gut**en**    |
 
 > [!TIP] **Jegyezd meg: A "Papucs" szabály.** Nominativban (és nőnem/semleges Akkusativban) a végződés **-e**, mindenhol máshol **-en**.
 
