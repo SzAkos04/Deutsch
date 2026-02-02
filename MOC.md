@@ -14,5 +14,11 @@ Titel: MOC
 
 ## 2. Wortschatz
 
+- [[Grammatische Begriffe]]
+
+### Grammatik-spezifische Wortschätze 
+
 - [[Adjektivdeklination]]
 - [[Artikel und Pronomen]]
+- [[Konjugation]]
+- [[Präpositionen]]
