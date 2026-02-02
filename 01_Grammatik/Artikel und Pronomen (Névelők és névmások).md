@@ -2,17 +2,20 @@
 Titel: Artikel und Pronomen (Névelők és névmások)
 tags:
   - Grammatik
+Wortschatz: "[[Artikel und Pronomen]]"
 ---
 # Artikel und Pronomen (Névelők és névmások)
 
 ## Nyelvtani esetek (Kasus)
 
-| **Eset neve (latinul)**                                                               | **Magyar megnevezés** | **Kérdőszó**               |
-| ------------------------------------------------------------------------------------- | --------------------- | -------------------------- |
-| **Nominativ**                                                                         | Alanyeset             | Wer? Was? (Ki? Mi?)        |
-| **[[Präpositionen (Elöljárószók)#1. Akkusativ-os elöljárók (Tárgyeset)\|Akkusativ]]** | Tárgyeset             | Wen? Was? (Kit? Mit?)      |
-| **[[Präpositionen (Elöljárószók)#2. Dativ-os elöljárók (Részes eset)\|Dativ]]**       | Részes eset           | Wem? (Kinek? Minek?)       |
-| **Genitiv**                                                                           | Birtokos eset         | Wessen? (Kié? Minek a...?) |
+|**Kasus (Fall)**|**Ungarische Bezeichnung**|**Fragewort**|
+|---|---|---|
+|**Nominativ**|Alanyeset|Wer? Was? (Ki? Mi?)|
+|**Akkusativ**|Tárgyeset|Wen? Was? (Kit? Mit?)|
+|**Dativ**|Részes eset|Wem? (Kinek? Minek?)|
+|**Genitiv**|Birtokos eset|Wessen? (Kié? Minek a...?)|
+
+---
 
 ## I. Névelők
 
@@ -22,12 +25,12 @@ A németben a főnév neme (hímnem, nőnem, semleges) és esete határozza meg 
 
 A határozatlan névelőnek (_ein/eine_) nincs többes száma, ilyenkor a főnév névelő nélkül áll.
 
-| **Eset**      | **Hímnem (m)**      | **Nőnem (f)**   | **Semleges (n)**    | **Többes szám (Pl.)** |
-| ------------- | ------------------- | --------------- | ------------------- | --------------------- |
-| **Nominativ** | der / ein           | die / eine      | das / ein           | die / -               |
-| **Akkusativ** | **den / einen**     | die / eine      | das / ein           | die / -               |
-| **Dativ**     | **dem / einem**     | **der / einer** | **dem / einem**     | **den + -n**          |
-| **Genitiv**   | **des + -s/es / -** | **der / -**     | **des + -s/es / -** | **der / -**           |
+| Eset          | Hímnem (m)          | Nőnem (f)       | Semleges (n)        | Többes szám (Pl.) |
+| ------------- | ------------------- | --------------- | ------------------- | ----------------- |
+| **Nominativ** | der / ein           | die / eine      | das / ein           | die / -           |
+| **Akkusativ** | **den / einen**     | die / eine      | das / ein           | die / -           |
+| **Dativ**     | **dem / einem**     | **der / einer** | **dem / einem**     | **den + -n**      |
+| **Genitiv**   | **des + -s/es / -** | **der / -**     | **des + -s/es / -** | **der / -**       |
 
 **Megjegyzés:**
 - **A Dativ többes számú *-n* ragja:** Minden főnév megkapja Dativ többes számban ezt a plusz **-n** ragot (pl. _den Kindern_), kivéve azokat, amelyek eleve **-n**-re végződnek (pl. _den Frauen_) vagy **-s**-re (pl. _den Autos_).
@@ -45,16 +48,16 @@ Pontosan úgy ragozzuk, mint az _ein / eine_ párost, de van többes száma is.
 
 Ezek helyettesítik a főneveket, hogy ne kelljen ismételni őket.
 
-| **Nominativ** | **Akkusativ** | **Dativ**     |
-| ------------- | ------------- | ------------- |
-| **ich**       | mich          | mir           |
-| **du**        | dich          | dir           |
-| **er**        | ihn           | ihm           |
-| **sie**       | sie           | ihr           |
-| **es**        | es            | ihm           |
-| **wir**       | uns           | uns           |
-| **ihr**       | euch          | euch          |
-| **sie / Sie** | sie / Sie     | ihnen / Ihnen |
+| Nominativ     | Akkusativ | Dativ         |
+| ------------- | --------- | ------------- |
+| **ich**       | mich      | mir           |
+| **du**        | dich      | dir           |
+| **er**        | ihn       | ihm           |
+| **sie**       | sie       | ihr           |
+| **es**        | es        | ihm           |
+| **wir**       | uns       | uns           |
+| **ihr**       | euch      | euch          |
+| **sie / Sie** | sie / Sie | ihnen / Ihnen |
 
 ---
 

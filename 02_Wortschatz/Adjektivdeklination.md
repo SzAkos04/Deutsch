@@ -8,16 +8,16 @@ Grammatik: "[[Adjektivdeklination (Melléknévragozás)]]"
 
 ## A) Adjektive (Melléknevek)
 
-| Melléknév   | Jelentés | Ellentét            | Jelentés      |
-| :---------- | -------- | ------------------- | ------------- |
-| **gut**     | jó       | **schlecht**        | rossz         |
-| **groß**    | nagy     | **klein**           | kicsi         |
-| **neu**     | új       | **alt**             | régi / öreg   |
-| **teuer**   | drága    | **billig**          | olcsó         |
-| **schön**   | szép     | **hässlich**        | csúnya        |
-| **kalt**    | hideg    | **warm** / **heiß** | meleg / forró |
-| **schnell** | gyors    | **langsam**         | lassú         |
-| **hell**    | világos  | **dunkel**          | sötét         |
+| Adjektiv    | Bedeutung | Gegenteil           | Bedeutung     |
+| :---------- | --------- | ------------------- | ------------- |
+| **gut**     | jó        | **schlecht**        | rossz         |
+| **groß**    | nagy      | **klein**           | kicsi         |
+| **neu**     | új        | **alt**             | régi / öreg   |
+| **teuer**   | drága     | **billig**          | olcsó         |
+| **schön**   | szép      | **hässlich**        | csúnya        |
+| **kalt**    | hideg     | **warm** / **heiß** | meleg / forró |
+| **schnell** | gyors     | **langsam**         | lassú         |
+| **hell**    | világos   | **dunkel**          | sötét         |
 
 ---
 
