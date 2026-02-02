@@ -6,7 +6,7 @@ Wortschatz: "[[Artikel und Pronomen]]"
 ---
 # Artikel und Pronomen (Névelők és névmások)
 
-## Nyelvtani esetek (Kasus)
+## Kasus (Nyelvtani esetek)
 
 |**Kasus (Fall)**|**Ungarische Bezeichnung**|**Fragewort**|
 |---|---|---|
@@ -17,7 +17,7 @@ Wortschatz: "[[Artikel und Pronomen]]"
 
 ---
 
-## I. Névelők
+## I. Artikel (Névelők)
 
 A németben a főnév neme (hímnem, nőnem, semleges) és esete határozza meg a névelő alakját.
 
@@ -44,7 +44,7 @@ Pontosan úgy ragozzuk, mint az _ein / eine_ párost, de van többes száma is.
 
 ---
 
-## II. Személyes névmások (Personalpronomen)
+## II. Personalpronomen (Személyes névmások)
 
 Ezek helyettesítik a főneveket, hogy ne kelljen ismételni őket.
 
@@ -61,7 +61,7 @@ Ezek helyettesítik a főneveket, hogy ne kelljen ismételni őket.
 
 ---
 
-## III. Birtokos névmások (Possessivpronomen)
+## III. Possessivpronomen (Birtokos névmások)
 
 A birtokos névmásnak két dolgot kell kifejeznie: **ki a birtokos** (szótő) és **mi a birtok neme/esete** (végződés).
 
@@ -86,7 +86,7 @@ A birtokos névmásokat **úgy ragozzuk, mint az "ein" határozatlan névelőt.*
 
 ---
 
-## IV. Mutató névmások (Demonstrativpronomen)
+## IV. Demonstrativpronomen (Mutató névmások)
 
 A leggyakoribb a **dieser / diese / dieses** (ez a...). Úgy ragozzuk, mint a **határozott névelőt** (_der/die/das_).
 - **Maskulin:** _dieser_ (Nom.), _diesen_ (Akk.), _diesem_ (Dat.)
