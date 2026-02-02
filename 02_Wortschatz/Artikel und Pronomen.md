@@ -6,26 +6,7 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 ---
 # Artikel und Pronomen
 
-## A) Grammatische Begriffe (Nyelvtani fogalmak)
-
-| Fachbegriff      | Bedeutung        |
-| ---------------- | ---------------- |
-| **der Kasus**    | eset (nyelvtani) |
-| **der Artikel**  | névelő           |
-| **das Pronomen** | névmás           |
-| **Singular**     | egyes szám       |
-| **Plural**       | többes szám      |
-| **maskulin**     | hímnem           |
-| **feminin**      | nőnem            |
-| **neutral**      | semlegesnem      |
-| **Nominativ**    | alanyeset        |
-| **Akkusativ**    | tárgyeset        |
-| **Dativ**        | részes eset      |
-| **Genitiv**      | birtokos eset    |
-
----
-
-## B) Substantive (Főnevek)
+## A) Substantive (Főnevek)
 
 | Artikel                                         | Substantiv | Plural | Bedeutung    |
 | ----------------------------------------------- | ---------- | ------ | ------------ |
@@ -43,7 +24,7 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 
 ---
 
-## C) Verben (Igék)
+## B) Verben (Igék)
 
 | Verb         | Bedeutung                 |
 | ------------ | ------------------------- |
@@ -56,7 +37,7 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 
 ---
 
-## D) Fragewörter (Kérdőszók)
+## C) Fragewörter (Kérdőszók)
 
 | Fragewort   | Bedeutung          |
 | ----------- | ------------------ |
@@ -68,7 +49,7 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 
 ---
 
-## E) Personal- und Possessivpronomen (Névmások)
+## D) Personal- und Possessivpronomen (Névmások)
 
 | Pronomen              | Bedeutung                           |
 | --------------------- | ----------------------------------- |
@@ -87,13 +68,3 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 | **ihr-**              | az ő ...-ja (övé - nőnem)           |
 | **unser-**            | a mi ...-unk (mienk)                |
 | **euer-**             | a ti ...-otok (tiétek)              |
-
-
-## F) Deklination der Artikel (Névelők ragozása)
-
-| Kasus         | Maskulin (der) | Feminin (die) | Neutral (das) | Plural (die) |
-| ------------- | -------------- | ------------- | ------------- | ------------ |
-| **Nominativ** | der / ein      | die / eine    | das / ein     | die / -      |
-| **Akkusativ** | den / einen    | die / eine    | das / ein     | die / -      |
-| **Dativ**     | dem / einem    | der / einer   | dem / einem   | den ...-n    |
-| **Genitiv**   | des ...-s      | der           | des ...-s     | der          |
