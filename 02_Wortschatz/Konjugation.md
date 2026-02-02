@@ -22,6 +22,8 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 | **wohnen**   | lakni               |
 ...
 
+---
+
 ## B) Starke Verben (Erős igék)
 
 | Verb          | Bedeutung          | Ablaut      | Beispiel    |
@@ -45,6 +47,8 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 | **waschen**   | mosni              | a $\to$ ä   | du wäschst  |
 ...
 
+---
+
 ## C) Trennbare Verben (Elváló igekötős igék)
 
 | Verb            | Bedeutung                    | Beispiel                   |
@@ -64,6 +68,8 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 | **zuhören**     | odafigyelni / hallgatni vkit | Hör mir zu!                |
 ...
 
+---
+
 ## D) Modalverben (Módbeli segédigék) + extra
 
 | Verb                         | Bedeutung           |
@@ -75,6 +81,8 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 | **sollen**                   | kellene             |
 | **wissen** (nem segédige!!!) | tudni               |
 | **wollen**                   | akarni              |
+
+---
 
 ## E) Hilfsverben (Segédigék)
 

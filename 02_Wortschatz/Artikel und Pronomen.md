@@ -47,12 +47,12 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 
 | Verb         | Bedeutung                 |
 | ------------ | ------------------------- |
-| **haben**    | birtokol (van neki)       |
 | **brauchen** | szüksége van vmire        |
-| **lieben**   | szeret                    |
-| **helfen**   | segít                     |
-| **wünschen** | kíván                     |
 | **gehören**  | tartozik vkihez (valakié) |
+| **haben**    | birtokol (van neki)       |
+| **helfen**   | segít                     |
+| **lieben**   | szeret                    |
+| **wünschen** | kíván                     |
 
 ---
 
