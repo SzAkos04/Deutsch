@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/Adjektivdeklination (Melléknévragozás).md",
+                "file": "MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjektivdeklination (Melléknévragozás)"
+              "title": "MOC"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Grammatik/Adjektivdeklination (Melléknévragozás).md",
+                "file": "MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Adjektivdeklination (Melléknévragozás)"
+              "title": "Outline of MOC"
             }
           }
         ],
@@ -202,13 +202,18 @@
   },
   "active": "078b1af19e9f98cc",
   "lastOpenFiles": [
-    "MOC.md",
-    "02_Wortschatz/Adjektivdeklination.md",
-    "01_Grammatik/Präpositionen (Elöljárószók).md",
-    "01_Grammatik/Wortstellung (Szórend).md",
-    "01_Grammatik/Konjugation (Igeragozás).md",
+    "02_Wortschatz/Grammatische Begriffe.md",
+    "02_Wortschatz/Präpositionen.md",
     "01_Grammatik/Artikel und Pronomen (Névelők és névmások).md",
     "01_Grammatik/Adjektivdeklination (Melléknévragozás).md",
+    "01_Grammatik/Konjugation (Igeragozás).md",
+    "01_Grammatik/Wortstellung (Szórend).md",
+    "02_Wortschatz/Wortstellung.md",
+    "02_Wortschatz/Konjugation.md",
+    "02_Wortschatz/Artikel und Pronomen.md",
+    "02_Wortschatz/Adjektivdeklination.md",
+    "01_Grammatik/Präpositionen (Elöljárószók).md",
+    "MOC.md",
     "01_Grammatik/_Grammatik MOC.md",
     "Elöljárószók.md",
     "01_Grammatik/Tárgyeset (Akkusativ).md",

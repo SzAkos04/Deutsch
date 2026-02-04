@@ -2,6 +2,7 @@
 Titel: Konjugation (Igeragozás)
 tags:
   - Grammatik
+Wortschatz: "[[Konjugation]]"
 ---
 # Konjugation (Igeragozás)
 
@@ -22,7 +23,7 @@ A legtöbb német ige így ragozódik. Az `-en` végződést levágjuk, és a ma
 
 ---
 
-## 2. Rendhagyó igék (Tőhangváltós igék)
+## 2. Erős igék (Tőhangváltós igék)
 
 Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőhangzó. A ragok ugyanazok maradnak!
 
