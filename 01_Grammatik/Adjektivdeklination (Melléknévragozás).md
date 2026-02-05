@@ -30,7 +30,7 @@ Akkor használjuk, ha a melléknév előtt **der, die, das** (vagy _dieser,_ _je
 
 **Példák:**
 - _Ich sehe **den** schwarz**en** Hund._ (Látom a fekete kutyát. – Akkusativ, hímnem)
-- _Kauszt du **das** neu**e** Auto?_ (Megveszed az új autót? – Akkusativ, semleges)
+- _Kaufst du **das** neu**e** Auto?_ (Megveszed az új autót? – Akkusativ, semleges)
 - _Ich helfe **den** alt**en** Leuten._ (Segítek az idős embereknek. – Dativ, többes szám)
 
 ---
