@@ -8,20 +8,20 @@ Grammatik: "[[Zeitformen (Igeidők)]]"
 
 ## A) Verben (Igék)
 
-| Infinitiv   | Präteritum (3. sz.) | Partizip II   | Bedeutung      |
-| ----------- | ------------------- | ------------- | -------------- |
-| **sein**    | war                 | ist gewesen   | van (létige)   |
-| **haben**   | hatte               | hat gehabt    | van valamije   |
-| **werden**  | wurde               | ist geworden  | válik valamivé |
-| **essen**   | aß                  | hat gegessen  | eszik          |
-| **trinken** | trank               | hat getrunken | iszik          |
-| **sehen**   | sah                 | hat gesehen   | lát            |
-| **gehen**   | ging                | ist gegangen  | megy           |
-| **fahren**  | fuhr                | ist gefahren  | utazik / vezet |
-| **fliegen** | flog                | ist geflogen  | repül          |
-| **machen**  | machte              | hat gemacht   | csinál         |
-| **lernen**  | lernte              | hat gelernt   | tanul          |
-| **lieben**  | liebte              | hat geliebt   | szeret         |
+| Infinitiv   | Präteritum | Partizip II   | Bedeutung      |
+| ----------- | ---------- | ------------- | -------------- |
+| **sein**    | war        | ist gewesen   | van (létige)   |
+| **haben**   | hatte      | hat gehabt    | van valamije   |
+| **werden**  | wurde      | ist geworden  | válik valamivé |
+| **essen**   | aß         | hat gegessen  | eszik          |
+| **trinken** | trank      | hat getrunken | iszik          |
+| **sehen**   | sah        | hat gesehen   | lát            |
+| **gehen**   | ging       | ist gegangen  | megy           |
+| **fahren**  | fuhr       | ist gefahren  | utazik / vezet |
+| **fliegen** | flog       | ist geflogen  | repül          |
+| **machen**  | machte     | hat gemacht   | csinál         |
+| **lernen**  | lernte     | hat gelernt   | tanul          |
+| **lieben**  | liebte     | hat geliebt   | szeret         |
 ...
 
 ---
