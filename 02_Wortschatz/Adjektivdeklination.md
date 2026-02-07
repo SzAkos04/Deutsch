@@ -49,9 +49,9 @@ Grammatik: "[[Adjektivdeklination (Melléknévragozás)]]"
 
 ## C) Kifejezések
 
-| **Ausdruck**           | **Grammatik** | **Bedeutung**               |
-| ---------------------- | ------------- | --------------------------- |
-| **Ich brauche...**     | + Akkusativ   | Szükségem van egy ...-ra/re |
-| **Ich helfe...**       | + Dativ       | Segítek ...-nak/-nek        |
-| **Ich kaufe...**       | + Akkusativ   | Vásárolok egy ...-t         |
-| **Ich trinke gern...** | Ohne Artikel  | Szívesen iszok ...-t        |
+| Ausdruck               | Grammatik    | Bedeutung                   |
+| ---------------------- | ------------ | --------------------------- |
+| **Ich brauche...**     | + Akkusativ  | Szükségem van egy ...-ra/re |
+| **Ich helfe...**       | + Dativ      | Segítek ...-nak/-nek        |
+| **Ich kaufe...**       | + Akkusativ  | Vásárolok egy ...-t         |
+| **Ich trinke gern...** | Ohne Artikel | Szívesen iszok ...-t        |
