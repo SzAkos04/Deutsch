@@ -8,9 +8,10 @@ Titel: MOC
 - [[Adjektivdeklination (Melléknévragozás)]]
 - [[Artikel und Pronomen (Névelők és névmások)]]
 - [[Konjugation (Igeragozás)]]
+- [[Modalverben (Módbeli segédigék)]]
 - [[Präpositionen (Elöljárószók)]]
 - [[Wortstellung (Szórend)]]
-
+- [[Zeitformen (Igeidők)]]
 
 ## 2. Wortschatz
 
@@ -21,4 +22,6 @@ Titel: MOC
 - [[Adjektivdeklination]]
 - [[Artikel und Pronomen]]
 - [[Konjugation]]
+- [[Modalverben]]
 - [[Präpositionen]]
+- [[Zeitformen]]

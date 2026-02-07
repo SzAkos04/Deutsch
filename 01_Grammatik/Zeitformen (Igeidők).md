@@ -2,6 +2,7 @@
 Titel: Zeitformen (Igeidők)
 tags:
   - Grammatik
+Wortschatz: "[[Zeitformen]]"
 ---
 # Zeitformen (Igeidők)
 
@@ -13,7 +14,7 @@ A jelen időt használjuk a **most** történő eseményekre, az **általános i
 
 ### B) Ragozás
 
-[[Konjugation (Igeragozás)]]
+Lásd: [[Konjugation (Igeragozás)]]
 
 ---
 
@@ -27,7 +28,7 @@ A hétköznapi beszédben **90%-ban ezt használjuk,** ha a múltról beszélün
 
 ### B) Segédigék választása
 
-#### Mikor használunk _sein_-t?
+**Mikor használunk _sein_-t?**
 
 1. **Mozgás** (A-ból B-be): _gehen, kommen, laufen_
 2. **Állapotváltozás:** _aufstehen_ (felkelni), _einschlafen_ (elaludni)
@@ -98,3 +99,27 @@ Akkor használjuk, ha hangsúlyozni akarjuk a jövőt, vagy ha jóslatot/ígére
 A Futur II-t két esetben használjuk:
 1. **Befejezettség a jövőben:** Egy olyan eseményről beszélünk, ami a jövő egy adott pontján már **le fog zárulni**. (Gyakran szerepel mellette időhatározó: _bis morgen, in zwei Jahren_).
 2. **Feltételezés a múlttal kapcsolatban:** Amikor nem tudunk valamit biztosan, de feltételezzük, hogy megtörtént. (_"Biztos elfelejtette."_)
+
+**Szerkezet:** werden (ragozva) + ... + Partizip II + haben/sein (Infinitiv)
+
+> [!TIP] **A mondat végi sorrend:** A mondat legvégén az **Infinitiv** (_haben_ vagy _sein_) áll, közvetlenül előtte pedig a **Partizip II**. A _werden_ pedig marad a 2. helyen.
+
+**Példák:**
+- _Ich werde es abgeschlossen haben._ (Holnapra már be fogom fejezni.)
+- _Er wird angekommen sein._ (Valószínűleg már megérkezett. – _Feltételezés_)
+
+### B) Segédigék választása
+
+Ugyanaz a szabály érvényes, mint a **[[Zeitformen (Igeidők)#B) Segédigék választása|Perfekt]]**-nél:
+- **sein:** MÁK-os igéknél (pl. _gegangen sein, eingeschlafen sein_).
+- **haben:** minden más (pl. _gelernt haben, gemacht haben_).
+
+### C) Gyakori használat a hétköznapokban (Feltételezés)
+
+A németek nagyon szeretik a Futur II-t találgatásra használni a múltra vonatkozóan. Ha látsz egy üres sörösüveget az asztalon, mondhatod:
+- _Er **wird** durstig **gewesen sein**._ (Biztosan szomjas volt.)
+
+> [!INFO] **Tipp:** Ha a jövőbeli befejezettséget akarod kifejezni, a németek sokszor helyettesítik a sima **Perfekt**-tel, ha van benne időhatározó:
+> 
+> - _Bis morgen **habe** ich es **fertig gemacht**._ (Holnapra kész vagyok vele.) – Ez sokkal gyakoribb élő szóban, mint a Futur II.
+
