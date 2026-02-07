@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Wortschatz/iPhone.md",
+                "file": "MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iPhone"
+              "title": "MOC"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -156,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Wortschatz/iPhone.md",
+                "file": "MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of iPhone"
+              "title": "Outline of MOC"
             }
           }
         ],
@@ -186,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,23 +202,23 @@
   },
   "active": "ae2bda6122e5f0cc",
   "lastOpenFiles": [
-    "02_Wortschatz/Grammatische Begriffe.md",
     "02_Wortschatz/iPhone.md",
+    "02_Wortschatz/Konjugation.md",
     "02_Wortschatz/Zeitformen.md",
+    "02_Wortschatz/Präpositionen.md",
+    "02_Wortschatz/Modalverben.md",
+    "02_Wortschatz/Grammatische Begriffe.md",
+    "02_Wortschatz/Artikel und Pronomen.md",
     "02_Wortschatz/Adjektivdeklination.md",
     "01_Grammatik/Adjektivdeklination (Melléknévragozás).md",
-    "02_Wortschatz/Modalverben.md",
     "MOC.md",
-    "02_Wortschatz/Präpositionen.md",
     "01_Grammatik/Zeitformen (Igeidők).md",
     "01_Grammatik/Konjugation (Igeragozás).md",
     "01_Grammatik/Wortstellung (Szórend).md",
-    "02_Wortschatz/Artikel und Pronomen.md",
     "01_Grammatik/Modalverben (Módbeli segédigék).md",
     "01_Grammatik/Präpositionen (Elöljárószók).md",
     "01_Grammatik/Artikel und Pronomen (Névelők és névmások).md",
     "02_Wortschatz/Wortstellung.md",
-    "02_Wortschatz/Konjugation.md",
     "01_Grammatik/_Grammatik MOC.md",
     "Elöljárószók.md",
     "01_Grammatik/Tárgyeset (Akkusativ).md",
