@@ -6,22 +6,37 @@ Grammatik: "[[Modalverben (Módbeli segédigék)]]"
 ---
 # Modalverben
 
-## A) Verben (Igék)
+## A) Modalverben (Módbeli segédigék)
 
-| Verb       | Bedeutung      | Infinitiv     | Bedeutung      |
-| ---------- | -------------- | ------------- | -------------- |
-| **können** | tud, -hat/-het | **schwimmen** | úszni          |
-| **müssen** | kell, muszáj   | **arbeiten**  | dolgozni       |
-| **dürfen** | szabad         | **rauchen**   | dohányozni     |
-| **wollen** | akar           | **werden**    | válni valamivé |
-| **sollen** | kell(ene)      | **trinken**   | inni           |
-| **mögen**  | szeret, kedvel | **essen**     | enni           |
-| **möchte** | szeretne       | **fragen**    | kérdezni       |
-| **parken** | parkolni       | **gehen**     | menni          |
+| Modalverb  | Bedeutung                    |
+| ---------- | ---------------------------- |
+| **können** | tud, képes rá; -hat/-het     |
+| **müssen** | kell, muszáj (kényszer)      |
+| **dürfen** | szabad (engedély), -hat/-het |
+| **wollen** | akar (határozott szándék)    |
+| **sollen** | kellene (tanács, elvárás)    |
+| **mögen**  | szeret, kedvel               |
+| **möchte** | szeretne (udvarias óhaj)     |
 
 ---
 
-## B) Substantive (Főnevek)
+## B) Vollverben (Cselekvő igék)
+
+| Verb          | Bedeutung      |
+| ------------- | -------------- |
+| **arbeiten**  | dolgozni       |
+| **essen**     | enni           |
+| **fragen**    | kérdezni       |
+| **gehen**     | menni          |
+| **parken**    | parkolni       |
+| **rauchen**   | dohányozni     |
+| **schwimmen** | úszni          |
+| **trinken**   | inni           |
+| **werden**    | válni valamivé |
+
+---
+
+## C) Substantive (Főnevek)
 
 | Artikel                                         | Substantiv  | Plural   | Bedeutung      |
 | ----------------------------------------------- | ----------- | -------- | -------------- |
@@ -36,7 +51,7 @@ Grammatik: "[[Modalverben (Módbeli segédigék)]]"
 
 ---
 
-## C) Kifejezések
+## D) Kifejezések
 
 | Ausdruck                | Bedeutung                          |
 | ----------------------- | ---------------------------------- |
