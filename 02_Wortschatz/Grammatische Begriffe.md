@@ -120,7 +120,7 @@ tags:
 
 ### D) Flexion (Ragozás / Toldalékolás)
 
-| Artikel                                         | Fachbegriff         | Bedeutung (HU)                             |
+| Artikel                                         | Fachbegriff         | Bedeutung                                  |
 | ----------------------------------------------- | ------------------- | ------------------------------------------ |
 | <mark style="background: #BBFABBA6;">das</mark> | Adjektivdeklination | melléknévragozás                           |
 | <mark style="background: #BBFABBA6;">das</mark> | Deklination         | névszóragozás                              |
@@ -130,7 +130,7 @@ tags:
 
 ### E) Verbformen (Igealakok)
 
-| Artikel                                         | Fachbegriff     | Bedeutung (HU)                |
+| Artikel                                         | Fachbegriff     | Bedeutung                     |
 | ----------------------------------------------- | --------------- | ----------------------------- |
 | <mark style="background: #BBFABBA6;">das</mark> | Infinitiv       | szótári alak                  |
 | <mark style="background: #BBFABBA6;">das</mark> | Partizip I      | jelen idejű melléknévi igenév |
@@ -143,7 +143,7 @@ tags:
 
 ### F) Weitere Grundbegriffe (Egyéb alapfogalmak)
 
-| Artikel | Fachbegriff | Bedeutung (HU)              |
+| Artikel | Fachbegriff | Bedeutung                   |
 | ------- | ----------- | --------------------------- |
 | ==das== | Modus       | mód (Indikativ, Konjunktiv) |
 | ==das== | Tempus      | igeidő                      |
