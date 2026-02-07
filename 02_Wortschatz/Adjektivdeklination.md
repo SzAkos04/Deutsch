@@ -6,7 +6,7 @@ Grammatik: "[[Adjektivdeklination (Melléknévragozás)]]"
 ---
 # Melléknévragozás
 
-## A) Adjektive (Melléknevek)
+## 1. Adjektive (Melléknevek)
 
 | Adjektiv    | Bedeutung | Gegenteil           | Bedeutung     |
 | :---------- | --------- | ------------------- | ------------- |
@@ -21,7 +21,7 @@ Grammatik: "[[Adjektivdeklination (Melléknévragozás)]]"
 
 ---
 
-## B) Substantive (Főnevek)
+## 2. Substantive (Főnevek)
 
 | Artikel                                         | Substantiv | Plural | Bedeutung |
 | :---------------------------------------------- | ---------- | ------ | --------- |
@@ -47,7 +47,7 @@ Grammatik: "[[Adjektivdeklination (Melléknévragozás)]]"
 
 ---
 
-## C) Kifejezések
+## 3. Ausdrücke (Kifejezések)
 
 | Ausdruck               | Grammatik    | Bedeutung                   |
 | ---------------------- | ------------ | --------------------------- |

@@ -6,7 +6,7 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 ---
 # Konjugation
 
-## A) Schwache Verben (Gyenge igék)
+## 1. Schwache Verben (Gyenge igék)
 
 | Verb         | Bedeutung           |
 | ------------ | ------------------- |
@@ -24,7 +24,7 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 
 ---
 
-## B) Starke Verben (Erős igék)
+## 2. Starke Verben (Erős igék)
 
 | Verb          | Bedeutung          | Ablaut      | Beispiel    |
 | ------------- | ------------------ | ----------- | ----------- |
@@ -49,7 +49,7 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 
 ---
 
-## C) Trennbare Verben (Elváló igekötős igék)
+## 3. Trennbare Verben (Elváló igekötős igék)
 
 | Verb            | Bedeutung                    | Beispiel                   |
 | --------------- | ---------------------------- | -------------------------- |
@@ -70,7 +70,7 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 
 ---
 
-## D) Modalverben (Módbeli segédigék) + extra
+## 4. Modalverben (Módbeli segédigék) + extra
 
 | Verb                         | Bedeutung           |
 | ---------------------------- | ------------------- |
@@ -84,7 +84,7 @@ Grammatik: "[[Konjugation (Igeragozás)]]"
 
 ---
 
-## E) Hilfsverben (Segédigék)
+## 5. Hilfsverben (Segédigék)
 
 | Verb       | Bedeutung      | Anmerkung                               |
 | ---------- | -------------- | --------------------------------------- |

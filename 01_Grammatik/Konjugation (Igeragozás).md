@@ -40,8 +40,6 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 | **ihr** (ti)        | ihr helft      |
 | **sie/Sie** (ők/Ön) | sie/Sie helfen |
 
----
-
 **Példa:** lesen (olvasni)
 
 | **Személy**         | **Példa**     |
@@ -53,7 +51,7 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 | **ihr** (ti)        | ihr lest      |
 | **sie/Sie** (ők/Ön) | sie/Sie lesen |
 
-### a $\to$ ä
+### B) a $\to$ ä
 
 **Példa:** fahren (utazni)
 

@@ -6,7 +6,7 @@ Grammatik: "[[Präpositionen (Elöljárószók)]]"
 ---
 # Präpositionen
 
-## A) Substantive (Főnevek)
+## 1. Substantive (Főnevek)
 
 | Artikel                                         | Substantiv   | Plural | Bedeutung   |
 | :---------------------------------------------- | ------------ | ------ | ----------- |
@@ -21,38 +21,62 @@ Grammatik: "[[Präpositionen (Elöljárószók)]]"
 
 ---
 
-## B) Positions- und Richtungsverben (Helyzetet és irányt kifejező igék)
+## 2. Positions- und Richtungsverben (Helyzetet és irányt kifejező igék)
 
-| Frage      | Kasus         | Verb        | Erklärung           |
-| ---------- | ------------- | ----------- | ------------------- |
-| **Wohin?** | **Akkusativ** | **stellen** | állít (vmit)        |
-|            |               | **legen**   | fektet, tesz (vmit) |
-|            |               | **setzen**  | ültet (vkit/vmit)   |
-|            |               | **hängen**  | felakaszt (vmit)    |
-| **Wo?**    | **Dativ**     | **stehen**  | áll (vmi)           |
-|            |               | **liegen**  | fekszik (vmi)       |
-|            |               | **sitzen**  | ül (vmi)            |
-|            |               | **hängen**  | lóg, függ (vmi)     |
-
----
-
-## C) Wechselpräpositionen (Váltó elöljárók)
-
-| Präposition  | Akkusativ - **Wohin?**                  | Dativ - **Wo?** |
-| ------------ | --------------------------------------- | --------------- |
-| **an**       | -hoz, -hez, -höz; -ra, -re (érintkezve) | -nál, -nél      |
-| **auf**      | -ra, -re                                | -on, -en, -ön   |
-| **in**       | -ba, -be                                | -ban, -ben      |
-| **über**     | fölé                                    | fölött          |
-| **unter**    | alá                                     | alatt           |
-| **vor**      | elé                                     | előtt           |
-| **hinter**   | mögé                                    | mögött          |
-| **neben**    | mellé                                   | mellett         |
-| **zwischen** | közé                                    | között          |
+| Infinitiv   | Präteritum | Partizip II   | Eset        | Bedeutung         |
+| ----------- | ---------- | ------------- | ----------- | ----------------- |
+| **stehen**  | stand      | hat gestanden | + Dativ     | Áll               |
+| **stellen** | stellte    | hat gestellt  | + Akkusativ | Állít             |
+| **liegen**  | lag        | hat gelegen   | + Dativ     | Fekszik           |
+| **legen**   | legte      | hat gelegt    | + Akkusativ | Fektet            |
+| **sitzen**  | saß        | hat gesessen  | + Dativ     | Ül                |
+| **setzen**  | setzte     | hat gesetzt   | + Akkusativ | Ültet             |
+| **hängen**  | hing       | hat gehangen  | + Dativ     | Lóg / Függ        |
+| **hängen**  | hängte     | hat gehängt   | + Akkusativ | Felakaszt (irány) |
 
 ---
 
-## D) Időbeli kifejezések (Temporal)
+## 3. Präpositionen (Elöljárószók)
+
+### A) Akkusativ-os elöljárók
+
+| Präposition | Bedeutung          |
+| ----------- | ------------------ |
+| **für**     | számára, -ért      |
+| **durch**   | át, keresztül      |
+| **gegen**   | ellen, körül (idő) |
+| **ohne**    | nélkül             |
+| **bis**     | -ig                |
+
+### B) Dativ-os elöljárók
+
+| Präposition | Bedeutung              |
+| ----------- | ---------------------- |
+| **aus**     | -ból, -ből             |
+| **bei**     | -nál, -nél             |
+| **mit**     | -val, -vel             |
+| **nach**    | után, felé (város)     |
+| **seit**    | óta                    |
+| **von**     | -tól, -től, -ról, -ről |
+| **zu**      | -hoz, -hez, -höz       |
+
+### C) Wechselpräpositionen (Váltó elöljárók)
+
+| Präposition  | Akkusativ - **Wohin?**                    | Dativ - **Wo?**              |
+| ------------ | ----------------------------------------- | ---------------------------- |
+| **an**       | -hoz, -hez, -höz; -ra, -re (függőlegesen) | -nál, -nél (függőlegesen)    |
+| **auf**      | -ra, -re (vízszintesen)                   | -on, -en, -ön (vízszintesen) |
+| **in**       | -ba, -be                                  | -ban, -ben                   |
+| **über**     | fölé                                      | fölött                       |
+| **unter**    | alá                                       | alatt                        |
+| **vor**      | elé                                       | előtt                        |
+| **hinter**   | mögé                                      | mögött                       |
+| **neben**    | mellé                                     | mellett                      |
+| **zwischen** | közé                                      | között                       |
+
+---
+
+## 4. Temporale Ausdrücke (Időbeli kifejezések)
 
 | Artikel                                         | Substantiv | Plural | Bedeutung |
 | :---------------------------------------------- | ---------- | ------ | --------- |
@@ -65,3 +89,31 @@ Grammatik: "[[Präpositionen (Elöljárószók)]]"
 | <mark style="background: #FF5582A6;">die</mark> | Woche      | -n     | hét       |
 | <mark style="background: #BBFABBA6;">das</mark> | Wochenende | -n     | hétvége   |
 | <mark style="background: #FF5582A6;">die</mark> | Zeit       | -n     | idő       |
+
+---
+
+## 5. Wichtige Ausdrücke (Fontos kifejezések)
+
+### A) Wo? + Dativ (Helyzet: Hol?)
+
+- **Ich bin bei der Arbeit.** – A munkahelyemen vagyok.
+- **Die Katze sitzt auf dem Tisch.** – A macska az asztalon ül.
+- **Das Auto steht vor dem Haus.** – Az autó a ház előtt áll.
+- **Wir sitzen zwischen den Eltern.** – A szülők között ülünk.
+- **Das iPhone liegt neben dem Fenster.** – Az iPhone az ablak mellett fekszik.
+
+### B) Wohin? + Akkusativ (Irány: Hová?)
+
+- **Ich gehe heute nicht an die Arbeit.** – Ma nem megyek dolgozni.
+- **Leg das Handy auf den Tisch!** – Tedd a mobilt az asztalra! (fekvő helyzet)
+- **Stell die Blume ins Fenster!** – Állítsd a virágot az ablakba! (_in + das = ins_)
+- **Wir setzen uns unter den Baum.** – Leülünk a fa alá.
+- **Häng das Bild an die Wand!** – Akaszd a képet a falra!
+
+### C) Temporale Ausdrücke (Időbeli használat)
+
+- **Am Morgen trinke ich Kaffee.** – Reggel kávét iszom. (_an + dem_)
+- **In der Nacht schlafe ich.** – Éjszaka alszom. (Kivétel! A többi napszak _am_).
+- **Am Wochenende habe ich Zeit.** – Hétvégén van időm.
+- **Vor der Schule treffe ich Tom.** – Iskola előtt találkozom Tommal.
+- **Nach dem Mittagessen lerne ich.** – Ebéd után tanulok.

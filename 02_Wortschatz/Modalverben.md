@@ -6,7 +6,7 @@ Grammatik: "[[Modalverben (Módbeli segédigék)]]"
 ---
 # Modalverben
 
-## A) Modalverben (Módbeli segédigék)
+## 1. Modalverben (Módbeli segédigék)
 
 | Modalverb  | Bedeutung                    |
 | ---------- | ---------------------------- |
@@ -20,7 +20,7 @@ Grammatik: "[[Modalverben (Módbeli segédigék)]]"
 
 ---
 
-## B) Vollverben (Cselekvő igék)
+## 2. Vollverben (Cselekvő igék)
 
 | Verb          | Bedeutung      |
 | ------------- | -------------- |
@@ -36,7 +36,7 @@ Grammatik: "[[Modalverben (Módbeli segédigék)]]"
 
 ---
 
-## C) Substantive (Főnevek)
+## 3. Substantive (Főnevek)
 
 | Artikel                                         | Substantiv  | Plural   | Bedeutung      |
 | ----------------------------------------------- | ----------- | -------- | -------------- |
@@ -51,7 +51,7 @@ Grammatik: "[[Modalverben (Módbeli segédigék)]]"
 
 ---
 
-## D) Kifejezések
+## 4. Ausdrücke (Kifejezések)
 
 | Ausdruck                | Bedeutung                          |
 | ----------------------- | ---------------------------------- |

@@ -6,7 +6,7 @@ Grammatik: "[[Zeitformen (Igeidők)]]"
 ---
 # Zeitformen
 
-## A) Verben (Igék)
+## 1. Verben (Igék)
 
 | Infinitiv   | Präteritum | Partizip II   | Bedeutung      |
 | ----------- | ---------- | ------------- | -------------- |
@@ -26,7 +26,7 @@ Grammatik: "[[Zeitformen (Igeidők)]]"
 
 ---
 
-## B) Substantive (Főnevek)
+## 2. Substantive (Főnevek)
 
 | Artikel                                         | Substantiv | Plural | Bedeutung |
 | ----------------------------------------------- | ---------- | ------ | --------- |
@@ -39,7 +39,7 @@ Grammatik: "[[Zeitformen (Igeidők)]]"
 
 ---
 
-## C) Zeitangaben (Időhatározók)
+## 3. Zeitangaben (Időhatározók)
 
 Ezek a szavak a „jelzőtáblák”, amik megmutatják, melyik igeidőbe tedd a mondatot.
 

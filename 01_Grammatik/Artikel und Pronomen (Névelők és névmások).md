@@ -17,11 +17,11 @@ Wortschatz: "[[Artikel und Pronomen]]"
 
 ---
 
-## I. Artikel (Névelők)
+## 1. Artikel (Névelők)
 
 A németben a főnév neme (hímnem, nőnem, semleges) és esete határozza meg a névelő alakját.
 
-### 1. Határozott és határozatlan névelők
+### A) Határozott és határozatlan névelők
 
 A határozatlan névelőnek (_ein/eine_) nincs többes száma, ilyenkor a főnév névelő nélkül áll.
 
@@ -36,7 +36,7 @@ A határozatlan névelőnek (_ein/eine_) nincs többes száma, ilyenkor a főné
 - **A Dativ többes számú *-n* ragja:** Minden főnév megkapja Dativ többes számban ezt a plusz **-n** ragot (pl. _den Kindern_), kivéve azokat, amelyek eleve **-n**-re végződnek (pl. _den Frauen_) vagy **-s**-re (pl. _den Autos_).
 - **A Genitiv _-s_/_-es_ ragja:** Hímnemben és semlegesnemben a főnév ragot kap. Az **-es** végződést általában az egy szótagú szavaknál (pl. _des Mannes_) vagy sziszegő hangok után (pl. _des Hauses_) használjuk, míg a több szótagúaknál elég az **-s** (pl. _des Königs_).
 
-### 2. Tagadó névelő (Kein / Keine)
+### B) Tagadó névelő (Kein / Keine)
 
 Pontosan úgy ragozzuk, mint az _ein / eine_ párost, de van többes száma is.
 - _Ich habe **keinen** Hund._ (Nincs kutyám - hímnem, Akkusativ)
@@ -44,7 +44,7 @@ Pontosan úgy ragozzuk, mint az _ein / eine_ párost, de van többes száma is.
 
 ---
 
-## II. Personalpronomen (Személyes névmások)
+## 2. Personalpronomen (Személyes névmások)
 
 Ezek helyettesítik a főneveket, hogy ne kelljen ismételni őket.
 
@@ -61,11 +61,11 @@ Ezek helyettesítik a főneveket, hogy ne kelljen ismételni őket.
 
 ---
 
-## III. Possessivpronomen (Birtokos névmások)
+## 3. Possessivpronomen (Birtokos névmások)
 
 A birtokos névmásnak két dolgot kell kifejeznie: **ki a birtokos** (szótő) és **mi a birtok neme/esete** (végződés).
 
-### 1. A szótövek (Kié?)
+### A) A szótövek (Kié?)
 
 - ich → **mein-**
 - du → **dein-**
@@ -77,7 +77,7 @@ A birtokos névmásnak két dolgot kell kifejeznie: **ki a birtokos** (szótő) 
 	- _euer_ + _e_ → **eure**
 	- _euer_ + _en_ → **euren**
 
-### 2. A végződések
+### B) A végződések
 
 A birtokos névmásokat **úgy ragozzuk, mint az "ein" határozatlan névelőt.**
 - _Das ist **mein** Vater._ (Nominativ, Maskulin)
@@ -86,7 +86,7 @@ A birtokos névmásokat **úgy ragozzuk, mint az "ein" határozatlan névelőt.*
 
 ---
 
-## IV. Demonstrativpronomen (Mutató névmások)
+## 4. Demonstrativpronomen (Mutató névmások)
 
 A leggyakoribb a **dieser / diese / dieses** (ez a...). Úgy ragozzuk, mint a **határozott névelőt** (_der/die/das_).
 - **Maskulin:** _dieser_ (Nom.), _diesen_ (Akk.), _diesem_ (Dat.)

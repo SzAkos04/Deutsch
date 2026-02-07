@@ -6,7 +6,7 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 ---
 # Artikel und Pronomen
 
-## A) Substantive (Főnevek)
+## 1. Substantive (Főnevek)
 
 | Artikel                                         | Substantiv | Plural | Bedeutung    |
 | ----------------------------------------------- | ---------- | ------ | ------------ |
@@ -24,7 +24,7 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 
 ---
 
-## B) Verben (Igék)
+## 2. Verben (Igék)
 
 | Verb         | Bedeutung                 |
 | ------------ | ------------------------- |
@@ -37,7 +37,7 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 
 ---
 
-## C) Fragewörter (Kérdőszók)
+## 3. Fragewörter (Kérdőszók)
 
 | Fragewort   | Bedeutung          |
 | ----------- | ------------------ |
@@ -49,7 +49,7 @@ Grammatik: "[[Artikel und Pronomen (Névelők és névmások)]]"
 
 ---
 
-## D) Personal- und Possessivpronomen (Névmások)
+## 4. Personal- und Possessivpronomen (Névmások)
 
 | Pronomen              | Bedeutung                           |
 | --------------------- | ----------------------------------- |

@@ -32,36 +32,36 @@ A módbeli segédigék megváltoztatják a mondat értelmét (képességet, akar
 
 ## 2. Jelentés és használat
 
-### **A) Tudás, lehetőség**
+### A) Tudás, lehetőség
 
 - **können** (tud, -hat/-het, képes rá):
     - _Ich **kann** gut schwimmen._ (Tudok jól úszni.)
     - _Hier **kann** man parken._ (Itt lehet parkolni.)
 
-### **B) Kényszer, szükségesség**
+### B) Kényszer, szükségesség
 
 - **müssen** (kell, muszáj – belső vagy külső kényszer):
     - _Ich **muss** heute lange arbeiten._ (Ma sokáig kell dolgoznom.)
 
-### **C) Engedély, tiltás**
+### C) Engedély, tiltás
 
 - **dürfen** (szabad, -hat/-het – engedély alapján):
     - _Hier **darf** man rauchen._ (Itt szabad dohányozni.)
     - _Hier **darf** man **nicht** parken._ (Itt nem szabad / tilos parkolni.)
 
-### **D) Akarat, szándék**
+### D) Akarat, szándék
 
 - **wollen** (akar, szándékozik – határozott):
     - _Ich **will** Arzt werden._ (Orvos akarok lenni.)
 - **möchte** (szeretne – udvariasabb):
     - _Ich **möchte** einen Kaffee trinken._ (Szeretnék inni egy kávét.)
 
-### **E) Tanács, elvárás**
+### E) Tanács, elvárás
 
 - **sollen** (kellene, az a feladata – valaki más mondja):
     - _Der Arzt sagt, ich **soll** viel Wasser trinken._ (Az orvos azt mondja, sok vizet kellene innom.)
 
-### **F) Kedvelés**
+### F) Kedvelés
 
 - **mögen** (szeret, kedvel – gyakran tárggyal használjuk):
     - _Ich **mag** Pizza._ (Szeretem a pizzát.)
@@ -70,19 +70,19 @@ A módbeli segédigék megváltoztatják a mondat értelmét (képességet, akar
 
 ## 3. Gyakori hibák (Mire figyelj?)
 
-### A "zu" hiánya
+### A) A "zu" hiánya
 
 A módbeli segédigék után a főige elé **SOHA nem tesszük ki a "zu" szócskát**!
 - ~~Ich muss zu lernen.~~ $\to$ **Ich muss lernen.**
 
-### A mondat végi helyzet
+### B) A mondat végi helyzet
 
 A főige mindig a legutolsó szó. Ha elmarad a mondat végéről, a mondat befejezetlen.
 - _Ich **will** nach Hause **gehen**._ (Haza akarok menni.)
 
 > [!INFO] **Kivétel:** A beszélt nyelvben, ha a mozgást kifejező ige (gehen, fahren) egyértelmű, néha elhagyják: _Ich **muss** nach Hause._ (Haza kell [mennem].)
 
-### Müssen vs. Sollen
+### C) Müssen vs. Sollen
 
 - **Müssen:** Elkerülhetetlen kényszer (pl. törvény, biológiai szükséglet).
 - **Sollen:** Társadalmi elvárás, tanács vagy valaki más utasítása.

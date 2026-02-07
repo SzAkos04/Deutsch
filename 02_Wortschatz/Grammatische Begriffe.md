@@ -5,7 +5,7 @@ tags:
 ---
 # Grammatische Begriffe
 
-## A) Wortarten und Morphologie (Szófajok és Alaktan)
+## 1. Wortarten und Morphologie (Szófajok és Alaktan)
 
 | Artikel                                         | Fachbegriff    | Bedeutung              |
 | :---------------------------------------------- | -------------- | ---------------------- |
@@ -37,9 +37,9 @@ tags:
 
 ---
 
-## B) Satzbau und Syntax (Mondatszerkesztés)
+## 2. Satzbau und Syntax (Mondatszerkesztés)
 
-### 1. Satzteile (Mondat részei)
+### A) Satzteile (Mondat részei)
 
 | Artikel                                         | Fachbegriff            | Bedeutung                            |
 | :---------------------------------------------- | ---------------------- | ------------------------------------ |
@@ -51,7 +51,7 @@ tags:
 | <mark style="background: #FF5582A6;">die</mark> | Präpositionalergänzung | elöljárós bővítmény                  |
 | <mark style="background: #BBFABBA6;">das</mark> | Subjekt                | alany                                |
 
-### 2. Satzarten (Mondattípusok)
+### B) Satzarten (Mondattípusok)
 
 | Artikel                                         | Fachbegriff       | Bedeutung         |
 | ----------------------------------------------- | ----------------- | ----------------- |
@@ -62,7 +62,7 @@ tags:
 | <mark style="background: #ADCCFFA6;">der</mark> | Hauptsatz         | főmondat          |
 | <mark style="background: #ADCCFFA6;">der</mark> | Nebensatz         | mellékmondat      |
 
-### 3. Wortstellung (Szórendi típusok)
+### C) Wortstellung (Szórendi típusok)
 
 | Artikel                                         | Fachbegriff         | Bedeutung                                                          |
 | ----------------------------------------------- | ------------------- | ------------------------------------------------------------------ |
@@ -76,7 +76,7 @@ tags:
 | <mark style="background: #FF5582A6;">die</mark> | Verberststellung    | ige az első helyen (kérdés, felszólítás)                           |
 | <mark style="background: #FF5582A6;">die</mark> | Verbzweitstellung   | ige a második helyen                                               |
 | <mark style="background: #BBFABBA6;">das</mark> | Vorfeld             | az ige előtti pozíció                                              |
-### 4. Nebensätze – Mellékmondatok típusai
+### D) Nebensätze – Mellékmondatok típusai
 
 | Artikel                                         | Fachbegriff     | Bedeutung                   |
 | ----------------------------------------------- | --------------- | --------------------------- |
@@ -92,7 +92,7 @@ tags:
 | <mark style="background: #ADCCFFA6;">der</mark> | Relativsatz     | vonatkozó mellékmondat      |
 | <mark style="background: #ADCCFFA6;">der</mark> | Temporalsatz    | időhatározói mellékmondat   |
 
-## C) Grammatische Grundbegriffe (Alapvető nyelvtani fogalmak)
+## 3. Grammatische Grundbegriffe (Alapvető nyelvtani fogalmak)
 
 ### A) Genus (Nyelvtani nemek)
 

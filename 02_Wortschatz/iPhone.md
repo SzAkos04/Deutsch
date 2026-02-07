@@ -5,10 +5,9 @@ tags:
 ---
 # iPhone
 
+## 1. Substantive (Főnevek)
 
-## A) Substantive (Főnevek)
-
-### 1. die Einstellungen (Beállítások)
+### A) die Einstellungen (Beállítások)
 
 | Artikel                                         | Substantiv              | Plural   | Bedeutung                    |
 | ----------------------------------------------- | ----------------------- | -------- | ---------------------------- |
@@ -51,7 +50,7 @@ tags:
 | <mark style="background: #BBFABBA6;">das</mark> | **Update**           | -s     | frissítés          |
 | <mark style="background: #FF5582A6;">die</mark> | **Voicemail**        | -s     | hangposta          |
 
-### 2. Die Hardware
+### B) Die Hardware
 
 | Artikel                                         | Substantiv                     | Plural  | Bedeutung               |
 | ----------------------------------------------- | ------------------------------ | ------- | ----------------------- |
@@ -72,7 +71,7 @@ tags:
 | <mark style="background: #ADCCFFA6;">der</mark> | **SIM-Kartenslot**             | -s      | SIM-kártya tálca        |
 | <mark style="background: #FF5582A6;">die</mark> | **Taste**                      | -n      | gomb                    |
 
-### 3. Standard-Apps
+### C) Standard-Apps
 
 | Artikel                                         | Substantiv     | Plural | Bedeutung         |
 | ----------------------------------------------- | -------------- | ------ | ----------------- |
@@ -93,7 +92,7 @@ tags:
 
 ---
 
-## B) Verben (Igék)
+## 2. Verben (Igék)
 
 | Infinitiv                             | Präteritum    | Partizip II         | Bedeutung                  |
 | ------------------------------------- | ------------- | ------------------- | -------------------------- |
@@ -122,7 +121,7 @@ tags:
 
 ---
 
-## C) Adjektive (Melléknevek)
+## 3. Adjektive (Melléknevek)
 
 | Adjektiv                | Bedeutung       | Gegenteil             | Bedeutung |
 | :---------------------- | --------------- | --------------------- | --------- |
@@ -137,9 +136,9 @@ tags:
 
 ---
 
-## D) Wichtige Ausdrücke (Fontos kifejezések)
+## 4. Wichtige Ausdrücke (Fontos kifejezések)
 
-### 1. Akkumulátor és töltés
+### A) Akkumulátor és töltés
 
 - **Mein Akku ist fast leer.** – Majdnem lemerült az akkumulátorom.    
 - **Ich bin bei 10%.** – 10%-on vagyok (az akksi töltöttsége).
@@ -147,14 +146,14 @@ tags:
 - **Hast du ein Ladekabel für mich?** – Van egy töltőkábeled a számomra?
 - **Hast du ein Ladegerät?** – Van egy töltőd?
 
-### 2. Működési problémák
+### B) Működési problémák
 
 - **Das Handy hat sich aufgehängt.** – Lefagyott a telefon.
 - **Die App stürzt ständig ab.** – Az app folyton összeomlik.
 - **Ich habe hier keinen Empfang.** – Itt nincs térerőm.
 - **Das Display reagiert nicht.** – Nem reagál a kijelző.
 
-### 3. Szoftver és internet
+### C) Szoftver és internet
 
 - **Ich bin im WLAN.** – Fent vagyok a Wi-fin.
 - **Mein Datenvolumen ist aufgebraucht.** – Elfogyott a mobilnetem (adatkeretem).
@@ -162,14 +161,14 @@ tags:
 - **Das Gerät ist mit dem WLAN verbunden.** – Az eszköz csatlakozik a Wi-fihez.
 - **"Wie lautet das WLAN-Passwort?"** – Mi a Wi-Fi jelszó?
 
-### 4. Fotózás és Média
+### D) Fotózás és Média
 
 - **Ein Foto machen** – Fotót készíteni.
 - **Das Video aufnehmen** – Videót rögzíteni.
 - **Den Bildschirm teilen** – Megosztani a képernyőt.
 - **Einen Screenshot machen** – Képernyőfotót készíteni.
 
-### 5. Biztonság és védelem
+### E) Biztonság és védelem
 
 - **Das Handy neu starten** – Újraindítani a telefont.
 - **Ich habe meinen Code vergessen.** – Elfelejtettem a kódomat.
@@ -177,28 +176,28 @@ tags:
 - **Gib deinen Code ein.** – Üsd be a kódodat.
 - **Die Face-ID erkennt mich nicht.** – Nem ismer fel a Face-ID.
 
-### 6. Tárhely és iCloud
+### F) Tárhely és iCloud
 
 - **Mein Speicherplatz ist voll.** – Betelt a tárhelyem.
 - **Ich muss ein Backup erstellen.** – Biztonsági mentést kell készítenem.
 - **Die Dateien werden mit der iCloud synchronisiert.** – A fájlok szinkronizálódnak az iCloud-dal.
 - **Speicherplatz verwalten** – Tárhely kezelése.
 
-### 7. Apple Pay és fizetés
+### G) Apple Pay és fizetés
 
 - **Kann ich hier mit Apple Pay bezahlen?** – Fizethetek itt Apple Pay-jel?
 - **Doppelklick zum Bezahlen.** – Kattints duplán a fizetéshez (oldalsó gomb).
 - **Die Karte wurde abgelehnt.** – A kártyát elutasították.
 - **Zahlung bestätigt.** – Fizetés megerősítve.
 
-### 8. Bluetooth és Tartozékok
+### H) Bluetooth és Tartozékok
 
 - **Ich muss meine AirPods koppeln.** – Párosítanom kell az AirPods-omat.
 - **Das Gerät wurde getrennt.** – Az eszköz lecsatlakozott.
 - **Nach Geräten suchen...** – Eszközök keresése...
 - **Ist dein Bluetooth eingeschaltet?** – Be van kapcsolva a Bluetooth-od?
 
-### 9. Appok és Értesítések
+### I) Appok és Értesítések
 
 - **Ich habe eine Mitteilung erhalten.** – Kaptam egy értesítést.
 - **Die App benötigt Zugriff auf meine Fotos.** – Az alkalmazásnak hozzáférésre van szüksége a fotóimhoz.
