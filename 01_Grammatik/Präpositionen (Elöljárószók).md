@@ -43,10 +43,10 @@ Ezek után **mindig** Dativ áll.
 
 Ezek az elöljárók vagy **Akkusativ**-ot, vagy **Dativ**-ot vonzanak, a jelentéstől függően.
 
-|**Kérdés**|**Eset**|**Jelentés**|**Példa**|
-|---|---|---|---|
-|**Wohin?** (Hová?)|**Akkusativ**|Irány, mozgás, változás|_Ich stelle das Glas auf **den** Tisch._|
-|**Wo?** (Hol?)|**Dativ**|Állapot, helyzet, nyugalom|_Das Glas steht auf **dem** Tisch._|
+| **Kérdés**         | **Eset**      | **Jelentés**               | **Példa**                                |
+| ------------------ | ------------- | -------------------------- | ---------------------------------------- |
+| **Wohin?** (Hová?) | **Akkusativ** | Irány, mozgás, változás    | _Ich stelle das Glas auf **den** Tisch._ |
+| **Wo?** (Hol?)     | **Dativ**     | Állapot, helyzet, nyugalom | _Das Glas steht auf **dem** Tisch._      |
 
 ### A 9 váltó elöljáró:
 
@@ -80,9 +80,9 @@ Gyakran az elöljáró és a határozott névelő egybeolvad:
 
 ## 5. Időbeli használat (Temporal)
 
-|**Mikor? (Wann?)**|**Elöljáró**|**Példa**|
-|---|---|---|
-|**Napszakok, napok**|**am** (an + dem)|am Montag, am Morgen (Kivéve: _in der Nacht_)|
-|**Hónapok, évszakok**|**im** (in + dem)|im Mai, im Sommer|
-|**Óra**|**um**|um 15 Uhr|
-|**Évszám**|(semmi vagy _im Jahr_)|2024 / im Jahr 2024|
+| **Mikor? (Wann?)**    | **Elöljáró**           | **Példa**                                     |
+| --------------------- | ---------------------- | --------------------------------------------- |
+| **Napszakok, napok**  | **am** (an + dem)      | am Montag, am Morgen (Kivéve: _in der Nacht_) |
+| **Hónapok, évszakok** | **im** (in + dem)      | im Mai, im Sommer                             |
+| **Óra**               | **um**                 | um 15 Uhr                                     |
+| **Évszám**            | (semmi vagy _im Jahr_) | 2024 / im Jahr 2024                           |

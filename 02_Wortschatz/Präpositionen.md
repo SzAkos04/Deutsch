@@ -106,14 +106,14 @@ Grammatik: "[[Präpositionen (Elöljárószók)]]"
 
 - **Ich gehe heute nicht an die Arbeit.** – Ma nem megyek dolgozni.
 - **Leg das Handy auf den Tisch!** – Tedd a mobilt az asztalra! (fekvő helyzet)
-- **Stell die Blume ins Fenster!** – Állítsd a virágot az ablakba! (_in + das = ins_)
+- **Stell die Blume ins Fenster!** – Állítsd a virágot az ablakba!
 - **Wir setzen uns unter den Baum.** – Leülünk a fa alá.
 - **Häng das Bild an die Wand!** – Akaszd a képet a falra!
 
 ### C) Temporale Ausdrücke (Időbeli használat)
 
-- **Am Morgen trinke ich Kaffee.** – Reggel kávét iszom. (_an + dem_)
-- **In der Nacht schlafe ich.** – Éjszaka alszom. (Kivétel! A többi napszak _am_).
+- **Am Morgen trinke ich Kaffee.** – Reggel kávét iszom.
+- **In der Nacht schlafe ich.** – Éjszaka alszom.
 - **Am Wochenende habe ich Zeit.** – Hétvégén van időm.
 - **Vor der Schule treffe ich Tom.** – Iskola előtt találkozom Tommal.
 - **Nach dem Mittagessen lerne ich.** – Ebéd után tanulok.
