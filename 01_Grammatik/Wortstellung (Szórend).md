@@ -13,23 +13,25 @@ A szórend típusát szinte mindig az határozza meg, hogy a ragozott ige hol á
 
 ## 1. Egyenes szórend (Hauptsatz)
 
-- **Képlet:** `Alany + Ragozott ige + ...’
+- **Képlet:** Alany + Ragozott ige + ...
 - **Példa:** Ich _gehe_ heute ins Kino.
 
-### A "Nulladik" kötőszók (ADUSO)
+### A "Nulladik" kötőszók (_USODA_)
 
 A kötőszó utáni alany az 1. helyen áll, az ige pedig marad a **2. helyen.**
-- **A**ber (de)
-- **D**enn (mert - főmondati!)
-- **U**nd (és)
-- **S**ondern (hanem)
-- **O**der (vagy)
+- **u**nd (és)
+- **s**ondern (hanem)
+- **o**der (vagy)
+- **d**enn, **d**a (mert - főmondati!)
+- **a**ber (de)
+
+> [!TIP] **Jegyezd meg:** *USODA* $\to$ “uszoda”
 
 ---
 
 ## 2. Fordított szórend (Inversion)
 
-- **Képlet:** `Kiemelt mondatrész + Ragozott ige + Alany + ...`
+- **Képlet:** Kiemelt mondatrész + Ragozott ige + Alany + ...
 - **Példa:** Heute _gehe_ ich ins Kino.
 
 ### Kötőszók
@@ -56,7 +58,7 @@ A kérdőszó az 1., a ragozott ige a _2. helyen_ áll.
 ## 4. KATI szórend (Mellékmondati szórend)
 
 Bizonyos kötőszók (pl. _weil,_ _dass,_ _wenn,_ _ob,_ _obwohl_) a mondat *legvégére* kényszerítik a ragozott igét.
-- **Képlet:** `Kötőszó + Alany + ... + Ragozott ige`
+- **Képlet:** Kötőszó + Alany + ... + Ragozott ige
 - **Példa:** Ich bin müde, weil ich viel arbeite.
 
 ---
