@@ -105,7 +105,7 @@ A Futur II-t két esetben használjuk:
 > [!TIP] **A mondat végi sorrend:** A mondat legvégén az **Infinitiv** (_haben_ vagy _sein_) áll, közvetlenül előtte pedig a **Partizip II**. A _werden_ pedig marad a 2. helyen.
 
 **Példák:**
-- _Ich werde es abgeschlossen haben._ (Holnapra már be fogom fejezni.)
+- _Ich werde es bis morgen abgeschlossen haben._ (Holnapra már be fogom fejezni.)
 - _Er wird angekommen sein._ (Valószínűleg már megérkezett. – _Feltételezés_)
 
 ### B) Segédigék választása
