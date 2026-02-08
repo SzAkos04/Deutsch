@@ -10,7 +10,7 @@ Wortschatz: "[[Zeitformen]]"
 
 ### A) Alapszabály
 
-A jelen időt használjuk a **most** történő eseményekre, az **általános igazságokra**, és a németben meglepő módon a **biztos jövőre** is (ha van a mondatban időhatározó, pl. _morgen_).
+A jelen időt használjuk a **most** történő eseményekre, az **általános igazságokra**, és a **biztos jövőre** is (ha van a mondatban időhatározó, pl. _morgen_).
 
 ### B) Ragozás
 
@@ -22,7 +22,7 @@ Lásd: [[Konjugation (Igeragozás)]]
 
 ### A) Alapszabály
 
-A hétköznapi beszédben **90%-ban ezt használjuk,** ha a múltról beszélünk. Két elemből áll, mint egy szendvics: a segédigéből és a múlt idejű alakból.
+A hétköznapi beszédben **90%-ban ezt használjuk,** ha a múltról beszélünk. Két elemből áll: a segédigéből és a múlt idejű alakból.
 
 **Szerkezet:** haben/sein (ragozva) + ... + Partizip II (mondat végén)
 
@@ -82,13 +82,14 @@ Akkor használjuk, ha hangsúlyozni akarjuk a jövőt, vagy ha jóslatot/ígére
 
 ### B) _werden_ ige ragozása
 
-|**Alany**|**werden ragozva**|
-|---|---|
-|**ich**|werde|
-|**du**|wirst|
-|**er/sie/es**|wird|
-|**wir/sie/Sie**|werden|
-|**ihr**|werdet|
+| **Alany**     | **werden ragozva** |
+| ------------- | ------------------ |
+| **ich**       | werde              |
+| **du**        | wirst              |
+| **er/sie/es** | wird               |
+| **wir**       | werden             |
+| **ihr**       | werdet             |
+| **sie/Sie**   | werden             |
 
 ---
 
@@ -102,7 +103,7 @@ A Futur II-t két esetben használjuk:
 
 **Szerkezet:** werden (ragozva) + ... + Partizip II + haben/sein (Infinitiv)
 
-> [!TIP] **A mondat végi sorrend:** A mondat legvégén az **Infinitiv** (_haben_ vagy _sein_) áll, közvetlenül előtte pedig a **Partizip II**. A _werden_ pedig marad a 2. helyen.
+> [!TIP] **A mondat végi sorrend:** A mondat legvégén az **Infinitiv** (_haben_ vagy _sein_) áll, közvetlenül előtte pedig a **Partizip II.** A _werden_ pedig marad a 2. helyen.
 
 **Példák:**
 - _Ich werde es bis morgen abgeschlossen haben._ (Holnapra már be fogom fejezni.)
@@ -117,9 +118,9 @@ Ugyanaz a szabály érvényes, mint a **[[Zeitformen (Igeidők)#B) Segédigék v
 ### C) Gyakori használat a hétköznapokban (Feltételezés)
 
 A németek nagyon szeretik a Futur II-t találgatásra használni a múltra vonatkozóan. Ha látsz egy üres sörösüveget az asztalon, mondhatod:
-- _Er **wird** durstig **gewesen sein**._ (Biztosan szomjas volt.)
+- _Er **wird** durstig **gewesen sein.**_ (Biztosan szomjas volt.)
 
 > [!INFO] **Tipp:** Ha a jövőbeli befejezettséget akarod kifejezni, a németek sokszor helyettesítik a sima **Perfekt**-tel, ha van benne időhatározó:
 > 
-> - _Bis morgen **habe** ich es **fertig gemacht**._ (Holnapra kész vagyok vele.) – Ez sokkal gyakoribb élő szóban, mint a Futur II.
+> - _Bis morgen **habe** ich es **fertig gemacht.**_ (Holnapra kész vagyok vele.) – Ez sokkal gyakoribb élő szóban, mint a Futur II.
 
