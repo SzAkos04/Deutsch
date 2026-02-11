@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Wortschatz/Präpositionen.md",
+                "file": "MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Präpositionen"
+              "title": "MOC"
+            }
+          },
+          {
+            "id": "1dfbfa8f668e1efd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           },
           {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Wortschatz/Präpositionen.md",
+                "file": "MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Präpositionen"
+              "title": "Outline of MOC"
             }
           }
         ],
@@ -228,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,10 +256,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b994ebb02fca3fc",
+  "active": "1dfbfa8f668e1efd",
   "lastOpenFiles": [
-    "01_Grammatik/Präpositionen (Elöljárószók).md",
     "02_Wortschatz/Präpositionen.md",
+    "01_Grammatik/Präpositionen (Elöljárószók).md",
     "01_Grammatik/Wortstellung (Szórend).md",
     "02_Wortschatz/Zeitformen.md",
     "02_Wortschatz/Modalverben.md",

@@ -88,7 +88,7 @@ Grammatik: "[[Präpositionen (Elöljárószók)]]"
 | <mark style="background: #ADCCFFA6;">der</mark> | Vormittag  | -e     | délelőtt  |
 | <mark style="background: #FF5582A6;">die</mark> | Woche      | -n     | hét       |
 | <mark style="background: #BBFABBA6;">das</mark> | Wochenende | -n     | hétvége   |
-| <mark style="background: #FF5582A6;">die</mark> | Zeit       | -n     | idő       |
+| <mark style="background: #FF5582A6;">die</mark> | Zeit       | -en    | idő       |
 
 ---
 
