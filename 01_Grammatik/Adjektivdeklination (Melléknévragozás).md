@@ -8,7 +8,7 @@ Wortschatz: "[[Adjektivdeklination]]"
 
 ## Alapszabály
 
-A németben a melléknév ragozása (a végződése) attól függ, hogy:
+A németben a melléknév ragozása attól függ, hogy:
 1. Milyen **névelő** áll előtte (határozott, határozatlan vagy semmilyen).
 2. Mi a főnév **neme** (hímnem, nőnem, semleges, többes szám).
 3. Milyen **esetben** van a főnév ([[Artikel und Pronomen (Névelők és névmások)#Nyelvtani esetek (Kasus)|Nominativ, Akkusativ, Dativ, Genitiv]]).

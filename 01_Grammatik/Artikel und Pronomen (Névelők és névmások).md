@@ -8,12 +8,12 @@ Wortschatz: "[[Artikel und Pronomen]]"
 
 ## Kasus (Nyelvtani esetek)
 
-|**Kasus (Fall)**|**Ungarische Bezeichnung**|**Fragewort**|
-|---|---|---|
-|**Nominativ**|Alanyeset|Wer? Was? (Ki? Mi?)|
-|**Akkusativ**|Tárgyeset|Wen? Was? (Kit? Mit?)|
-|**Dativ**|Részes eset|Wem? (Kinek? Minek?)|
-|**Genitiv**|Birtokos eset|Wessen? (Kié? Minek a...?)|
+| **Kasus (Fall)** | **Ungarische Bezeichnung** | **Fragewort**              |
+| ---------------- | -------------------------- | -------------------------- |
+| **Nominativ**    | Alanyeset                  | Wer? Was? (Ki? Mi?)        |
+| **Akkusativ**    | Tárgyeset                  | Wen? Was? (Kit? Mit?)      |
+| **Dativ**        | Részes eset                | Wem? (Kinek? Minek?)       |
+| **Genitiv**      | Birtokos eset              | Wessen? (Kié? Minek a...?) |
 
 ---
 
