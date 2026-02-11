@@ -17,11 +17,11 @@ Németül a megszólítás után **mindig vesszőt** teszünk. Ez alapvetően me
 | Típus                      | Német forma                    | Magyar jelentés             |
 | -------------------------- | ------------------------------ | --------------------------- |
 | **Hivatalos (ismeretlen)** | Sehr geehrte Damen und Herren, | Tisztelt Hölgyeim és Uraim! |
-| **Hivatalos (férfi)**      | Sehr geehrter Herr [Név],      | Tisztelt [Név] úr!          |
-| **Hivatalos (nő)**         | Sehr geehrte Frau [Név],       | Tisztelt [Név] asszony!     |
-| **Félhivatalos**           | Guten Tag Herr/Frau [Név],     | Jó napot, [Név] úr/asszony! |
-| **Baráti (férfi)**         | Lieber [Név],                  | Kedves [Név]!               |
-| **Baráti (nő)**            | Liebe [Név],                   | Kedves [Név]!               |
+| **Hivatalos (férfi)**      | Sehr geehrter Herr [Name],     | Tisztelt [Név] úr!          |
+| **Hivatalos (nő)**         | Sehr geehrte Frau [Name],      | Tisztelt [Név] asszony!     |
+| **Félhivatalos**           | Guten Tag Herr/Frau [Name],    | Jó napot, [Név] úr/asszony! |
+| **Baráti (férfi)**         | Lieber [Name],                 | Kedves [Név]!               |
+| **Baráti (nő)**            | Liebe [Name],                  | Kedves [Név]!               |
 
 > [!TIP] **Jegyezd meg:** A hímnemű megszólításnál a melléknév végződése **-er** (_Sehr geehrt**er**_), nőnemnél pedig **-e** (_Sehr geehrt**e**_).
 
@@ -55,17 +55,18 @@ Az elköszönő forma után németül **NEM teszünk vesszőt,** és utána a k�
 
 ### B) Típusok
 
-1. **Hivatalos:** _Mit freundlichen Grüßen_ ()
-2. **Félhivatalos/Gyakori:** _Herzliche Grüße_ / _Beste Grüße_ ()
-3. **Baráti:** _Viele Grüße_ / _Liebe Grüße_ / _Alles Liebe_ ()
-
-Viele Liebe Grüße / **Szívélyes üdvözlettel**  
-Herzliche Grüße/Alles Gute / **A legjobbakat**  
-Ich freue mich, bald von Dir zu hören / **Várom a válaszodat**  
-Bitte grüße … von mir/ **Üdvözöld X-et helyettem is!**  
-Alles Liebe/Szeretettel/ **Sok puszi**  
-Ich liebe Dich!/ **Szeretlek!**  
-Mach’s gut!/ **Vigyázz magadra!**
+1. **Hivatalos** (Üzleti partnernek, hivatalnak):
+    - **Mit freundlichen Grüßen** – Tisztelettel (A standard hivatalos forma).
+    - **Herzliche Grüße** – Szívélyes üdvözlettel.
+    - **Alles Gute** – A legjobbakat.
+2. **Félhivatalos / Gyakori** (Kollégának, ismerősnek):
+    - **Viele liebe Grüße** – Szívélyes üdvözlettel / Sok szeretettel.
+    - **Ich freue mich, bald von Dir zu hören.** – Várom a válaszodat.
+    - **Bitte grüße … von mir.** – Üdvözöld X-et helyettem is!
+3. **Baráti** (Családnak, közeli barátnak, partnernek):
+    - **Alles Liebe** – Szeretettel / Sok puszi.
+    - **Mach’s gut!** – Vigyázz magadra! / Minden jót!
+    - **Ich liebe Dich!** – Szeretlek!
 
 **Példa a szerkezetre:**
 
