@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/Konjunktionen (Kötőszók).md",
-                "mode": "preview",
+                "file": "01_Grammatik/Verben mit Präpositionen (Vonzatos igék).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Konjunktionen (Kötőszók)"
+              "title": "Verben mit Präpositionen (Vonzatos igék)"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md",
+                "file": "01_Grammatik/Verben mit Präpositionen (Vonzatos igék).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC"
+              "title": "Outline of Verben mit Präpositionen (Vonzatos igék)"
             }
           }
         ],
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,9 +217,10 @@
   },
   "active": "348a266f4eb7ef0e",
   "lastOpenFiles": [
+    "01_Grammatik/Konjunktionen (Kötőszók).md",
+    "01_Grammatik/Verben mit Präpositionen (Vonzatos igék).md",
     "01_Grammatik/Präpositionen (Elöljárószók).md",
     "01_Grammatik/Modalverben (Módbeli segédigék).md",
-    "01_Grammatik/Konjunktionen (Kötőszók).md",
     "01_Grammatik/Wortstellung (Szórend).md",
     "01_Grammatik/Konjugation (Igeragozás).md",
     "02_Kommunikation/E-Mail schreiben (E-mail írás).md",
