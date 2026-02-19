@@ -14,6 +14,8 @@ A módbeli segédigék megváltoztatják a mondat értelmét (képességet, akar
 
 > [!TIP] **A mondatkeret:** Képzeld el úgy, mint egy keretet. A segédige kinyitja, a mondat végén a főige bezárja. Közéjük kerül minden más információ. _Ich **kann** heute nicht zum Deutschkurs **gehen**._
 
+---
+
 ## 1. Ragozás (Konjugation)
 
 | Alany         | können   | müssen   | dürfen   | wollen   | sollen   | mögen   | möchte*    |

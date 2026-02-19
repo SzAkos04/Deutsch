@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Kommunikation/E-Mail schreiben (E-mail írás).md",
-                "mode": "source",
+                "file": "01_Grammatik/Konjunktionen (Kötőszók).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E-Mail schreiben (E-mail írás)"
+              "title": "Konjunktionen (Kötőszók)"
             }
           }
         ],
@@ -218,9 +218,13 @@
   },
   "active": "348a266f4eb7ef0e",
   "lastOpenFiles": [
-    "01_Grammatik/Artikel und Pronomen (Névelők és névmások).md",
-    "02_Kommunikation/E-Mail schreiben (E-mail írás).md",
+    "01_Grammatik/Präpositionen (Elöljárószók).md",
+    "01_Grammatik/Modalverben (Módbeli segédigék).md",
+    "01_Grammatik/Konjunktionen (Kötőszók).md",
     "01_Grammatik/Wortstellung (Szórend).md",
+    "01_Grammatik/Konjugation (Igeragozás).md",
+    "02_Kommunikation/E-Mail schreiben (E-mail írás).md",
+    "01_Grammatik/Artikel und Pronomen (Névelők és névmások).md",
     "01_Grammatik/Zeitformen (Igeidők).md",
     "03_Vokabeln/Grammatische Begriffe.md",
     "03_Vokabeln/Grammatik-spezifische/Zeitformen.md",
@@ -231,12 +235,9 @@
     "03_Vokabeln/Grammatik-spezifische/Artikel und Pronomen.md",
     "03_Vokabeln/Grammatik-spezifische/Adjektivdeklination.md",
     "02_Kommunikation",
-    "01_Grammatik/Präpositionen (Elöljárószók).md",
     "01_Grammatik/Adjektivdeklination (Melléknévragozás).md",
     "03_Vokabeln/Grammatik-spezifische/Präpositionen.md",
     "03_Vokabeln/Grammatik-spezifische/Modalverben.md",
-    "01_Grammatik/Modalverben (Módbeli segédigék).md",
-    "01_Grammatik/Konjugation (Igeragozás).md",
     "02_Wortschatz/Wortstellung.md",
     "01_Grammatik/_Grammatik MOC.md",
     "Elöljárószók.md",
