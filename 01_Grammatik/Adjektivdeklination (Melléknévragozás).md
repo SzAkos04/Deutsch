@@ -19,12 +19,12 @@ A németben a melléknév ragozása attól függ, hogy:
 
 Akkor használjuk, ha a melléknév előtt **der, die, das** (vagy _dieser,_ _jeder,_ _welcher,_ _mancher_) áll. Mivel a névelő már pontosan megmutatja az esetet, a melléknévnek csak "gyenge" végződés kell (**-e** vagy **-en**).
 
-| **Eset** | **Hímnem (m)** | **Nőnem (f)** | **Semleges (n)** | **Többes (Pl.)** |
-| -------- | -------------- | ------------- | ---------------- | ---------------- |
-| **Nom.** | der gut**e**   | die gut**e**  | das gut**e**     | die gut**en**    |
-| **Akk.** | den gut**en**  | die gut**e**  | das gut**e**     | die gut**en**    |
-| **Dat.** | dem gut**en**  | der gut**en** | dem gut**en**    | den gut**en**    |
-| **Gen.** | des gut**en**  | der gut**en** | des gut**en**    | der gut**en**    |
+| das Kasus | Maskulin      | Feminin       | Neutrum       | Plural        |
+| --------- | ------------- | ------------- | ------------- | ------------- |
+| **Nom.**  | der gut**e**  | die gut**e**  | das gut**e**  | die gut**en** |
+| **Akk.**  | den gut**en** | die gut**e**  | das gut**e**  | die gut**en** |
+| **Dat.**  | dem gut**en** | der gut**en** | dem gut**en** | den gut**en** |
+| **Gen.**  | des gut**en** | der gut**en** | des gut**en** | der gut**en** |
 
 > [!TIP] **Jegyezd meg: A "Papucs" szabály.** Nominativban (és nőnem/semleges Akkusativban) a végződés **-e**, mindenhol máshol **-en**.
 
@@ -39,12 +39,12 @@ Akkor használjuk, ha a melléknév előtt **der, die, das** (vagy _dieser,_ _je
 
 Akkor használjuk, ha a melléknév előtt **ein, eine, kein** vagy **birtokos névmások** ([[Artikel und Pronomen (Névelők és névmások)#III. Birtokos névmások (Possessivpronomen)|mein, dein, sein...]]) állnak.
 
-|**Eset**|**Hímnem (m)**|**Nőnem (f)**|**Semleges (n)**|**Többes (Pl.)**|
-|---|---|---|---|---|
-|**Nom.**|ein gut**er**|eine gut**e**|ein gut**es**|meine gut**en**|
-|**Akk.**|einen gut**en**|eine gut**e**|ein gut**es**|meine gut**en**|
-|**Dat.**|einem gut**en**|einer gut**en**|einem gut**en**|meinen gut**en**|
-|**Gen.**|eines gut**en**|einer gut**en**|eines gut**en**|meiner gut**en**|
+| das Kasus | Maskulin        | Feminin         | Neutrum         | Plural           |
+| --------- | --------------- | --------------- | --------------- | ---------------- |
+| **Nom.**  | ein gut**er**   | eine gut**e**   | ein gut**es**   | meine gut**en**  |
+| **Akk.**  | einen gut**en** | eine gut**e**   | ein gut**es**   | meine gut**en**  |
+| **Dat.**  | einem gut**en** | einer gut**en** | einem gut**en** | meinen gut**en** |
+| **Gen.**  | eines gut**en** | einer gut**en** | eines gut**en** | meiner gut**en** |
 
 > [!INFO] **Határozatlan névelőnek** (_ein_/_eine_) nincs többes száma.
 
@@ -62,12 +62,12 @@ Akkor használjuk, ha **nincs névelő** a melléknév előtt (pl. anyagnevek, a
 
 **Fontos kivétel:** Hímnem és semleges nem **Genitivben** a végződés **-en**, mert a főnév -(e)s ragja már jelzi az esetet!
 
-| **Eset** | **Hímnem (m)** | **Nőnem (f)** | **Semleges (n)** | **Többes (Pl.)** |
-| -------- | -------------- | ------------- | ---------------- | ---------------- |
-| **Nom.** | -**er**        | -**e**        | -**es**          | -**e**           |
-| **Akk.** | -**en**        | -**e**        | -**es**          | -**e**           |
-| **Dat.** | -**em**        | -**er**       | -**em**          | -**en**          |
-| **Gen.** | -**en** (!)    | -**er**       | -**en** (!)      | -**er**          |
+| das Kasus | Maskulin    | Feminin | Neutrum     | Plural  |
+| --------- | ----------- | ------- | ----------- | ------- |
+| **Nom.**  | -**er**     | -**e**  | -**es**     | -**e**  |
+| **Akk.**  | -**en**     | -**e**  | -**es**     | -**e**  |
+| **Dat.**  | -**em**     | -**er** | -**em**     | -**en** |
+| **Gen.**  | -**en** (!) | -**er** | -**en** (!) | -**er** |
 
 **Példák:**
 - _Ich trinke gern kalt**es** Bier._ (Szívesen iszom hideg sört. – Akkusativ, semleges)

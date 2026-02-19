@@ -28,7 +28,7 @@ Ezek a leggyakoribb vonzatok. A legtöbb "várakozással", "gondolkodással" vag
 
 ## 2. Igék részesesettel (+ Dativ)
 
-Ezeknél az igéknél az elöljárószó után az alany részesesetbe kerül (der → dem, die → der, das → dem, die (Pl.) → den ...-n).
+Ezeknél az igéknél az elöljárószó után az alany [[Artikel und Pronomen (Névelők és névmások)#1. Artikel (Névelők)|részesesetbe]] kerül.
 
 - **Legfontosabbak:**
     - **träumen von** + DAT (álmodni valakiről/valamiről)
@@ -61,24 +61,13 @@ Amikor vonzatos igével kérdezünk, vagy arra utalunk vissza, nem mindegy, hogy
 
 ## 4. Összefoglaló példatáblázat
 
-|**Ige**|**Vonzat**|**Eset**|**Példa**|
-|---|---|---|---|
-|**warten**|**auf**|Akkusativ|Ich warte **auf den** Brief.|
-|**denken**|**an**|Akkusativ|Er denkt **an seine** Mutter.|
-|**sprechen**|**über**|Akkusativ|Wir sprechen **über den** Film.|
-|**sprechen**|**mit**|Dativ|Ich spreche **mit dem** Lehrer.|
-|**angst haben**|**vor**|Dativ|Sie hat Angst **vor dem** Hund.|
-|**träumen**|**von**|Dativ|Ich träume **von dir**.|
-
----
-
-## 5. sich freuen
-
-Az elöljárószó megváltoztatja a jelentést!
-
-- **sich freuen AUF + Akk:** Valami olyasminek örülsz, ami még nem történt meg (pl. ajándék, nyaralás).
-    - _Példa:_ Ich freue mich **auf die** Party. (Várom a bulit / Előre örülök neki.)
-- **sich freuen ÜBER + Akk:** Valaminek örülsz, ami már megtörtént vagy most van.
-    - _Példa:_ Ich freue mich **über das** Geschenk. (Örülök az ajándéknak - már a kezemben van.)
+| das Verb        | die Rektion | der Kasus | das Beispiel                    |
+| --------------- | ----------- | --------- | ------------------------------- |
+| **warten**      | **auf**     | Akkusativ | Ich warte **auf den** Brief.    |
+| **denken**      | **an**      | Akkusativ | Er denkt **an seine** Mutter.   |
+| **sprechen**    | **über**    | Akkusativ | Wir sprechen **über den** Film. |
+| **sprechen**    | **mit**     | Dativ     | Ich spreche **mit dem** Lehrer. |
+| **angst haben** | **vor**     | Dativ     | Sie hat Angst **vor dem** Hund. |
+| **träumen**     | **von**     | Dativ     | Ich träume **von dir**.         |
 
 > [!TIP] **Jegyezd meg:** Ha az elöljárószó magánhangzóval kezdődik (pl. _an, auf, über_), a kérdőszó és a visszautaló szó kap egy kötő **"-r-"** betűt: _Wo**r**auf? Da**r**an!_

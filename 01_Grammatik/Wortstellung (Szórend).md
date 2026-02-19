@@ -111,9 +111,9 @@ KATI szórendnél az igekötő és az ige **összeolvad** a mondat végén.
 
 ---
 
-| **Típus**              | **1. pozíció**   | **2. pozíció**             | **Mondat vége**                        |
-| ---------------------- | ---------------- | -------------------------- | -------------------------------------- |
-| **Egyenes**            | Alany            | **Ragozott ige**           | Egyéb                                  |
-| **Kérdő (Eldöntendő)** | **Ragozott ige** | Alany                      | Egyéb                                  |
-| **KATI**               | Kötőszó          | Alany                      | **Ragozott ige**                       |
-| **Ige-keret**          | Alany            | **Segédige/Ragozott rész** | **Főnévi igenév / Partizip / Igekötő** |
+| **der Typ**                    | **Position 1**        | **Position 2**                       | **Satzende (Mondat vége)**    |
+| ------------------------------ | --------------------- | ------------------------------------ | ----------------------------- |
+| **Gerader Satz** (Egyenes)     | das Subjekt           | das konjugiertes Verb                | der Rest (Egyéb)              |
+| **Ja/Nein-Frage** (Eldöntendő) | das konjugiertes Verb | das Subjekt                          | der Rest                      |
+| **Nebensatz** (KATI)           | die Konjunktion       | das Subjekt                          | das konjugiertes Verb         |
+| **Satzklammer** (Ige-keret)    | das Subjekt           | das Hilfsverb / der konjugierte Teil | Infinitiv / Partizip / Präfix |

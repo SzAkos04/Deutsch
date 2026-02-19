@@ -18,7 +18,7 @@ A módbeli segédigék megváltoztatják a mondat értelmét (képességet, akar
 
 ## 1. Ragozás (Konjugation)
 
-| Alany         | können   | müssen   | dürfen   | wollen   | sollen   | mögen   | möchte*    |
+| das Subjekt   | können   | müssen   | dürfen   | wollen   | sollen   | mögen   | möchte*    |
 | ------------- | -------- | -------- | -------- | -------- | -------- | ------- | ---------- |
 | **ich**       | kann     | muss     | darf     | will     | soll     | mag     | möchte     |
 | **du**        | kannst   | musst    | darfst   | willst   | sollst   | magst   | möchtest   |

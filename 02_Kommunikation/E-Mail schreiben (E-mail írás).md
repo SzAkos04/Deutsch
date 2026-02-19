@@ -14,7 +14,7 @@ Németül a megszólítás után **mindig vesszőt** teszünk. Ez alapvetően me
 
 ### B) Formák és stílusok
 
-| Típus                      | Német forma                    | Magyar jelentés             |
+| der Typ                    | die deutsche Form              | die Bedeutung               |
 | -------------------------- | ------------------------------ | --------------------------- |
 | **Hivatalos (ismeretlen)** | Sehr geehrte Damen und Herren, | Tisztelt Hölgyeim és Uraim! |
 | **Hivatalos (férfi)**      | Sehr geehrter Herr [Name],     | Tisztelt [Név] úr!          |
@@ -84,11 +84,11 @@ Hivatalos levélben az önözést (_Sie, Ihr, Ihnen_) **mindig nagybetűvel** í
 
 ### B) Esetek és alakok
 
-| **Kasus (Fall)** | Pronomen | Bedeutung        |
-| ---------------- | -------- | ---------------- |
-| **Nominativ**    | Sie      | Ön(ök)           |
-| **Akkusativ**    | Sie      | Ön(öke)t         |
-| **Dativ**        | Ihnen    | Ön(ök)nek        |
-| **Genitiv**      | Ihr(e)   | Az Ön(ök) ...-ja |
+| das Kasus     | das Personalpronomen | die Bedeutung    |
+| ------------- | -------------------- | ---------------- |
+| **Nominativ** | Sie                  | Ön(ök)           |
+| **Akkusativ** | Sie                  | Ön(öke)t         |
+| **Dativ**     | Ihnen                | Ön(ök)nek        |
+| **Genitiv**   | Ihr(e)               | Az Ön(ök) ...-ja |
 
 lásd: [[Artikel und Pronomen (Névelők és névmások)]]

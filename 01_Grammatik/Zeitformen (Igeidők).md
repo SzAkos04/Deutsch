@@ -59,7 +59,7 @@ Főleg írásban (mesék, újságok) használjuk. Beszédben csak a leggyakoribb
 
 ### B) Legfontosabb Präteritum alakok
 
-| Alany         | sein (volt) | haben (volt valamije) | können (tudott) |
+| das Subjekt   | sein (volt) | haben (volt valamije) | können (tudott) |
 | ------------- | ----------- | --------------------- | --------------- |
 | **ich**       | war         | hatte                 | konnte          |
 | **du**        | warst       | hattest               | konntest        |
@@ -82,14 +82,14 @@ Akkor használjuk, ha hangsúlyozni akarjuk a jövőt, vagy ha jóslatot/ígére
 
 ### B) _werden_ ige ragozása
 
-| **Alany**     | **werden ragozva** |
-| ------------- | ------------------ |
-| **ich**       | werde              |
-| **du**        | wirst              |
-| **er/sie/es** | wird               |
-| **wir**       | werden             |
-| **ihr**       | werdet             |
-| **sie/Sie**   | werden             |
+| das Subjekt   | die konjugierte Form |
+| ------------- | -------------------- |
+| **ich**       | werde                |
+| **du**        | wirst                |
+| **er/sie/es** | wird                 |
+| **wir**       | werden               |
+| **ihr**       | werdet               |
+| **sie/Sie**   | werden               |
 
 ---
 

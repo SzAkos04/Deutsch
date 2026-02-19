@@ -12,14 +12,14 @@ A legtöbb német ige így ragozódik. Az `-en` végződést levágjuk, és a ma
 
 **Példa:** lernen (tanulni) $\to$ lern-
 
-| **Személy**         | **Rag** | **Példa**           |
-| ------------------- | ------- | ------------------- |
-| **ich** (én)        | **-e**  | ich lern**e**       |
-| **du** (te)         | **-st** | du lern**st**       |
-| **er/sie/es** (ő)   | **-t**  | er/sie/es lern**t** |
-| **wir** (mi)        | **-en** | wir lern**en**      |
-| **ihr** (ti)        | **-t**  | ihr lern**t**       |
-| **sie/Sie** (ők/Ön) | **-en** | sie/Sie lern**en**  |
+| das Personalpronomen | die Endung | das Beispiel        |
+| -------------------- | ---------- | ------------------- |
+| **ich** (én)         | **-e**     | ich lern**e**       |
+| **du** (te)          | **-st**    | du lern**st**       |
+| **er/sie/es** (ő)    | **-t**     | er/sie/es lern**t** |
+| **wir** (mi)         | **-en**    | wir lern**en**      |
+| **ihr** (ti)         | **-t**     | ihr lern**t**       |
+| **sie/Sie** (ők/Ön)  | **-en**    | sie/Sie lern**en**  |
 
 ---
 
@@ -31,38 +31,38 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 
 **Példa:** helfen (segíteni)
 
-| **Személy**         | **Példa**      |
-| ------------------- | -------------- |
-| **ich** (én)        | ich helfe      |
-| **du** (te)         | du h**i**lfst  |
-| **er/sie/es** (ő)   | er h**i**lft   |
-| **wir** (mi)        | wir helfen     |
-| **ihr** (ti)        | ihr helft      |
-| **sie/Sie** (ők/Ön) | sie/Sie helfen |
+| das Personalpronomen | das Beispiel   |
+| -------------------- | -------------- |
+| **ich** (én)         | ich helfe      |
+| **du** (te)          | du h**i**lfst  |
+| **er/sie/es** (ő)    | er h**i**lft   |
+| **wir** (mi)         | wir helfen     |
+| **ihr** (ti)         | ihr helft      |
+| **sie/Sie** (ők/Ön)  | sie/Sie helfen |
 
 **Példa:** lesen (olvasni)
 
-| **Személy**         | **Példa**     |
-| ------------------- | ------------- |
-| **ich** (én)        | ich lese      |
-| **du** (te)         | du l**ie**st  |
-| **er/sie/es** (ő)   | er l**ie**st  |
-| **wir** (mi)        | wir lesen     |
-| **ihr** (ti)        | ihr lest      |
-| **sie/Sie** (ők/Ön) | sie/Sie lesen |
+| das Personalpronomen | das Beispiel  |
+| -------------------- | ------------- |
+| **ich** (én)         | ich lese      |
+| **du** (te)          | du l**ie**st  |
+| **er/sie/es** (ő)    | er l**ie**st  |
+| **wir** (mi)         | wir lesen     |
+| **ihr** (ti)         | ihr lest      |
+| **sie/Sie** (ők/Ön)  | sie/Sie lesen |
 
 ### B) a $\to$ ä
 
 **Példa:** fahren (utazni)
 
-| **Személy**         | **Példa**      |
-| ------------------- | -------------- |
-| **ich** (én)        | ich fahre      |
-| **du** (te)         | du f**ä**hrst  |
-| **er/sie/es** (ő)   | er f**ä**hrt   |
-| **wir** (mi)        | wir fahren     |
-| **ihr** (ti)        | ihr fahrt      |
-| **sie/Sie** (ők/Ön) | sie/Sie fahren |
+| das Personalpronomen | das Beispiel   |
+| -------------------- | -------------- |
+| **ich** (én)         | ich fahre      |
+| **du** (te)          | du f**ä**hrst  |
+| **er/sie/es** (ő)    | er f**ä**hrt   |
+| **wir** (mi)         | wir fahren     |
+| **ihr** (ti)         | ihr fahrt      |
+| **sie/Sie** (ők/Ön)  | sie/Sie fahren |
 
 ---
 
@@ -70,14 +70,14 @@ Vannak igék, amiknél az **E/2.** és **E/3.** személyben megváltozik a tőha
 
 A _sein_ (lenni) és a _haben_ (birtokolni) igék teljesen rendhagyóak.
 
-| **Személy**   | **sein** (lenni) | **haben** (birtokolni) |
-| ------------- | ---------------- | ---------------------- |
-| **ich**       | bin              | habe                   |
-| **du**        | bist             | hast                   |
-| **er/sie/es** | ist              | hat                    |
-| **wir**       | sind             | haben                  |
-| **ihr**       | seid             | habt                   |
-| **sie/Sie**   | sind             | haben                  |
+| das Personalpronomen | **sein** (lenni) | **haben** (birtokolni) |
+| -------------------- | ---------------- | ---------------------- |
+| **ich**              | bin              | habe                   |
+| **du**               | bist             | hast                   |
+| **er/sie/es**        | ist              | hat                    |
+| **wir**              | sind             | haben                  |
+| **ihr**              | seid             | habt                   |
+| **sie/Sie**          | sind             | haben                  |
 
 ---
 

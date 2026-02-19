@@ -43,7 +43,7 @@ Ezek után **mindig** Dativ áll.
 
 Ezek az elöljárók vagy **Akkusativ**-ot, vagy **Dativ**-ot vonzanak, a jelentéstől függően.
 
-| **Kérdés**         | **Eset**      | **Jelentés**               | **Példa**                                |
+| die Frage          | der Kasus     | die Bedeutung              | das Beispiel                             |
 | ------------------ | ------------- | -------------------------- | ---------------------------------------- |
 | **Wohin?** (Hová?) | **Akkusativ** | Irány, mozgás, változás    | _Ich stelle das Glas auf **den** Tisch._ |
 | **Wo?** (Hol?)     | **Dativ**     | Állapot, helyzet, nyugalom | _Das Glas steht auf **dem** Tisch._      |
@@ -80,7 +80,7 @@ Gyakran az elöljáró és a határozott névelő egybeolvad:
 
 ## 5. Időbeli használat (Temporal)
 
-| **Mikor? (Wann?)**    | **Elöljáró**           | **Példa**                                     |
+| **Wann?**             | die **Präposition**    | das **Beispiel**                              |
 | --------------------- | ---------------------- | --------------------------------------------- |
 | **Napszakok, napok**  | **am** (an + dem)      | am Montag, am Morgen (Kivéve: _in der Nacht_) |
 | **Hónapok, évszakok** | **im** (in + dem)      | im Mai, im Sommer                             |

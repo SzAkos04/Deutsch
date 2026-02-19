@@ -66,14 +66,14 @@ Ezek a kötőszók mellékmondatot indítanak, ahol a ragozott ige a **mondat le
 
 ## 4. Páros kötőszók (Doppelkonjunktionen)
 
-|**Kötőszó pár**|**Jelentése**|**Szórendi hatás**|
-|---|---|---|
-|**entweder ... oder**|vagy ... vagy|**0. hely** (mint az USODA)|
-|**nicht nur ... sondern auch**|nemcsak ... hanem is|**0. hely** (mint az USODA)|
-|**sowohl ... als auch**|is ... is|Felsorolás (nincs mondat-szórendi hatása)|
-|**weder ... noch**|sem ... sem|**Fordított** (a _noch_ után rögtön jön az ige!)|
-|**zwar ... aber**|ugyan ... de|**0. hely** (az _aber_ miatt)|
-|**je ... desto / umso**|minél ... annál|**KATI + Fordított** (Speciális!)|
+| das Konjunktion-Paar           | die Bedeutung        | die Wortfolge (Szórendi hatás)                  |
+| ------------------------------ | -------------------- | ----------------------------------------------- |
+| **entweder ... oder**          | vagy ... vagy        | **Position 0** (wie USODA)                      |
+| **nicht nur ... sondern auch** | nemcsak ... hanem is | **Position 0** (wie USODA)                      |
+| **sowohl ... als auch**        | is ... is            | Aufzählung (nincs hatása)                       |
+| **weder ... noch**             | sem ... sem          | **Inversion** (fordított szórend a _noch_ után) |
+| **zwar ... aber**              | ugyan ... de         | **Position 0** (wegen _aber_)                   |
+| **je ... desto / umso**        | minél ... annál      | **Nebensatz (KATI) + Inversion**                |
 
 ### Részletes példák és szabályok
 
@@ -114,8 +114,8 @@ Ez a legnehezebb páros kötőszó, mert két különböző szabályt ötvöz. A
 
 ## Összefoglaló táblázat
 
-| **Típus**     | **Pozíció** | **Hatás az igére**          | **Példa**                         |
-| ------------- | ----------- | --------------------------- | --------------------------------- |
-| **USODA**     | 0.          | Marad a 2. helyen           | ..., **aber** ich _habe_ Zeit.    |
-| **Fordított** | 1.          | Rögtön az ige jön (1. hely) | ..., **deshalb** _habe_ ich Zeit. |
-| **KATI**      | Kötő        | Az ige a mondat végére megy | ..., **weil** ich Zeit _habe_.    |
+| der Typ       | die Position        | der Effekt auf das Verb                                  | das Beispiel                        |
+| ------------- | ------------------- | -------------------------------------------------------- | ----------------------------------- |
+| **USODA**     | **0.**              | bleibt auf **Position 2**                                | ..., **aber** ich **habe** Zeit.    |
+| **Inversion** | **1.**              | das Verb kommt auf **Position 2** (direkt nach dem Wort) | ..., **deshalb** **habe** ich Zeit. |
+| **Nebensatz** | **die Konjunktion** | das Verb geht ans **Ende**                               | ..., **weil** ich Zeit **habe**.    |
