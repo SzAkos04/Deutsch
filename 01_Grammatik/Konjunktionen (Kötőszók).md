@@ -83,7 +83,7 @@ Ezeknél a második tag (oder, sondern, aber) úgy viselkedik, mint az **USODA**
 - **Entweder ... oder:**
     - _Példa:_ **Entweder** gehen wir ins Kino, **oder** wir **bleiben** zu Hause.
 - **Nicht nur ... sondern auch:**
-    - _Példa:_ Er ist **nicht nur** nett, **sondern** er **_hilft_** **auch** immer mindenem.
+    - _Példa:_ Er ist **nicht nur** nett, **sondern** er **_hilft_** **auch** immer.
 - **Zwar ... aber:**
     - _Példa:_ Es ist **zwar** teuer, **aber** ich **_kaufe_** es.
 
