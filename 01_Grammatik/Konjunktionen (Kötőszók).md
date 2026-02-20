@@ -7,115 +7,122 @@ tags:
 
 ## Alapszabály
 
-A németben a kötőszókat három nagy csoportra osztjuk aszerint, hogy mit művelnek a mondat szórendjével (azaz hova kerül miattuk a ragozott ige).
+A németben a kötőszókat három nagy csoportra osztjuk aszerint, hogy milyen hatással vannak a mondat szórendjére (azaz hova kerül miattuk a ragozott ige).
 
 ---
 
-## 1. A "Nulladik" hely (USODA)
+## 1. Mellérendelő kötőszók – “USODA” (Position 0)
 
-Ezek a kötőszók két főmondatot kötnek össze, de **nem foglalnak el helyet** a mondatban. Utánuk egyenes szórend következik.
+Ezek a kötőszók két főmondatot kötnek össze, és nem okoznak szórendi változást. A ragozott ige marad a 2. pozícióban.
 
-- **Képlet:** [Főmondat] + **Kötőszó (0)** + Alany (1) + Ragozott ige (2) + ...
+- **Képlet:** [Főmondat], + Kötőszó + Alany + Ragozott ige + …
 - **Kötőszók:**
-    - **u**nd (és)
-    - **s**ondern (hanem)
-    - **o**der (vagy)
-    - **d**enn (mert - _főmondati!_)
-    - **a**ber (de)
-- **Példa:** Ich lerne Deutsch, **denn** ich _will_ in Berlin arbeiten.
+	- **u**nd (és)
+	- **s**ondern (hanem)
+	- **o**der (vagy)
+	- **d**enn (mert – főmondati!)
+	- **a**ber (de)
+- **Példa:** Ich lerne Deutsch, denn ich will in Berlin arbeiten.
 
-> [!TIP] **Jegyezd meg:** *USODA* $\to$ “uszoda”
-
----
-
-## 2. Kötőszók fordított szórenddel (Adverbiale Konjunktionen)
-
-Ezek a kötőszók valójában határozószók, ezért elfoglalják az **1. helyet**. Emiatt a ragozott ige rögtön utánuk jön (inverzió).
-
-- **Képlet:** [Főmondat] + **Kötőszó (1)** + Ragozott ige (2) + Alany (3) + ...
-- **Legfontosabbak:**
-    - _deshalb / darum / deswegen_ (ezért)
-    - _trotzdem_ (ennek ellenére)
-    - _sonst_ (különben)
-    - _dann_ (aztán, akkor)
-    - _außerdem_ (ezenkívül)
-- **Példa:** Es regnet, **trotzdem** _gehen_ wir spazieren.
+> [!TIP] **Jegyezd meg:** **USODA** $\to$ nincs szórendi hatás
 
 ---
 
-## 3. A KATI-szórend (Alárendelő kötőszók)
+## 2. Konjunktionaladverbien (Inverzió / Position 1)
 
-Ezek a kötőszók mellékmondatot indítanak, ahol a ragozott ige a **mondat legvégére** küldik.
+Ezek nem valódi kötőszók, hanem határozószók. Elfoglalják az 1. pozíciót, ezért a ragozott ige közvetlenül utánuk következik (inverzió).
 
-- **Képlet:** **Kötőszó** + Alany + ... + **Ragozott ige**.
+- **Képlet:** [Főmondat], + Kötőszó + Ragozott ige + Alany + …
 - **Legfontosabbak:**
-    - _weil_ (mert), _da_ (mivel)
-    - _dass_ (hogy)
-    - _wenn_ (ha, amikor - jelen/ismétlődő múlt)
-    - _als_ (amikor - egyszeri múlt)
-    - _ob_ (vajon - eldöntendő kérdésnél)
-    - _obwohl_ (bár, ámbár)
-    - _damit_ (azért, hogy - célhatározó)
-- **Példa:** Ich gehe ins Bett, **weil** ich müde _bin_.
+	- deshalb / darum / deswegen (ezért)
+	- trotzdem (ennek ellenére)
+	- sonst (különben)
+	- dann (aztán, akkor)
+	- außerdem (ezenkívül)
+- **Példa:** Es regnet, trotzdem gehen wir spazieren.
 
-> [!CAUTION] **Vigyázz:** Ha a mondatot a KATI-s tagmondattal kezded, a főmondat fordított szórenddel indul (Vessző után rögtön az ige!).
+---
+
+## 3. Alárendelő kötőszók – “KATI” (Ige a végén)
+
+Ezek mellékmondatot indítanak, ahol a ragozott ige a mondat végére kerül.
+- **Képlet:** [Főmondat], + Kötőszó + Alany + … + Ragozott ige
+- **Legfontosabbak:**
+	- weil (mert), da (mivel)
+	- dass (hogy)
+	- wenn (ha / amikor – jelen vagy ismétlődő múlt)
+	- als (amikor – egyszeri múlt)
+	- ob (vajon)
+	- obwohl (bár)
+	- damit (azért, hogy)
+- **Példa:** Ich gehe ins Bett, weil ich müde bin.
+
+> [!CAUTION] Ha a mondat mellékmondattal kezdődik, a főmondatban inverzió lesz:
 > 
-> **Példa:** Weil ich müde bin, **gehe** ich ins Bett.
+> Weil ich müde bin, gehe ich ins Bett.
 
 ---
 
 ## 4. Páros kötőszók (Doppelkonjunktionen)
 
-| das Konjunktion-Paar           | die Bedeutung        | die Wortfolge (Szórendi hatás)                  |
-| ------------------------------ | -------------------- | ----------------------------------------------- |
-| **entweder ... oder**          | vagy ... vagy        | **Position 0** (wie USODA)                      |
-| **nicht nur ... sondern auch** | nemcsak ... hanem is | **Position 0** (wie USODA)                      |
-| **sowohl ... als auch**        | is ... is            | Aufzählung (nincs hatása)                       |
-| **weder ... noch**             | sem ... sem          | **Inversion** (fordított szórend a _noch_ után) |
-| **zwar ... aber**              | ugyan ... de         | **Position 0** (wegen _aber_)                   |
-| **je ... desto / umso**        | minél ... annál      | **Nebensatz (KATI) + Inversion**                |
+| Szerkezet                  | Jelentés           | Szórendi hatás  |
+| -------------------------- | ------------------ | --------------- |
+| entweder … oder            | vagy … vagy        | nincs változás  |
+| nicht nur … sondern (auch) | nemcsak … hanem is | nincs változás  |
+| sowohl … als auch          | is … is            | nincs változás  |
+| weder … noch               | sem … sem          | speciális       |
+| zwar … aber                | ugyan … de         | nincs változás  |
+| je … desto / umso          | minél … annál      | KATI + inverzió |
 
-### Részletes példák és szabályok
+### A) Egyenes szórendű párok
 
-#### A) Egyenes szórend
+A második tag (oder, sondern, aber) úgy viselkedik, mint az USODA kötőszók.
+- **Entweder … oder**
+	- Entweder gehen wir ins Kino, oder wir bleiben zu Hause.
+- **Nicht nur … sondern (auch)**
+	- Er ist nicht nur nett, sondern er hilft auch immer.
+- **Zwar … aber**
+	- Es ist zwar teuer, aber ich kaufe es.
 
-Ezeknél a második tag (oder, sondern, aber) úgy viselkedik, mint az **USODA** tagjai.
-- **Entweder ... oder:**
-    - _Példa:_ **Entweder** gehen wir ins Kino, **oder** wir **bleiben** zu Hause.
-- **Nicht nur ... sondern auch:**
-    - _Példa:_ Er ist **nicht nur** nett, **sondern** er **_hilft_** **auch** immer.
-- **Zwar ... aber:**
-    - _Példa:_ Es ist **zwar** teuer, **aber** ich **_kaufe_** es.
+### B) Weder … noch – fontos pontosítás
 
-#### B) Fordított szórend
+A szórend a szerkezet típusától függ.
 
-A **noch** szócska a mondat 1. helyét foglalja el, ezért utána "beugrik" az ige az alany elé.
-- **Weder ... noch:**
-    - _Példa:_ Ich rauche nicht. Ich trinke keinen Alkohol. → Ich rauche **weder**, **noch trinke** ich Alkohol. (Sem nem dohányzom, sem nem iszom alkoholt.)
+- Mondatrészek között (leggyakoribb) $\to$ nincs inverzió
+	- Ich trinke weder Kaffee noch Tee.
+	- Er hat weder Zeit noch Lust.
+- Tagmondatok között $\to$ gyakran inverzió a második részben
+	- Ich rauche nicht. Ich trinke nicht.
+	- Ich rauche weder, noch trinke ich Alkohol.
 
-#### C) A "Felsoroló" (Mondatrészek között)
+> [!INFO] Az inverzió oka: a noch az első pozícióba kerül.
 
-Itt általában nem két mondatot, hanem csak két szót (főnevet, melléknevet) kötünk össze.
-- **Sowohl ... als auch:**
-    - _Példa:_ Ich spreche **sowohl** Deutsch **als auch** Englisch.
+### C) Felsoroló szerkezet
 
----
-
-## 5. A "Főellenség": Je ... desto (Minél... annál...)
-
-Ez a legnehezebb páros kötőszó, mert két különböző szabályt ötvöz. A mondat első fele **KATI**, a második fele **Fordított** szórendet kap.
-
-- **Képlet:** **Je** + _melléknév középfok_ + **ALANY** + ... + **IGE**, **desto** + _melléknév középfok_ + **IGE** + **ALANY**.
-- **Példa:** **Je** mehr ich **lerne**, **desto** klüger **werde** ich. _(Minél többet tanulok, annál okosabb leszek.)_
-
-> [!TIP] **Jegyezd meg:** A **Je**-s rész mindig mellékmondat (ige a végén), a **desto**-s rész után pedig rögtön jön az ige, mert a _desto + melléknév_ együtt foglalja el az 1. pozíciót.
+- **Sowohl … als auch**  
+	- Ich spreche sowohl Deutsch als auch Englisch.
 
 ---
 
-## Összefoglaló táblázat
+## 5. Je … desto / umso (Minél … annál …)
 
-| der Typ       | die Position        | der Effekt auf das Verb                                  | das Beispiel                        |
-| ------------- | ------------------- | -------------------------------------------------------- | ----------------------------------- |
-| **USODA**     | **0.**              | bleibt auf **Position 2**                                | ..., **aber** ich **habe** Zeit.    |
-| **Inversion** | **1.**              | das Verb kommt auf **Position 2** (direkt nach dem Wort) | ..., **deshalb** **habe** ich Zeit. |
-| **Nebensatz** | **die Konjunktion** | das Verb geht ans **Ende**                               | ..., **weil** ich Zeit **habe**.    |
+Ez a szerkezet két különböző szabályt kombinál:
+- A je-s rész $\to$ mellékmondat (ige a végén)
+- A desto / umso-s rész $\to$ főmondat (inverzió)
+- **Képlet:**  
+	- Je + Komparativ + Alany + … + Ige, + desto / umso + Komparativ + Ige + Alany
+- **Példák:**
+	- Je mehr ich lerne, desto klüger werde ich.
+	- Je schneller du arbeitest, umso früher sind wir fertig.
+
+> [!TIP] A je-rész mindig KATI, a desto/umso után az ige azonnal következik.
+
+---
+
+## Összefoglaló
+
+| Típus                  | Ige helye              |
+| ---------------------- | ---------------------- |
+| Mellérendelő kötőszók  | Position 2             |
+| Konjunktionaladverbien | Inverzió (ige azonnal) |
+| Alárendelő kötőszók    | Ige a végén            |
