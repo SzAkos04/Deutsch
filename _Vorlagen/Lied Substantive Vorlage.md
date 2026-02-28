@@ -1,6 +1,7 @@
 ---
 Titel: <% tp.file.title %>
 Wortart: Substantiv
+Bedeutung:
 Quelle:
 aliases:
 ---
@@ -14,3 +15,7 @@ aliases:
 | <mark style="background: #ADCCFFA6;">der</mark> |            |        |           |
 | <mark style="background: #FF5582A6;">die</mark> |            |        |           |
 | <mark style="background: #BBFABBA6;">das</mark> |            |        |           |
+
+... :: <mark style="background: #ADCCFFA6;">der</mark> / <mark style="background: #BBFABBA6;">das</mark> / <mark style="background: #FF5582A6;">die</mark> <% tp.file.title %>, -
+
+#Lernkarten 

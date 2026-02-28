@@ -18,3 +18,7 @@ aliases:
 | Positiv    | **leicht**         | könnyű        |
 | Komparativ | **leichter**       | könnyebb      |
 | Superlativ | am **leichtesten** | a legkönnyebb |
+
+könnyű :: leicht
+
+#Lernkarten 

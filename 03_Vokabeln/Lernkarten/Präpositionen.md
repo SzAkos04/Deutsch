@@ -28,6 +28,7 @@ számára, -ért :: für + Akkusativ
 ellen, körül (idő) :: gegen + Akkusativ
 nélkül :: ohne + Akkusativ
 -ig :: bis + Akkusativ
+<!--SR:!2026-03-04,4,274-->
 
 -ból, -ből :: aus + Dativ
 -nál, -nél :: bei + Dativ
