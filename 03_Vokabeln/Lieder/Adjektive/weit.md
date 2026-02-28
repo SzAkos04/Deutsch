@@ -1,6 +1,7 @@
 ---
 Titel: weit
 Wortart: Adjektiv
+Bedeutung: messze, távol, széles
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - weiter

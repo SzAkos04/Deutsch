@@ -1,6 +1,7 @@
 ---
 Titel: ehrlich
 Wortart: Adjektiv
+Bedeutung: őszinte
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - ehrlicher

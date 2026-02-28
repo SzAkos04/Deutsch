@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "4e66ce3c0e4831ca",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "20d2b9ad2bcb7918",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Szótár.md",
+                "file": "_Vorlagen/Lied Substantive Vorlage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Szótár"
+              "title": "Lied Substantive Vorlage"
             }
           }
         ]
@@ -213,40 +213,40 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "20d2b9ad2bcb7918",
   "lastOpenFiles": [
-    "03_Vokabeln/Lieder/Adjektive/weit.md",
-    "03_Vokabeln/Szótár.md",
-    "03_Vokabeln/Lieder/Adjektive/leicht.md",
-    "03_Vokabeln/Lieder/Adjektive/einfach.md",
-    "03_Vokabeln/Lieder/Adjektive/ehrlich.md",
-    "aosetuh.md",
-    "_Vorlagen/Lied Adjektiv Vorlage.md",
-    "_Vorlagen/Lied Vorlage.md",
     "_Vorlagen/Lied Verb Vorlage.md",
+    "03_Vokabeln/Lieder/Substantive/Jahreszeit.md",
+    "03_Vokabeln/Lieder/Verben/schneien.md",
+    "04_Lieder/Vielleicht Vielleicht.md",
+    "03_Vokabeln/Lieder/Verben/genießen.md",
+    "aussiehst.md",
+    "03_Vokabeln/Lieder/Verben/aussehen.md",
+    "03_Vokabeln/iPhone.md",
+    "03_Vokabeln/Grammatische Begriffe.md",
+    "_Vorlagen/Lied Vorlage.md",
+    "03_Vokabeln/Lieder/Verben/aussiehen.md",
     "_Vorlagen/Lied Substantive Vorlage.md",
-    "03_Vokabeln/Lernkarten/Präpositionen.md",
+    "_Vorlagen/Lied Adjektiv Vorlage.md",
     "_Vorlagen/Allgemeine Vorlage.md",
+    "01_Grammatik/Konjugation (Igeragozás).md",
+    "genießt.md",
+    "03_Vokabeln/Lieder/Adjektive/süß.md",
+    "03_Vokabeln/Lieder/Adjektive/ehrlich.md",
+    "03_Vokabeln/Lieder/Wörterbuch.md",
+    "03_Vokabeln/Lieder/Adjektive/einfach.md",
+    "03_Vokabeln/Lieder/Adjektive/leicht.md",
+    "03_Vokabeln/Lieder/Adjektive/weit.md",
+    "aosetuh.md",
+    "03_Vokabeln/Lernkarten/Präpositionen.md",
     "test.md",
     "MOC.md",
-    "04_Lieder/Vielleicht Vielleicht.md",
-    "03_Vokabeln/iPhone.md",
-    "03_Vokabeln/Grammatik-spezifische/Zeitformen.md",
     "03_Vokabeln/Lieder/Adjektive",
-    "03_Vokabeln/Grammatik-spezifische/Präpositionen.md",
-    "03_Vokabeln/Grammatik-spezifische/Artikel und Pronomen.md",
-    "03_Vokabeln/Grammatik-spezifische/Konjugation.md",
     "03_Vokabeln/Lieder/Verben",
     "03_Vokabeln/Lieder/Substantive",
     "03_Vokabeln/Lieder",
     "04_Lieder",
-    "03_Vokabeln/Grammatik-spezifische/Modalverben.md",
-    "03_Vokabeln/Grammatik-spezifische/Adjektivdeklination.md",
-    "01_Grammatik/Verben mit Präpositionen (Vonzatos igék).md",
     "03_Vokabeln/Lernkarten",
-    "02_Kommunikation/E-Mail schreiben (E-mail írás).md",
-    "01_Grammatik/Zeitformen (Igeidők).md",
-    "01_Grammatik/Wortstellung (Szórend).md",
     "03_Vokabeln/Grammatik-spezifische",
     "02_Kommunikation",
     "_Vorlagen",

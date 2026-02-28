@@ -1,6 +1,7 @@
 ---
 Titel: leicht
 Wortart: Adjektiv
+Bedeutung: könnyű, egyszerű
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - leichter

@@ -9,6 +9,4 @@ Künstler*in:
 
 ## Text
 
-> ### Deutsch
-> 
 > 

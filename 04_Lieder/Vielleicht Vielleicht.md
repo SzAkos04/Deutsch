@@ -16,9 +16,9 @@ Künstler*in: AnnenMayKantereit
 > Oder, "Ich bin noch nicht so [[weit]]"
 > Du gibst mir Zeit
 > Und du bist [[süß]], wie du
-> [[aussiehst]], wenn du [[genießt]]
+> [[aussehen|aussiehst]], wenn du [[genießen|genießt]]
 > Dass es im Winter endlich
-> [[schneit]], du magst jede [[Jahreszeit]]
+> [[schneien|schneit]], du magst jede [[Jahreszeit]]
 > Und morgens muss ich [[lächeln]],
 > Weil mich deine [[Küsse]] [[wecken]]
 > Und dann [[merk']] ich, es ist leicht,
