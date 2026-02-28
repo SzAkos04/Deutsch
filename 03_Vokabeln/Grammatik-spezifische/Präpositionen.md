@@ -3,25 +3,11 @@ Titel: Präpositionen
 tags:
   - Wortschatz
 Grammatik: "[[Präpositionen (Elöljárószók)]]"
+Lernkarte: "[[03_Vokabeln/Lernkarten/Präpositionen|Präpositionen]]"
 ---
 # Präpositionen
 
-## 1. Substantive (Főnevek)
-
-| Artikel                                         | Substantiv   | Plural | Bedeutung   |
-| :---------------------------------------------- | ------------ | ------ | ----------- |
-| <mark style="background: #FF5582A6;">die</mark> | Arbeit       | -en    | munka(hely) |
-| <mark style="background: #ADCCFFA6;">der</mark> | Baum         | ⸚e     | fa          |
-| <mark style="background: #FF5582A6;">die</mark> | Eltern (Pl.) |        | szülők      |
-| <mark style="background: #BBFABBA6;">das</mark> | Fernster     | -      | ablak       |
-| <mark style="background: #BBFABBA6;">das</mark> | Haus         | ⸚er    | ház         |
-| <mark style="background: #ADCCFFA6;">der</mark> | Park         | -s     | park        |
-| <mark style="background: #FF5582A6;">die</mark> | Schule       | -n     | iskola      |
-| <mark style="background: #ADCCFFA6;">der</mark> | Tisch        | -e     | asztal      |
-
----
-
-## 2. Positions- und Richtungsverben (Helyzetet és irányt kifejező igék)
+## 1. Positions- und Richtungsverben (Helyzetet és irányt kifejező igék)
 
 | Infinitiv   | Präteritum | Partizip II   | Eset        | Bedeutung         |
 | ----------- | ---------- | ------------- | ----------- | ----------------- |
@@ -36,7 +22,7 @@ Grammatik: "[[Präpositionen (Elöljárószók)]]"
 
 ---
 
-## 3. Präpositionen (Elöljárószók)
+## 2. Präpositionen (Elöljárószók)
 
 ### A) Akkusativ-os elöljárók
 
@@ -50,15 +36,15 @@ Grammatik: "[[Präpositionen (Elöljárószók)]]"
 
 ### B) Dativ-os elöljárók
 
-| Präposition | Bedeutung              |
-| ----------- | ---------------------- |
-| **aus**     | -ból, -ből             |
-| **bei**     | -nál, -nél             |
-| **mit**     | -val, -vel             |
-| **nach**    | után, felé (város)     |
-| **seit**    | óta                    |
-| **von**     | -tól, -től, -ról, -ről |
-| **zu**      | -hoz, -hez, -höz       |
+| Präposition | Bedeutung                  |
+| ----------- | -------------------------- |
+| **aus**     | -ból, -ből                 |
+| **bei**     | -nál, -nél                 |
+| **mit**     | -val, -vel                 |
+| **nach**    | után, felé (ország, város) |
+| **seit**    | óta                        |
+| **von**     | -tól, -től, -ról, -ről     |
+| **zu**      | -hoz, -hez, -höz           |
 
 ### C) Wechselpräpositionen (Váltó elöljárók)
 
@@ -76,23 +62,24 @@ Grammatik: "[[Präpositionen (Elöljárószók)]]"
 
 ---
 
-## 4. Temporale Ausdrücke (Időbeli kifejezések)
+## 3. Temporale Ausdrücke (Időbeli kifejezések)
 
 | Artikel                                         | Substantiv | Plural | Bedeutung |
 | :---------------------------------------------- | ---------- | ------ | --------- |
-| <mark style="background: #ADCCFFA6;">der</mark> | Abend      | -e     | este      |
-| <mark style="background: #ADCCFFA6;">der</mark> | Mittag     | -e     | dél       |
+| <mark style="background: #FF5582A6;">die</mark> | Zeit       | -en    | idő       |
 | <mark style="background: #ADCCFFA6;">der</mark> | Morgen     | -      | reggel    |
-| <mark style="background: #ADCCFFA6;">der</mark> | Nachmittag | -e     | délután   |
-| <mark style="background: #FF5582A6;">die</mark> | Nacht      | ⸚e     | éjszaka   |
 | <mark style="background: #ADCCFFA6;">der</mark> | Vormittag  | -e     | délelőtt  |
+| <mark style="background: #ADCCFFA6;">der</mark> | Mittag     | -e     | dél       |
+| <mark style="background: #ADCCFFA6;">der</mark> | Nachmittag | -e     | délután   |
+| <mark style="background: #ADCCFFA6;">der</mark> | Abend      | -e     | este      |
+| <mark style="background: #FF5582A6;">die</mark> | Nacht      | ⸚e     | éjszaka   |
 | <mark style="background: #FF5582A6;">die</mark> | Woche      | -n     | hét       |
 | <mark style="background: #BBFABBA6;">das</mark> | Wochenende | -n     | hétvége   |
-| <mark style="background: #FF5582A6;">die</mark> | Zeit       | -en    | idő       |
+| <mark style="background: #ADCCFFA6;">der</mark> | Wochentag  | -e     | hétköznap |
 
 ---
 
-## 5. Wichtige Ausdrücke (Fontos kifejezések)
+## 4. Wichtige Ausdrücke (Fontos kifejezések)
 
 ### A) Wo? + Dativ (Helyzet: Hol?)
 
