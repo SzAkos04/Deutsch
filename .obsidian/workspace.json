@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Vorlagen/Lied Vorlage.md",
+                "file": "04_Lieder/Vielleicht Vielleicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lied Vorlage"
+              "title": "Vielleicht Vielleicht"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Vorlagen/Lied Vorlage.md",
+                "file": "04_Lieder/Vielleicht Vielleicht.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lied Vorlage"
+              "title": "Outline of Vielleicht Vielleicht"
             }
           },
           {
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,17 +216,27 @@
   },
   "active": "2a96af06b785b50d",
   "lastOpenFiles": [
-    "_Vorlagen/Allgemeine Vorlage.md",
+    "03_Vokabeln/Lieder/Adjektive/leicht.md",
+    "_Vorlagen/Lied Substantive Vorlage.md",
+    "_Vorlagen/Lied Adjektiv Vorlage.md",
+    "_Vorlagen/Lied Verb Vorlage.md",
+    "03_Vokabeln/iPhone.md",
+    "04_Lieder/Vielleicht Vielleicht.md",
     "_Vorlagen/Lied Vorlage.md",
+    "_Vorlagen/Allgemeine Vorlage.md",
+    "03_Vokabeln/Grammatik-spezifische/Zeitformen.md",
+    "03_Vokabeln/Lieder/Adjektive",
+    "03_Vokabeln/Grammatik-spezifische/Präpositionen.md",
+    "03_Vokabeln/Grammatik-spezifische/Artikel und Pronomen.md",
+    "03_Vokabeln/Grammatik-spezifische/Konjugation.md",
+    "03_Vokabeln/Lieder/Verben",
+    "03_Vokabeln/Lieder/Substantive",
+    "03_Vokabeln/Lieder",
     "04_Lieder",
     "03_Vokabeln/Grammatik-spezifische/Modalverben.md",
-    "03_Vokabeln/Grammatik-spezifische/Konjugation.md",
-    "03_Vokabeln/Grammatik-spezifische/Artikel und Pronomen.md",
     "03_Vokabeln/Grammatik-spezifische/Adjektivdeklination.md",
     "03_Vokabeln/Lernkarten/Präpositionen.md",
-    "03_Vokabeln/Grammatik-spezifische/Präpositionen.md",
     "01_Grammatik/Verben mit Präpositionen (Vonzatos igék).md",
-    "03_Vokabeln/Grammatik-spezifische/Zeitformen.md",
     "03_Vokabeln/Lernkarten",
     "MOC.md",
     "02_Kommunikation/E-Mail schreiben (E-mail írás).md",
@@ -236,19 +248,9 @@
     "01_Grammatik/Konjugation (Igeragozás).md",
     "01_Grammatik/Artikel und Pronomen (Névelők és névmások).md",
     "01_Grammatik/Adjektivdeklination (Melléknévragozás).md",
-    "03_Vokabeln/Grammatische Begriffe.md",
     "03_Vokabeln/Grammatik-spezifische",
-    "03_Vokabeln/iPhone.md",
     "02_Kommunikation",
-    "02_Wortschatz/Wortstellung.md",
-    "01_Grammatik/_Grammatik MOC.md",
-    "Elöljárószók.md",
-    "01_Grammatik/Tárgyeset (Akkusativ).md",
     "_Vorlagen",
-    "03_Vokabeln",
-    "01_Grammatik",
-    "00_Eingang",
-    "00_Inbox/Untitled",
-    "01_"
+    "03_Vokabeln"
   ]
 }
