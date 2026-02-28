@@ -1,7 +1,7 @@
 ---
 Titel: weit
 Wortart: Adjektiv
-Bedeutung: messze, távol, széles
+Bedeutung: messze, távol; széles
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - weiter
@@ -12,7 +12,7 @@ aliases:
 
 # weit
 
-## Ungarisch Bedeutung: "messze, távol, széles"
+## Ungarisch Bedeutung: "messze, távol; széles"
 
 | Stufe      | Adjektiv         | Bedeutung       |
 | ---------- | ---------------- | --------------- |
@@ -20,6 +20,6 @@ aliases:
 | Komparativ | **weiter**       | messze / tovább |
 | Superlativ | am **weitesten** | a legmesszebb   |
 
-messze, távol :: weit
+messze, távol; széles :: weit
 
 #Lernkarten 

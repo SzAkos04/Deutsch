@@ -4,7 +4,7 @@
       "#flashcards",
       "#Lernkarten"
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "burySiblingCards": false,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
@@ -35,7 +35,7 @@
     "showRibbonIcon": true,
     "showStatusBar": true,
     "initiallyExpandAllSubdecksInTree": false,
-    "showContextInCards": true,
+    "showContextInCards": false,
     "showIntervalInReviewButtons": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,

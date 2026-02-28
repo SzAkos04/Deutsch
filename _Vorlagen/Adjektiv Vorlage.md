@@ -16,6 +16,8 @@ aliases:
 | Komparativ | **<% tp.file.title %>er**      |           |
 | Superlativ | am **<% tp.file.title %>sten** |           |
 
-... :: <%tp.file.title %>
+---
+
+ :: <%tp.file.title %>
 
 #Lernkarten 

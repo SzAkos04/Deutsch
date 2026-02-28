@@ -35,6 +35,10 @@ aliases:
 | ihr              | **seht aus**   |
 | sie / Sie        | **sehen aus**  |
 
+> [!INFO]
+> Elváló igekötő: aus|sehen
+> Tőhangváltó: E/1:
+
 ---
 
 kinézni (valahogy) :: aussehen
