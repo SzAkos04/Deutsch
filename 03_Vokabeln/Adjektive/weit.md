@@ -14,11 +14,11 @@ aliases:
 
 ## Ungarisch Bedeutung: "messze, távol; széles"
 
-| Stufe      | Adjektiv         | Bedeutung       |
-| ---------- | ---------------- | --------------- |
-| Positiv    | **weit**         | messze / távol  |
-| Komparativ | **weiter**       | messze / tovább |
-| Superlativ | am **weitesten** | a legmesszebb   |
+| Positiv    | Komparativ | Superlativ       |
+| ---------- | ---------- | ---------------- |
+| **weit**   | **weiter** | am **weitesten** |
+
+---
 
 messze, távol; széles :: weit
 

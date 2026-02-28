@@ -15,9 +15,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "elegendő; nyújt, átad"
 
-| Infinitiv   | Präteritum  | Partizip II  |
-| ----------- | ----------- | ------------ |
-| **reichen** | **reichte** | **gereicht** |
+| Infinitiv   | Präteritum  | Partizip II      |
+| ----------- | ----------- | ---------------- |
+| **reichen** | **reichte** | hat **gereicht** |
 
 | Personalpronomen | Verb        |
 | ---------------- | ----------- |

@@ -15,9 +15,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "észrevesz, megjegyez"
 
-| Infinitiv  | Präteritum | Partizip II |
-| ---------- | ---------- | ----------- |
-| **merken** | **merkte** | **gemerkt** |
+| Infinitiv  | Präteritum | Partizip II     |
+| ---------- | ---------- | --------------- |
+| **merken** | **merkte** | hat **gemerkt** |
 
 | Personalpronomen | Verb       |
 | ---------------- | ---------- |

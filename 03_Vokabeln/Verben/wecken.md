@@ -15,9 +15,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "felébreszteni (valakit)"
 
-| Infinitiv  | Präteritum | Partizip II |
-| ---------- | ---------- | ----------- |
-| **wecken** | **weckte** | **geweckt** |
+| Infinitiv  | Präteritum | Partizip II     |
+| ---------- | ---------- | --------------- |
+| **wecken** | **weckte** | hat **geweckt** |
 
 | Personalpronomen | Verb       |
 | ---------------- | ---------- |

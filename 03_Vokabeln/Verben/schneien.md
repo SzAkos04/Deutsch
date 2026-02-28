@@ -15,9 +15,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "havazni"
 
-| Infinitiv    | Präteritum   | Partizip II   |
-| ------------ | ------------ | ------------- |
-| **schneien** | **schneite** | **geschneit** |
+| Infinitiv    | Präteritum   | Partizip II       |
+| ------------ | ------------ | ----------------- |
+| **schneien** | **schneite** | hat **geschneit** |
 
 | Personalpronomen | Verb         |
 | ---------------- | ------------ |

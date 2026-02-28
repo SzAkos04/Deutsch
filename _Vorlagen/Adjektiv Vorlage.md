@@ -10,11 +10,9 @@ aliases:
 
 ## Ungarisch Bedeutung: ""
 
-| Stufe      | Adjektiv                       | Bedeutung |
-| ---------- | ------------------------------ | --------- |
-| Positiv    | **<% tp.file.title %>**        |           |
-| Komparativ | **<% tp.file.title %>er**      |           |
-| Superlativ | am **<% tp.file.title %>sten** |           |
+| Positiv                 | Komparativ                | Superlativ                     |
+| ----------------------- | ------------------------- | ------------------------------ |
+| **<% tp.file.title %>** | **<% tp.file.title %>er** | am **<% tp.file.title %>sten** |
 
 ---
 

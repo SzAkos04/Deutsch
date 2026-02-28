@@ -15,9 +15,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "mosolyogni"
 
-| Infinitiv   | Präteritum   | Partizip II  |
-| ----------- | ------------ | ------------ |
-| **lächeln** | **lächelte** | **lächelte** |
+| Infinitiv   | Präteritum   | Partizip II       |
+| ----------- | ------------ | ----------------- |
+| **lächeln** | **lächelte** | hat **gelächelt** |
 
 | Personalpronomen | Verb         |
 | ---------------- | ------------ |

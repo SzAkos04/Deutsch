@@ -14,9 +14,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "élvezni"
 
-| Infinitiv    | Präteritum | Partizip II  |
-| ------------ | ---------- | ------------ |
-| **genießen** | **genoss** | **genossen** |
+| Infinitiv    | Präteritum | Partizip II      |
+| ------------ | ---------- | ---------------- |
+| **genießen** | **genoss** | hat **genossen** |
 
 | Personalpronomen | Verb         |
 | ---------------- | ------------ |

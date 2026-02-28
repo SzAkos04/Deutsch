@@ -14,11 +14,11 @@ aliases:
 
 ## Ungarisch Bedeutung: "édes, aranyos"
 
-| Stufe      | Adjektiv        | Bedeutung    |
-| ---------- | --------------- | ------------ |
-| Positiv    | **süß**         | édes         |
-| Komparativ | **süßer**       | édesebb      |
-| Superlativ | am **süßesten** | a legédesebb |
+| Positiv    | Komparativ | Superlativ      |
+| ---------- | ---------- | --------------- |
+| **süß**    | **süßer**  | am **süßesten** |
+
+---
 
 édes, aranyos :: süß
 

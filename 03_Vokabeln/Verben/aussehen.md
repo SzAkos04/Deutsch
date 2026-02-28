@@ -22,9 +22,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "kinézni (valahogy)"
 
-| Infinitiv    | Präteritum  | Partizip II    |
-| ------------ | ----------- | -------------- |
-| **aussehen** | **sah aus** | **ausgesehen** |
+| Infinitiv      | Präteritum  | Partizip II        |
+| -------------- | ----------- | ------------------ |
+| **aus\|sehen** | **sah aus** | hat **ausgesehen** |
 
 | Personalpronomen | Verb           |
 | ---------------- | -------------- |
@@ -36,11 +36,11 @@ aliases:
 | sie / Sie        | **sehen aus**  |
 
 > [!INFO]
-> Elváló igekötő: aus|sehen
-> Tőhangváltó: E/1:
+> **trennbare Verb:** aus|sehen
+> **Ablaut:** aus|sehen $\to$ aus|s**ie**ht
 
 ---
 
-kinézni (valahogy) :: aussehen
+kinézni (valahogy) :: aus|sehen
 
 #Lernkarten 
