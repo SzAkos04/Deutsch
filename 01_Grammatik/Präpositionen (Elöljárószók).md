@@ -2,7 +2,7 @@
 Titel: Präpositionen (Elöljárószók)
 tags:
   - Grammatik
-Wortschatz: "[[Präpositionen]]"
+Wortschatz: "[[03_Vokabeln/Grammatik-spezifische/Präpositionen]]"
 ---
 # Präpositionen (Elöljárószók)
 

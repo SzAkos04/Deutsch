@@ -26,8 +26,9 @@ Titel: MOC
 - [[Artikel und Pronomen]]
 - [[Konjugation]]
 - [[Modalverben]]
-- [[Präpositionen]]
+- [[03_Vokabeln/Grammatik-spezifische/Präpositionen]]
 - [[Zeitformen]]
 
 ## TODO
+
 - [ ] Szenvedő szerkezet
