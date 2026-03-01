@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03_Vokabeln/Wörterbuch.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +214,8 @@
   },
   "active": "6cddbbfcced6e1bb",
   "lastOpenFiles": [
+    "MOC.md",
+    "03_Vokabeln/Wörterbuch.md",
     "_Vorlagen/Pronomen Vorlage.md",
     "03_Vokabeln/Pronomen/niemand.md",
     "03_Vokabeln/Pronomen/nichts.md",
@@ -239,8 +240,6 @@
     "03_Vokabeln/Adverben/endlich.md",
     "03_Vokabeln/Adverben/dazwischen.md",
     "_Vorlagen/Adverb Vorlage.md",
-    "03_Vokabeln/Adjektive/wenig.md",
-    "03_Vokabeln/Adjektive/weit.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
@@ -250,6 +249,6 @@
     "03_Vokabeln/Substantive",
     "03_Vokabeln/Lieder",
     "04_Lieder",
-    "03_Vokabeln/Grammatik-spezifische"
+    "00_Eingang/Grammatik-spezifische"
   ]
 }
