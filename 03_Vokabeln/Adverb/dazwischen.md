@@ -1,5 +1,5 @@
 ---
-Titel: dazwischen
+Wort: dazwischen
 Wortart: Adverb
 Bedeutung: közötte, aközött, közéjük
 Quelle: "[[Spiegelbild]]"

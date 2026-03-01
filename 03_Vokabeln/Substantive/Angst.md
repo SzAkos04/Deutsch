@@ -13,10 +13,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv                                                        | Plural                                                                |
-| ----------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", "**" + this.Wort + "**", this.Wort)` | `=choice(this.Genus = "die", "**" + this.Plural + "**", this.Plural)` |
-
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
 
 > [!INFO]
 > **Wichtige Präposition:** **Angst haben vor + Dativ** (félni valamitől).

@@ -1,5 +1,5 @@
 ---
-Titel: immer
+Wort: immer
 Wortart: Adverb
 Bedeutung: mindig
 Quelle: "[[Vielleicht Vielleicht]]"

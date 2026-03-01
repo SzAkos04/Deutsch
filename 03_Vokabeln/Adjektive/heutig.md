@@ -1,5 +1,5 @@
 ---
-Titel: heutig
+Wort: heutig
 Wortart: Adjektiv
 Bedeutung: mai
 Quelle:

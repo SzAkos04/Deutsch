@@ -6,7 +6,7 @@ Quelle:
 aliases:
 ---
 
-# <% tp.file.title %>
+# `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
@@ -28,6 +28,6 @@ aliases:
 
 ---
 
-`=this.Bedeutung` :: <% tp.file.title %>
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

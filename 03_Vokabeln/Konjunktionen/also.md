@@ -1,5 +1,5 @@
 ---
-Titel: also
+Wort: also
 Wortart: Konjunktionaladverb
 Bedeutung: tehát, szóval
 Quelle: "[[Spiegelbild]]"

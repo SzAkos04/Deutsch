@@ -1,5 +1,5 @@
 ---
-Titel: sonst
+Wort: sonst
 Wortart: Adverb
 Bedeutung: egyébként, különben, máskülönben
 Quelle: "[[Vielleicht Vielleicht]]"

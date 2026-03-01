@@ -1,25 +1,25 @@
 ---
-Titel: Leben
+Wort: Leben
 Wortart: Substantiv
 Genus: das
+Plural:
 Bedeutung: élet
 Quelle: "[[Spiegelbild]]"
 aliases:
 ---
 
-# Leben
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "élet"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #BBFABBA6;">das</mark> | Leben      | -      |
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")` | `=choice(this.Genus = "das", this.Plural, "")` |
 
 ---
 
 ## Siehe auch
 
-- [[03_Vokabeln/Substantive/Leben|Leben]]
 - [[03_Vokabeln/Verben/leben|leben]]
 - [[lebendig]]
 - [[Tod]]
@@ -27,6 +27,7 @@ aliases:
 
 ---
 
-élet :: <mark style="background: #BBFABBA6;">das</mark> Leben, -
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
+<!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

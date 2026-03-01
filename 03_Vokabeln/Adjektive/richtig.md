@@ -1,6 +1,8 @@
 ---
-Titel: richtig
-Wortart: Adjektiv / Adverb
+Wort: richtig
+Wortart:
+  - Adjektiv
+  - Adverb
 Bedeutung: helyes, igaz, valódi, rendesen
 Quelle: "[[Spiegelbild]]"
 aliases:

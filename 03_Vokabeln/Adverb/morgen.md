@@ -1,5 +1,5 @@
 ---
-Titel: morgen
+Wort: morgen
 Wortart: Adverb
 Bedeutung: holnap
 Quelle:

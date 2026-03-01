@@ -1,5 +1,5 @@
 ---
-Titel: süß
+Wort: süß
 Wortart: Adjektiv
 Bedeutung: édes, aranyos
 Quelle: "[[Vielleicht Vielleicht]]"

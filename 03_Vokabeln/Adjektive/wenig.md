@@ -1,6 +1,8 @@
 ---
-Titel: wenig
-Wortart: Adjektiv / Indefinitpronomen
+Wort: wenig
+Wortart:
+  - Adjektiv
+  - Indefinitpronomen
 Bedeutung: kevés
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:

@@ -1,19 +1,20 @@
 ---
-Titel: Fehler
+Wort: Fehler
 Wortart: Substantiv
 Genus: der
+Plural:
 Bedeutung: hiba, tévedés
 Quelle: "[[Spiegelbild]]"
 aliases:
 ---
 
-# Fehler
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "hiba, tévedés"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #ADCCFFA6;">der</mark> | Fehler     | -      |
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")` | `=choice(this.Genus = "der", this.Plural, "")` |
 
 
 > [!INFO]
@@ -27,10 +28,10 @@ aliases:
 
 ## Siehe auch
 
-- [[Fehler]]
+- [[fehlen]]
 
 ---
 
-hiba, tévedés :: <mark style="background: #ADCCFFA6;">der</mark> Fehler, -
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

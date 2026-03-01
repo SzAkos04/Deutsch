@@ -1,5 +1,5 @@
 ---
-Titel: unglaublich
+Wort: unglaublich
 Wortart: Adjektiv
 Bedeutung: hihetetlen
 Quelle:

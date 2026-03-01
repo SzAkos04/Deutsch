@@ -1,6 +1,8 @@
 ---
-Titel: täglich
-Wortart: Adverb / Adjektiv
+Wort: täglich
+Wortart:
+  - Adverb
+  - Adjektiv
 Bedeutung: napi, naponta, mindennapi
 Quelle:
 aliases:

@@ -1,5 +1,5 @@
 ---
-Titel: dankbar
+Wort: dankbar
 Wortart: Adjektiv
 Bedeutung: hálás
 Quelle: "[[Spiegelbild]]"

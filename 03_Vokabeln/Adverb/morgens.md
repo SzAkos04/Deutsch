@@ -1,5 +1,5 @@
 ---
-Titel: morgens
+Wort: morgens
 Wortart: Adverb
 Bedeutung: reggelente
 Quelle: "[[Vielleicht Vielleicht]]"

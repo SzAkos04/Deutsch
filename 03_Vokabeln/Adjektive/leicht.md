@@ -1,5 +1,5 @@
 ---
-Titel: leicht
+Wort: leicht
 Wortart: Adjektiv
 Bedeutung: könnyű, egyszerű
 Quelle: "[[Vielleicht Vielleicht]]"

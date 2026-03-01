@@ -1,20 +1,20 @@
 ---
-Titel: Eltern
+Wort: Eltern
 Wortart: Substantiv
 Genus: die
+Plural:
 Bedeutung: szülők
 Quelle: "[[Spiegelbild]]"
 aliases:
 ---
 
-# Eltern
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "szülők"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv   |
-| ----------------------------------------------- | ------------ |
-| <mark style="background: #FF5582A6;">die</mark> | Eltern (Pl.) |
-
+| Artikel                                         | Substantiv                                   |
+| ----------------------------------------------- | -------------------------------------------- |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` |
 
 > [!INFO]
 > **Plural:** Nincs többesszám
@@ -23,7 +23,6 @@ aliases:
 
 ## Siehe auch
 
-- [[Eltern]]
 - [[Großeltern]]
 - [[Schwiegereltern]]
 - [[elternlos]]
@@ -34,6 +33,7 @@ aliases:
 
 ---
 
- :: <mark style="background: #FF5582A6;">die</mark> Eltern (Pl.)
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort` (Pl.)
+<!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

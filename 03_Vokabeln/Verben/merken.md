@@ -31,5 +31,6 @@ aliases:
 ---
 
 észrevesz, megjegyez :: merken
+<!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

@@ -1,32 +1,32 @@
 ---
-Titel: Gruppe
+Wort: Gruppe
 Wortart: Substantiv
 Genus: die
+Plural: -n
 Bedeutung: csoport
 Quelle: "[[Spiegelbild]]"
 aliases:
   - Gruppen
 ---
 
-# Gruppe
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "csoport"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #FF5582A6;">die</mark> | Gruppe     | -n     |
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
 
 ---
 
 ## Siehe auch
 
-- [[Gruppe]]
 - [[Teil]]
 - [[gemeinsam]]
 - [[Verein]]
 
 ---
 
-csoport :: <mark style="background: #FF5582A6;">die</mark> Gruppe, -n
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

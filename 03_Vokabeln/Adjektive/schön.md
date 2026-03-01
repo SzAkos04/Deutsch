@@ -1,6 +1,8 @@
 ---
-Titel: schön
-Wortart: Adjektiv / Adverb
+Wort: schön
+Wortart:
+  - Adjektiv
+  - Adverb
 Bedeutung: szép(en)
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:

@@ -1,18 +1,18 @@
 ---
-Titel: <% tp.file.title %>
+Wort: <% tp.file.title %>
 Wortart: Adjektiv
 Bedeutung:
 Quelle:
 aliases:
 ---
 
-# <% tp.file.title %>
+# `=this.Wort`
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv                 | Komparativ                | Superlativ                     |
-| ----------------------- | ------------------------- | ------------------------------ |
-| **<% tp.file.title %>** | **<% tp.file.title %>er** | am **<% tp.file.title %>sten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 > [!INFO]
 > 
@@ -21,10 +21,10 @@ aliases:
 
 ## Siehe auch
 
-- [[<% tp.file.title %>]]
+- 
 
 ---
 
- :: <%tp.file.title %>
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

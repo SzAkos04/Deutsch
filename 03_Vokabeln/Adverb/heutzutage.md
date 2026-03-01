@@ -1,5 +1,5 @@
 ---
-Titel: heutzutage
+Wort: heutzutage
 Wortart: Adverb
 Bedeutung: manapság
 Quelle:

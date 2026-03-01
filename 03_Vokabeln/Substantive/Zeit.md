@@ -1,24 +1,30 @@
 ---
-Titel: Zeit
+Wort: Zeit
 Wortart: Substantiv
 Genus: die
+Plural: -en
 Bedeutung: idő
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - Zeiten
 ---
 
-# Zeit
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "idő"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #FF5582A6;">die</mark> | Zeit       | -en    |
-
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
 
 ---
 
-idő :: <mark style="background: #FF5582A6;">die</mark> Zeit, -en
+## Siehe auch
+
+- 
+
+---
+
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

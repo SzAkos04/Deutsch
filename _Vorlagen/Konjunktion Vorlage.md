@@ -1,14 +1,14 @@
 ---
-Titel: <% tp.file.title %>
+Wort: <% tp.file.title %>
 Wortart: Konjunktion
 Bedeutung:
 Quelle:
 aliases:
 ---
 
-# <% tp.file.title %>
+# `=this.Wort`
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 > [!INFO]
 > 
@@ -17,10 +17,10 @@ aliases:
 
 ## Siehe auch
 
-- [[<% tp.file.title %>]]
+- 
 
 ---
 
- :: <% tp.file.title %>
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

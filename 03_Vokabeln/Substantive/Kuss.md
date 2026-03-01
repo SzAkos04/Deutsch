@@ -1,23 +1,30 @@
 ---
-Titel: Kuss
+Wort: Kuss
 Wortart: Substantiv
 Genus: der
 Bedeutung: csók
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - Küsse
+Plural: ⸚e
 ---
 
-# Kuss
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #ADCCFFA6;">der</mark> | Kuss       | ⸚e     |
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")` | `=choice(this.Genus = "der", this.Plural, "")` |
 
 ---
 
-csók :: <mark style="background: #ADCCFFA6;">der</mark> Kuss, ⸚e
+## Siehe auch
+
+- 
+
+---
+
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

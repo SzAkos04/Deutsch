@@ -1,35 +1,31 @@
 ---
-Titel: Enge
+Wort: Enge
 Wortart: Substantiv
 Genus: die
+Plural:
 Bedeutung: szűkösség, szorultság
 Quelle: "[[Spiegelbild]]"
 aliases:
 ---
 
-# Enge
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "szűkösség, szorultság"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #FF5582A6;">die</mark> | Enge       | -      |
-
-
-> [!INFO]
-> 
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
 
 ---
 
 ## Siehe auch
 
-- [[Enge]]
 - [[eng]]
 - [[Freiheit]]
 - [[breit]] / [[weit]]
 
 ---
 
-szűkösség, szorultság :: <mark style="background: #FF5582A6;">die</mark> Enge, -
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

@@ -1,5 +1,5 @@
 ---
-Titel: endlich
+Wort: endlich
 Wortart: Adverb
 Bedeutung: végre, végül
 Quelle: "[[Vielleicht Vielleicht]]"

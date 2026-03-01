@@ -1,5 +1,5 @@
 ---
-Titel: irgendwo
+Wort: irgendwo
 Wortart: Adverb
 Bedeutung: valahol
 Quelle: "[[Spiegelbild]]"

@@ -1,5 +1,5 @@
 ---
-Titel: vielleicht
+Wort: vielleicht
 Wortart: Adverb
 Bedeutung: talán
 Quelle: "[[Vielleicht Vielleicht]]"

@@ -1,5 +1,5 @@
 ---
-Titel: morgig
+Wort: morgig
 Wortart: Adjektiv
 Bedeutung: holnapi
 Quelle:

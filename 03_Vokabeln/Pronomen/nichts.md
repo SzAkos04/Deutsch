@@ -1,5 +1,5 @@
 ---
-Titel: nichts
+Wort: nichts
 Wortart: Indefinitpronomen
 Bedeutung: semmi, semmit
 Quelle: "[[Spiegelbild]]"

@@ -1,23 +1,30 @@
 ---
-Titel: Jahreszeit
+Wort: Jahreszeit
 Wortart: Substantiv
 Genus: die
+Plural: -en
 Bedeutung: évszak
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - Jahreszeiten
 ---
 
-# Jahreszeit
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "évszak"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #FF5582A6;">die</mark> | Jahreszeit | -en    |
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
 
 ---
 
-évszak :: <mark style="background: #FF5582A6;">die</mark> Jahreszeit, -en
+## Siehe auch
+
+- 
+
+---
+
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

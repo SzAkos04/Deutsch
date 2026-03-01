@@ -1,5 +1,5 @@
 ---
-Titel: andere
+Wort: andere
 Wortart: Indefinitpronomen / Adjektiv
 Bedeutung: más, másik, a többiek
 Quelle: "[[Spiegelbild]]"

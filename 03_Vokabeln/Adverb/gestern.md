@@ -1,5 +1,5 @@
 ---
-Titel: gestern
+Wort: gestern
 Wortart: Adverb
 Bedeutung: tegnap
 Quelle:

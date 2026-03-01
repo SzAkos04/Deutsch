@@ -1,6 +1,8 @@
 ---
-Titel: noch
-Wortart: Adverb / Partikel
+Wort: noch
+Wortart:
+  - Adverb
+  - Partikel
 Bedeutung: még
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:

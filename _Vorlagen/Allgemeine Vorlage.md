@@ -2,4 +2,4 @@
 Titel: <% tp.file.title %>
 tags:
 ---
-# <% tp.file.title %>
+# `=this.Titel`

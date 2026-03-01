@@ -1,5 +1,5 @@
 ---
-Titel: alltäglich
+Wort: alltäglich
 Wortart: Adjektiv
 Bedeutung: hétköznapi, megszokott, mindennapi
 Quelle:

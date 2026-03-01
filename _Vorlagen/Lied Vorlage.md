@@ -3,7 +3,7 @@ Titel: <% tp.file.title %>
 Künstler*in:
 ---
 
-# Lied: <% tp.file.title %>
+# Lied: `=this.Titel`
 
 [**Auf Spotify anhören**]()
 

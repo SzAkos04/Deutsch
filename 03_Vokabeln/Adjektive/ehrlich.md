@@ -1,5 +1,5 @@
 ---
-Titel: ehrlich
+Wort: ehrlich
 Wortart: Adjektiv
 Bedeutung: őszinte
 Quelle: "[[Vielleicht Vielleicht]]"

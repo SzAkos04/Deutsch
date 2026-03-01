@@ -1,5 +1,5 @@
 ---
-Titel: bisschen
+Wort: bisschen
 Wortart: Indefinitpronomen
 Bedeutung: egy kicsi, egy kevés
 Quelle: "[[Spiegelbild]]"

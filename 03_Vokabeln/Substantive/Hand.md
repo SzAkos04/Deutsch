@@ -1,26 +1,26 @@
 ---
-Titel: Hand
+Wort: Hand
 Wortart: Substantiv
 Genus: die
+Plural: ⸚e
 Bedeutung: kéz
 Quelle: "[[Spiegelbild]]"
 aliases:
   - Hände
 ---
 
-# Hand
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "kéz"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #FF5582A6;">die</mark> | Hand       | ⸚e     |
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
 
 ---
 
 ## Siehe auch
 
-- [[Hand]]
 - [[Handtuch]]
 - [[Handy]]
 - [[handeln]]
@@ -29,6 +29,6 @@ aliases:
 
 ---
 
-kéz :: <mark style="background: #FF5582A6;">die</mark> Hand, ⸚e
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

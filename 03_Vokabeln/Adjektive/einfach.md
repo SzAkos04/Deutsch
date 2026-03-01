@@ -1,6 +1,8 @@
 ---
-Titel: einfach
-Wortart: Adjektiv / Adverb
+Wort: einfach
+Wortart:
+  - Adjektiv
+  - Adverb
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - einfacher

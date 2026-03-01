@@ -1,20 +1,21 @@
 ---
-Titel: Tag
+Wort: Tag
 Wortart: Substantiv
 Genus: der
+Plural: -e
 Bedeutung: nap
 Quelle:
 aliases:
   - Tage
 ---
 
-# Tag
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #ADCCFFA6;">der</mark> | Tag        | -e     |
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")` | `=choice(this.Genus = "der", this.Plural, "")` |
 
 > [!INFO]
 > **Häufige Ausdrücke (Gyakori kifejezések):**
@@ -27,12 +28,12 @@ aliases:
 
 ## Siehe auch
 
-- [[Tag]]
 - [[täglich]]
 - [[heutzutage]]
 
 ---
 
-nap :: <mark style="background: #ADCCFFA6;">der</mark> Tag, -
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
+<!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

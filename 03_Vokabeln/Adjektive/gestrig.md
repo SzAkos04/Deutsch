@@ -1,5 +1,5 @@
 ---
-Titel: gestrig
+Wort: gestrig
 Wortart: Adjektiv
 Bedeutung: tegnapi
 Quelle:

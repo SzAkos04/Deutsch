@@ -1,5 +1,5 @@
 ---
-Titel: niemand
+Wort: niemand
 Wortart: Indefinitpronomen
 Bedeutung: senki
 Quelle: "[[Vielleicht Vielleicht]]"

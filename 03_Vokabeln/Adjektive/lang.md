@@ -1,5 +1,5 @@
 ---
-Titel: lang
+Wort: lang
 Wortart: Adjektiv
 Bedeutung: hosszú
 Quelle: "[[Vielleicht Vielleicht]]"

@@ -1,5 +1,5 @@
 ---
-Titel: nie
+Wort: nie
 Wortart: Adverb
 Bedeutung: soha
 Quelle:

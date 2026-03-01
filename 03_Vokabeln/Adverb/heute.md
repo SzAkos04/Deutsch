@@ -1,5 +1,5 @@
 ---
-Titel: heute
+Wort: heute
 Wortart: Adverb
 Bedeutung: ma
 Quelle: "[[Vielleicht Vielleicht]]"
