@@ -1,6 +1,7 @@
 ---
 Titel: Angst
 Wortart: Substantiv
+Genus: die
 Bedeutung: félelem, szorongás
 Quelle: "[[Spiegelbild]]"
 aliases:

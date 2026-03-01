@@ -1,6 +1,7 @@
 ---
 Titel: Morgen
 Wortart: Substantiv
+Genus: der
 Bedeutung: reggel
 Quelle:
 aliases:

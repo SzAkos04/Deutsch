@@ -1,6 +1,7 @@
 ---
 Titel: Hand
 Wortart: Substantiv
+Genus: die
 Bedeutung: kéz
 Quelle: "[[Spiegelbild]]"
 aliases:

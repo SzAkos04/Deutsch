@@ -1,6 +1,7 @@
 ---
 Titel: Ende
 Wortart: Substantiv
+Genus: das
 Bedeutung: vég, befejezés
 Quelle:
 aliases:

@@ -1,6 +1,7 @@
 ---
 Titel: Tag
 Wortart: Substantiv
+Genus: der
 Bedeutung: nap
 Quelle:
 aliases:

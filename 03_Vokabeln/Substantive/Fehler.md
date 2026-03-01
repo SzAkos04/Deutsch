@@ -1,6 +1,7 @@
 ---
 Titel: Fehler
 Wortart: Substantiv
+Genus: der
 Bedeutung: hiba, tévedés
 Quelle: "[[Spiegelbild]]"
 aliases:

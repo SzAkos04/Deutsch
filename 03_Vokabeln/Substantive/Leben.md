@@ -1,6 +1,7 @@
 ---
 Titel: Leben
 Wortart: Substantiv
+Genus: das
 Bedeutung: élet
 Quelle: "[[Spiegelbild]]"
 aliases:

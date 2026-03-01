@@ -1,6 +1,7 @@
 ---
 Titel: Eltern
 Wortart: Substantiv
+Genus: die
 Bedeutung: szülők
 Quelle: "[[Spiegelbild]]"
 aliases:

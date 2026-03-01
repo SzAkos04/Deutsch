@@ -1,6 +1,7 @@
 ---
 Titel: Jahreszeit
 Wortart: Substantiv
+Genus: die
 Bedeutung: évszak
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:

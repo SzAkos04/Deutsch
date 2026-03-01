@@ -1,6 +1,7 @@
 ---
 Titel: Zeit
 Wortart: Substantiv
+Genus: die
 Bedeutung: idő
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:

@@ -1,7 +1,8 @@
 ---
 Titel: Alltag
 Wortart: Substantiv
-Bedeutung: mindennapok, hétköznap
+Genus: der
+Bedeutung: mindennapok, hétköznapok
 Quelle:
 aliases:
   - Alltage

@@ -1,5 +1,5 @@
 ```dataview
-TABLE Bedeutung, Wortart, Quelle
+TABLE (choice(Genus, Genus + " ", "") + file.name) AS "Wort", Bedeutung, Wortart, Quelle
 FROM "03_Vokabeln"
 WHERE Bedeutung != null
 SORT file.name ASC

@@ -1,6 +1,7 @@
 ---
 Titel: Enge
 Wortart: Substantiv
+Genus: die
 Bedeutung: szűkösség, szorultság
 Quelle: "[[Spiegelbild]]"
 aliases:

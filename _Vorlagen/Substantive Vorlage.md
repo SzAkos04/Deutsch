@@ -1,6 +1,7 @@
 ---
 Titel: <% tp.file.title %>
 Wortart: Substantiv
+Genus:
 Bedeutung:
 Quelle:
 aliases:

@@ -1,6 +1,7 @@
 ---
 Titel: Kuss
 Wortart: Substantiv
+Genus: der
 Bedeutung: csók
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:

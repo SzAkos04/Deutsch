@@ -1,6 +1,7 @@
 ---
 Titel: Gruppe
 Wortart: Substantiv
+Genus: die
 Bedeutung: csoport
 Quelle: "[[Spiegelbild]]"
 aliases:

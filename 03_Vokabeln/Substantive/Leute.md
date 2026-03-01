@@ -1,6 +1,7 @@
 ---
 Titel: Leute
 Wortart: Substantiv
+Genus: die
 Bedeutung: emberek
 Quelle: "[[Spiegelbild]]"
 aliases:
