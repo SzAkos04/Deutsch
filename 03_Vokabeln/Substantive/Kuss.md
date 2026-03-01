@@ -2,11 +2,11 @@
 Wort: Kuss
 Wortart: Substantiv
 Genus: der
+Plural: -̈e
 Bedeutung: csók
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - Küsse
-Plural: ⸚e
 ---
 
 # `=this.Genus` `=this.Wort`, `=this.Plural`

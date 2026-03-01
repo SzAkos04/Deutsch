@@ -2,7 +2,7 @@
 Wort: Hand
 Wortart: Substantiv
 Genus: die
-Plural: ⸚e
+Plural: -̈e
 Bedeutung: kéz
 Quelle: "[[Spiegelbild]]"
 aliases:

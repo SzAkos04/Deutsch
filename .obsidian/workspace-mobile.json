@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "03_Vokabeln/Wörterbuch.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Wörterbuch"
             }
           }
         ]
@@ -184,6 +184,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03_Vokabeln/Substantive/Kuss.md",
+    "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Substantive/Hand.md",
+    "03_Vokabeln/Substantive/Angst.md",
+    "MOC.md",
     "00_Eingang/Grammatik-spezifische/Zeitformen.md",
     "00_Eingang/Grammatik-spezifische/Modalverben.md",
     "00_Eingang/Grammatik-spezifische/Präpositionen.md",
@@ -206,11 +211,6 @@
     "03_Vokabeln/Adverben/morgen.md",
     "03_Vokabeln/Adverben",
     "/_Vorlagen/Verb Vorlage.md",
-    "/_Vorlagen/Substantive Vorlage.md",
-    "/_Vorlagen/Pronomen Vorlage.md",
-    "/_Vorlagen/Lied Vorlage.md",
-    "/_Vorlagen/Konjunktion Vorlage.md",
-    "/_Vorlagen/Allgemeine Vorlage.md",
     "/_Vorlagen",
     "/03_Vokabeln/Verben",
     "/03_Vokabeln/Substantive",
