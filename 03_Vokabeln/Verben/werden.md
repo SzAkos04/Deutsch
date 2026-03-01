@@ -30,8 +30,18 @@ aliases:
 | sie / Sie        | **werden** |
 
 > [!INFO]
-> **Ablaut:** werden $\to$ w**i**rd
-> **starke Verb:** werden $\to$ w**u**rde $\to$ gew**o**rd**en**
+> **Vokalwechsel:** w**e**rden $\to$ w**i**rd (e $\to$ i)
+> **Ablaut:** w**e**rden $\to$ w**u**rde $\to$ gew**o**rden (e $\to$ u $\to$ o)
+> **Hilfsverb (Segédige) szerepei:**
+> > 1. **[[Zeitformen (Igeidők)#4. Futur I (Jövő idő)|Futur I (Jövő idő)]]:** *Ich werde tanzen.* - Táncolni fogok.
+> > 2. **Passiv:** Szenvedő szerkezet (*Es wird gemacht.* - Meg lesz csinálva.)
+> > 3. **Vollverb:** Önálló igeként: "válik valamivé" (állapotváltozás).
+
+---
+
+## Siehe auch
+
+- [[werden]]
 
 ---
 

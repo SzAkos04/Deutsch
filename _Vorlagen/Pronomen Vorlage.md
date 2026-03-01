@@ -17,6 +17,15 @@ aliases:
 | Dativ     |          | Wem?      |
 | Genitiv   |          | Wessen?   |
 
+> [!INFO]
+> 
+
+---
+
+## Siehe auch
+
+- [[<% tp.file.title %>]]
+
 ---
 
  :: <% tp.file.title %>

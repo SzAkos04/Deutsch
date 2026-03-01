@@ -21,6 +21,12 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[schön]]
+
+---
+
 szép(en) :: schön
 
 #Lernkarten 

@@ -10,6 +10,15 @@ aliases:
 
 ## Ungarisch Bedeutung: ""
 
+> [!INFO]
+> 
+
+---
+
+## Siehe auch
+
+- [[<% tp.file.title %>]]
+
 ---
 
  :: <% tp.file.title %>

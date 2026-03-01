@@ -14,6 +14,15 @@ aliases:
 | ----------------------- | ------------------------- | ------------------------------ |
 | **<% tp.file.title %>** | **<% tp.file.title %>er** | am **<% tp.file.title %>sten** |
 
+> [!INFO]
+> 
+
+---
+
+## Siehe auch
+
+- [[<% tp.file.title %>]]
+
 ---
 
  :: <%tp.file.title %>

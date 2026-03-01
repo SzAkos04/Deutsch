@@ -12,7 +12,7 @@ aliases:
 
 | Infinitiv               | Präteritum | Partizip II |
 | ----------------------- | ---------- | ----------- |
-| **<% tp.file.title %>** |            |             |
+| **<% tp.file.title %>** |            | hat / ist   |
 
 | Personalpronomen | Verb                    |
 | ---------------- | ----------------------- |
@@ -22,6 +22,15 @@ aliases:
 | wir              | **<% tp.file.title %>** |
 | ihr              |                         |
 | sie / Sie        | **<% tp.file.title %>** |
+
+> [!INFO]
+> 
+
+---
+
+## Siehe auch
+
+- [[<% tp.file.title %>]]
 
 ---
 

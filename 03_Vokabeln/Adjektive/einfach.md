@@ -21,6 +21,12 @@ Bedeutung: egyszerű(en)
 
 ---
 
+## Siehe auch
+
+- [[einfach]]
+
+---
+
 egyszerű(en) :: einfach
 
 #Lernkarten 

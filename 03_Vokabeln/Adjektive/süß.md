@@ -19,6 +19,15 @@ aliases:
 | ---------- | ---------- | --------------- |
 | **süß**    | **süßer**  | am **süßesten** |
 
+> [!INFO]
+> Mivel a szó **-ß**-re végződik, felsőfok toldaléka **-esten**
+
+---
+
+## Siehe auch
+
+- [[lang]]
+
 ---
 
 édes, aranyos :: süß

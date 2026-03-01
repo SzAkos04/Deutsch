@@ -21,6 +21,12 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[leicht]]
+
+---
+
 könnyű :: leicht
 
 #Lernkarten 

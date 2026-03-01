@@ -21,6 +21,12 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[ehrlich]]
+
+---
+
 őszinte :: ehrlich
 <!--SR:!2026-03-02,1,230-->
 
