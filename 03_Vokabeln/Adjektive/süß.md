@@ -26,7 +26,7 @@ aliases:
 
 ## Siehe auch
 
-- [[lang]]
+- [[süß]]
 
 ---
 

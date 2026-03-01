@@ -19,6 +19,15 @@ aliases:
 | ---------- | ---------- | ---------------- |
 | **weit**   | **weiter** | am **weitesten** |
 
+> [!INFO]
+> Mivel a szó **-t**-re végződik, felsőfok toldaléka **-esten**
+
+---
+
+## Siehe auch
+
+- [[weit]]
+
 ---
 
 messze, távol; széles :: weit

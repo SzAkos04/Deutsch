@@ -12,6 +12,16 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[heute]]
+- [[heutig]]
+- [[gestern]]
+- [[03_Vokabeln/Adverb/morgen]]
+- [[heutzutage]]
+
+---
+
 ma :: heute
 
 #Lernkarten 

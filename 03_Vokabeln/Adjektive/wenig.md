@@ -21,6 +21,12 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[wenig]]
+
+---
+
 kevés :: wenig
 
 #Lernkarten 

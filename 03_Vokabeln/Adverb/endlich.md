@@ -12,6 +12,13 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[endlich]]
+- [[Ende]]
+
+---
+
 végre, végül :: endlich
 
 #Lernkarten 

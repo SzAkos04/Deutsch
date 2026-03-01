@@ -16,7 +16,7 @@ Künstler*in: AnnenMayKantereit
 > Und du bist [[süß]], wie du
 > [[aussehen|aussiehst]], wenn du [[genießen|genießt]]
 > Dass es im Winter [[endlich]] [[schneien|schneit]], du magst jede [[Jahreszeit]]
-> Und morgens muss ich [[lächeln]], Weil mich deine [[Kuss|Küsse]] [[wecken|weck'n]]
+> Und [[morgens]] muss ich [[lächeln]], Weil mich deine [[Kuss|Küsse]] [[wecken|weck'n]]
 > Und dann [[merken|merk']] ich, es ist leicht, weil dir so [[wenig]] [[reichen|reicht]]
 > Du gibst mir Zeit
 > 
