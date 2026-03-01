@@ -36,6 +36,7 @@ Titel: MOC
 
 ## 4. Lieder
 
+- [[Spiegelbild]]
 - [[Vielleicht Vielleicht]]
 
 ## TODO

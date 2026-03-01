@@ -4,63 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "bb82900d5b58da27",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "91933cd5665b9508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Lieder/Spiegelbild.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spiegelbild"
-            }
-          },
-          {
-            "id": "306d10e58c93a762",
-            "type": "leaf",
-            "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
-            }
-          },
-          {
-            "id": "30d5b9f8f7fa9f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Vokabeln/Substantive/Angst.md",
+                "file": "MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angst"
-            }
-          },
-          {
-            "id": "0f443a34337a583e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Lieder/Spiegelbild.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spiegelbild"
+              "title": "MOC"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "viele",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Grammatik/Szórend (Wortstellung).md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Szórend (Wortstellung)"
+              "title": "Backlinks for MOC"
             }
           },
           {
@@ -152,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from MOC"
             }
           },
           {
@@ -194,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of MOC"
             }
           },
           {
@@ -224,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -261,8 +223,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0f443a34337a583e",
+  "active": "91933cd5665b9508",
   "lastOpenFiles": [
+    "01_Grammatik/Zeitformen (Igeidők).md",
+    "Untitled.canvas",
+    "04_Lieder/Spiegelbild.md",
+    "03_Vokabeln/Substantive/Angst.md",
+    "03_Vokabeln/Substantive/Gruppe.md",
     "02_Kommunikation/E-Mail schreiben (E-mail írás).md",
     "01_Grammatik/Konjunktionen (Kötőszók).md",
     "03_Vokabeln/Adjektive/heutig.md",
@@ -271,9 +238,7 @@
     "_Vorlagen/Adverb Vorlage.md",
     "fricken.md",
     "_Vorlagen/Adjektiv Vorlage.md",
-    "03_Vokabeln/Substantive/Angst.md",
     "03_Vokabeln/Substantive/Eltern.md",
-    "04_Lieder/Spiegelbild.md",
     "03_Vokabeln/Verben/rennen.md",
     "03_Vokabeln/Verben/durchrennen.md",
     "03_Vokabeln/Verben/erzählen.md",
@@ -287,8 +252,6 @@
     "_Vorlagen/Allgemeine Vorlage.md",
     "03_Vokabeln/Substantive/Zeit.md",
     "03_Vokabeln/Substantive/Tag.md",
-    "03_Vokabeln/Substantive/Morgen.md",
-    "03_Vokabeln/Substantive/Leute.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
