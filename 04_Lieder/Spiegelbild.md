@@ -44,7 +44,7 @@ Künstler*in: Mayberg
 > 
 > Und du [[klatschen|klatschst]] in die [[Hand|Hände]], du
 > Bist gut mit deinen [[Eltern]] und am Ende, du
-> [[zuhören|Hörst]] [[nie]] dir, immer den andern [[zuhören|zu]]
+> [[zuhören|Hörst]] [[nie]] dir, immer den [[andere|andern]] [[zuhören|zu]]
 > Ja, ich kenn' das, ich kenn' das
 > 
 > Ja, und du schaust täglich in dein Spiegelbild

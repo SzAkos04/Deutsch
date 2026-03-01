@@ -1,6 +1,6 @@
 ```dataview
 TABLE Bedeutung, Wortart, Quelle
 FROM "03_Vokabeln"
-WHERE Wortart != null
+WHERE Bedeutung != null
 SORT file.name ASC
 ```

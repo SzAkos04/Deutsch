@@ -26,6 +26,8 @@ aliases:
 
 - [[bisschen]]
 - [[wenig]]
+- [[etwas]]
+- [[viel]]
 
 ---
 
