@@ -1,21 +1,21 @@
 ---
-Titel: Alltag
+Wort: Alltag
 Wortart: Substantiv
 Genus: der
+Plural: -e
 Bedeutung: mindennapok, hétköznapok
 Quelle:
 aliases:
   - Alltage
 ---
 
-# Alltag
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "mindennapok, hétköznap"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #ADCCFFA6;">der</mark> | Alltag     | -e     |
-
+| Artikel                                         | Substantiv                                                        | Plural                                                                |
+| ----------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", "**" + this.Wort + "**", this.Wort)` | `=choice(this.Genus = "der", "**" + this.Plural + "**", this.Plural)` |
 
 > [!INFO]
 > **Häufige Ausdrücke:**
@@ -27,13 +27,12 @@ aliases:
 
 ## Siehe auch
 
-- [[Alltag]]
 - [[alltäglich]]
 - [[Tag]]
 - [[täglich]]
 
 ---
 
-mindennapok, hétköznap :: <mark style="background: #ADCCFFA6;">der</mark> Alltag, -e
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

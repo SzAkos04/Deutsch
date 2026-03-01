@@ -28,6 +28,6 @@ aliases:
 
 ---
 
- :: <% tp.file.title %>
+`=this.Bedeutung` :: <% tp.file.title %>
 
 #Lernkarten 

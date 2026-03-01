@@ -1,20 +1,21 @@
 ---
-Titel: Angst
+Wort: Angst
 Wortart: Substantiv
 Genus: die
+Plural: ⸚e
 Bedeutung: félelem, szorongás
 Quelle: "[[Spiegelbild]]"
 aliases:
   - Ängste
 ---
 
-# Angst
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
-## Ungarisch Bedeutung: "félelem, szorongás"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv | Plural |
-| ----------------------------------------------- | ---------- | ------ |
-| <mark style="background: #FF5582A6;">die</mark> | Angst      | ⸚e     |
+| Artikel                                         | Substantiv                                                        | Plural                                                                |
+| ----------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", "**" + this.Wort + "**", this.Wort)` | `=choice(this.Genus = "die", "**" + this.Plural + "**", this.Plural)` |
 
 
 > [!INFO]
@@ -24,12 +25,11 @@ aliases:
 
 ## Siehe auch
 
-- [[Angst]]
 - [[ängstlich]]
 - [[sich fürchten]]
 
 ---
 
-félelem, szorongás :: <mark style="background: #FF5582A6;">die</mark> Angst, ⸚e
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 

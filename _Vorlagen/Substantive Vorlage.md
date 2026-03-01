@@ -8,7 +8,7 @@ Quelle:
 aliases:
 ---
 
-# <% tp.file.title %>
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 

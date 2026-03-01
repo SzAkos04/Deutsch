@@ -22,5 +22,15 @@
       "key": "E"
     }
   ],
-  "markdown:toggle-preview": []
+  "markdown:toggle-preview": [],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
 }

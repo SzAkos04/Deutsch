@@ -12,13 +12,13 @@ Quelle:
 aliases:
 ---
 
-# <% tp.file.title %>
+# `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Infinitiv               | Präteritum         | Partizip II                           |
-| ----------------------- | ------------------ | ------------------------------------- |
-| **<% tp.file.title %>** | `=this.Präteritum` | `=this.Hilfsverb` `=this.Partizip_II` |
+| Infinitiv        | Präteritum         | Partizip II                           |
+| ---------------- | ------------------ | ------------------------------------- |
+| **`=this.Wort`** | `=this.Präteritum` | `=this.Hilfsverb` `=this.Partizip_II` |
 
 | Personalpronomen | Verb                    |
 | ---------------- | ----------------------- |
@@ -40,6 +40,6 @@ aliases:
 
 ---
 
-`=this.Bedeutung` :: <% tp.file.title %>
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 
