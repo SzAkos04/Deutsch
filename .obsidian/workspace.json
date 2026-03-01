@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "MOC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -251,7 +251,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ff1d5dce06c1bee8",
+  "active": "5a82d431ab39464b",
   "lastOpenFiles": [
     "_Vorlagen/Verb Vorlage.md",
     "_Vorlagen/Substantive Vorlage.md",
