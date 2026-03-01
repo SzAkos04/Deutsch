@@ -28,13 +28,13 @@ Künstler*in: Mayberg
 > 
 > Und ich bin [[dankbar]]
 > Dass mein [[03_Vokabeln/Substantive/Leben]] mir zum Leben [[reichen|reicht]]
-> [[Manche]] haben's nicht so easy
+> [[manche|Manche]] haben's nicht so easy
 > Manche haben's nicht so [[leicht]]
 > Ich [[kennen|kenne]] [[Leute]], die haben's nicht so leicht
 > Nicht so leicht
 > Und du bist [[irgendwo]] [[dazwischen]]
 > Ne, es ist nicht alles schlecht
-> Ne, also nur'n bisschen
+> Ne, [[also]] nur'n [[bisschen]]
 > Also nur'n bisschen
 > 
 > Ja, und du schaust täglich in dein Spiegelbild
@@ -42,9 +42,9 @@ Künstler*in: Mayberg
 > Ja, und du schaust täglich in dein Spiegelbild
 > Und du merkst, dass da nichts ist, wie du willst
 > 
-> Und du klatschst in die Hände, du
-> Bist gut mit deinen Eltern und am Ende, du
-> Hörst nie dir, immer den andern zu
+> Und du [[klatschen|klatschst]] in die [[Hand|Hände]], du
+> Bist gut mit deinen [[Eltern]] und am Ende, du
+> [[zuhören|Hörst]] [[nie]] dir, immer den andern [[zuhören|zu]]
 > Ja, ich kenn' das, ich kenn' das
 > 
 > Ja, und du schaust täglich in dein Spiegelbild

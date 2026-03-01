@@ -28,9 +28,6 @@ aliases:
 | ihr              | **fehlt**  |
 | sie / Sie        | **fehlen** |
 
-> [!INFO]
-> 
-
 ---
 
 ## Siehe auch
