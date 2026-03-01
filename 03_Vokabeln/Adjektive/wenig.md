@@ -5,6 +5,9 @@ Bedeutung: kevés
 Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
   - weniger
+  - wenige
+  - weniges
+  - wenigen
   - wenigsten
 ---
 

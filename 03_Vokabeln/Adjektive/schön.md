@@ -7,6 +7,7 @@ aliases:
   - schöner
   - schöne
   - schönes
+  - schönen
   - schönsten
 ---
 

@@ -36,7 +36,8 @@ aliases:
 
 > [!INFO]
 > **trennbare Verb:** zu|sehen
-> **Ablaut:** zu|sehen $\to$ zu|s**ie**ht
+> **Ablaut:** zu|s**e**hen $\to$ zu|s**ie**ht
+> **starke Verb:** zu|s**e**hen $\to$ s**a**h zu $\to$ zugeseh**en**
 
 ---
 

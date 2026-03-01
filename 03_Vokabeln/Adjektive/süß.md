@@ -7,6 +7,7 @@ aliases:
   - süßer
   - süße
   - süßes
+  - süßen
   - süßesten
 ---
 

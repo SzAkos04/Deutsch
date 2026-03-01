@@ -29,6 +29,10 @@ aliases:
 | ihr              | **gebt**  |
 | sie / Sie        | **geben** |
 
+> [!INFO]
+> **starke Verb:** geben $\to$ gab $\to$ gegeben
+
+
 ---
 
 adni :: geben

@@ -7,6 +7,7 @@ aliases:
   - weiter
   - weite
   - weites
+  - weiten
   - weitesten
 ---
 
@@ -21,5 +22,6 @@ aliases:
 ---
 
 messze, távol; széles :: weit
+<!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

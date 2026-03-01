@@ -6,6 +6,7 @@ aliases:
   - einfacher
   - einfache
   - einfaches
+  - einfachen
   - einfachsten
 Bedeutung: egyszerű(en)
 ---

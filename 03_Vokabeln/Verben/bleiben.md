@@ -28,6 +28,9 @@ aliases:
 | ihr              | **bleibt**  |
 | sie / Sie        | **bleiben** |
 
+> [!INFO]
+> **starke Verb:** bl**ei**ben $\to$ bl**ie**b $\to$ gebl**ie**ben
+
 ---
 
 maradni :: bleiben

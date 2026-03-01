@@ -7,6 +7,7 @@ aliases:
   - langer
   - lange
   - langes
+  - langen
   - länger
   - längsten
 ---

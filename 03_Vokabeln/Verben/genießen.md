@@ -27,6 +27,9 @@ aliases:
 | ihr              | **genießt**  |
 | sie / Sie        | **genießen** |
 
+> [!INFO]
+> **starke Verb:** gen**ieß**en $\to$ gen**oss** $\to$ ge**nossen**
+
 ---
 
 élvezni :: genießen

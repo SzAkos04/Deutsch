@@ -29,7 +29,7 @@ Künstler*in: AnnenMayKantereit
 > Ja, es ist leicht, leicht, leicht, leicht
 > 
 > Es ist so [[schön]] dir [[zusehen|zuzusehen]]
-> Wenn du [[duschen]] gehst
+> Wenn du [[duschen]] [[gehen|gehst]]
 > Und dann vor mit [[stehen|stehst]] und sagst: "Es [[werden|wird]] ein [[lang|langer]] Tag"
 > Und wenn du mich dann [[fragen|fragst]]
 > Was wir [[heute|heut']] Abend machen und wir zwischen Küssen [[lachen]]
@@ -45,10 +45,10 @@ Künstler*in: AnnenMayKantereit
 > Ja, es ist leicht, leicht, leicht, leicht
 > 
 > Weil du siehst, was ich [[sonst]] [[niemand|niemandem]] [[zeigen|zeige]]
-> Ich kann dir erzählen, was ich mir selbst verschweige
+> Ich kann dir [[erzählen]], was ich mir selbst [[verschweigen|verschweige]]
 > 
 > Und ich will, dass es für immer so bleibt
-> Und ich glaube, das geht
+> Und ich [[glauben|glaube]], das geht
 > 
 > Vielleicht, vielleicht
 > Vielleicht, vielleicht

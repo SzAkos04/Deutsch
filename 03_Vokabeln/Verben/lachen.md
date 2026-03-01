@@ -19,7 +19,6 @@ aliases:
 | ---------- | ---------- | --------------- |
 | **lachen** | **lachte** | hat **gelacht** |
 
-
 | Personalpronomen | Verb       |
 | ---------------- | ---------- |
 | ich              | **lache**  |

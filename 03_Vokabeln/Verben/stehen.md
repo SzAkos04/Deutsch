@@ -29,7 +29,7 @@ aliases:
 | sie / Sie        | **stehen** |
 
 > [!INFO]
-> **Ablaut:** st**eh**en $\to$ st**and** $\to$ gest**anden**
+> **starke Verb:** st**eh**en $\to$ st**and** $\to$ gest**anden**
 
 ---
 

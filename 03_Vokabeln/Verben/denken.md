@@ -28,6 +28,9 @@ aliases:
 | ihr              | **denkt**  |
 | sie / Sie        | **denken** |
 
+> [!INFO]
+> **Mischverb:** denken $\to$ dachte $\to$ gedacht
+
 ---
 
 gondolkodni, gondolni :: denken

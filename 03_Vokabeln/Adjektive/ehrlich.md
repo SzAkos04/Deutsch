@@ -7,6 +7,7 @@ aliases:
   - ehrlicher
   - ehrliche
   - ehrliches
+  - ehrlichen
   - ehrlichsten
 ---
 
@@ -21,5 +22,6 @@ aliases:
 ---
 
 őszinte :: ehrlich
+<!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

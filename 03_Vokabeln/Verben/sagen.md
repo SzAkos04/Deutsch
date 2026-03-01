@@ -28,9 +28,6 @@ aliases:
 | ihr              | **sagt**  |
 | sie / Sie        | **sagen** |
 
-> [!INFO]
-> **Vonzat:** Valakinek (**Dativ**) mondani valamit (**Akkusativ**).
-
 ---
 
 mondani :: sagen

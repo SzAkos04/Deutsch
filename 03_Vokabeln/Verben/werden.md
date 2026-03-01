@@ -29,6 +29,10 @@ aliases:
 | ihr              | **werdet** |
 | sie / Sie        | **werden** |
 
+> [!INFO]
+> **Ablaut:** werden $\to$ w**i**rd
+> **starke Verb:** werden $\to$ w**u**rde $\to$ gew**o**rd**en**
+
 ---
 
 válik valamivé, lesz (folyamat) :: werden

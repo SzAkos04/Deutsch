@@ -7,6 +7,7 @@ aliases:
   - leichter
   - leichte
   - leichtes
+  - leichten
   - leichtesten
 ---
 
