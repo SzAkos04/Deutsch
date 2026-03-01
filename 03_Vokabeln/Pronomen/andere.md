@@ -9,11 +9,11 @@ aliases:
   - anderen
 ---
 
-# andere
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "más, másik, a többiek"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Kausus    | Pronomen    | Fragewort |
+| Kasus     | Pronomen    | Fragewort |
 | :-------- | ----------- | --------- |
 | Nominativ | **anderen** | Wer? Was? |
 | Akkusativ | **anderen** | Wen? Was? |
@@ -24,12 +24,11 @@ aliases:
 
 ## Siehe auch
 
-- [[andere]]
 - [[einige]]
 - [[alle]]
 
 ---
 
-más, másik, a többiek :: andere
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

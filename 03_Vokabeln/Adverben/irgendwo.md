@@ -6,9 +6,9 @@ Quelle: "[[Spiegelbild]]"
 aliases:
 ---
 
-# irgendwo
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "valahol"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 > [!INFO]
 > Az ***irgend-*** család tagja (vala-):
@@ -29,11 +29,10 @@ aliases:
 
 ## Siehe auch
 
-- [[irgendwo]]
 - [[wo]]
 
 ---
 
-valahol :: irgendwo
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

@@ -11,26 +11,23 @@ aliases:
   - süßesten
 ---
 
-# süß
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "édes, aranyos"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv    | Komparativ | Superlativ      |
-| ---------- | ---------- | --------------- |
-| **süß**    | **süßer**  | am **süßesten** |
-
-> [!INFO]
-> Mivel a szó **-ß**-re végződik, felsőfok toldaléka **-esten**
+| Positiv          | Komparativ         | Superlativ               |
+| ---------------- | ------------------ | ------------------------ |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`esten** |
 
 ---
 
 ## Siehe auch
 
-- [[süß]]
+- 
 
 ---
 
-édes, aranyos :: süß
+`=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-03-05,4,270-->
 
 #Lernkarten 

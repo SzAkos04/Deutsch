@@ -6,22 +6,21 @@ Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
 ---
 
-# heute
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "ma"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 ---
 
 ## Siehe auch
 
-- [[heute]]
 - [[heutig]]
 - [[gestern]]
-- [[03_Vokabeln/Adverb/morgen]]
+- [[03_Vokabeln/Adverben/morgen|morgen]]
 - [[heutzutage]]
 
 ---
 
-ma :: heute
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

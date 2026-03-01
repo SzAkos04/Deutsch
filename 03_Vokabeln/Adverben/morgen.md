@@ -6,9 +6,9 @@ Quelle:
 aliases:
 ---
 
-# morgen
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "holnap"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 > [!INFO]
 > **Kombinationen:**
@@ -20,11 +20,10 @@ aliases:
 
 ## Siehe auch
 
-- [[03_Vokabeln/Adverb/morgen|morgen]]
 - [[03_Vokabeln/Substantive/Morgen|Morgen]]
 
 ---
 
-holnap :: morgen
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

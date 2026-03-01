@@ -10,13 +10,13 @@ aliases:
   - gestrigen
 ---
 
-# gestrig
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "tegnapi"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv     | Komparativ | Superlativ |
-| ----------- | ---------- | ---------- |
-| **gestrig** |            |            |
+| Positiv          | Komparativ | Superlativ |
+| ---------------- | ---------- | ---------- |
+| **`=this.Wort`** |            |            |
 
 > [!INFO]
 > **Absolutadjektiv:** nem fokozható
@@ -25,14 +25,13 @@ aliases:
 
 ## Siehe auch
 
-- [[gestrig]]
 - [[gestern]]
 - [[heutig]]
 - [[morgig]]
 
 ---
 
-tegnapi :: gestrig
+`=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-03-05,4,270-->
 
 #Lernkarten 

@@ -13,23 +13,23 @@ aliases:
 Bedeutung: egyszerű(en)
 ---
 
-# einfach
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "egyszerű(en)"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv     | Komparativ    | Superlativ         |
-| ----------- | ------------- | ------------------ |
-| **einfach** | **einfacher** | am **einfachsten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 ---
 
 ## Siehe auch
 
-- [[einfach]]
+- 
 
 ---
 
-egyszerű(en) :: einfach
+`=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-03-05,4,270-->
 
 #Lernkarten 

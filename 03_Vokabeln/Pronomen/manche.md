@@ -8,11 +8,11 @@ aliases:
   - manches
 ---
 
-# manche
+# `=this.Wort`
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Kausus    | Pronomen    | Fragewort |
+| Kasus     | Pronomen    | Fragewort |
 | :-------- | ----------- | --------- |
 | Nominativ | **manche**  | Wer? Was? |
 | Akkusativ | **manche**  | Wen? Was? |
@@ -23,13 +23,12 @@ aliases:
 
 ## Siehe auch
 
-- [[manche]]
 - [[viele]]
 - [[einige]]
 - [[alle]]
 
 ---
 
-néhány, némelyik, páran :: manche
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

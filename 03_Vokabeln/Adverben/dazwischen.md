@@ -6,23 +6,19 @@ Quelle: "[[Spiegelbild]]"
 aliases:
 ---
 
-# dazwischen
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "közötte, aközött, közéjük"
-
-> [!INFO]
-> 
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 ---
 
 ## Siehe auch
 
-- [[dazwischen]]
 - [[dazwischenkommen]]
 - [[dazwischenreden]]
 
 ---
 
-közötte, aközött, közéjük :: dazwischen
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

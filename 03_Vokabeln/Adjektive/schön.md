@@ -13,22 +13,22 @@ aliases:
   - schönsten
 ---
 
-# schön
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "szép(en)"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv   | Komparativ  | Superlativ       |
-| --------- | ----------- | ---------------- |
-| **schön** | **schöner** | am **schönsten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 ---
 
 ## Siehe auch
 
-- [[schön]]
+- 
 
 ---
 
-szép(en) :: schön
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

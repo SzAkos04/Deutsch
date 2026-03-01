@@ -12,13 +12,13 @@ aliases:
   - längsten
 ---
 
-# lang
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "hosszú"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv  | Komparativ | Superlativ      |
-| -------- | ---------- | --------------- |
-| **lang** | **länger** | am **längsten** |
+| Positiv          | Komparativ | Superlativ      |
+| ---------------- | ---------- | --------------- |
+| **`=this.Wort`** | **länger** | am **längsten** |
 
 > [!INFO]
 > **Vokalwechsel:** l**a**ng $\to$ l**ä**nger $\to$ l**ä**ngsten
@@ -27,10 +27,10 @@ aliases:
 
 ## Siehe auch
 
-- [[lang]]
+- 
 
 ---
 
-hosszú :: lang
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

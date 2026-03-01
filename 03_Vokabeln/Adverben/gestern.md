@@ -6,21 +6,20 @@ Quelle:
 aliases:
 ---
 
-# gestern
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "tegnap"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 ---
 
 ## Siehe auch
 
-- [[gestern]]
 - [[gestrig]]
 - [[heute]]
-- [[03_Vokabeln/Adverb/morgen|morgen]]
+- [[03_Vokabeln/Adverben/morgen|morgen]]
 
 ---
 
-tegnap :: gestern
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

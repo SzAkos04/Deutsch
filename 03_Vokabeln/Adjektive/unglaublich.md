@@ -11,24 +11,23 @@ aliases:
   - unglaublichsten
 ---
 
-# unglaublich
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "hihetetlen"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv                 | Komparativ                | Superlativ                     |
-| ----------------------- | ------------------------- | ------------------------------ |
-| **unglaublich** | **unglaublicher** | am **unglaublichsten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 ---
 
 ## Siehe auch
 
-- [[unglaublich]]
 - [[glauben]]
 
 ---
 
-hihetetlen :: unglaublich
+`=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

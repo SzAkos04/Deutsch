@@ -10,25 +10,24 @@ aliases:
   - dankbaren
 ---
 
-# dankbar
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "hálás"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv                 | Komparativ                | Superlativ                     |
-| ----------------------- | ------------------------- | ------------------------------ |
-| **dankbar** | **dankbarer** | am **dankbarsten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 ---
 
 ## Siehe auch
 
-- [[dankbar]]
 - [[Dank]]
 - [[danken]]
 - [[undankbar]]
 
 ---
 
-hálás :: dankbar
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

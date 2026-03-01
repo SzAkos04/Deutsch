@@ -6,15 +6,14 @@ Quelle:
 aliases:
 ---
 
-# nie
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "soha"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 ---
 
 ## Siehe auch
 
-- [[nie]]
 - [[immer]]
 - [[niemals]]
 - [[niemand]]
@@ -22,6 +21,6 @@ aliases:
 
 ---
 
-soha :: nie
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

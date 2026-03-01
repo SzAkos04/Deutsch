@@ -13,22 +13,22 @@ aliases:
   - wenigsten
 ---
 
-# wenig
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "kevés"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv                 | Komparativ                | Superlativ                     |
-| ----------------------- | ------------------------- | ------------------------------ |
-| **wenig** | **weniger** | am **wenigsten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 ---
 
 ## Siehe auch
 
-- [[wenig]]
+- 
 
 ---
 
-kevés :: wenig
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

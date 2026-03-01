@@ -9,20 +9,26 @@ aliases:
   - niemands
 ---
 
-# niemand
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "senki"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Kausus    | Pronomen                     | Fragewort |
+| Kasus     | Pronomen                     | Fragewort |
 | :-------- | ---------------------------- | --------- |
 | Nominativ | **niemand**                  | Wer? Was? |
 | Akkusativ | **niemanden**                | Wen? Was? |
 | Dativ     | **niemandem**                | Wem?      |
 | Genitiv   | **niemands** / **niemandes** | Wessen?   |
 
+---
+
+## Siehe auch
+
+- [[nichts]]
+- [[nie]]
 
 ---
 
-senki :: niemand
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

@@ -6,19 +6,18 @@ Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
 ---
 
-# endlich
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "végre, végül"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 ---
 
 ## Siehe auch
 
-- [[endlich]]
 - [[Ende]]
 
 ---
 
-végre, végül :: endlich
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

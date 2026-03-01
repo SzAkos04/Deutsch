@@ -11,26 +11,23 @@ aliases:
   - weitesten
 ---
 
-# weit
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "messze, távol; széles"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv    | Komparativ | Superlativ       |
-| ---------- | ---------- | ---------------- |
-| **weit**   | **weiter** | am **weitesten** |
-
-> [!INFO]
-> Mivel a szó **-t**-re végződik, felsőfok toldaléka **-esten**
+| Positiv          | Komparativ         | Superlativ               |
+| ---------------- | ------------------ | ------------------------ |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`esten** |
 
 ---
 
 ## Siehe auch
 
-- [[weit]]
+- 
 
 ---
 
-messze, távol; széles :: weit
+`=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

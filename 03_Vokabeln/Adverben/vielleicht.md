@@ -1,8 +1,8 @@
 ---
-Wort: also
-Wortart: Konjunktionaladverb
-Bedeutung: tehát, szóval
-Quelle: "[[Spiegelbild]]"
+Wort: vielleicht
+Wortart: Adverb
+Bedeutung: talán
+Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
 ---
 
@@ -14,9 +14,7 @@ aliases:
 
 ## Siehe auch
 
-- [[auch]]
-- [[deshalb]]
-- [[folglich]]
+- 
 
 ---
 

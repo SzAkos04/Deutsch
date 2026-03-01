@@ -12,13 +12,9 @@ aliases:
   - täglichen
 ---
 
-# täglich
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "napi, naponta, mindennapi"
-
-| Positiv     | Komparativ | Superlativ |
-| ----------- | ---------- | ---------- |
-| **täglich** |            |            |
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 > [!INFO]
 > **Verwendung:**
@@ -31,7 +27,6 @@ aliases:
 
 ## Siehe auch
 
-- [[täglich]]
 - [[Tag]]
 - [[heutig]]
 - [[alltäglich]]
@@ -39,6 +34,6 @@ aliases:
 
 ---
 
-napi, naponta, mindennapi :: täglich
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

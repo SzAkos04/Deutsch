@@ -6,21 +6,20 @@ Quelle:
 aliases:
 ---
 
-# heutzutage
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "manapság"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 ---
 
 ## Siehe auch
 
-- [[heutzutage]]
 - [[heute]]
 - [[heutig]]
 - [[Tag]]
 
 ---
 
-manapság :: heutzutage
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

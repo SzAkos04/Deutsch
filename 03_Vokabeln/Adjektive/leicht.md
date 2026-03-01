@@ -11,22 +11,22 @@ aliases:
   - leichtesten
 ---
 
-# leicht
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "könnyű, egyszerű"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv    | Komparativ   | Superlativ         |
-| ---------- | ------------ | ------------------ |
-| **leicht** | **leichter** | am **leichtesten** |
+| Positiv          | Komparativ         | Superlativ               |
+| ---------------- | ------------------ | ------------------------ |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`esten** |
 
 ---
 
 ## Siehe auch
 
-- [[leicht]]
+- 
 
 ---
 
-könnyű :: leicht
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

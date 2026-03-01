@@ -13,13 +13,13 @@ aliases:
   - richtigsten
 ---
 
-# richtig
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "helyes, igaz, valódi, rendesen"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv     | Komparativ    | Superlativ         |
-| ----------- | ------------- | ------------------ |
-| **richtig** | **richtiger** | am **richtigsten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 > [!INFO]
 > 
@@ -28,13 +28,12 @@ aliases:
 
 ## Siehe auch
 
-- [[richtig]]
 - [[falsch]]
 - [[echt]]
 
 ---
 
-helyes, igaz, valódi, rendesen :: richtig
+`=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-03-05,4,270-->
 
 #Lernkarten 

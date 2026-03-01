@@ -10,7 +10,7 @@ aliases:
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Kausus    | Pronomen | Fragewort |
+| Kasus     | Pronomen | Fragewort |
 | :-------- | -------- | --------- |
 | Nominativ |          | Wer? Was? |
 | Akkusativ |          | Wen? Was? |

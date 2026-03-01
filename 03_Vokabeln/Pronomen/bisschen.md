@@ -6,31 +6,27 @@ Quelle: "[[Spiegelbild]]"
 aliases:
 ---
 
-# bisschen
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "egy kicsi, egy kevés"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Kausus    | Pronomen           | Fragewort |
+| Kasus     | Pronomen           | Fragewort |
 | :-------- | ------------------ | --------- |
 | Nominativ | ein **bisschen**   | Wer? Was? |
 | Akkusativ | ein **bisschen**   | Wen? Was? |
 | Dativ     | ein **bisschen**   | Wem?      |
 | Genitiv   | eines **bisschen** | Wessen?   |
 
-> [!INFO]
-> 
-
 ---
 
 ## Siehe auch
 
-- [[bisschen]]
 - [[wenig]]
 - [[etwas]]
 - [[viel]]
 
 ---
 
-egy kicsi, egy kevés :: bisschen
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

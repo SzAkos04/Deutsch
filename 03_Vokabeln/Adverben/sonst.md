@@ -6,12 +6,18 @@ Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
 ---
 
-# sonst
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "egyébként, különben, máskülönben"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 ---
 
-egyébként, különben, máskülönben :: sonst
+## Siehe auch
+
+- 
+
+---
+
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

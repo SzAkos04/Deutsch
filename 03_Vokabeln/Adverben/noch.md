@@ -8,9 +8,9 @@ Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
 ---
 
-# noch
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "még"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 > [!INFO]
 > **Gyakori párosítások:**
@@ -20,6 +20,12 @@ aliases:
 
 ---
 
-még :: noch
+## Siehe auch
+
+- 
+
+---
+
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

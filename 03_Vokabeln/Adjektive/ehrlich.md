@@ -11,23 +11,23 @@ aliases:
   - ehrlichsten
 ---
 
-# ehrlich
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "őszinte"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv     | Komparativ    | Superlativ         |
-| ----------- | ------------- | ------------------ |
-| **ehrlich** | **ehrlicher** | am **ehrlichsten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 ---
 
 ## Siehe auch
 
-- [[ehrlich]]
+- 
 
 ---
 
-őszinte :: ehrlich
+`=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-03-02,1,230-->
 
 #Lernkarten 

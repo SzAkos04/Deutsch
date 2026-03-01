@@ -6,23 +6,19 @@ Quelle: "[[Vielleicht Vielleicht]]"
 aliases:
 ---
 
-# morgens
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "reggelente"
-
-> [!INFO]
-> 
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 ---
 
 ## Siehe auch
 
-- [[morgens]]
 - [[03_Vokabeln/Substantive/Morgen|Morgen]]
-- [[03_Vokabeln/Adverb/morgen|morgen]]
+- [[03_Vokabeln/Adverben/morgen|morgen]]
 
 ---
 
-reggelente :: morgens
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

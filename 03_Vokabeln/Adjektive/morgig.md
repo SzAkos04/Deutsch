@@ -10,13 +10,13 @@ aliases:
   - morgigen
 ---
 
-# morgig
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "holnapi"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv    | Komparativ | Superlativ |
-| ---------- | ---------- | ---------- |
-| **morgig** |            |            |
+| Positiv          | Komparativ | Superlativ |
+| ---------------- | ---------- | ---------- |
+| **`=this.Wort`** |            |            |
 
 > [!INFO]
 > **Absolutadjektiv:** nem fokozható
@@ -25,15 +25,14 @@ aliases:
 
 ## Siehe auch
 
-- [[morgig]]
-- [[03_Vokabeln/Adverb/morgen|morgen]]
+- [[03_Vokabeln/Adverben/morgen|morgen]]
 - [[03_Vokabeln/Substantive/Morgen|Morgen]]
 - [[heutig]]
 - [[gestrig]]
 
 ---
 
-holnapi :: morgig
+`=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-03-04,3,250-->
 
 #Lernkarten 

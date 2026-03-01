@@ -11,13 +11,13 @@ aliases:
   - heutigsten
 ---
 
-# heutig
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "mai"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv    | Komparativ | Superlativ |
-| ---------- | ---------- | ---------- |
-| **heutig** | -          | -          |
+| Positiv          | Komparativ | Superlativ |
+| ---------------- | ---------- | ---------- |
+| **`=this.Wort`** | -          | -          |
 
 > [!INFO]
 > **Wichtig:** nem fokozható
@@ -27,7 +27,6 @@ aliases:
 
 ## Siehe auch
 
-- [[heutig]]
 - [[heute]]
 - [[heutzutage]]
 - [[gestrig]]
@@ -35,6 +34,6 @@ aliases:
 
 ---
 
-mai :: heutig
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 

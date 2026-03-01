@@ -27,7 +27,7 @@ aliases:
 
 ## Siehe auch
 
-- [[03_Vokabeln/Adverb/morgen|morgen]]
+- [[03_Vokabeln/Adverben/morgen|morgen]]
 
 ---
 

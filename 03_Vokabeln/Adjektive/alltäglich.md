@@ -11,13 +11,13 @@ aliases:
   - alltäglichsten
 ---
 
-# alltäglich
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "hétköznapi, megszokott, mindennapi"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv        | Komparativ       | Superlativ            |
-| -------------- | ---------------- | --------------------- |
-| **alltäglich** | **alltäglicher** | am **alltäglichsten** |
+| Positiv          | Komparativ         | Superlativ              |
+| ---------------- | ------------------ | ----------------------- |
+| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
 
 > [!INFO]
 > 
@@ -26,13 +26,12 @@ aliases:
 
 ## Siehe auch
 
-- [[alltäglich]]
 - [[Alltag]]
 - [[Tag]]
 - [[täglich]]
 
 ---
 
-hétköznapi, megszokott, mindennapi :: alltäglich
+`=this.Bedeutung` :: `=this.Wort`
 
 #Lernkarten 
