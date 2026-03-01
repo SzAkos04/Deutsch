@@ -17,6 +17,6 @@ aliases:
 
 ---
 
-csók :: <mark style="background: #ADCCFFA6;">der</mark> Kuss, -
+csók :: <mark style="background: #ADCCFFA6;">der</mark> Kuss, ⸚e
 
 #Lernkarten 

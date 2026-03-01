@@ -18,7 +18,7 @@ Künstler*in: Mayberg
 > Ohne [[Angst]] in eine [[Gruppe]] geh'n
 > Und dann am besten über mich [[erzählen|erzähl'n]]
 > Ich [[drängen|dräng']] mich [[immer]] selber in die [[Enge]], ich
-> [[Renne]] [[durch]] und seh' das [[Ende]] nicht
+> [[durchrennen|Renne durch]] und seh' das [[Ende]] nicht
 > Ich seh' das Ende nicht
 > 
 > Ja, und du schaust täglich in dein Spiegelbild
@@ -27,11 +27,11 @@ Künstler*in: Mayberg
 > Und du merkst, dass da nichts ist, wie du willst
 > 
 > Und ich bin [[dankbar]]
-> Dass mein [[Leben]] mir zum Leben [[reicht]]
+> Dass mein [[03_Vokabeln/Substantive/Leben]] mir zum Leben [[reichen|reicht]]
 > [[Manche]] haben's nicht so easy
 > Manche haben's nicht so [[leicht]]
-> Ich [[kennen|kenne]] [[Leute]], die haben's nicht so leight
-> Nicht so leight
+> Ich [[kennen|kenne]] [[Leute]], die haben's nicht so leicht
+> Nicht so leicht
 > Und du bist [[irgendwo]] [[dazwischen]]
 > Ne, es ist nicht alles schlecht
 > Ne, also nur'n bisschen

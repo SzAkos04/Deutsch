@@ -13,7 +13,7 @@ aliases:
 
 # schauen
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "nézni, tekinteni"
 
 | Infinitiv   | Präteritum  | Partizip II      |
 | ----------- | ----------- | ---------------- |
@@ -36,10 +36,11 @@ aliases:
 - [[anschauen]]
 - [[zuschauen]]
 - [[reinschauen]]
-- [[]]
+- [[vorbeischauen]]
+- [[sehen]]
 
 ---
 
- :: schauen
+nézni, tekinteni :: schauen
 
 #Lernkarten 
