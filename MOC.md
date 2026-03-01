@@ -31,7 +31,7 @@ Titel: MOC
 - [[Artikel und Pronomen]]
 - [[Konjugation]]
 - [[Modalverben]]
-- [[Präpositionen]]
+- [[03_Vokabeln/Grammatik-spezifische/Präpositionen|Präpositionen]]
 - [[Zeitformen]]
 
 ## 4. Lieder

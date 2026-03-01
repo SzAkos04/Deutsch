@@ -3,7 +3,6 @@ Titel: Präpositionen
 tags:
   - Wortschatz
 Grammatik: "[[Präpositionen (Elöljárószók)]]"
-Lernkarte: "[[03_Vokabeln/Lernkarten/Präpositionen|Präpositionen]]"
 ---
 # Präpositionen
 
