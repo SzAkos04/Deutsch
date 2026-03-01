@@ -28,6 +28,8 @@ aliases:
 
 - [[alltäglich]]
 - [[Alltag]]
+- [[Tag]]
+- [[täglich]]
 
 ---
 

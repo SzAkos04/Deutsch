@@ -9,7 +9,7 @@ aliases:
 
 # Alltag
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "mindennapok, hétköznap"
 
 | Artikel                                         | Substantiv | Plural |
 | ----------------------------------------------- | ---------- | ------ |
@@ -28,9 +28,11 @@ aliases:
 
 - [[Alltag]]
 - [[alltäglich]]
+- [[Tag]]
+- [[täglich]]
 
 ---
 
- :: <mark style="background: #ADCCFFA6;">der</mark> / <mark style="background: #BBFABBA6;">das</mark> / <mark style="background: #FF5582A6;">die</mark> Alltag, -
+mindennapok, hétköznap :: <mark style="background: #ADCCFFA6;">der</mark> Alltag, -e
 
 #Lernkarten 

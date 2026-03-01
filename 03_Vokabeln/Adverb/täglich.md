@@ -23,7 +23,7 @@ aliases:
 > > 1. **Adverb (Határozószó):** *Ich lerne täglich Deutsch.* (Naponta tanulok németet.)
 > > 2. **Adjektiv (Melléknév):** *Das tägliche Brot.* (A mindennapi kenyér.)
 > 
-> **Wichtig:** nem fokozható
+> **Absolutadjektiv:** nem fokozható
 
 ---
 
@@ -32,6 +32,8 @@ aliases:
 - [[täglich]]
 - [[Tag]]
 - [[heutig]]
+- [[alltäglich]]
+- [[Alltag]]
 
 ---
 
