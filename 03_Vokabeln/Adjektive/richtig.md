@@ -33,5 +33,6 @@ aliases:
 ---
 
 helyes, igaz, valódi, rendesen :: richtig
+<!--SR:!2026-03-05,4,270-->
 
 #Lernkarten 

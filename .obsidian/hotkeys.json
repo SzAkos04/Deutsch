@@ -13,5 +13,14 @@
       "key": "G"
     }
   ],
-  "graph:open": []
+  "graph:open": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": []
 }

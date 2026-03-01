@@ -34,5 +34,6 @@ aliases:
 ---
 
 holnapi :: morgig
+<!--SR:!2026-03-04,3,250-->
 
 #Lernkarten 

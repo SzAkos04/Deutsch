@@ -27,7 +27,7 @@ Künstler*in: Mayberg
 > Und du merkst, dass da nichts ist, wie du willst
 > 
 > Und ich bin [[dankbar]]
-> Dass mein [[03_Vokabeln/Substantive/Leben]] mir zum Leben [[reichen|reicht]]
+> Dass mein [[03_Vokabeln/Substantive/Leben|Leben]] mir zum Leben [[reichen|reicht]]
 > [[manche|Manche]] haben's nicht so easy
 > Manche haben's nicht so [[leicht]]
 > Ich [[kennen|kenne]] [[Leute]], die haben's nicht so leicht

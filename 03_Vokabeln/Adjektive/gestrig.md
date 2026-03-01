@@ -33,5 +33,6 @@ aliases:
 ---
 
 tegnapi :: gestrig
+<!--SR:!2026-03-05,4,270-->
 
 #Lernkarten 
