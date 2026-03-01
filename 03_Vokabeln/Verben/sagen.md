@@ -13,11 +13,11 @@ aliases:
 
 # sagen
 
-## Ungarisch Bedeutung: "mondani (valakine)"
+## Ungarisch Bedeutung: "mondani"
 
-| Infinitiv | Präteritum | Partizip II |
-| --------- | ---------- | ----------- |
-| **sagen** | **sagte**  | **gesagt**  |
+| Infinitiv | Präteritum | Partizip II    |
+| --------- | ---------- | -------------- |
+| **sagen** | **sagte**  | hat **gesagt** |
 
 | Personalpronomen | Verb      |
 | ---------------- | --------- |

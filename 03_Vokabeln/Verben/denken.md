@@ -15,9 +15,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "gondolkodni, gondolni"
 
-| Infinitiv  | Präteritum | Partizip II |
-| ---------- | ---------- | ----------- |
-| **denken** | **dachte** | **gedacht** |
+| Infinitiv  | Präteritum | Partizip II     |
+| ---------- | ---------- | --------------- |
+| **denken** | **dachte** | hat **gedacht** |
 
 | Personalpronomen | Verb       |
 | ---------------- | ---------- |

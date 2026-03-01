@@ -16,9 +16,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "adni"
 
-| Infinitiv | Präteritum | Partizip II |
-| --------- | ---------- | ----------- |
-| **geben** | **gab**    | **gegeben** |
+| Infinitiv | Präteritum | Partizip II     |
+| --------- | ---------- | --------------- |
+| **geben** | **gab**    | hat **gegeben** |
 
 | Personalpronomen | Verb      |
 | ---------------- | --------- |

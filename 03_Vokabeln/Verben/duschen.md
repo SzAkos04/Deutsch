@@ -14,9 +14,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "zuhanyozni"
 
-| Infinitiv   | Präteritum  | Partizip II  |
-| ----------- | ----------- | ------------ |
-| **duschen** | **duschte** | **geduscht** |
+| Infinitiv   | Präteritum  | Partizip II      |
+| ----------- | ----------- | ---------------- |
+| **duschen** | **duschte** | hat **geduscht** |
 
 | Personalpronomen | Verb        |
 | ---------------- | ----------- |
