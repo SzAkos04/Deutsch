@@ -173,9 +173,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "37f2f0481c6f63a3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -206,13 +216,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1a6abc6630ba3ba6",
+  "active": "37f2f0481c6f63a3",
   "lastOpenFiles": [
     "03_Vokabeln/Substantive/Ende.md",
     "03_Vokabeln/Substantive/Eltern.md",
