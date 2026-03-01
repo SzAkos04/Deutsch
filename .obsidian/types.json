@@ -5,6 +5,9 @@
     "tags": "tags",
     "Wortart": "multitext",
     "Bedeutung": "text",
-    "Quelle": "multitext"
+    "Quelle": "multitext",
+    "Verbtyp": "multitext",
+    "Hilfsverb": "multitext",
+    "Präteritum": "text"
   }
 }

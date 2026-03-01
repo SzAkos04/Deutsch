@@ -1,5 +1,5 @@
 ---
-Titel: <% tp.file.title %>
+Wort: <% tp.file.title %>
 Wortart: Pronomen
 Bedeutung:
 Quelle:
@@ -8,7 +8,7 @@ aliases:
 
 # <% tp.file.title %>
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Kausus    | Pronomen | Fragewort |
 | :-------- | -------- | --------- |
@@ -24,7 +24,7 @@ aliases:
 
 ## Siehe auch
 
-- [[<% tp.file.title %>]]
+- 
 
 ---
 

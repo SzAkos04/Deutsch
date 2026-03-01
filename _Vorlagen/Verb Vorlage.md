@@ -1,18 +1,24 @@
 ---
-Titel: <% tp.file.title %>
+Wort: <% tp.file.title %>
 Wortart: Verb
+Verbtyp:
+  - "# stark / schwach / gemischt / modal"
 Bedeutung:
+Präteritum:
+Partizip_II:
+Hilfsverb:
+  - "# hat / ist"
 Quelle:
 aliases:
 ---
 
 # <% tp.file.title %>
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Infinitiv               | Präteritum | Partizip II |
-| ----------------------- | ---------- | ----------- |
-| **<% tp.file.title %>** |            | hat / ist   |
+| Infinitiv               | Präteritum         | Partizip II                           |
+| ----------------------- | ------------------ | ------------------------------------- |
+| **<% tp.file.title %>** | `=this.Präteritum` | `=this.Hilfsverb` `=this.Partizip_II` |
 
 | Personalpronomen | Verb                    |
 | ---------------- | ----------------------- |
@@ -24,16 +30,16 @@ aliases:
 | sie / Sie        | **<% tp.file.title %>** |
 
 > [!INFO]
-> 
+> **Verbtyp:** `=this.Verbtyp`
 
 ---
 
 ## Siehe auch
 
-- [[<% tp.file.title %>]]
+- 
 
 ---
 
- :: <% tp.file.title %>
+`=this.Bedeutung` :: <% tp.file.title %>
 
 #Lernkarten 

@@ -1,7 +1,8 @@
 ---
-Titel: <% tp.file.title %>
+Wort: <% tp.file.title %>
 Wortart: Substantiv
 Genus:
+Plural:
 Bedeutung:
 Quelle:
 aliases:
@@ -9,13 +10,13 @@ aliases:
 
 # <% tp.file.title %>
 
-## Ungarisch Bedeutung: ""
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel                                         | Substantiv          | Plural |
-| ----------------------------------------------- | ------------------- | ------ |
-| <mark style="background: #ADCCFFA6;">der</mark> | <% tp.file.title %> |        |
-| <mark style="background: #FF5582A6;">die</mark> | <% tp.file.title %> |        |
-| <mark style="background: #BBFABBA6;">das</mark> | <% tp.file.title %> |        |
+| Artikel                                         | Substantiv                                                        | Plural                                                                |
+| ----------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", "**" + this.Wort + "**", this.Wort)` | `=choice(this.Genus = "der", "**" + this.Plural + "**", this.Plural)` |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", "**" + this.Wort + "**", this.Wort)` | `=choice(this.Genus = "die", "**" + this.Plural + "**", this.Plural)` |
+| <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", "**" + this.Wort + "**", this.Wort)` | `=choice(this.Genus = "das", "**" + this.Plural + "**", this.Plural)` |
 
 > [!INFO]
 > 
@@ -24,10 +25,10 @@ aliases:
 
 ## Siehe auch
 
-- [[<% tp.file.title %>]]
+- 
 
 ---
 
- :: <mark style="background: #ADCCFFA6;">der</mark> / <mark style="background: #BBFABBA6;">das</mark> / <mark style="background: #FF5582A6;">die</mark> <% tp.file.title %>, -
+`=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 
 #Lernkarten 
