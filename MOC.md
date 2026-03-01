@@ -25,7 +25,7 @@ Titel: MOC
 - [[Grammatische Begriffe]]
 - [[iPhone]]
 
-### Grammatik-spezifische Wortschätze 
+### ~~Grammatik-spezifische Wortschätze~~ 
 
 - [[Adjektivdeklination]]
 - [[Artikel und Pronomen]]
