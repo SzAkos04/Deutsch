@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
-                "mode": "preview",
+                "file": "MOC.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "MOC"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04_Lieder/Spiegelbild.md",
     "03_Vokabeln/Wörterbuch.md",
+    "04_Lieder/Spiegelbild.md",
     "03_Vokabeln/Substantive/Kuss.md",
     "03_Vokabeln/Substantive/Hand.md",
     "03_Vokabeln/Substantive/Angst.md",
