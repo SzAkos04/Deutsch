@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "01_Grammatik/das Substantiv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "das Substantiv"
             }
           }
         ]
@@ -213,10 +213,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c57347a6e97663b1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01_Grammatik/der Artikel.md",
+    "01_Grammatik/das Substantiv.md",
     "MOC.md",
+    "00_Eingang/Grammatik-spezifische/Adjektivdeklination.md",
     "03_Vokabeln/Wörterbuch.md",
+    "01_Grammatik/Zeitformen (Igeidők).md",
+    "01_Grammatik/Adjektivdeklination (Melléknévragozás).md",
     "_Vorlagen/Pronomen Vorlage.md",
     "03_Vokabeln/Pronomen/niemand.md",
     "03_Vokabeln/Pronomen/nichts.md",
@@ -236,11 +241,6 @@
     "03_Vokabeln/Adverben/irgendwo.md",
     "03_Vokabeln/Adverben/immer.md",
     "03_Vokabeln/Adverben/heutzutage.md",
-    "03_Vokabeln/Adverben/heute.md",
-    "03_Vokabeln/Adverben/gestern.md",
-    "03_Vokabeln/Adverben/endlich.md",
-    "03_Vokabeln/Adverben/dazwischen.md",
-    "_Vorlagen/Adverb Vorlage.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",

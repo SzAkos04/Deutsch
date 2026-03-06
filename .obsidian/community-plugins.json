@@ -5,5 +5,6 @@
   "homepage",
   "obsidian-spaced-repetition",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "editing-toolbar"
 ]
