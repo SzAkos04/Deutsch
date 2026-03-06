@@ -9,7 +9,6 @@ A névelő mindig a főnév előtt áll, és azzal nemben, számban és esetben 
 
 ## A határozott névelő ragozása
 
-
 | Eset          | Hímnem         | Nőnem   | Semlegesnem    | Többes szám  |
 | ------------- | -------------- | ------- | -------------- | ------------ |
 | **Nominativ** | der            | die     | das            | die          |
@@ -20,7 +19,6 @@ A névelő mindig a főnév előtt áll, és azzal nemben, számban és esetben 
 ---
 
 ## A határozatlan névelő állító és tagadó alakjának ragozása
-
 
 | Eset          | Hímnem                  | Nőnem                   | Semlegesnem             | Többes szám          |
 | ------------- | ----------------------- | ----------------------- | ----------------------- | -------------------- |
