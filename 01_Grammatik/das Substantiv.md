@@ -11,14 +11,10 @@ A főnév élőlényt, élettelen tárgyat és fogalmat jelölő szófaj. Jelent
 
 ## A főnév neme
 
-**egyes számban:**
 - hímnem (_der_)
 - nőnem (_die_)
 - semlegesnem (_das_)
-
-**többes számban:**
-nincs külön nem
-a névelő: _die_
+- többes szám (_die_)
 
 A _der, die, das_ határozott névelők a főnév előtt áll, és vele együtt kell megtanulnunk.
 
@@ -28,12 +24,12 @@ A _der, die, das_ határozott névelők a főnév előtt áll, és vele együtt 
 
 ### Erős ragozás
 
-| Eset          | Hímnem                                           | Nőnem                                         | Semlegesnem                                     | Többes szám                                          |
-| ------------- | ------------------------------------------------ | --------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------- |
-| **Nominativ** | _der_<br>_der [[Lehrer]]_<br>_kein_              | _die_<br>_ein**e** [[Mutter]]_<br>_kein**e**_ | _das_<br>_ein [[Kind]]_<br>_kein_               | _die Lehrer_<br>_- Mütter_<br>_kein**e** Kinder_     |
-| **Akkusativ** | _den_<br>_ein**en** Lehrer_<br>_kein**en**_      | _die_<br>_ein**e** Mutter_<br>_kein**e**_     | _das_<br>_ein Kind_<br>_kein_                   | _die Lehrer_<br>_- Mütter_<br>_kein**e** Kinder_     |
-| **Dativ**     | _dem_<br>_ein**em** Lehrer_<br>_kein**em**_      | _der_<br>_ein**er** Mutter_<br>_kein**er**_   | _dem_<br>_ein**em** Kind_<br>_kein**em**_       | _den Lehrern_<br>_- Müttern_<br>_kein**en** Kindern_ |
-| **Genitiv**   | _des_<br>_ein**es** Lehrer**s**_<br>_kein**es**_ | _der_<br>_ein**er** Mutter_<br>_kein**er**_   | _des_<br>_ein**es** Kind**es**_<br>_kein**es**_ | _der Lehrer_<br>_- Mütter_<br>_kein**e** Kinder_     |
+| Eset          | Hímnem                                         | Nőnem                                     | Semlegesnem                                   | Többes szám                                         |
+| ------------- | ---------------------------------------------- | ----------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+| **Nominativ** | der<br>der [[Lehrer]]<br>kein                  | die<br>ein**e** [[Mutter]]<br>kein**e**   | das<br>ein [[Kind]]<br>kein                   | die Lehrer<br>\- Mütter<br>kein**e** Kinder         |
+| **Akkusativ** | **den**<br>ein**en** Lehrer<br>kein**en**      | die<br>ein**e** Mutter<br>kein**e**       | das<br>ein Kind<br>kein                       | die Lehrer<br>\- Mütter<br>kein**e** Kinder         |
+| **Dativ**     | **dem**<br>ein**em** Lehrer<br>kein**em**      | **der**<br>ein**er** Mutter<br>kein**er** | **dem**<br>ein**em** Kind<br>kein**em**       | **den** Lehrern<br>\- Müttern<br>kein**en** Kindern |
+| **Genitiv**   | **des**<br>ein**es** Lehrer**s**<br>kein**es** | **der**<br>ein**er** Mutter<br>kein**er** | **des**<br>ein**es** Kind**es**<br>kein**es** | **der** Lehrer<br>\- Mütter<br>kein**e** Kinder     |
 
 ### Gyenge főnévragozás
 
@@ -48,16 +44,16 @@ Ide azok a **hímnemű** főnevek tartoznak, amelyek egyes szám tárgyesettől 
 
 ### A többes szám képzése
 
-| egyes szám     | többes szám | rag  | tőhangváltozás |
-| -------------- | ----------- | ---- | -------------- |
-| der Lehrer     | die Lehrer  | -    | -              |
-| der [[Vater]]  | die Väter   | -    | a - ä          |
-| der [[Tisch]]  | die Tische  | e    | -              |
-| der [[Bach]]   | die Bäche   | e    | a - ä          |
-| das [[Bild]]   | die Bilder  | er   | -              |
-| der [[Bruder]] | die Brüder  | -    | u - ü          |
-| der Junge      | die Jungen  | (e)n | -              |
-| das [[Auto]]   | die Autos   | s    | -              |
+| egyes szám     | többes szám       | rag  | tőhangváltozás |
+| -------------- | ----------------- | ---- | -------------- |
+| der Lehrer     | die Lehrer        | -    | -              |
+| der [[Vater]]  | die V**ä**ter     | -    | a - ä          |
+| der [[Tisch]]  | die Tisch**e**    | e    | -              |
+| der [[Bach]]   | die B**ä**ch**e** | e    | a - ä          |
+| das [[Bild]]   | die Bild**er**    | er   | -              |
+| der [[Bruder]] | die Br**ü**der    | -    | u - ü          |
+| der Junge      | die Jung**en**    | (e)n | -              |
+| das [[Auto]]   | die Auto**s**     | s    | -              |
 
 Az utolsó csoporthoz főleg idegen eredetű szavak tartoznak, pl. [[Balkon]], [[Hotel]], [[Team]], [[Fan]]
 
@@ -66,4 +62,38 @@ Az utolsó csoporthoz főleg idegen eredetű szavak tartoznak, pl. [[Balkon]], [
 ## Földrajzi nevek
 
 A legtöbb földrajzi nevet **névelő nélkül** használjuk:
-- **"wo?"** - Ich lebe in Budapest. London liegt **in**
+- **"wo?"** - Ich lebe **in** Budapest. London liegt **in** England. Japan liegt **in** Asien.
+- **"wohin?"** - Ich fahre im Sommer **nach** London und dann **nach** Paris.
+
+Jelzős szerkezetben ragozzuk a földrajzi nevet, amelynek a névelője többnyire **semleges nemű:**
+- **das** vereinigte Deutschland,
+- **das** neblige London,
+- Ich möchte **in dem** sonnigen Italien wohnen.
+- Ich las ein Buch **über das** alte Griechenland.
+
+**Hímnemű földrajzi nevek:**
+pl. Iran, Irak, Sudan, Libanon, Kongo, Jemen
+
+**Nőnemű földrajzi nevek:**
+pl. Schweiz, Türkei, Slowakei, "Republik" (die BRD)
+
+**Többes számú nevek:**
+pl. USA, Niederlande
+
+| woher?                                      | wo?                             | wohin?                          |
+| ------------------------------------------- | ------------------------------- | ------------------------------- |
+| das Ungarn<br>Ich komme<br>aus Ungarn       | <br>Ich wohne<br>in Ungarn      | <br>Ich fahre<br>nach Ungarn    |
+| der Sudan<br>Ich komme<br>aus dem Sudan     | <br>Ich wohne<br>in dem Sudan   | <br>Ich fahre<br>in den Sudan   |
+| die Schweiz<br>Ich komme<br>aus der Schweiz | <br>Ich wohne<br>in der Schweiz | <br>Ich fahre<br>in die Schweiz |
+
+---
+
+## A birtokviszony kifejezése
+
+A magyartól eltérően a németben a birtokos esetben álló birtokos jelzi a birtokviszonyt: _das Buch des Lehrers_ - a tanár könyve
+
+Személynevek esetén felcserélhető a sorrend: _Annas Buch_ vagy _Buch Annas_
+
+_von_ + Dat.-val is kifejezhető a birtokos eset: _das Buch von Anna_
+
+Keresztnév + vezetéknév esetén csak a vezetéknevet ragozzuk: _Friedrich Schiller**s** Lebenswerk_

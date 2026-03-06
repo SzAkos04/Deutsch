@@ -3,9 +3,9 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Grammatik  ",
@@ -15,17 +15,10 @@
       }
     },
     {
-      "query": "tag:#Wortschatz  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "tag:#Lernkarten  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5562450
       }
     }
   ],
@@ -39,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3856512784934329,
-  "close": true
+  "scale": 0.6448470232835252,
+  "close": false
 }

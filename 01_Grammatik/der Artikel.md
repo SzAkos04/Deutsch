@@ -33,11 +33,11 @@ A névelő mindig a főnév előtt áll, és azzal nemben, számban és esetben 
 > A határozatlan névelőt akkor használjuk, ha
 > - közelebbről még nem meghatározott dolgot fejezünk ki
 > _**Ein** Kind liegt im Bett._ (Egy gyermek fekszik az ágyban.)
-> _**Das** Kind schläft._ (A gyermek alszik.)
+> _**Das** Kind [[schlafen|schläft]]._ (A gyermek alszik.)
 
 > [!WARNING]
 > Nem használunk névelőt
-> - tulajdonnevek előtt (_ich besuche Peter_)
+> - tulajdonnevek előtt (_ich [[besuchen|besuche]] Peter_)
 > - birtokos névmás előtt (_mein Haus_)
-> - szólások, állandó szókapcsolatok esetében (_Zeit ist Geld_, _Hunger haben_)
-> - foglalkozások jelölésénél (_mein Bruder ist Ingenieur_)
+> - szólások, állandó szókapcsolatok esetében (_[[Zeit]] ist [[Geld]]_, _Hunger haben_)
+> - foglalkozások jelölésénél (_mein Bruder ist [[Ingenieur]]_)

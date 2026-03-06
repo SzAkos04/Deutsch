@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6d62417bfd7d0414",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "0be4af411008e3d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Grammatik/das Substantiv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "das Substantiv"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -165,7 +161,7 @@
             }
           },
           {
-            "id": "c57347a6e97663b1",
+            "id": "6df10056e5f792cc",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -195,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +208,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0be4af411008e3d6",
   "lastOpenFiles": [
-    "01_Grammatik/der Artikel.md",
+    "03_Vokabeln/Substantive/Eltern.md",
+    "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Pronomen/andere.md",
     "01_Grammatik/das Substantiv.md",
+    "01_Grammatik/der Artikel.md",
+    "03_Vokabeln/Substantive/Zeit.md",
+    "02_Kommunikation/E-Mail schreiben (E-mail írás).md",
     "MOC.md",
     "00_Eingang/Grammatik-spezifische/Adjektivdeklination.md",
-    "03_Vokabeln/Wörterbuch.md",
     "01_Grammatik/Zeitformen (Igeidők).md",
     "01_Grammatik/Adjektivdeklination (Melléknévragozás).md",
     "_Vorlagen/Pronomen Vorlage.md",
@@ -227,7 +226,6 @@
     "03_Vokabeln/Pronomen/nichts.md",
     "03_Vokabeln/Pronomen/manche.md",
     "03_Vokabeln/Pronomen/bisschen.md",
-    "03_Vokabeln/Pronomen/andere.md",
     "03_Vokabeln/Substantive/Alltag.md",
     "03_Vokabeln/Konjunktionen/also.md",
     "_Vorlagen/Konjunktion Vorlage.md",
@@ -238,9 +236,6 @@
     "03_Vokabeln/Adverben/nie.md",
     "03_Vokabeln/Adverben/morgens.md",
     "03_Vokabeln/Adverben/morgen.md",
-    "03_Vokabeln/Adverben/irgendwo.md",
-    "03_Vokabeln/Adverben/immer.md",
-    "03_Vokabeln/Adverben/heutzutage.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
