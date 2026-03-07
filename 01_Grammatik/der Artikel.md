@@ -5,7 +5,9 @@ tags:
 ---
 # `=this.Titel`
 
-A névelő mindig a főnév előtt áll, és azzal nemben, számban és esetben egyeztetjük. A névelő kifejezi a főnév nemét, számát és esetét.
+> [!ABSTRACT] Meghatározás
+> 
+> A névelő mindig a főnév előtt áll, és azzal nemben, számban és esetben egyeztetjük. A névelő kifejezi a főnév nemét, számát és esetét.
 
 ## A határozott névelő ragozása
 
