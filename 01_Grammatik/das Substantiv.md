@@ -44,18 +44,19 @@ Ide azok a **hímnemű** főnevek tartoznak, amelyek egyes szám tárgyesettől 
 
 ### A többes szám képzése
 
-| egyes szám     | többes szám       | rag  | tőhangváltozás |
-| -------------- | ----------------- | ---- | -------------- |
-| der Lehrer     | die Lehrer        | -    | -              |
-| der [[Vater]]  | die V**ä**ter     | -    | a - ä          |
-| der [[Tisch]]  | die Tisch**e**    | e    | -              |
-| der [[Bach]]   | die B**ä**ch**e** | e    | a - ä          |
-| das [[Bild]]   | die Bild**er**    | er   | -              |
-| der [[Bruder]] | die Br**ü**der    | -    | u - ü          |
-| der Junge      | die Jung**en**    | (e)n | -              |
-| das [[Auto]]   | die Auto**s**     | s    | -              |
+| egyes szám     | többes szám       | rag   | tőhangváltozás |
+| -------------- | ----------------- | ----- | -------------- |
+| der Lehrer     | die Lehrer        | -     | -              |
+| der [[Vater]]  | die V**ä**ter     | -     | a $\to$ ä      |
+| der [[Tisch]]  | die Tisch**e**    | -e    | -              |
+| der [[Bach]]   | die B**ä**ch**e** | -e    | a - ä          |
+| das [[Bild]]   | die Bild**er**    | -er   | -              |
+| der [[Bruder]] | die Br**ü**der    | -     | u - ü          |
+| der Junge      | die Jung**en**    | -(e)n | -              |
+| das [[Auto]]   | die Auto**s**     | -s    | -              |
 
-Az utolsó csoporthoz főleg idegen eredetű szavak tartoznak, pl. [[Balkon]], [[Hotel]], [[Team]], [[Fan]]
+> [!TIP]
+> Az utolsó csoporthoz főleg idegen eredetű szavak tartoznak, pl. [[Balkon]], [[Hotel]], [[Team]], [[Fan]]
 
 ---
 

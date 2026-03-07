@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/das Pronomen.md",
+                "file": "01_Grammatik/das Substantiv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "das Pronomen"
+              "title": "das Substantiv"
             }
           }
         ]
@@ -215,8 +215,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "01_Grammatik/der Artikel.md",
-    "01_Grammatik/das Substantiv.md",
     "01_Grammatik/das Pronomen.md",
+    "01_Grammatik/das Substantiv.md",
     "warten.md",
     "MOC.md",
     "03_Vokabeln/Substantive/Eltern.md",

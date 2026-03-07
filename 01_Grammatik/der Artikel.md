@@ -27,7 +27,8 @@ A névelő mindig a főnév előtt áll, és azzal nemben, számban és esetben 
 | **Dativ**     | ein**em**<br>kein**em** | ein**er**<br>kein**er** | ein**em**<br>kein**em** | -<br>kein**en + -n** |
 | **Genitiv**   | ein**es**<br>kein**es** | ein**er**<br>kein**er** | ein**es**<br>kein**es** | -<br>kein**er**      |
 
-> [!TIP]
+> [!TIP] Mikor használjuk?
+> 
 > A határozott névelőt akkor használjuk, ha
 > - már az előzőekben említett, ismert dolgokat fejezünk ki.
 > A határozatlan névelőt akkor használjuk, ha
@@ -35,8 +36,8 @@ A névelő mindig a főnév előtt áll, és azzal nemben, számban és esetben 
 > _**Ein** Kind liegt im Bett._ (Egy gyermek fekszik az ágyban.)
 > _**Das** Kind [[schlafen|schläft]]._ (A gyermek alszik.)
 
-> [!WARNING]
-> Nem használunk névelőt
+> [!WARNING] Mikor nem használjuk?
+> 
 > - tulajdonnevek előtt (_ich [[besuchen|besuche]] Peter_)
 > - birtokos névmás előtt (_mein Haus_)
 > - szólások, állandó szókapcsolatok esetében (_[[Zeit]] ist [[Geld]]_, _Hunger haben_)

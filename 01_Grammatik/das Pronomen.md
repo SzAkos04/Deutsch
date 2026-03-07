@@ -15,7 +15,8 @@ A névmásokat főnevek, melléknevek, számnevek helyettesítésére használju
 | **Akkusativ** | mich | dich | ihn sie es  | uns | euch | sie   | Sie   |
 | **Dativ**     | mir  | dir  | ihm ihr ihm | uns | euch | ihnen | Ihnen |
 
-Az egyes szám 3. személyben (_er_, _sie_, _es_) a három nemnek megfelelően három személyes névmás van. Az önöző alak a többes szám 3. személyű alakkal megegyezik és nagybetűvel írjuk.
+> [!TIP] Tipp
+> Az egyes szám 3. személyben (_er_, _sie_, _es_) a három nemnek megfelelően három személyes névmás van. Az önöző alak a többes szám 3. személyű alakkal megegyezik és nagybetűvel írjuk.
 
 ---
 
@@ -32,9 +33,11 @@ Az egyes szám 3. személyben (_er_, _sie_, _es_) a három nemnek megfelelően h
 |             | Ihre                | Ihre                   | Ihr                 | Ihre                   |
 
 A birtokos névmást úgy ragozzuk, mint a határozatlan névelőt, ill. annak tagadó alakját. Jelöli a főnév számát és esetét, így nem állhat előtte névelő (_mein Buch_).
-Harmadik személyben a birtokos névmás neme dönti el, hogy melyik névmást használjuk:
-- **seine** [[Tochter]] - az ő (férfi) lánya
-- **ihr** [[Sohn]] - az ő (nő) fia
+
+> [!IMPORTANT] Logika
+> Harmadik személyben a birtokos névmás neme dönti el, hogy melyik névmást használjuk:
+> - **seine** [[Tochter]] - az ő (férfi) lánya
+> - **ihr** [[Sohn]] - az ő (nő) fia
 
 ---
 
