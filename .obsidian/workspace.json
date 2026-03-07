@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01_Grammatik/der Artikel.md",
+    "warten.md",
     "01_Grammatik/das Pronomen.md",
+    "01_Grammatik/der Artikel.md",
     "01_Grammatik/das Substantiv.md",
     "MOC.md",
     "03_Vokabeln/Substantive/Eltern.md",
@@ -239,7 +242,6 @@
     "03_Vokabeln/Adverben/sonst.md",
     "03_Vokabeln/Adverben/noch.md",
     "03_Vokabeln/Adverben/nie.md",
-    "03_Vokabeln/Adverben/morgens.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
