@@ -73,7 +73,7 @@ _Das ist die Tasche dessen, der gestern hier war._ - Ez annak a táskája, aki t
 
 ## 4. das Relativpronomen
 
-### _der_, _die_, _das_
+### A) _der_, _die_, _das_
 
 A _der_, _die_, _das_ vonatkozó névmás ragozása megegyezik a mutató névmás alakjával. Egyeztetjük a jelzett szó nemével és a megfelelő esetbe tesszük.
 
@@ -82,4 +82,37 @@ _[[kennen|Kennst]] du **das** Haus, in **dem** ich [[früh|früher]] gewohnt hab
 _Kennst du **die** Kleinstadt, in **die** ich [[umziehen|umgezogen]] bin?_ - Ismered azt a kisvárost, amelybe költöztem?
 _Siehst du meine Freundin, mit deren kleinem Shon wir gestern spielen?_ - Látod a barátnőmet, akinek a kisfiával tegnap játszottunk?
 
-### _wer_, __
+### B) _wer_, _was_
+
+Az egész mondatra, határozatlan személyre vagy dolgokra vonatkozik.
+
+_Ich [[erzählen|erzähle]] dir [[alle|alles]], **was** ich [[erleben|erlebt]] habe._ - Mindent elmesélek neked, amit átéltem.
+_**Wer** nicht arbeitet, [[sollen|soll]] auch nicht essen._ - Aki nem dolgozik, ne is egyék.
+_**Wem** es nicht [[gefallen|gefällt]], der soll zu Hause bleiben._ - Akinek nem tetszik, maradjon otthon!
+
+---
+
+## 5. das Interrogativpronomen
+
+### A) _wer_, _was_
+
+A _**wer**_ személyekre, a _**was**_ dolgokra vonatkozik. Többes számú alakjuk nincs.
+
+| Eset          | _wer_  | _was_  |
+| ------------- | ------ | ------ |
+| **Nominativ** | wer    | was    |
+| **Akkusativ** | wen    | was    |
+| **Dativ**     | wem    | -      |
+| **Genitiv**   | wessen | wessen |
+
+**Elöljárós szerkezetben:**
+- személyre vonatkozó kérdés:
+  **elöljárószó + wen/wem**
+	- _Auf wen [[warten|wartest]] du?_ - Kire vársz?
+- élettelenre vonatkozó kérdés:
+  **wo(r) + elöljárószó
+	- _Worauf wartest du?_ - Mire vársz?
+
+### B) _welcher_, _welche_, _welches_
+
+A határozott névelő ragozása szerint ragozzuk.
