@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d62417bfd7d0414",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0be4af411008e3d6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC"
             }
           }
         ]
@@ -208,7 +212,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0be4af411008e3d6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "03_Vokabeln/Substantive/Eltern.md",
     "03_Vokabeln/Wörterbuch.md",
