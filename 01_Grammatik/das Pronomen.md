@@ -52,7 +52,7 @@ tags:
 | Eset              | Hímnem                     | Nőnem                      | Semlegesnem                | Többes szám                |
 | ----------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
 | <br>**Nominativ** | dieser<br>jener<br>solcher | diese<br>jene<br>solche    | dieses<br>jenes<br>solches | diese<br>jene<br>solche    |
-| <br>**Akkusativ** | diesen<br>jeden<br>solchen | diese<br>jene<br>solche    | dieses<br>jenes<br>solches | diese<br>jene<br>solche    |
+| <br>**Akkusativ** | diesen<br>jenen<br>solchen | diese<br>jene<br>solche    | dieses<br>jenes<br>solches | diese<br>jene<br>solche    |
 | <br>**Dativ**     | diesem<br>jenem<br>solchem | dieser<br>jener<br>solcher | diesem<br>jenem<br>solchem | diesen<br>jenen<br>solchen |
 | <br>**Genitiv**   | dieses<br>jenes<br>solches | dieser<br>jener<br>solcher | dieses<br>jenes<br>solches | dieser<br>jener<br>solcher |
 
@@ -90,7 +90,7 @@ A _der_, _die_, _das_ vonatkozó névmás ragozása megegyezik a mutató névmá
 _Wo ist **die** Frau, **die** [[immer]] [[lachen|lacht]]._ - Hol van az a hölgy, aki mindig nevet?
 _[[kennen|Kennst]] du **das** Haus, in **dem** ich [[früh|früher]] gewohnt habe?_ - Ismered azt a házat, amelyben korábban laktam?
 _Kennst du **die** Kleinstadt, in **die** ich [[umziehen|umgezogen]] bin?_ - Ismered azt a kisvárost, amelybe költöztem?
-_Siehst du meine Freundin, mit deren kleinem Shon wir gestern spielen?_ - Látod a barátnőmet, akinek a kisfiával tegnap játszottunk?
+_Siehst du meine Freundin, mit deren kleinem Sohn wir gestern spielen?_ - Látod a barátnőmet, akinek a kisfiával tegnap játszottunk?
 
 ### B) _wer_, _was_
 
@@ -189,7 +189,7 @@ _**Man** [[tun|tut]] [[sowas]] nicht._ - Ilyesmit nem tesz az ember.
 _[[vielleicht|Vielleicht]] interessiert das **einen**._ - Talán érdekel ez valakit.
 _Es [[fallen|fällt]] **einem** [[schwer]], [[früh]] [[aufzustehen]]._ - Az embernek nehezére esik korán kelni.
 
-### B) _[[jemand]]_, _[[niemand]]_
+### B) _[[jemand]]_ , _[[niemand]]_
 
 Csak egyes számban használatos.
 
@@ -201,3 +201,21 @@ _Im Bus habe ich mit **niemandem** [[sprechen|gesprochen]]._ - A buszon senkivel
 Egy csoportból vagy több dologból emelünk ki valakit vagy valamit.
 
 _[[viele|Viele]] waren im [[Geschäft]], aber nur **einer** hat [[etwas]] gekauft._ - Sokan voltak az üzletben, de csak egyvalaki vásárolt valamit.
+
+### D) _[[irgendwer]]_ / _[[irgendjemand]]_
+
+_**Irgendwer** wind uns doch besuchen._ - Valaki csak meglátogat minket.
+
+### E) _[[etwas]]_ / _[[nichts]]_
+
+_Ich habe dich **etwas** [[fragen|gefragt]]._ - Valamit kérdeztem tőled.
+
+### F) _[[einige]]_, _[[einiges]]_
+
+### G) _[[jeder]]_, _[[alle]]_
+
+_**jeder**_: a tömeg, a sokaság minden tagja, csak egyes számban használjuk.
+_**alle**_: a tömeg egészére vonatkozik az állítás, utána többes szám.
+
+_**Jeder** muss Sport treiben._ - Mindenkinek kell sportolnia.
+_**Alle** [[Leute]] kennen den TV-Star._ - Mindenki ismeri a TV sztárt.
