@@ -56,19 +56,17 @@ tags:
 | <br>**Dativ**     | diesem<br>jenem<br>solchem | dieser<br>jener<br>solcher | diesem<br>jenem<br>solchem | diesen<br>jenen<br>solchen |
 | <br>**Genitiv**   | dieses<br>jenes<br>solches | dieser<br>jener<br>solcher | dieses<br>jenes<br>solches | dieser<br>jener<br>solcher |
 
-_dieser_, _diese_, _dieses_ = ez a
-_jener_, _jene_, _jenes_ = az a
-_solcher_, _solche_, _solches_ = ilyen, olyan
+- _dieser_, _diese_, _dieses_ = ez a...
+- _jener_, _jene_, _jenes_ = az a...
+	- _[[mögen|Möchtest]] du diese oder jene [[Bluse]]?_ - Ezt vagy azt a blúzt szeretnéd?
+- _solcher_, _solche_, _solches_ = ilyen, olyan
 
-_[[mögen|Möchtest]] du diese oder jene [[Bluse]]?_ - Ezt vagy azt a blúzt szeretnéd?
+- _derselbe_, _dieselbe_, _dasselbe_ = ugyanaz
+	- _Ich habe denselben Film gesehen wie du._ - Ugyanazt a filmet láttam, mint te.
+- _derjenige_, _diejenige_, _dasjenige_ = az a
+	- _Diejenigen, die Sport treiben, sind gesünder._ - Azok, akik sportolnak, egészségesebbek.
 
-_derselbe_, _dieselbe_, _dasselbe_ = ugyanaz
-_derjenige_, _diejenige_, _dasjenige_ = az a
-
-_Ich habe denselben Film gesehen wie du._ - Ugyanazt a filmet láttam, mint te.
-_Diejenigen, die Sport treiben, sind gesünder._ - Azok, akik sportolnak, egészségesebbek.
-
-_der_, _die_, _das_ = ez, az, ezek, azok
+- _der_, _die_, _das_ = ez, az, ezek, azok
 
 | Eset          | Hímnem | Nőnem | Semlegesnem | Többes szám |
 | ------------- | ------ | ----- | ----------- | ----------- |
@@ -149,10 +147,10 @@ _**Was für** [[Kleid|Kleider]] hast du [[kaufen|gekauft]]?_ - Milyen ruhákat v
 | **Akkusativ** | mich | dich | sich | uns | euch | sich |
 | **Dativ**     | mir  | dir  | sich | uns | euch | sich |
 
-A visszaható névmás tárgyesetét akkor használjuk, ha az alany cselekvése **visszahat** magára az alanyra, vagyis az alany és a tárgy egybeesik.
-_Dis Kind [[waschen|wäscht]] **sich**._ - A gyermek mosakszik.
-
 A németben sok olyan ige van, amely nem fejez ki valódi visszahatást, de formailag visszaható ige: pl. _sich befinden_ - van, található
+
+A visszaható névmás tárgyesetét akkor használjuk, ha az alany cselekvése **visszahat** magára az alanyra, vagyis az alany és a tárgy egybeesik.
+_Dis Kind [[waschen|wäscht]] **sich**._ - A gyermek mosakszik. (= A gyermek megmossa magát.)
 
 Akkor használjuk a visszaható névmás részes esetét, ha a visszahatást kifejező cselekvésnek tárgya is van.
 _Ich wasche **mir** die Hände._ - Kezet mosok. (= Megmosom magamnak a kezeimet.)
