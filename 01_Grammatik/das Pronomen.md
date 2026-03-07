@@ -1,6 +1,7 @@
 ---
 Titel: das Pronomen
 tags:
+  - Grammatik
 ---
 # `=this.Titel`
 
@@ -8,7 +9,7 @@ A névmásokat főnevek, melléknevek, számnevek helyettesítésére használju
 
 ## 1. das Personalpronomen
 
-| Eset          | E/1  | E/2  | E/3         | T/1 | T/2  | T/3   |       |
+| Eset          | E/1  | E/2  | E/3         | T/1 | T/2  | T/3   | Ön    |
 | ------------- | ---- | ---- | ----------- | --- | ---- | ----- | ----- |
 | **Nominativ** | ich  | du   | er sie es   | wir | ihr  | sie   | Sie   |
 | **Akkusativ** | mich | dich | ihn sie es  | uns | euch | sie   | Sie   |
@@ -183,4 +184,11 @@ _Es [[fallen|fällt]] **einem** [[schwer]], [[früh]] [[aufzustehen]]._ - Az emb
 
 Csak egyes számban használatos.
 
-_**Jemand** hat mir [[beim]] [[Einsteigen]] [[helfen|geholfen]]_
+_**Jemand** hat mir [[beim]] [[Einsteigen]] [[helfen|geholfen]]._ - Valaki segített nekem a beszállásnál.
+_Im Bus habe ich mit **niemandem** [[sprechen|gesprochen]]._ - A buszon senkivel sem beszélgettem.
+
+### C) _einer_, _eine_, _eines_ - _keiner_, _keine_, _keines_
+
+Egy csoportból vagy több dologból emelünk ki valakit vagy valamit.
+
+_[[viele|Viele]] waren im [[Geschäft]], aber nur **einer** hat [[etwas]] gekauft._ - Sokan voltak az üzletben, de csak egyvalaki vásárolt valamit.

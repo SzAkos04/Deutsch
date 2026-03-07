@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -196,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +214,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "warten.md",
-    "01_Grammatik/das Pronomen.md",
     "01_Grammatik/der Artikel.md",
     "01_Grammatik/das Substantiv.md",
+    "01_Grammatik/das Pronomen.md",
+    "warten.md",
     "MOC.md",
     "03_Vokabeln/Substantive/Eltern.md",
     "03_Vokabeln/Wörterbuch.md",
