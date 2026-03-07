@@ -24,12 +24,12 @@ A _der, die, das_ határozott névelők a főnév előtt áll, és vele együtt 
 
 ### Erős ragozás
 
-| Eset          | Hímnem                                         | Nőnem                                     | Semlegesnem                                   | Többes szám                                         |
-| ------------- | ---------------------------------------------- | ----------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
-| **Nominativ** | der<br>der [[Lehrer]]<br>kein                  | die<br>ein**e** [[Mutter]]<br>kein**e**   | das<br>ein [[Kind]]<br>kein                   | die Lehrer<br>\- Mütter<br>kein**e** Kinder         |
-| **Akkusativ** | **den**<br>ein**en** Lehrer<br>kein**en**      | die<br>ein**e** Mutter<br>kein**e**       | das<br>ein Kind<br>kein                       | die Lehrer<br>\- Mütter<br>kein**e** Kinder         |
-| **Dativ**     | **dem**<br>ein**em** Lehrer<br>kein**em**      | **der**<br>ein**er** Mutter<br>kein**er** | **dem**<br>ein**em** Kind<br>kein**em**       | **den** Lehrern<br>\- Müttern<br>kein**en** Kindern |
-| **Genitiv**   | **des**<br>ein**es** Lehrer**s**<br>kein**es** | **der**<br>ein**er** Mutter<br>kein**er** | **des**<br>ein**es** Kind**es**<br>kein**es** | **der** Lehrer<br>\- Mütter<br>kein**e** Kinder     |
+| Eset              | Hímnem                                         | Nőnem                                     | Semlegesnem                                   | Többes szám                                         |
+| ----------------- | ---------------------------------------------- | ----------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+| <br>**Nominativ** | der<br>der [[Lehrer]]<br>kein                  | die<br>ein**e** [[Mutter]]<br>kein**e**   | das<br>ein [[Kind]]<br>kein                   | die Lehrer<br>\- Mütter<br>kein**e** Kinder         |
+| <br>**Akkusativ** | **den**<br>ein**en** Lehrer<br>kein**en**      | die<br>ein**e** Mutter<br>kein**e**       | das<br>ein Kind<br>kein                       | die Lehrer<br>\- Mütter<br>kein**e** Kinder         |
+| <br>**Dativ**     | **dem**<br>ein**em** Lehrer<br>kein**em**      | **der**<br>ein**er** Mutter<br>kein**er** | **dem**<br>ein**em** Kind<br>kein**em**       | **den** Lehrern<br>\- Müttern<br>kein**en** Kindern |
+| <br>**Genitiv**   | **des**<br>ein**es** Lehrer**s**<br>kein**es** | **der**<br>ein**er** Mutter<br>kein**er** | **des**<br>ein**es** Kind**es**<br>kein**es** | **der** Lehrer<br>\- Mütter<br>kein**e** Kinder     |
 
 ### Gyenge főnévragozás
 

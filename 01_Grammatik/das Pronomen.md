@@ -68,3 +68,18 @@ _der_, _die_, _das_ = ez, az, ezek, azok
 | **Genitiv**   | dessen | deren | dessen      | deren       |
 
 _Das ist die Tasche dessen, der gestern hier war._ - Ez annak a táskája, aki tegnap itt volt.
+
+---
+
+## 4. das Relativpronomen
+
+### _der_, _die_, _das_
+
+A _der_, _die_, _das_ vonatkozó névmás ragozása megegyezik a mutató névmás alakjával. Egyeztetjük a jelzett szó nemével és a megfelelő esetbe tesszük.
+
+_Wo ist **die** Frau, **die** [[immer]] [[lachen|lacht]]._ - Hol van az a hölgy, aki mindig nevet?
+_[[kennen|Kennst]] du **das** Haus, in **dem** ich [[früh|früher]] gewohnt habe?_ - Ismered azt a házat, amelyben korábban laktam?
+_Kennst du **die** Kleinstadt, in **die** ich [[umziehen|umgezogen]] bin?_ - Ismered azt a kisvárost, amelybe költöztem?
+_Siehst du meine Freundin, mit deren kleinem Shon wir gestern spielen?_ - Látod a barátnőmet, akinek a kisfiával tegnap játszottunk?
+
+### _wer_, __
