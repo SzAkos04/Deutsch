@@ -7,6 +7,8 @@ Titel: MOC
 
 - [[der Artikel]]
 - [[das Substantiv]]
+- [[das Pronomen]]
+- [[das Numerale]]
 
 ---
 
