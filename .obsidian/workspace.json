@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/das Pronomen.md",
+                "file": "MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "das Pronomen"
+              "title": "MOC"
             }
           }
         ]
@@ -212,10 +212,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6df10056e5f792cc",
   "lastOpenFiles": [
-    "01_Grammatik/das Substantiv.md",
     "01_Grammatik/das Pronomen.md",
+    "01_Grammatik/das Substantiv.md",
     "01_Grammatik/der Artikel.md",
     "warten.md",
     "MOC.md",
