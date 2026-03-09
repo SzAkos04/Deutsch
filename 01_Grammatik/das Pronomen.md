@@ -118,7 +118,7 @@ A _**wer**_ személyekre, a _**was**_ dolgokra vonatkozik. Többes számú alakj
   **elöljárószó + wen/wem**
 	- _Auf wen [[warten|wartest]] du?_ - Kire vársz?
 - élettelenre vonatkozó kérdés:
-  **wo(r) + elöljárószó
+  **wo(r) + elöljárószó**
 	- _Worauf wartest du?_ - Mire vársz?
 
 ### B) _welcher_, _welche_, _welches_
