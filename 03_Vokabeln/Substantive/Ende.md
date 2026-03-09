@@ -5,6 +5,7 @@ Genus: das
 Plural: -n
 Bedeutung: vég, befejezés
 Quelle:
+  - "[[Mayberg - Spiegelbild]]"
 aliases:
   - Enden
 ---

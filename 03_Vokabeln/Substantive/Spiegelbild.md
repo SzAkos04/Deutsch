@@ -3,7 +3,7 @@ Wort: Spiegelbild
 Wortart: Substantiv
 Genus: das
 Plural: -er
-Bedeutung: Tükörkép
+Bedeutung: tükörkép
 Quelle:
   - "[[Mayberg - Spiegelbild]]"
 aliases:

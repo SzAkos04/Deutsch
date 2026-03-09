@@ -4,6 +4,7 @@ Wortart: Adverb
 Bedeutung: mindig
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+  - "[[Mayberg - Spiegelbild]]"
   - "[[das Pronomen]]"
 aliases:
 ---

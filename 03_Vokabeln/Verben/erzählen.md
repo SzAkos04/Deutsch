@@ -4,6 +4,7 @@ Wortart: Verb
 Bedeutung: mesélni, elmondani
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+  - "[[Mayberg - Spiegelbild]]"
   - "[[das Pronomen]]"
 aliases:
   - erzähle
