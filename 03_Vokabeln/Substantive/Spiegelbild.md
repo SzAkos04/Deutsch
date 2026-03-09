@@ -1,14 +1,13 @@
 ---
-Wort: Zeit
+Wort: Spiegelbild
 Wortart: Substantiv
-Genus: die
-Plural: -en
-Bedeutung: idő
+Genus: das
+Plural: -er
+Bedeutung: Tükörkép
 Quelle:
-  - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
-  - "[[der Artikel]]"
+  - "[[Mayberg - Spiegelbild]]"
 aliases:
-  - Zeiten
+  - Spiegelbilder
 ---
 
 # `=this.Genus` `=this.Wort`, `=this.Plural`
@@ -17,13 +16,14 @@ aliases:
 
 | Artikel                                         | Substantiv                                   | Plural                                         |
 | ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
-| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
+| <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")` | `=choice(this.Genus = "das", this.Plural, "")` |
 
 ---
 
 ## Siehe auch
 
-- 
+- [[Spiegel]]
+- [[Bild]]
 
 ---
 

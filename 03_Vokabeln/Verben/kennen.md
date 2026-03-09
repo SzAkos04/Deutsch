@@ -3,6 +3,7 @@ Titel: kennen
 Wortart: Verb
 Bedeutung: ismerni
 Quelle:
+  - "[[das Pronomen]]"
 aliases:
 ---
 

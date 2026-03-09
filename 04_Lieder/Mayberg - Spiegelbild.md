@@ -9,7 +9,7 @@ Künstler*in: Mayberg
 
 ## Text
 
-> Ja, und du [[schauen|schaust]] [[täglich]] in dein [[Mayberg - Spiegelbild]]
+> Ja, und du [[schauen|schaust]] [[täglich]] in dein [[Spiegelbild]]
 > Und du [[merken|merkst]], dass da [[nichts]] ist, wie du willst
 > 
 > Ich hab' [[richtig]] viele [[Fehler]]

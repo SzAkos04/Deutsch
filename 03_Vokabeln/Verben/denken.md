@@ -2,7 +2,9 @@
 Titel: denken
 Wortart: Verb
 Bedeutung: gondolkodni, gondolni
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+Quelle:
+  - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+  - "[[das Pronomen]]"
 aliases:
   - denke
   - denkst
