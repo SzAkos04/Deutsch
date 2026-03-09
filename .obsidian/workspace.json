@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MOC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -223,7 +223,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6df10056e5f792cc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "04_Lieder/Rammstein - Deutschland.md",
