@@ -173,9 +173,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "f4d9635d1587db57",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -206,13 +216,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6df10056e5f792cc",
+  "active": "f4d9635d1587db57",
   "lastOpenFiles": [
     "01_Grammatik/das Pronomen.md",
     "01_Grammatik/das Substantiv.md",
