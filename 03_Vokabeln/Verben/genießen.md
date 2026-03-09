@@ -2,7 +2,7 @@
 Titel: genießen
 Wortart: Verb
 Bedeutung: élvezni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - genieße
   - genießt

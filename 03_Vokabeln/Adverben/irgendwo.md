@@ -2,7 +2,7 @@
 Wort: irgendwo
 Wortart: Adverb
 Bedeutung: valahol
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
 ---
 

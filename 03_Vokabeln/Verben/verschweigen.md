@@ -2,7 +2,7 @@
 Titel: verschweigen
 Wortart: Verb
 Bedeutung: elhallgatni (valamit)
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - verschweige
   - verschweigst

@@ -4,7 +4,7 @@ Wortart: Substantiv
 Genus: die
 Plural:
 Bedeutung: szülők
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
 ---
 

@@ -2,7 +2,7 @@
 Titel: zusehen
 Wortart: Verb
 Bedeutung: nézni, figyelni (valakit/valamit)
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - zusehe
   - sehe zu

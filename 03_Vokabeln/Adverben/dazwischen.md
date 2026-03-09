@@ -2,7 +2,7 @@
 Wort: dazwischen
 Wortart: Adverb
 Bedeutung: közötte, aközött, közéjük
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
 ---
 

@@ -2,7 +2,7 @@
 Titel: duschen
 Wortart: Verb
 Bedeutung: zuhanyozni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - dusche
   - duscht

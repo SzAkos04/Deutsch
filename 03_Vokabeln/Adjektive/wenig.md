@@ -4,7 +4,7 @@ Wortart:
   - Adjektiv
   - Indefinitpronomen
 Bedeutung: kevés
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - weniger
   - wenige

@@ -2,7 +2,7 @@
 Titel: geben
 Wortart: Verb
 Bedeutung: adni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - gebe
   - gibst

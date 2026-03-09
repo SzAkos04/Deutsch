@@ -4,7 +4,7 @@ Wortart: Substantiv
 Genus: die
 Plural: -en
 Bedeutung: idő
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - Zeiten
 ---

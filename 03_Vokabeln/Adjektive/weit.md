@@ -2,7 +2,7 @@
 Wort: weit
 Wortart: Adjektiv
 Bedeutung: messze, távol; széles
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - weiter
   - weite

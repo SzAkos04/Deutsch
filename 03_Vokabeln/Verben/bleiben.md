@@ -2,7 +2,7 @@
 Titel: bleiben
 Wortart: Verb
 Bedeutung: maradni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - bleibe
   - bleibst

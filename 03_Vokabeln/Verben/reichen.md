@@ -2,7 +2,7 @@
 Titel: reichen
 Wortart: Verb
 Bedeutung: elegendő; nyújt, átad
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - reiche
   - reichst

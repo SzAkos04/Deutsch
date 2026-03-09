@@ -2,7 +2,7 @@
 Wort: lang
 Wortart: Adjektiv
 Bedeutung: hosszú
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - langer
   - lange

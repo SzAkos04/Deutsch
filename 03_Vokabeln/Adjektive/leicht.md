@@ -2,7 +2,7 @@
 Wort: leicht
 Wortart: Adjektiv
 Bedeutung: könnyű, egyszerű
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - leichter
   - leichte

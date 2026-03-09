@@ -2,7 +2,7 @@
 Titel: schneien
 Wortart: Verb
 Bedeutung: havazni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - schneie
   - schneist

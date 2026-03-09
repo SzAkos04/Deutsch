@@ -2,7 +2,7 @@
 Wort: dankbar
 Wortart: Adjektiv
 Bedeutung: hálás
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - dankbarer
   - dankbare

@@ -2,7 +2,7 @@
 Titel: merken
 Wortart: Verb
 Bedeutung: észrevesz, megjegyez
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - merke
   - merkst

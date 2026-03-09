@@ -4,7 +4,7 @@ Wortart: Substantiv
 Genus: die
 Plural: -̈e
 Bedeutung: félelem, szorongás
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - Ängste
 ---

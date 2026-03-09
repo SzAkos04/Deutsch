@@ -2,7 +2,7 @@
 Wort: morgens
 Wortart: Adverb
 Bedeutung: reggelente
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
 ---
 

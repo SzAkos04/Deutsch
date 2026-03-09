@@ -2,7 +2,7 @@
 Titel: werden
 Wortart: Verb
 Bedeutung: válik valamivé, lesz (folyamat)
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - werde
   - wirst

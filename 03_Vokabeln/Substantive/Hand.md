@@ -4,7 +4,7 @@ Wortart: Substantiv
 Genus: die
 Plural: -̈e
 Bedeutung: kéz
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - Hände
 ---

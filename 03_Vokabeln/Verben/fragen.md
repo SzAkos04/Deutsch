@@ -2,7 +2,7 @@
 Titel: fragen
 Wortart: Verb
 Bedeutung: kérdezni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - frage
   - fragst

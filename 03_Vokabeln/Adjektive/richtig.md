@@ -4,7 +4,7 @@ Wortart:
   - Adjektiv
   - Adverb
 Bedeutung: helyes, igaz, valódi, rendesen
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - richtiger
   - richtige

@@ -4,7 +4,7 @@ Wortart: Substantiv
 Genus: die
 Plural: -n
 Bedeutung: csoport
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - Gruppen
 ---

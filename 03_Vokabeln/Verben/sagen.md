@@ -2,7 +2,7 @@
 Titel: sagen
 Wortart: Verb
 Bedeutung: mondani
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - sage
   - sagst

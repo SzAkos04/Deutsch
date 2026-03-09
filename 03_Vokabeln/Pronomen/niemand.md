@@ -2,7 +2,7 @@
 Wort: niemand
 Wortart: Indefinitpronomen
 Bedeutung: senki
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - niemanden
   - niemandem

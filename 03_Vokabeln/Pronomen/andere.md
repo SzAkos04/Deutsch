@@ -2,7 +2,7 @@
 Wort: andere
 Wortart: Indefinitpronomen / Adjektiv
 Bedeutung: más, másik, a többiek
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - anderer
   - anderes

@@ -2,7 +2,7 @@
 Titel: drängen
 Wortart: Verb
 Bedeutung: sürget, tolong, nyomul
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - dränge
   - drängst

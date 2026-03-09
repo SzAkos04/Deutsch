@@ -2,7 +2,7 @@
 Titel: wecken
 Wortart: Verb
 Bedeutung: felébreszteni (valakit)
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - wecke
   - weckst

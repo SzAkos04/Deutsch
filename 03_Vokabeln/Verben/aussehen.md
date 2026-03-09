@@ -2,7 +2,7 @@
 Titel: aussehen
 Wortart: Verb
 Bedeutung: kinézni (valahogy)
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - aussehe
   - sehe aus
