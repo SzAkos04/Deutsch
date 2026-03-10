@@ -1,7 +1,13 @@
 ---
 Titel: aussehen
 Wortart: Verb
+Verbtyp:
+  - stark
 Bedeutung: kinézni (valahogy)
+Präteritum: sah aus
+Partizip_II: ausgesehen
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - aussehe

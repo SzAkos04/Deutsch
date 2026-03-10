@@ -1,6 +1,7 @@
 ---
 Titel: das Numerale
 tags:
+  - Grammatik
 ---
 # `=this.Titel`
 
@@ -56,9 +57,31 @@ tags:
 
 ## 3. A dátum kifejezése
 
-_**Der wievielte** ist heute?_ - Hányadika van ma?
+_**Der wievielte** ist [[heute]]?_ - Hányadika van ma?
 _Heute ist **der** 12. [[Juni]]._
-_Ich fahre **am** 22. [[Juli]]._
+_Ich [[fahren|fahre]] **am** 22. [[Juli]]._
 
 **Levélben:** Budapest, **den** 15. Oktober (15.10.)
 	vagy: Budapest, **am** 23. Dezember (23.12.)
+
+---
+
+## 4. Gyakoriság
+
+**Kérdőszó:** wie oft?
+**Képzője:** _-mal_
+
+_Wie oft [[genen|gehst]] du ins [[Kino]]?_
+_Zwei**mal** im [[Monat]]._
+
+---
+
+## 5. Az óra-idő kifejezése
+
+**Kérdezés:** _Wie viel Uhr ist es? Wie spät ist es?_
+
+_**Um wie viel Uhr** beginnt der [[Film]]?_
+- _Der Film [[beginnen|beginnt]] **um** 10 Uhr._ - A film 10 órakor kezdődik.
+- _Der Film beginnt **gegen** 10 Uhr._ - A film 10 óra körül kezdődik.
+- _Der Film beginnt 5 (Minuten) **nach** 10 (Uhr)._ - A film 5 perccel 10 után kezdődik.
+- _Der Film beginnt 5 (Minuten) **vor** 10 (Uhr)._ A film 5 perccel 10 előtt kezdődik.

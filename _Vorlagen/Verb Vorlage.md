@@ -2,12 +2,16 @@
 Wort: <% tp.file.title %>
 Wortart: Verb
 Verbtyp:
-  - "# stark / schwach / gemischt / modal"
+  - stark
+  - schwach
+  - gemischt
+  - modal
 Bedeutung:
 Präteritum:
 Partizip_II:
 Hilfsverb:
-  - "# hat / ist"
+  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -16,9 +20,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Infinitiv        | Präteritum         | Partizip II                           |
-| ---------------- | ------------------ | ------------------------------------- |
-| **`=this.Wort`** | `=this.Präteritum` | `=this.Hilfsverb` `=this.Partizip_II` |
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ---------------- | ---------------------- | ----------------------------------------- |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 | Personalpronomen | Verb                    |
 | ---------------- | ----------------------- |
@@ -30,6 +34,7 @@ aliases:
 | sie / Sie        | **<% tp.file.title %>** |
 
 > [!INFO]
+> 
 > **Verbtyp:** `=this.Verbtyp`
 
 ---

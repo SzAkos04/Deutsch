@@ -101,6 +101,8 @@ SORT file.name ASC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Verb",
+	Präteritum AS "Präteritum",
+	(Hilfsverb + " " + Partizip_II) AS "Partizip II",
 	Bedeutung AS "Bedeutung",
 	Quelle AS "Quelle"
 FROM "03_Vokabeln/Verben"

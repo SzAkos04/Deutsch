@@ -1,7 +1,11 @@
 ---
 Titel: denken
 Wortart: Verb
+Verbtyp:
 Bedeutung: gondolkodni, gondolni
+Präteritum:
+Partizip_II:
+Hilfsverb:
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
   - "[[das Pronomen]]"
@@ -32,6 +36,12 @@ aliases:
 
 > [!INFO]
 > **Mischverb:** denken $\to$ dachte $\to$ gedacht
+
+---
+
+## Siehe auch
+
+- 
 
 ---
 

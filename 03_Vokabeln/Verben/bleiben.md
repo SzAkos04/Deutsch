@@ -1,7 +1,13 @@
 ---
 Titel: bleiben
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: maradni
+Präteritum: blieb
+Partizip_II: geblieben
+Hilfsverb:
+  - ist
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
   - "[[Mayberg - Spiegelbild]]"
@@ -31,7 +37,8 @@ aliases:
 | sie / Sie        | **bleiben** |
 
 > [!INFO]
-> **starke Verb:** bl**ei**ben $\to$ bl**ie**b $\to$ gebl**ie**ben
+> 
+> **Verbtyp:** `=this.Verbtyp`
 
 ---
 
