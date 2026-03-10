@@ -14,7 +14,7 @@ Titel: MOC
 
 ## 2. Kommunikation
 
-- [[E-Mail schreiben (E-mail írás)]]
+- [[E-Mail schreiben]]
 
 ---
 

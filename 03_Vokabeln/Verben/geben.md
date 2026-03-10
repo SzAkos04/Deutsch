@@ -42,6 +42,16 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[abgeben]]
+- [[ausgeben]]
+- [[aufgeben]]
+- [[bekanntgeben]]
+- [[nachgeben]]
+
+---
+
 adni :: geben
 
 #Lernkarten 

@@ -71,7 +71,7 @@ _Ich [[fahren|fahre]] **am** 22. [[Juli]]._
 **Kérdőszó:** wie oft?
 **Képzője:** _-mal_
 
-_Wie oft [[genen|gehst]] du ins [[Kino]]?_
+_Wie oft [[gehen|gehst]] du ins [[Kino]]?_
 _Zwei**mal** im [[Monat]]._
 
 ---

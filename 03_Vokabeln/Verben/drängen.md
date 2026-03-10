@@ -49,9 +49,6 @@ aliases:
 - [[aufdrängen]]
 - [[sich vordrängen]]
 - [[verdrängen]]
-- [[schieben]]
-- [[eilen]]
-- [[zwingen]]
 
 ---
 

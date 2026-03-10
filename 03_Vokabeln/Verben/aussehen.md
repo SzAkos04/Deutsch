@@ -47,6 +47,12 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[sehen]]
+
+---
+
 kinézni (valahogy) :: aus|sehen
 
 #Lernkarten 

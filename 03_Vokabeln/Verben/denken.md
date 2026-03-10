@@ -37,13 +37,18 @@ aliases:
 | sie / Sie        | **denken** |
 
 > [!INFO]
-> **Mischverb:** denken $\to$ dachte $\to$ gedacht
+> 
+> **Verbtyp:** `=this.Verbtyp`
+> **_an_ + Akkusativ:** gondolni valamire/valakire
+> **_über_ + Akkusativ:** véleménye van valamiről
 
 ---
 
 ## Siehe auch
 
-- 
+- [[nachdenken]]
+- [[glauben]]
+- [[vergessen]]
 
 ---
 

@@ -42,6 +42,12 @@ aliases:
 
 ---
 
+## Siehe auch
+
+- [[lassen]]
+
+---
+
 maradni :: bleiben
 
 #Lernkarten 
