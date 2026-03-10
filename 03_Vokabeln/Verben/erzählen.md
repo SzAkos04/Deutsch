@@ -1,7 +1,13 @@
 ---
 Titel: erzählen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: mesélni, elmondani
+Präteritum: erzählte
+Partizip_II: erzählt
+Hilfsverb:
+  - hat
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
   - "[[Mayberg - Spiegelbild]]"
@@ -31,7 +37,16 @@ aliases:
 | sie / Sie        | **erzählen** |
 
 > [!INFO]
-> **Nem elváló igekötő:** Az **er-** előtag soha nem válik le az igéről, és a múlt időben (Partizip II) nem kap *ge-* előtagot!
+> 
+> **Verbtyp:** `=this.Verbtyp`
+> **Nem elváló igekötő:** Partizip II $\to$ $\varnothing$ _ge-_
+
+---
+
+## Siehe auch
+
+- [[sagen]]
+- [[verraten]]
 
 ---
 

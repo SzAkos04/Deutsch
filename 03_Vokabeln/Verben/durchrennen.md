@@ -1,7 +1,13 @@
 ---
 Titel: durchrennen
 Wortart: Verb
+Verbtyp:
+  - gemischt
 Bedeutung: átrohan, keresztülfut
+Präteritum: rannte durch
+Partizip_II: durchgerannt
+Hilfsverb:
+  - ist
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - durchrenne
@@ -33,13 +39,14 @@ aliases:
 | sie / Sie        | **rennen durch** |
 
 > [!INFO]
+> 
+> **Verbtyp:** `=this.Verbtyp`
 > **trennbare Verb:** durch|rennen
 
 ---
 
 ## Siehe auch
 
-- [[durchrennen]]
 - [[rennen]]
 
 ---

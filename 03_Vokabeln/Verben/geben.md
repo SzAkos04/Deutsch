@@ -1,7 +1,13 @@
 ---
 Titel: geben
 Wortart: Verb
+Verbtyp:
+  - stark
 Bedeutung: adni
+Präteritum: gab
+Partizip_II: gegeben
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - gebe
@@ -30,8 +36,9 @@ aliases:
 | sie / Sie        | **geben** |
 
 > [!INFO]
-> **starke Verb:** geben $\to$ gab $\to$ gegeben
-
+> 
+> **Verbtyp:** `=this.Verbtyp`
+> **_Es gibt_ + Akkusativ:** van, létezik
 
 ---
 

@@ -1,7 +1,13 @@
 ---
 Titel: fehlen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: hiányozni, hiányolni, elvéteni
+Präteritum: fehlte
+Partizip_II: gefehlt
+Hilfsverb:
+  - hat
 Quelle:
 aliases:
   - fehle
@@ -13,7 +19,7 @@ aliases:
 
 # fehlen
 
-## Ungarisch Bedeutung: "hiányozni, hiányolni, elvéteni"
+## Ungarisch Bedeutung: "hiányozni, hiányolni"
 
 | Infinitiv  | Präteritum | Partizip II     |
 | ---------- | ---------- | --------------- |
@@ -28,12 +34,17 @@ aliases:
 | ihr              | **fehlt**  |
 | sie / Sie        | **fehlen** |
 
+> [!INFO]
+> 
+> **Verbtyp:** `=this.Verbtyp`
+
 ---
 
 ## Siehe auch
 
-- [[fehlen]]
 - [[Fehler]]
+- [[verfehlen]]
+- [[vermissen]]
 
 ---
 

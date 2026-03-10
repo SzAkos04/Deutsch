@@ -1,7 +1,13 @@
 ---
 Titel: duschen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: zuhanyozni
+Präteritum: duschte
+Partizip_II: geduscht
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - dusche
@@ -26,6 +32,16 @@ aliases:
 | wir              | **duschen** |
 | ihr              | **duscht**  |
 | sie / Sie        | **duschen** |
+
+> [!INFO]
+> 
+> **Verbtyp:** `=this.Verbtyp`
+
+---
+
+## Siehe auch
+
+- [[baden]]
 
 ---
 

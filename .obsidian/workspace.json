@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "0a5e315a2321060a",
+            "id": "5053c92f168b1f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Verben/denken.md",
+                "file": "03_Vokabeln/Verben/geben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "denken"
+              "title": "geben"
             }
           }
         ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Vokabeln/Verben/denken.md",
+                "file": "03_Vokabeln/Verben/schlafen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for denken"
+              "title": "Backlinks for schlafen"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Vokabeln/Verben/denken.md",
+                "file": "03_Vokabeln/Verben/schlafen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from denken"
+              "title": "Outgoing links from schlafen"
             }
           },
           {
@@ -249,11 +249,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0a5e315a2321060a",
+  "active": "2bd29863728f06af",
   "lastOpenFiles": [
+    "03_Vokabeln/Verben/geben.md",
     "03_Vokabeln/Verben/schlafen.md",
-    "03_Vokabeln/Verben/denken.md",
     "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Verben/fragen.md",
+    "03_Vokabeln/Verben/fehlen.md",
+    "03_Vokabeln/Verben/erzählen.md",
+    "03_Vokabeln/Verben/duschen.md",
+    "03_Vokabeln/Verben/durchrennen.md",
+    "03_Vokabeln/Verben/drängen.md",
+    "03_Vokabeln/Verben/aussehen.md",
+    "03_Vokabeln/Verben/denken.md",
+    "01_Grammatik/das Pronomen.md",
     "03_Vokabeln/Verben/bleiben.md",
     "_Vorlagen/Adjektiv Vorlage.md",
     "_Vorlagen/Adverb Vorlage.md",
@@ -263,20 +272,11 @@
     "_Vorlagen/Pronomen Vorlage.md",
     "_Vorlagen/Substantive Vorlage.md",
     "_Vorlagen/Verb Vorlage.md",
-    "03_Vokabeln/Verben/aussehen.md",
     "00_Eingang/iPhone.md",
     "01_Grammatik/das Numerale.md",
     "Zeitformen (Igeidők).md",
     "MOC.md",
-    "01_Grammatik/das Pronomen.md",
     "conflict-files-obsidian-git.md",
-    "04_Lieder/Mayberg - Spiegelbild.md",
-    "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
-    "01_Grammatik/das Substantiv.md",
-    "01_Grammatik/der Artikel.md",
-    "warten.md",
-    "03_Vokabeln/Substantive/Eltern.md",
-    "03_Vokabeln/Pronomen/andere.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",

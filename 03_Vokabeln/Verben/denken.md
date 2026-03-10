@@ -2,10 +2,12 @@
 Titel: denken
 Wortart: Verb
 Verbtyp:
+  - gemischt
 Bedeutung: gondolkodni, gondolni
-Präteritum:
-Partizip_II:
+Präteritum: dachte
+Partizip_II: gedacht
 Hilfsverb:
+  - hat
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
   - "[[das Pronomen]]"
