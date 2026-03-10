@@ -5,6 +5,7 @@ Wortart:
   - Adjektiv
 Bedeutung: napi, naponta, mindennapi
 Quelle:
+  - "[[Mayberg - Spiegelbild]]"
 aliases:
   - täglicher
   - tägliche

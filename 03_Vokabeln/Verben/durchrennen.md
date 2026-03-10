@@ -2,7 +2,7 @@
 Titel: durchrennen
 Wortart: Verb
 Bedeutung: átrohan, keresztülfut
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - durchrenne
   - renne durch

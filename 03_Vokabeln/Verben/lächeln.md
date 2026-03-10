@@ -2,7 +2,7 @@
 Titel: lächeln
 Wortart: Verb
 Bedeutung: mosolyogni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - lächele
   - lächelst

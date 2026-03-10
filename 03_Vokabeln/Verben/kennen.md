@@ -3,6 +3,8 @@ Titel: kennen
 Wortart: Verb
 Bedeutung: ismerni
 Quelle:
+  - "[[Mayberg - Spiegelbild]]"
+  - "[[das Pronomen]]"
 aliases:
 ---
 

@@ -8,7 +8,6 @@ Titel: MOC
 - [[der Artikel]]
 - [[das Substantiv]]
 - [[das Pronomen]]
-- [[das Numerale]]
 
 ---
 
@@ -28,5 +27,5 @@ Titel: MOC
 
 ## 4. Lieder
 
-- [[Spiegelbild]]
-- [[Vielleicht Vielleicht]]
+- [[Mayberg - Spiegelbild]]
+- [[AnnenMayKantereit - Vielleicht Vielleicht]]

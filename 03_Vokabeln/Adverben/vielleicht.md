@@ -2,7 +2,9 @@
 Wort: vielleicht
 Wortart: Adverb
 Bedeutung: talán
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle:
+  - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+  - "[[das Pronomen]]"
 aliases:
 ---
 

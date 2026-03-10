@@ -2,7 +2,7 @@
 Wort: endlich
 Wortart: Adverb
 Bedeutung: végre, végül
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
 ---
 

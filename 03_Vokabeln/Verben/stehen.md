@@ -2,7 +2,7 @@
 Titel: stehen
 Wortart: Verb
 Bedeutung: állni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - stehe
   - stehst

@@ -3,7 +3,7 @@ Wort: einfach
 Wortart:
   - Adjektiv
   - Adverb
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - einfacher
   - einfache

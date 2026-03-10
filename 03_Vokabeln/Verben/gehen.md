@@ -2,7 +2,7 @@
 Titel: gehen
 Wortart: Verb
 Bedeutung: menni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - gehe
   - gehst

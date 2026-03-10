@@ -4,7 +4,7 @@ Wortart: Substantiv
 Genus: der
 Plural: -̈e
 Bedeutung: csók
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - Küsse
 ---

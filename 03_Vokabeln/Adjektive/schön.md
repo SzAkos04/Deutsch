@@ -4,7 +4,7 @@ Wortart:
   - Adjektiv
   - Adverb
 Bedeutung: szép(en)
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - schöner
   - schöne

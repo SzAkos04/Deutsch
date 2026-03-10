@@ -2,7 +2,7 @@
 Titel: zuhören
 Wortart: Verb
 Bedeutung: hallgatni
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - zuhöre
   - höre zu

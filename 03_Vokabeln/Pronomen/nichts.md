@@ -2,7 +2,9 @@
 Wort: nichts
 Wortart: Indefinitpronomen
 Bedeutung: semmi, semmit
-Quelle: "[[Spiegelbild]]"
+Quelle:
+  - "[[Mayberg - Spiegelbild]]"
+  - "[[das Pronomen]]"
 aliases:
 ---
 

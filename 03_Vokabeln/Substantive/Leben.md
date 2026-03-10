@@ -4,7 +4,7 @@ Wortart: Substantiv
 Genus: das
 Plural:
 Bedeutung: élet
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
 ---
 

@@ -2,7 +2,7 @@
 Titel: schauen
 Wortart: Verb
 Bedeutung: nézni, tekinteni
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - schaue
   - schaust

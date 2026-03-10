@@ -2,7 +2,7 @@
 Titel: glauben
 Wortart: Verb
 Bedeutung: hinni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - glaube
   - glaubst

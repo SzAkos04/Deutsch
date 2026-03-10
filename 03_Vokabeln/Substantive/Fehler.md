@@ -4,7 +4,7 @@ Wortart: Substantiv
 Genus: der
 Plural:
 Bedeutung: hiba, tévedés
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
 ---
 

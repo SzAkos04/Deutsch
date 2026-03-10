@@ -2,7 +2,7 @@
 Wort: also
 Wortart: Konjunktionaladverb
 Bedeutung: tehát, szóval
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
 ---
 

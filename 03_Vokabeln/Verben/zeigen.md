@@ -2,7 +2,7 @@
 Titel: zeigen
 Wortart: Verb
 Bedeutung: mutatni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - zeige
   - zeigst

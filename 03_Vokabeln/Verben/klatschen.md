@@ -2,7 +2,7 @@
 Titel: klatschen
 Wortart: Verb
 Bedeutung: tapsolni, csattogni, pofozni, pletykálni
-Quelle: "[[Spiegelbild]]"
+Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - klatsche
   - klatschst

@@ -2,7 +2,7 @@
 Wort: sonst
 Wortart: Adverb
 Bedeutung: egyébként, különben, máskülönben
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
 ---
 

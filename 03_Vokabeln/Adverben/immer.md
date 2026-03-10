@@ -2,7 +2,10 @@
 Wort: immer
 Wortart: Adverb
 Bedeutung: mindig
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle:
+  - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+  - "[[Mayberg - Spiegelbild]]"
+  - "[[das Pronomen]]"
 aliases:
 ---
 

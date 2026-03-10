@@ -2,7 +2,10 @@
 Titel: erzählen
 Wortart: Verb
 Bedeutung: mesélni, elmondani
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle:
+  - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+  - "[[Mayberg - Spiegelbild]]"
+  - "[[das Pronomen]]"
 aliases:
   - erzähle
   - erzählst

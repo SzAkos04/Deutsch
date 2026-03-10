@@ -1,12 +1,13 @@
 ---
-Wort: Jahreszeit
+Wort: Spiegelbild
 Wortart: Substantiv
-Genus: die
-Plural: -en
-Bedeutung: évszak
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+Genus: das
+Plural: -er
+Bedeutung: tükörkép
+Quelle:
+  - "[[Mayberg - Spiegelbild]]"
 aliases:
-  - Jahreszeiten
+  - Spiegelbilder
 ---
 
 # `=this.Genus` `=this.Wort`, `=this.Plural`
@@ -15,13 +16,14 @@ aliases:
 
 | Artikel                                         | Substantiv                                   | Plural                                         |
 | ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
-| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
+| <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")` | `=choice(this.Genus = "das", this.Plural, "")` |
 
 ---
 
 ## Siehe auch
 
-- 
+- [[Spiegel]]
+- [[Bild]]
 
 ---
 

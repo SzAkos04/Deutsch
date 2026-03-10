@@ -2,7 +2,7 @@
 Wort: süß
 Wortart: Adjektiv
 Bedeutung: édes, aranyos
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - süßer
   - süße

@@ -2,7 +2,9 @@
 Titel: lachen
 Wortart: Verb
 Bedeutung: nevetni
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle:
+  - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+  - "[[das Pronomen]]"
 aliases:
   - lache
   - lachst

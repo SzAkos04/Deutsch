@@ -2,7 +2,7 @@
 Wort: ehrlich
 Wortart: Adjektiv
 Bedeutung: őszinte
-Quelle: "[[Vielleicht Vielleicht]]"
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - ehrlicher
   - ehrliche
