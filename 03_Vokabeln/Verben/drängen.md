@@ -47,7 +47,7 @@ aliases:
 
 - [[drängen]]
 - [[aufdrängen]]
-- [[sich vordrängen]]
+- [[vordrängen]]
 - [[verdrängen]]
 
 ---

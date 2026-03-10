@@ -58,7 +58,7 @@ tags:
 
 - _dieser_, _diese_, _dieses_ = ez a...
 - _jener_, _jene_, _jenes_ = az a...
-	- _[[mögen|Möchtest]] du diese oder jene [[Bluse]]?_ - Ezt vagy azt a blúzt szeretnéd?
+	- _[[möchten|Möchtest]] du diese oder jene [[Bluse]]?_ - Ezt vagy azt a blúzt szeretnéd?
 - _solcher_, _solche_, _solches_ = ilyen, olyan
 
 - _derselbe_, _dieselbe_, _dasselbe_ = ugyanaz
@@ -94,7 +94,7 @@ _Siehst du meine Freundin, mit deren kleinem Sohn wir gestern spielen?_ - Látod
 
 Az egész mondatra, határozatlan személyre vagy dolgokra vonatkozik.
 
-_Ich [[erzählen|erzähle]] dir [[alle|alles]], **was** ich [[erleben|erlebt]] habe._ - Mindent elmesélek neked, amit átéltem.
+_Ich [[erzählen|erzähle]] dir [[alles|alles]], **was** ich [[erleben|erlebt]] habe._ - Mindent elmesélek neked, amit átéltem.
 _**Wer** nicht arbeitet, [[sollen|soll]] auch nicht essen._ - Aki nem dolgozik, ne is egyék.
 _**Wem** es nicht [[gefallen|gefällt]], der soll zu Hause bleiben._ - Akinek nem tetszik, maradjon otthon!
 
@@ -185,7 +185,7 @@ Olyan dolgokra utalunk a határozatlan névmással, ami még számunkra is ismer
 
 _**Man** [[tun|tut]] [[sowas]] nicht._ - Ilyesmit nem tesz az ember.
 _[[vielleicht|Vielleicht]] interessiert das **einen**._ - Talán érdekel ez valakit.
-_Es [[fallen|fällt]] **einem** [[schwer]], [[früh]] [[aufzustehen]]._ - Az embernek nehezére esik korán kelni.
+_Es [[fallen|fällt]] **einem** [[schwer]], früh [[aufzustehen]]._ - Az embernek nehezére esik korán kelni.
 
 ### B) _[[jemand]]_ , _[[niemand]]_
 

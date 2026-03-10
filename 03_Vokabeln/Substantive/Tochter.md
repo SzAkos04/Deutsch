@@ -1,12 +1,13 @@
 ---
-Wort: Angst
+Wort: Tochter
 Wortart: Substantiv
 Genus: die
-Plural: -̈e
-Bedeutung: félelem, szorongás
-Quelle: "[[Mayberg - Spiegelbild]]"
+Plural: -̈
+Bedeutung: lány (gyermek)
+Quelle:
+  - "[[das Pronomen]]"
 aliases:
-  - Ängste
+  - Töchter
 ---
 
 # `=this.Genus` `=this.Wort`, `=this.Plural`
@@ -17,15 +18,14 @@ aliases:
 | ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
 | <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")` | `=choice(this.Genus = "die", this.Plural, "")` |
 
-> [!INFO]
-> **Wichtige Präposition:** **Angst haben vor + Dativ** (félni valamitől).
-
 ---
 
 ## Siehe auch
 
-- [[ängstlich]]
-- [[fürchten]]
+- [[Sohn]]
+- [[Mutter]]
+- [[Vater]]
+- [[Kind]]
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Eingang/Tochter.md",
+                "file": "00_Eingang/Aufgabe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tochter"
+              "title": "Aufgabe"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sich",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Eingang/Tochter.md",
+                "file": "00_Eingang/Aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tochter"
+              "title": "Backlinks for Aufgabe"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Eingang/Tochter.md",
+                "file": "00_Eingang/Aufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tochter"
+              "title": "Outgoing links from Aufgabe"
             }
           },
           {
@@ -215,31 +215,31 @@
   "active": "446a0315a0b851f8",
   "lastOpenFiles": [
     "01_Grammatik/das Pronomen.md",
-    "00_Eingang/Tochter.md",
+    "00_Eingang/Aufgabe.md",
+    "03_Vokabeln/Verben/warten.md",
+    "MOC.md",
+    "03_Vokabeln/Verben/gefallen.md",
+    "03_Vokabeln/Verben/erzählen.md",
+    "00_Eingang/Grammatische Begriffe.md",
+    "03_Vokabeln/Verben/sollen.md",
+    "00_Eingang/iPhone.md",
+    "03_Vokabeln/Verben/erleben.md",
+    "03_Vokabeln/Verben/umziehen.md",
+    "03_Vokabeln/Verben/kennen.md",
+    "03_Vokabeln/Verben/drängen.md",
+    "03_Vokabeln/Substantive/Angst.md",
+    "03_Vokabeln/Verben/zusehen.md",
+    "03_Vokabeln/Adjektive/früh.md",
+    "03_Vokabeln/Pronomen/alles.md",
+    "03_Vokabeln/Verben/möchten.md",
+    "03_Vokabeln/Substantive/Sohn.md",
+    "03_Vokabeln/Substantive/Tochter.md",
     "01_Grammatik/das Numerale.md",
     "03_Vokabeln/Substantive/Juli.md",
     "03_Vokabeln/Substantive/Juni.md",
-    "00_Eingang/iPhone.md",
     "03_Vokabeln/Substantive/Monat.md",
     "03_Vokabeln/Substantive/Leute.md",
     "03_Vokabeln/Verben/beginnen.md",
-    "03_Vokabeln/Verben/erzählen.md",
-    "03_Vokabeln/Substantive/Film.md",
-    "03_Vokabeln/Substantive/Geburtstag.md",
-    "03_Vokabeln/Substantive/Kino.md",
-    "03_Vokabeln/Verben/gehen.md",
-    "00_Eingang/Grammatische Begriffe.md",
-    "03_Vokabeln/Substantive/Wohnung.md",
-    "03_Vokabeln/Verben/fahren.md",
-    "03_Vokabeln/Verben/bleiben.md",
-    "03_Vokabeln/Verben/aussehen.md",
-    "03_Vokabeln/Verben/denken.md",
-    "03_Vokabeln/Verben/fehlen.md",
-    "03_Vokabeln/Verben/glauben.md",
-    "03_Vokabeln/Verben/sagen.md",
-    "03_Vokabeln/Verben/stehen.md",
-    "MOC.md",
-    "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",

@@ -34,11 +34,11 @@ aliases:
 
 - [[kennen]]
 - [[erkennen]]
-- [[auskennen sich]]
+- [[auskennen]]
 - [[bekannt]]
 - [[kennenlernen]]
 - [[wissen]]
-- [[vorstellen sich]]
+- [[vorstellen]]
 - [[berühmt]]
 
 ---
