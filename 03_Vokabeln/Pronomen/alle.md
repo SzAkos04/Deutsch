@@ -1,29 +1,30 @@
 ---
-Wort: alles
+Wort: alle
 Wortart:
   - Pronomen
   - Indefinitpronomen
-Bedeutung: minden
+Bedeutung: mindenki
 Quelle:
   - "[[das Pronomen]]"
 aliases:
+  - aller
+  - alle
+  - alles
+  - allem
+  - allen
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-> [!INFO]
-> 
-> **Grammatik:** *Alles* ist ein Indefinitpronomen und steht im **Singular**.
-
 ---
 
 ## Siehe auch
 
-- [[alle]]
-- [[etwas]]
-- [[nichts]]
+- [[alles]]
+- [[jeder]]
+- [[nandere]]
 
 ---
 

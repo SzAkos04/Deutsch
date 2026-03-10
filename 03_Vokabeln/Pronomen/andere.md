@@ -1,6 +1,9 @@
 ---
 Wort: andere
-Wortart: Indefinitpronomen / Adjektiv
+Wortart:
+  - Pronomen
+  - Indefinitpronomen
+  - Adjektiv
 Bedeutung: más, másik, a többiek
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

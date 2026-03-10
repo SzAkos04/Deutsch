@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Eingang/Aufgabe.md",
+                "file": "01_Grammatik/das Pronomen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aufgabe"
+              "title": "das Pronomen"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Eingang/Aufgabe.md",
+                "file": "01_Grammatik/das Pronomen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aufgabe"
+              "title": "Backlinks for das Pronomen"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Eingang/Aufgabe.md",
+                "file": "01_Grammatik/das Pronomen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aufgabe"
+              "title": "Outgoing links from das Pronomen"
             }
           },
           {
@@ -214,10 +214,20 @@
   },
   "active": "446a0315a0b851f8",
   "lastOpenFiles": [
+    "03_Vokabeln/Pronomen/alle.md",
     "01_Grammatik/das Pronomen.md",
-    "00_Eingang/Aufgabe.md",
-    "03_Vokabeln/Verben/warten.md",
+    "03_Vokabeln/Pronomen/niemand.md",
+    "03_Vokabeln/Pronomen/nichts.md",
+    "03_Vokabeln/Pronomen/manche.md",
+    "03_Vokabeln/Pronomen/bisschen.md",
+    "03_Vokabeln/Pronomen/andere.md",
+    "03_Vokabeln/Pronomen/alles.md",
+    "03_Vokabeln/Verben/kaufen.md",
     "MOC.md",
+    "01_Grammatik/das Substantiv.md",
+    "03_Vokabeln/Substantive/Kleid.md",
+    "03_Vokabeln/Substantive/Aufgabe.md",
+    "03_Vokabeln/Verben/warten.md",
     "03_Vokabeln/Verben/gefallen.md",
     "03_Vokabeln/Verben/erzählen.md",
     "00_Eingang/Grammatische Begriffe.md",
@@ -230,16 +240,6 @@
     "03_Vokabeln/Substantive/Angst.md",
     "03_Vokabeln/Verben/zusehen.md",
     "03_Vokabeln/Adjektive/früh.md",
-    "03_Vokabeln/Pronomen/alles.md",
-    "03_Vokabeln/Verben/möchten.md",
-    "03_Vokabeln/Substantive/Sohn.md",
-    "03_Vokabeln/Substantive/Tochter.md",
-    "01_Grammatik/das Numerale.md",
-    "03_Vokabeln/Substantive/Juli.md",
-    "03_Vokabeln/Substantive/Juni.md",
-    "03_Vokabeln/Substantive/Monat.md",
-    "03_Vokabeln/Substantive/Leute.md",
-    "03_Vokabeln/Verben/beginnen.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
