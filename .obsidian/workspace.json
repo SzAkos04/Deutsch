@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
-          },
-          {
-            "id": "38f0cb88b62680d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,12 +212,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "38f0cb88b62680d6",
+  "active": "3cf314a4bbfb1682",
   "lastOpenFiles": [
+    "01_Grammatik/das Pronomen.md",
     "MOC.md",
     "conflict-files-obsidian-git.md",
     "01_Grammatik/das Numerale.md",
-    "01_Grammatik/das Pronomen.md",
     "04_Lieder/Mayberg - Spiegelbild.md",
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "01_Grammatik/das Substantiv.md",
