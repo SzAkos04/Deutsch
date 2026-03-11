@@ -2,8 +2,8 @@
 Wort: alt
 Wortart: Adjektiv
 Bedeutung: idős, régi
-Comparative: älter
-Superlative: ältesten
+Komparativ: älter
+Superlativ: ältesten
 Quelle:
   - "[[das Adjektiv]]"
   - "[[Rammstein - Deutschland]]"
@@ -21,13 +21,9 @@ aliases:
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ              | Superlativ                 |
-| ---------------- | ----------------------- | -------------------------- |
-| **`=this.Wort`** | **`=this.Comparative`** | am **`=this.Superlative`** |
-
-> [!INFO]
-> 
-> 
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 ---
 

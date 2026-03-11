@@ -4,24 +4,25 @@ Wortart:
   - Adjektiv
   - Adverb
 Bedeutung: korán, korai
+Komparativ: früher
+Superlativ: frühsten
 Quelle:
   - "[[das Pronomen]]"
 aliases:
   - früher
-  - frühesten
+  - frühe
+  - frühes
+  - frühem
+  - frühsten
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ         | Superlativ              |
-| ---------------- | ------------------ | ----------------------- |
-| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
-
-> [!INFO]
-> 
-> 
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 ---
 

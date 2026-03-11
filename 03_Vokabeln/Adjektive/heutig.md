@@ -2,6 +2,8 @@
 Wort: heutig
 Wortart: Adjektiv
 Bedeutung: mai
+Komparativ:
+Superlativ:
 Quelle:
 aliases:
   - heutiger
@@ -9,6 +11,7 @@ aliases:
   - heutiges
   - heutigen
   - heutigsten
+  - heutigem
 ---
 
 # `=this.Wort`

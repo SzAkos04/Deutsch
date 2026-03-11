@@ -2,21 +2,25 @@
 Wort: dankbar
 Wortart: Adjektiv
 Bedeutung: hálás
+Komparativ: dankbarer
+Superlativ: dankbarsten
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - dankbarer
   - dankbare
   - dankbares
   - dankbaren
+  - dankbarem
+  - dankbarsten
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ         | Superlativ              |
-| ---------------- | ------------------ | ----------------------- |
-| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 ---
 

@@ -2,21 +2,24 @@
 Wort: morgig
 Wortart: Adjektiv
 Bedeutung: holnapi
+Komparativ:
+Superlativ:
 Quelle:
 aliases:
   - morgiger
   - morgige
   - morgiges
   - morgigen
+  - morgigem
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ | Superlativ |
-| ---------------- | ---------- | ---------- |
-| **`=this.Wort`** |            |            |
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
 > **Absolutadjektiv:** nem fokozható

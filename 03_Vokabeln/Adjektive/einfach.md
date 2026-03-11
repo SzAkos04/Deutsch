@@ -4,12 +4,15 @@ Wortart:
   - Adjektiv
   - Adverb
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+Komparativ: einfacher
+Superlativ: einfachsten
 aliases:
   - einfacher
   - einfache
   - einfaches
   - einfachen
   - einfachsten
+  - einfachem
 Bedeutung: egyszerű(en)
 ---
 
@@ -17,9 +20,9 @@ Bedeutung: egyszerű(en)
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ         | Superlativ              |
-| ---------------- | ------------------ | ----------------------- |
-| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
+| Positiv          | Komparativ             | Superlativ                 |
+| ---------------- | ---------------------- | -------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlative`** |
 
 ---
 

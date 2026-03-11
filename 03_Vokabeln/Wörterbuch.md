@@ -30,9 +30,9 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Adjektiv",
-	Bedeutung AS "Bedeutung",
-	Quelle AS "Quelle"
+  (file.link + choice(Komparativ != Wort + "er" AND Komparativ, " (" + Komparativ + ", am " + Superlativ + ")", "")) AS "Adjektiv (Ausnahmen)",
+  Bedeutung AS "Bedeutung",
+  Quelle AS "Quelle"
 FROM "03_Vokabeln/Adjektive"
 WHERE Bedeutung != null
 SORT file.name ASC

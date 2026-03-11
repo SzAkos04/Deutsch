@@ -4,6 +4,8 @@ Wortart:
   - Adjektiv
   - Adverb
 Bedeutung: szép(en)
+Komparativ: schöner
+Superlativ: schönsten
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - schöner
@@ -11,15 +13,16 @@ aliases:
   - schönes
   - schönen
   - schönsten
+  - schönem
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ         | Superlativ              |
-| ---------------- | ------------------ | ----------------------- |
-| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 ---
 

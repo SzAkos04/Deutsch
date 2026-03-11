@@ -2,6 +2,8 @@
 Wort: weit
 Wortart: Adjektiv
 Bedeutung: messze, távol; széles
+Komparativ: weiter
+Superlativ: weitesten
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - weiter
@@ -9,15 +11,16 @@ aliases:
   - weites
   - weiten
   - weitesten
+  - weitem
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ         | Superlativ               |
-| ---------------- | ------------------ | ------------------------ |
-| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`esten** |
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 ---
 

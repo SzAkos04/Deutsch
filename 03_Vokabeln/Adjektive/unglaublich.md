@@ -2,6 +2,8 @@
 Wort: unglaublich
 Wortart: Adjektiv
 Bedeutung: hihetetlen
+Komparativ: unglaublicher
+Superlativ: unglaublichsten
 Quelle:
 aliases:
   - unglaublicher
@@ -9,15 +11,16 @@ aliases:
   - unglaubliches
   - unglaublichen
   - unglaublichsten
+  - unglaublichem
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ         | Superlativ              |
-| ---------------- | ------------------ | ----------------------- |
-| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 ---
 

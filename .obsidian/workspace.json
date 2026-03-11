@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Adjektive/dankbar.md",
-                "mode": "source",
+                "file": "03_Vokabeln/Wörterbuch.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dankbar"
+              "title": "Wörterbuch"
             }
           }
         ]
@@ -28,7 +28,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2162e445a2540af",
+            "id": "0c3a7240de5c1048",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sich",
+                "query": "Superlative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Vokabeln/Adjektive/dankbar.md",
+                "file": "03_Vokabeln/Wörterbuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dankbar"
+              "title": "Backlinks for Wörterbuch"
             }
           },
           {
@@ -234,8 +234,25 @@
   },
   "active": "25952b60572b9036",
   "lastOpenFiles": [
-    "03_Vokabeln/Adjektive/alltäglich.md",
     "03_Vokabeln/Adjektive/alt.md",
+    "00_Eingang/weißen.md",
+    "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Adjektive/wenig.md",
+    "03_Vokabeln/Adjektive/weit.md",
+    "03_Vokabeln/Adjektive/unglaublich.md",
+    "03_Vokabeln/Adjektive/süß.md",
+    "03_Vokabeln/Adjektive/schön.md",
+    "03_Vokabeln/Adjektive/richtig.md",
+    "03_Vokabeln/Adjektive/morgig.md",
+    "03_Vokabeln/Adjektive/leicht.md",
+    "03_Vokabeln/Adjektive/lang.md",
+    "03_Vokabeln/Adjektive/heutig.md",
+    "03_Vokabeln/Adjektive/gestrig.md",
+    "03_Vokabeln/Adjektive/früh.md",
+    "03_Vokabeln/Adjektive/einfach.md",
+    "03_Vokabeln/Adjektive/ehrlich.md",
+    "03_Vokabeln/Adjektive/dankbar.md",
+    "03_Vokabeln/Adjektive/alltäglich.md",
     "_Vorlagen/Adjektiv Vorlage.md",
     "00_Eingang/Deutschland.md",
     "04_Lieder/Rammstein - Deutschland.md",
@@ -243,23 +260,6 @@
     "00_Eingang/verdammen.md",
     "00_Eingang/lieben.md",
     "MOC.md",
-    "00_Eingang/weißen.md",
-    "00_Eingang/heiß.md",
-    "00_Eingang/Flammen.md",
-    "00_Eingang/kalt.md",
-    "00_Eingang/zusammen.md",
-    "00_Eingang/schon.md",
-    "00_Eingang/vereinen.md",
-    "00_Eingang/Herz.md",
-    "00_Eingang/trennen.md",
-    "00_Eingang/Geist.md",
-    "00_Eingang/weinen.md",
-    "03_Vokabeln/Adjektive/lang.md",
-    "01_Grammatik/das Adjektiv.md",
-    "01_Grammatik/das Numerale.md",
-    "01_Grammatik/das Pronomen.md",
-    "01_Grammatik/das Substantiv.md",
-    "01_Grammatik/der Artikel.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",

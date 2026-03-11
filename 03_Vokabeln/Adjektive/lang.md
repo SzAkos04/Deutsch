@@ -2,6 +2,8 @@
 Wort: lang
 Wortart: Adjektiv
 Bedeutung: hosszú
+Komparativ: länger
+Superlativ: längsten
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - langer
@@ -10,18 +12,16 @@ aliases:
   - langen
   - länger
   - längsten
+  - langem
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ | Superlativ      |
-| ---------------- | ---------- | --------------- |
-| **`=this.Wort`** | **länger** | am **längsten** |
-
-> [!INFO]
-> **Vokalwechsel:** l**a**ng $\to$ l**ä**nger $\to$ l**ä**ngsten
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 ---
 

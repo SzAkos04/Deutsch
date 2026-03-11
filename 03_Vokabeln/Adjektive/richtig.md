@@ -4,6 +4,8 @@ Wortart:
   - Adjektiv
   - Adverb
 Bedeutung: helyes, igaz, valódi, rendesen
+Komparativ: richtiger
+Superlativ: richtigsten
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - richtiger
@@ -11,18 +13,16 @@ aliases:
   - richtiges
   - richtigen
   - richtigsten
+  - richtigem
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ         | Superlativ              |
-| ---------------- | ------------------ | ----------------------- |
-| **`=this.Wort`** | **`=this.Wort`er** | am **`=this.Wort`sten** |
-
-> [!INFO]
-> 
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 ---
 

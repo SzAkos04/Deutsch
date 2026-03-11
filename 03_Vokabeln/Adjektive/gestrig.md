@@ -2,21 +2,24 @@
 Wort: gestrig
 Wortart: Adjektiv
 Bedeutung: tegnapi
+Komparativ:
+Superlativ:
 Quelle:
 aliases:
   - gestriger
   - gestrige
   - gestriges
   - gestrigen
+  - gestrigem
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ | Superlativ |
-| ---------------- | ---------- | ---------- |
-| **`=this.Wort`** |            |            |
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
 > **Absolutadjektiv:** nem fokozható
