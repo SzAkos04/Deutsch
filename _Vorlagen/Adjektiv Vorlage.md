@@ -2,6 +2,8 @@
 Wort: <% tp.file.title %>
 Wortart: Adjektiv
 Bedeutung:
+Comparative:
+Superlative:
 Quelle:
 aliases:
 ---

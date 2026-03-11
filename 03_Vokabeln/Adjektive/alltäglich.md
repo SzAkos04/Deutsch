@@ -2,13 +2,16 @@
 Wort: alltäglich
 Wortart: Adjektiv
 Bedeutung: hétköznapi, megszokott, mindennapi
+Comparative: alltäglicher
 Quelle:
+Superlative: alltäglichsten
 aliases:
   - alltäglicher
   - alltägliche
   - alltägliches
   - alltäglichen
   - alltäglichsten
+  - alltäglichem
 ---
 
 # `=this.Wort`

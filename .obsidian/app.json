@@ -22,5 +22,7 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:table-row-delete"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_Eingang"
 }
