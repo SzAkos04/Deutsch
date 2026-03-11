@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7fdef3b03dfb40db",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "446a0315a0b851f8",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "MOC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "MOC"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for MOC"
             }
           },
           {
@@ -173,7 +174,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -210,8 +212,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "446a0315a0b851f8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03_Vokabeln/Substantive/Spiegelbild.md",
     "MOC.md",
     "01_Grammatik/das Pronomen.md",
     "03_Vokabeln/Pronomen/alle.md",
@@ -237,7 +240,6 @@
     "03_Vokabeln/Verben/drängen.md",
     "03_Vokabeln/Substantive/Angst.md",
     "03_Vokabeln/Verben/zusehen.md",
-    "03_Vokabeln/Adjektive/früh.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
