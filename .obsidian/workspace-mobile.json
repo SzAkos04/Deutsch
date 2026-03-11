@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "01_Grammatik/das Numerale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "das Numerale"
             }
           }
         ]
@@ -185,9 +185,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "MOC.md",
+    "01_Grammatik/das Pronomen.md",
+    "01_Grammatik/das Numerale.md",
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "04_Lieder/Mayberg - Spiegelbild.md",
-    "01_Grammatik/das Numerale.md",
     "02_Kommunikation/E-Mail schreiben.md",
     "03_Vokabeln/Substantive/Juni.md",
     "03_Vokabeln/Substantive/Juli.md",
@@ -209,7 +210,6 @@
     "03_Vokabeln/Verben/umziehen.md",
     "03_Vokabeln/Verben/sollen.md",
     "03_Vokabeln/Verben/möchten.md",
-    "03_Vokabeln/Verben/schlafen.md",
     "/03_Vokabeln/Adjektive",
     "/03_Vokabeln",
     "/01_Grammatik",
