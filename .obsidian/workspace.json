@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Verben/beginnen.md",
+                "file": "01_Grammatik/das Adjektiv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "beginnen"
+              "title": "das Adjektiv"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Vokabeln/Verben/beginnen.md",
+                "file": "01_Grammatik/das Adjektiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for beginnen"
+              "title": "Backlinks for das Adjektiv"
             }
           },
           {
@@ -215,6 +215,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01_Grammatik/das Numerale.md",
+    "01_Grammatik/der Artikel.md",
+    "00_Eingang/Zeitung.md",
+    "01_Grammatik/das Adjektiv.md",
+    "00_Eingang/fleißig.md",
+    "00_Eingang/Schüler.md",
+    "03_Vokabeln/Verben/beginnen.md",
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "00_Eingang/zusammen.md",
     "00_Eingang/weißen.md",
@@ -234,13 +241,6 @@
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Adjektive/alt.md",
     "03_Vokabeln/Adjektive/wenig.md",
-    "03_Vokabeln/Adjektive/weit.md",
-    "03_Vokabeln/Adjektive/unglaublich.md",
-    "03_Vokabeln/Adjektive/süß.md",
-    "03_Vokabeln/Adjektive/schön.md",
-    "03_Vokabeln/Adjektive/richtig.md",
-    "03_Vokabeln/Adjektive/morgig.md",
-    "03_Vokabeln/Adjektive/leicht.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
