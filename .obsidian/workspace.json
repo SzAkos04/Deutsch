@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "03_Vokabeln/Verben/beginnen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "beginnen"
             }
           }
         ]
@@ -34,19 +34,6 @@
         "id": "b9c96b015087e80b",
         "type": "tabs",
         "children": [
-          {
-            "id": "ff1d5dce06c1bee8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "c50d7d10f6ddcd1d",
             "type": "leaf",
@@ -73,8 +60,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "49a5f8c85340df93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "03_Vokabeln/Verben/beginnen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MOC"
+              "title": "Backlinks for beginnen"
             }
           },
           {
@@ -214,9 +215,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
+    "00_Eingang/zusammen.md",
+    "00_Eingang/weißen.md",
+    "00_Eingang/weinen.md",
+    "00_Eingang/vereinen.md",
+    "00_Eingang/verdammen.md",
+    "00_Eingang/trennen.md",
+    "00_Eingang/schon.md",
+    "00_Eingang/lieben.md",
+    "00_Eingang/kalt.md",
+    "00_Eingang/jung.md",
+    "00_Eingang/Herz.md",
+    "00_Eingang/Flammen.md",
+    "00_Eingang/Geist.md",
+    "00_Eingang/heiß.md",
+    "MOC.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Adjektive/alt.md",
-    "00_Eingang/weißen.md",
     "03_Vokabeln/Adjektive/wenig.md",
     "03_Vokabeln/Adjektive/weit.md",
     "03_Vokabeln/Adjektive/unglaublich.md",
@@ -225,21 +241,6 @@
     "03_Vokabeln/Adjektive/richtig.md",
     "03_Vokabeln/Adjektive/morgig.md",
     "03_Vokabeln/Adjektive/leicht.md",
-    "03_Vokabeln/Adjektive/lang.md",
-    "03_Vokabeln/Adjektive/heutig.md",
-    "03_Vokabeln/Adjektive/gestrig.md",
-    "03_Vokabeln/Adjektive/früh.md",
-    "03_Vokabeln/Adjektive/einfach.md",
-    "03_Vokabeln/Adjektive/ehrlich.md",
-    "03_Vokabeln/Adjektive/dankbar.md",
-    "03_Vokabeln/Adjektive/alltäglich.md",
-    "_Vorlagen/Adjektiv Vorlage.md",
-    "00_Eingang/Deutschland.md",
-    "04_Lieder/Rammstein - Deutschland.md",
-    "00_Eingang/jung.md",
-    "00_Eingang/verdammen.md",
-    "00_Eingang/lieben.md",
-    "MOC.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
