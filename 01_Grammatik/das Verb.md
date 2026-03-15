@@ -158,3 +158,23 @@ A cselekvés befejezettségét fejezzük ki ezzel az igeidővel, ill. hangsúlyo
 ### Képzése
 
 _haben_/_sein_ + Partizip Perfekt
+
+#### Partizip Perfekt (Befejezett melléknévi igenév)
+
+| Típus       | Képzése                       | Példa                                     |
+| ----------- | ----------------------------- | ----------------------------------------- |
+| Gyenge igék | **_ge_- + igető + -(_e_)_t_** | machen - gemacht<br>arbeiten - gearbeitet |
+| Erős igék   | **_ge_- + igető + -_en_**     | schlafen - geschlafen<br>gehen - gegangen |
+| Vegyes igék | **_ge_- + igető + -(_e_)_t_** | bringen - gebracht<br>denken - gedacht    |
+
+> [!INFO] Erős igék
+> 
+> Az igető **tőhangváltozást** mutathat.
+
+> [!INFO] Vegyes igék
+> 
+> A gyenge igékre jellemző _-t_ végződés és az erős igékre jellemző **tőhangváltás!**
+
+Nincsen _**ge-**_ képző:
+- _-ieren_ végű igéknél (pl. _telefonieren - telefoniert_)
+- nem elváló igekötős igéknél (pl. _besuchen_ - _besucht_)
