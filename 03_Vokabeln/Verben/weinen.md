@@ -1,19 +1,21 @@
 ---
-Wort: verdammen
+Wort: weinen
 Wortart: Verb
 Verbtyp:
-  - stark
   - schwach
-  - gemischt
-  - modal
-Bedeutung:
-Präteritum:
-Partizip_II:
+Bedeutung: sírni
+Präteritum: weinte
+Partizip_II: geweint
 Hilfsverb:
   - hat
-  - ist
 Quelle:
+  - "[[Rammstein - Deutschland]]"
 aliases:
+  - weine
+  - weinst
+  - weint
+  - weinte
+  - geweint
 ---
 
 # `=this.Wort`
@@ -24,18 +26,19 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                    |
-| ---------------- | ----------------------- |
-| ich              |                         |
-| du               |                         |
-| er / sie / es    |                         |
-| wir              | **verdammen** |
-| ihr              |                         |
-| sie / Sie        | **verdammen** |
+| Personalpronomen | Verb       |
+| ---------------- | ---------- |
+| ich              | **weine**  |
+| du               | **weinst** |
+| er / sie / es    | **weint**  |
+| wir              | **weinen** |
+| ihr              | **weint**  |
+| sie / Sie        | **weinen** |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
+> **Um mit Akkusativ**
 
 ---
 
