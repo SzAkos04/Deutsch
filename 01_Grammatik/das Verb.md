@@ -176,5 +176,33 @@ _haben_/_sein_ + Partizip Perfekt
 > A gyenge igékre jellemző _-t_ végződés és az erős igékre jellemző **tőhangváltás!**
 
 Nincsen _**ge-**_ képző:
-- _-ieren_ végű igéknél (pl. _telefonieren - telefoniert_)
-- nem elváló igekötős igéknél (pl. _besuchen_ - _besucht_)
+- _-ieren_ végű igéknél (pl. _[[telefonieren]]_ - _telefoniert_)
+- nem elváló igekötős igéknél (pl. _[[besuchen]]_ - _besucht_)
+
+A _**ge-**_ képző helye elváló igekötős igéknél: az igekötő és ige között (pl. _ankommen_ - _an**ge**kommen_, _einladen_ - _ein**ge**laden_)
+
+#### _haben_ vagy _sein_
+
+_**haben**_:
+- tárgyas igék
+- visszaható igék
+- módbeli segédigék
+- minden olyan nem tárgyas ige, ami nem hely- ill. állapotváltozást fejez ki
+
+_**sein**_:
+- _sein_, _werden_, _bleiben_ igék
+- helyváltoztatást kifejező igék
+- állapotváltozást kifejező igék
+
+> [!ABSTRACT] Jegyezd meg!
+> 
+> _**sein**_: **MÁK**-os igék
+> - **m**ozgás
+> - **á**llapotváltozás
+> - **k**özlekedés
+
+> [!WARNING] Fontos különbség!
+> 
+> Csak akkor használunk **sein**-t, ha a mozgásnak van **iránya vagy célja** (A pontból B pontba).
+> - _Ich **bin** nach Hause gelaufen._ (Haza futottam – irány van).
+> - DE: _Ich **habe** eine Stunde im Park gelaufen._ (Egy órát futottam a parkban – helyben történő mozgás, nincs konkrét cél/irány).
