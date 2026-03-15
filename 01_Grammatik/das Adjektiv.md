@@ -12,6 +12,11 @@ A melléknév a mondatban lehet
 - módhatározó (_Die [[Schüler]] sind [[fleißig]]_) $\to$ nem ragozzuk
 - jelző $\to$ ragozzuk a melléknevet
 
+> [!INFO]
+> 
+> _Ein **schneller** [[Wagen]]._ (Alapfok - [[das Adjektiv#Vegyes vagy névelőkiegészítő ragozás|Vegyes ragozás]])
+> _Der **schnellste** Wagen._ (Felsőfok - [[das Adjektiv#Gyenge vagy névelőkísérő ragozás|Gyenge ragozás]])
+
 ### Erős vagy névelőpótló ragozás
 
 > [!INFO]
@@ -67,3 +72,54 @@ A melléknév a mondatban lehet
 | **Akkusativ** | ein**en** **-en**          | ein**e** **-e**   | ein **-es**                | kein**e** **-en**  |
 | **Dativ**     | ein**em** **-en**          | ein**er** **-en** | ein**em** **-en**          | kein**en** **-en** |
 | **Genitiv**   | ein**es** **-en** + **-s** | ein**er** **-en** | ein**es** **-en** + **-s** | kein**er** **-en** |
+
+---
+
+## 2. A melléknév fokozása
+
+| Alapfok      | Középfok            | Felsőfok                      |
+| ------------ | ------------------- | ----------------------------- |
+| schön (szép) | schön**er** (szebb) | am schön**sten** (a legszebb) |
+
+### Tőhangváltós melléknevek
+
+| Alapfok | Középfok    | Felsőfok         |
+| ------- | ----------- | ---------------- |
+| alt     | **ä**lter   | am **ä**ltesten  |
+| lang    | l**ä**nger  | am l**ä**ngsten  |
+| jung    | j**ü**nger  | am j**ü**ngsten  |
+| stark   | st**ä**rker | am st**ä**rksten |
+| hoch    | h**öh**er   | am h**öch**sten  |
+| groß    | gr**ö**ßer  | am gr**ö**ßten   |
+
+### Rendhagyó fokozású melléknevek
+
+| Alapfok | Középfok | Felsőfok    |
+| ------- | -------- | ----------- |
+| gut     | besser   | am besten   |
+| viel    | mehr     | am meisten  |
+| nah     | näher    | am nächsten |
+
+### _el_/_er_ végű melléknevek
+
+> [!DANGER] Figyelem
+> 
+> Az _e_ kiesik középfokban
+
+| Alapfok | Középfok  | Felsőfok      |
+| ------- | --------- | ------------- |
+| müde    | müder     | am müdesten   |
+| dunkel  | dunkler   | am dunkelsten |
+| teuer   | teu(e)rer | am teuersten  |
+
+### A fokozott melléknév a mondatban
+
+- nem ragozzuk, ha az állítmány névszói része ill. módhatározó
+	- _Eva schreibt **schön**._ - Éva szépen ír.
+	- _Eva schreibt **am** schön**sten**._ - Éva ír a legszebben.
+	- _Peter läuft **am** schnell**sten**._ - Péter fut a leggyorsabban.
+- ragozzuk, ha jelzői funkciót tölt be a mondatban
+	- _Eva singt das schön**ere** Lied._ - Éva énekli a szebbik dalt.
+	  _**-er**_ - középfok jele
+	  _**-e**_ - melléknév végződés
+	- _Eva sigt ein schön**_

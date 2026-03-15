@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "01_Grammatik/das Adjektiv.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "das Adjektiv"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MOC.md",
     "01_Grammatik/das Adjektiv.md",
     "01_Grammatik/das Numerale.md",
     "01_Grammatik/der Artikel.md",
@@ -235,7 +236,6 @@
     "00_Eingang/Flammen.md",
     "00_Eingang/Geist.md",
     "00_Eingang/heiß.md",
-    "MOC.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Adjektive/alt.md",
     "03_Vokabeln/Adjektive/wenig.md",
