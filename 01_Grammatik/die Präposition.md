@@ -33,7 +33,7 @@ tags:
 - _**ab**_ - -tól, -től, -ról, -ről
 	- _Ab heute [[rauchen|rauche]] ich nicht mehr._ - Mától nem dohányzom.
 - _**aus**_ - -ból, -ből
-	- _Sie [[sammen|stammt]] aus einer guten Familie._ - Jó családból származik.
+	- _Sie [[stammen|stammt]] aus einer guten Familie._ - Jó családból származik.
 - _**außer**_ - kívül
 	- _Außer ihm waren alle da._ - Őt kivéve mindenki ott volt.
 - _**bei**_ - -nál, -nél
@@ -86,4 +86,32 @@ tags:
 - _**während**_ - alatt, folyamán, közben
 	- _Während des [[Essen|Essens]] sprachen wir nicht._ - Az evés közben nem beszéltünk.
 
--
+---
+
+## Az elöljáró és a névelő
+
+### Névelővel
+
+_Fahren wir in die [[Berg|Berge]]!_ - Utazzunk a hegyekbe!
+
+### Névelő nélkül
+
+_Ich trinke [[Kaffee]] ohne [[Zucker]]._ - Cukor nélkül iszom a kávét.
+
+### Névelővel összevontan
+
+| **Elöljáró + Névelő** | **Összevont alak** |
+| --------------------- | ------------------ |
+| **an + dem** (Dat.)   | **am**             |
+| **an + das** (Akk.)   | **ans**            |
+| **in + dem** (Dat.)   | **im**             |
+| **in + das** (Akk.)   | **ins**            |
+| **bei + dem** (Dat.)  | **beim**           |
+| **von + dem** (Dat.)  | **vom**            |
+| **zu + dem** (Dat.)   | **zum**            |
+| **zu + der** (Dat.)   | **zur**            |
+
+> ![DANGER] Figyelem
+> 
+> Nem szabad összevonni a vonatkozó mondatokban:
+> _Ich fahre zu dem Freund, den du gestern kennengelernt hast._
