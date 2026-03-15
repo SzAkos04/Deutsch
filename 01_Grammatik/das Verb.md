@@ -229,3 +229,44 @@ _hatte_/_war_ + [[#Partizip Perfekt (Befejezett melléknévi igenév)|Partizip P
 | [[kommen]] | war gekommen    |
 | sein       | war gewesen     |
 | haben      | hatte gehabt    |
+
+---
+
+### 5. Futur I. (Jövő idő)
+
+#### Használata
+
+Használjuk:
+- A jövőben történő cselekvés kifejezésére
+  _2050 werde ich erst 42 Jahre alt._ - 2050-ben még csak 42 éves leszek.
+- A jelenre vonatkozó vélekedés kifejezésére
+  _[[erzählen|Erzähle]] deinem Freund davon, er wird es [[verstehen]]._ - Mesélj erről a barátodnak, ő bizonyára megérti ezt.
+
+#### Képzése
+
+_werden_ + főnévi igenév
+
+| Alany           | _werden_ + pl. _kommen_ |
+| --------------- | ----------------------- |
+| ich             | werde kommen            |
+| du              | wirst kommen            |
+| er<br>sie<br>es | <br>wird kommen         |
+| wir             | werden kommen           |
+| ihr             | werdet kommen           |
+| sie, Sie        | werden kommen           |
+
+---
+
+### 6. Futur II (Befejezett jövő idő)
+
+#### Használata
+
+Használjuk:
+- A múltra vonatkozó bizonyosság, valószínűség kifejezésére
+  _Er **wird** seinen [[Schlüssel]] **[[verloren]] haben**._ - Biztosan elveszítette a kulcsát.
+- Jövő idejű cselekvés, amely előreláthatóan befejeződik
+  _Morgen **wird** er die Arbeite **[[beenden|beendet]] haben**._
+
+#### Képzése
+
+_werden_ + Infinitiv Perfekt

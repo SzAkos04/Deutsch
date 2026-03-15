@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/das Verb.md",
-                "mode": "preview",
+                "file": "00_Eingang/bald.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "das Verb"
+              "title": "bald"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Grammatik/das Verb.md",
+                "file": "00_Eingang/bald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for das Verb"
+              "title": "Backlinks for bald"
             }
           },
           {
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Grammatik/das Verb.md",
+                "file": "00_Eingang/bald.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from das Verb"
+              "title": "Outgoing links from bald"
             }
           },
           {
@@ -178,8 +178,7 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -213,10 +212,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "005033a0d5130566",
+  "active": "9b5c7e92a804ffa7",
   "lastOpenFiles": [
-    "03_Vokabeln/Verben/beginnen.md",
     "01_Grammatik/das Verb.md",
+    "00_Eingang/bald.md",
+    "03_Vokabeln/Verben/beginnen.md",
     "01_Grammatik/das Substantiv.md",
     "01_Grammatik/die Präposition.md",
     "00_Eingang/telefonieren.md",
@@ -241,7 +241,6 @@
     "00_Eingang/weinen.md",
     "00_Eingang/vereinen.md",
     "00_Eingang/verdammen.md",
-    "00_Eingang/trennen.md",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
