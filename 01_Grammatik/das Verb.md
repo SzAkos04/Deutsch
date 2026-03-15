@@ -9,9 +9,11 @@ tags:
 > 
 > A német mondat legfontosabb része. A ragozott ige a kijelentő mondatban a 2. helyen áll: _Er kommt [[bald]]._
 
-## 1. Präsens (Jelen idő)
+## Igeidők
 
-### Képzése
+### 1. Präsens (Jelen idő)
+
+#### Képzése
 
 | Alany               | Rag                          |
 | ------------------- | ---------------------------- |
@@ -20,13 +22,13 @@ tags:
 | **er<br>sie<br>es** | <br>-t (pl. _macht_)         |
 | **wir**             | -en (pl. _machen_)           |
 | **ihr**             | -t (pl. _macht_)             |
-| **sie, Sie**        | -en (pl. _machen**)          |
+| **sie, Sie**        | -en (pl. _machen_)           |
 
 > [!INFO]
 > 
 > Ha az igető _-d_-re vagy _-t_-re végződik, E/2-ben és E/3-ban beillesztünk egy segéd _**-e-**_ betűt. (pl. _du arbeitest_, _er arbeitet_)
 
-### _haben_, _sein_
+#### _haben_, _sein_
 
 Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) segédige:
 
@@ -39,7 +41,7 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 | **ihr**             | habt      | seid     |
 | **sie, Sie**        | haben     | sind     |
 
-### Tőhangváltós (erős) igék ragozása
+#### Tőhangváltós (erős) igék ragozása
 
 > [!INFO] Szabály
 > 
@@ -54,7 +56,7 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 | **ihr**             | fahrt         | esst         | nehmt         | sprecht         | seht          |
 | **sie, Sie**        | fahren        | essen        | nehmen        | sprechen        | sehen         |
 
-### Módbeli segédigék ragozása
+#### Módbeli segédigék ragozása
 
 | Alany               | [[müssen]] | [[können]] | [[wollen]] | [[dürfen]] | [[sollen]] | [[mögen]] |
 | ------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- |
@@ -74,9 +76,9 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 
 ---
 
-## 2. Imperfekt (Elbeszélő múlt)
+### 2. Imperfekt (Elbeszélő múlt)
 
-### Használata
+#### Használata
 
 - **Írott szövegek:** pl. könyvek, újságcikkek
 - **Híradások:** Amikor tényeket közölnek pl. híradóban
@@ -86,9 +88,9 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 > 
 > Érdekesség, hogy Németország északi részén a hétköznapi beszédben is gyakrabban előkerül az Imperfekt, míg délen (Bajorország, Ausztria) szinte mindent [[#3. Perfekt (Befejezett múlt)|Perfekt]]-tel mondanak.
 
-### Képzése
+#### Képzése
 
-#### A) Gyenge igék
+##### A) Gyenge igék
 
 | Alany               | Rag                          |
 | ------------------- | ---------------------------- |
@@ -99,7 +101,7 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 | **ihr**             | -tet (pl. _sagtet_)          |
 | **sie, Sie**        | -ten (pl. _sagten_)          |
 
-#### B) Erős igék
+##### B) Erős igék
 
 | Alany               | [[schreiben]] | [[gehen]] | [[essen]] |
 | ------------------- | ------------- | --------- | --------- |
@@ -110,7 +112,7 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 | **ihr**             | schriebt      | gingt     | aßt       |
 | **sie, Sie**        | schrieben     | gingen    | aßen      |
 
-#### C) Vegyes igék
+##### C) Vegyes igék
 
 > [!INFO] Szabály
 > 
@@ -125,7 +127,7 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 | **ihr**             | dachtet    | brachtet    | kanntet    |
 | **sie, Sie**        | dachten    | brachten    | kannten    |
 
-### _haben_, _sein_, _werden_
+#### _haben_, _sein_, _werden_
 
 | Alany               | [[haben]] | [[sein]] | [[werden]] |
 | ------------------- | --------- | -------- | ---------- |
@@ -136,7 +138,7 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 | **ihr**             | hattet    | wart     | wurdet     |
 | **sie, Sie**        | hatten    | waren    | wurden     |
 
-### Módbeli segédigék
+#### Módbeli segédigék
 
 | Alany               | müssen     | können     | wollen     | dürfen     | sollen     | mögen      |
 | ------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -149,17 +151,17 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 
 ---
 
-## 3. Perfekt (Befejezett múlt)
+### 3. Perfekt (Befejezett múlt)
 
-### Használata
+#### Használata
 
 A cselekvés befejezettségét fejezzük ki ezzel az igeidővel, ill. hangsúlyozzuk a múltbéli történés hatását a jelenre.
 
-### Képzése
+#### Képzése
 
 _haben_/_sein_ + Partizip Perfekt
 
-#### Partizip Perfekt (Befejezett melléknévi igenév)
+##### Partizip Perfekt (Befejezett melléknévi igenév)
 
 | Típus       | Képzése                       | Példa                                     |
 | ----------- | ----------------------------- | ----------------------------------------- |
@@ -178,21 +180,22 @@ _haben_/_sein_ + Partizip Perfekt
 Nincsen _**ge-**_ képző:
 - _-ieren_ végű igéknél (pl. _[[telefonieren]]_ - _telefoniert_)
 - nem elváló igekötős igéknél (pl. _[[besuchen]]_ - _besucht_)
+	- _be-_, _ge-_, _er-_, _ver-_, _zer-_, _ent-_, _emp-_, _miss-_
 
 A _**ge-**_ képző helye elváló igekötős igéknél: az igekötő és ige között (pl. _ankommen_ - _an**ge**kommen_, _einladen_ - _ein**ge**laden_)
 
-#### _haben_ vagy _sein_
+##### _haben_ vagy _sein_
 
 _**haben**_:
-- tárgyas igék
-- visszaható igék
-- módbeli segédigék
-- minden olyan nem tárgyas ige, ami nem hely- ill. állapotváltozást fejez ki
+- tárgyas igék (pl. _er hat [[viel]] [[lesen|gelesen]]_)
+- visszaható igék (pl. _sie hat sich [[waschen|gewaschen]]_)
+- módbeli segédigék (pl. _das habe ich nicht gewollt_)
+- minden olyan nem tárgyas ige, ami nem hely- ill. állapotváltozást fejez ki (pl. _Die Olympischen [[Spiel|Spiele]] haben 1972 in München [[stattfinden|stattgefunden]]._)
 
 _**sein**_:
-- _sein_, _werden_, _bleiben_ igék
-- helyváltoztatást kifejező igék
-- állapotváltozást kifejező igék
+- _sein_, _werden_, _bleiben_ igék (_ist gewesen_, _ist geworden_, _ist geblieben_)
+- helyváltoztatást kifejező igék (pl. _Ulla ist nach Dänemark [[fliegen|geflogen]]._)
+- állapotváltozást kifejező igék (pl. _Die [[Blume]] ist [[verwelken|verwelkt]]._)
 
 > [!ABSTRACT] Jegyezd meg!
 > 
@@ -203,6 +206,26 @@ _**sein**_:
 
 > [!WARNING] Fontos különbség!
 > 
-> Csak akkor használunk **sein**-t, ha a mozgásnak van **iránya vagy célja** (A pontból B pontba).
-> - _Ich **bin** nach Hause gelaufen._ (Haza futottam – irány van).
-> - DE: _Ich **habe** eine Stunde im Park gelaufen._ (Egy órát futottam a parkban – helyben történő mozgás, nincs konkrét cél/irány).
+> Csak akkor használunk _**sein**_-t, ha a mozgásnak van **iránya vagy célja** (A pontból B pontba).
+> - _Ich **bin** nach Hause gelaufen._ (Haza futottam - irány van).
+> - DE: _Ich **habe** eine Stunde im Park gelaufen._ (Egy órát futottam a parkban - helyben történő mozgás, nincs konkrét cél/irány).
+
+---
+
+### 4. Plusquamperfekt (Régmúlt)
+
+#### Használata
+
+Az előidejűség kifejezésére alkalmazzuk: _[[Zuerst]] **hatte** ich den [[Brief]] **geschrieben**, dann **ging** ich auf die [[Post]]._ - Először megírtam a levelet, aztán elmentem a postára.
+Ahogy a példamondatban is látható, a Plusquamperfekt-et szinte mindig Imperfekt-tel párban használjuk.
+
+#### Képzése
+
+_hatte_/_war_ + [[#Partizip Perfekt (Befejezett melléknévi igenév)|Partizip Perfekt]]
+
+| Präsens    | Plusquamperfekt |
+| ---------- | --------------- |
+| [[lernen]] | hatte gelernt   |
+| [[kommen]] | war gekommen    |
+| sein       | war gewesen     |
+| haben      | hatte gehabt    |

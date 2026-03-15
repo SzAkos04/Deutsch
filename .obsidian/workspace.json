@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Superlative",
+                "query": "igek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -214,12 +215,13 @@
   },
   "active": "005033a0d5130566",
   "lastOpenFiles": [
+    "03_Vokabeln/Verben/beginnen.md",
+    "01_Grammatik/das Verb.md",
+    "01_Grammatik/das Substantiv.md",
     "01_Grammatik/die Präposition.md",
     "00_Eingang/telefonieren.md",
-    "01_Grammatik/das Verb.md",
     "01_Grammatik/das Pronomen.md",
     "01_Grammatik/der Artikel.md",
-    "01_Grammatik/das Substantiv.md",
     "MOC.md",
     "01_Grammatik/das Adjektiv.md",
     "03_Vokabeln/Wörterbuch.md",
@@ -233,7 +235,6 @@
     "00_Eingang/Zeitung.md",
     "00_Eingang/fleißig.md",
     "00_Eingang/Schüler.md",
-    "03_Vokabeln/Verben/beginnen.md",
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "00_Eingang/zusammen.md",
     "00_Eingang/weißen.md",
