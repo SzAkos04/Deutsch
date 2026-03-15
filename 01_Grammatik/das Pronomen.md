@@ -9,7 +9,7 @@ tags:
 > 
 > A névmásokat főnevek, melléknevek, számnevek helyettesítésére használjuk.
 
-## 1. das Personalpronomen
+## 1. das Personalpronomen (Személyes névmás)
 
 | Eset          | E/1  | E/2  | E/3         | T/1 | T/2  | T/3   | Ön    |
 | ------------- | ---- | ---- | ----------- | --- | ---- | ----- | ----- |
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-## 2. das Possessivpronomen
+## 2. das Possessivpronomen (Birtokos névmás)
 
 | Alany       | Hímnem              | Nőnem                  | Semlegesnem         | Többes szám            |
 | ----------- | ------------------- | ---------------------- | ------------------- | ---------------------- |
@@ -47,7 +47,7 @@ tags:
 
 ---
 
-## 3. das Demonstrativpronomen
+## 3. das Demonstrativpronomen (Mutató  névmás)
 
 | Eset              | Hímnem                     | Nőnem                      | Semlegesnem                | Többes szám                |
 | ----------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
@@ -79,7 +79,7 @@ _Das ist die Tasche dessen, der gestern hier war._ - Ez annak a táskája, aki t
 
 ---
 
-## 4. das Relativpronomen
+## 4. das Relativpronomen (Vonatkozó névmás)
 
 ### A) _der_, _die_, _das_
 
@@ -100,7 +100,7 @@ _**Wem** es nicht [[gefallen|gefällt]], der soll zu Hause bleiben._ - Akinek ne
 
 ---
 
-## 5. das Interrogativpronomen
+## 5. das Interrogativpronomen (Kérdő névmás)
 
 ### A) _wer_, _was_
 
@@ -139,8 +139,7 @@ _**Was für** [[Kleid|Kleider]] hast du [[kaufen|gekauft]]?_ - Milyen ruhákat v
 
 ---
 
-## 6. das Reflexivpronomen
-
+## 6. das Reflexivpronomen (Visszaható névmás)
 
 | Eset          | E/1  | E/2  | E/3  | T/1 | T/2  | T/3  |
 | ------------- | ---- | ---- | ---- | --- | ---- | ---- |
@@ -161,7 +160,7 @@ _Die Freunde treffen **sich** im Cafe._ - A barátok a kávézóban találkoznak
 
 ---
 
-## 7. das Reziprokpronomen
+## 7. das Reziprokpronomen (Kölcsönös névmás)
 
 **[[einander]]** = egymást, egymásnak
 
@@ -171,7 +170,7 @@ _Die Kinder [[unterhalten]] sich **miteinander**._ - A gyerekek beszélgetnek eg
 
 ---
 
-## 8. das Indefinitpronomen
+## 8. das Indefinitpronomen (Határozatlan névmás)
 
 Olyan dolgokra utalunk a határozatlan névmással, ami még számunkra is ismeretlen, nem tudjuk vagy nem akarjuk megnevezni.
 
