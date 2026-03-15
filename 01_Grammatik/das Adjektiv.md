@@ -129,5 +129,5 @@ A melléknév a mondatban lehet
 **Hasonlítás:**
 - alapfok: _wie_
 - középfok: _als_
-_Hilda ist genauso alt wie Jutta._ - Hilda egyidős Juttával.
+_Hilda ist [[genauso]] alt wie Jutta._ - Hilda egyidős Juttával.
 _Thomas ist ält**er als** Anna._ - Tamás idősebb Annánál.
