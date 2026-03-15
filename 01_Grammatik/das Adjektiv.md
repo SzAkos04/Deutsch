@@ -12,11 +12,6 @@ A melléknév a mondatban lehet
 - módhatározó (_Die [[Schüler]] sind [[fleißig]]_) $\to$ nem ragozzuk
 - jelző $\to$ ragozzuk a melléknevet
 
-> [!INFO]
-> 
-> _Ein **schneller** [[Wagen]]._ (Alapfok - [[das Adjektiv#Vegyes vagy névelőkiegészítő ragozás|Vegyes ragozás]])
-> _Der **schnellste** Wagen._ (Felsőfok - [[das Adjektiv#Gyenge vagy névelőkísérő ragozás|Gyenge ragozás]])
-
 ### Erős vagy névelőpótló ragozás
 
 > [!INFO]
@@ -119,7 +114,20 @@ A melléknév a mondatban lehet
 	- _Eva schreibt **am** schön**sten**._ - Éva ír a legszebben.
 	- _Peter läuft **am** schnell**sten**._ - Péter fut a leggyorsabban.
 - ragozzuk, ha jelzői funkciót tölt be a mondatban
+	- Kérdőszó: _**welch(es)** Lied_ (_**was für ein** Lied?_)
 	- _Eva singt das schön**ere** Lied._ - Éva énekli a szebbik dalt.
 	  _**-er**_ - középfok jele
-	  _**-e**_ - melléknév végződés
-	- _Eva sigt ein schön**_
+	  _**-e**_ - melléknév végződés ([[das Adjektiv#Gyenge vagy névelőkísérő ragozás|Gyenge ragozás]])
+	- _Eva singt ein schön**eres** Lied._ - Éva egy szebbik dalt énekel.
+	  _**-er**_ - középfok jele
+	  _**-es**_ - melléknév végződés ([[das Adjektiv#Vegyes vagy névelőkiegészítő ragozás|Vegyes ragozás]])
+- **Felsőfokban** állítmányi kiegészítőként melléknévi és határozói alak is lehet
+  Felsőfokú melléknév határozói alakjának képzése: **am** - **-sten**
+	- _Dieses Haus ist das höchste._
+	- _Dieses Haus ist am höchsten._
+
+**Hasonlítás:**
+- alapfok: _wie_
+- középfok: _als_
+_Hilda ist genauso alt wie Jutta._ - Hilda egyidős Juttával.
+_Thomas ist ält**er als** Anna._ - Tamás idősebb Annánál.
