@@ -131,3 +131,46 @@ A melléknév a mondatban lehet
 - középfok: _als_
 _Hilda ist [[genauso]] alt wie Jutta._ - Hilda egyidős Juttával.
 _Thomas ist ält**er als** Anna._ - Tamás idősebb Annánál.
+
+---
+
+## 3. Főnévként használt melléknevek
+
+> [!ABSTRACT] Szabály
+> 
+> Ragozása megegyezik a melléknév ragozásával, vagyis attól függ, hogy mi áll előtte.
+
+### Erős ragozás
+
+| Eset          | Hímnem | Nőnem | Többes szám |
+| ------------- | ------ | ----- | ----------- |
+| **Nominativ** | -er    | -e    | -e          |
+| **Akkusativ** | -en    | -e    | -e          |
+| **Dativ**     | -em    | -er   | -en         |
+| **Genitiv**   | -en    | -er   | -er         |
+
+> [!INFO] Használat
+> 
+> Az _einige_, _mehrere_, _viele_, _wenige_ határozatlan számnevek után is erősen ragozunk.
+
+### Gyenge ragozás
+
+| Eset          | Hímnem | Nőnem | Többes szám |
+| ------------- | ------ | ----- | ----------- |
+| **Nominativ** | -e     | -e    | -en         |
+| **Akkusativ** | -en    | -e    | -en         |
+| **Dativ**     | -en    | -en   | -en         |
+| **Genitiv**   | -en    | -en   | -en         |
+
+> [!INFO] Használat
+> 
+> Az _alle_, _beide_, _sämtliche_ határozatlan számnevek után is gyengén ragozunk.
+
+### Vegyes ragozás
+
+| Eset          | Hímnem | Nőnem | Többes szám |
+| ------------- | ------ | ----- | ----------- |
+| **Nominativ** | -er    | -e    | -en         |
+| **Akkusativ** | -en    | -e    | -en         |
+| **Dativ**     | -en    | -en   | -en         |
+| **Genitiv**   | -en    | -en   | -en         |
