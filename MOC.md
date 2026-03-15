@@ -11,6 +11,7 @@ Titel: MOC
 - [[das Numerale]]
 - [[das Adjektiv]]
 - [[die Präposition]]
+- [[das Verb]]
 
 ---
 
