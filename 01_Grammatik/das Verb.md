@@ -118,7 +118,7 @@ Rendhagyó ragozású a _**haben**_ (birtokolni) és a _**sein**_ (létezni) seg
 > 
 > Megváltozik a szótő magánhangzója (ez emlékeztet az erős igékre), de a gyenge igék személyragját kapja meg (_**-te**_ - ami a gyenge igék sajátossága).
 
-| Alany               | [[denken]] | [[bringe]]  | [[kennen]] |
+| Alany               | [[denken]] | [[bringen]] | [[kennen]] |
 | ------------------- | ---------- | ----------- | ---------- |
 | **ich**             | dachte     | brachte     | kannte     |
 | **du**              | dachtest   | brachtest   | kanntest   |

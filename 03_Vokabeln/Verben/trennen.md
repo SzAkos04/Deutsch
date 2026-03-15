@@ -1,19 +1,21 @@
 ---
-Wort: verdammen
+Wort: trennen
 Wortart: Verb
 Verbtyp:
-  - stark
   - schwach
-  - gemischt
-  - modal
-Bedeutung:
-Präteritum:
-Partizip_II:
+Bedeutung: elválasztani
+Präteritum: trennte
+Partizip_II: getrennt
 Hilfsverb:
   - hat
-  - ist
 Quelle:
+  - "[[Rammstein - Deutschland]]"
 aliases:
+  - trenne
+  - trennst
+  - trennt
+  - trennte
+  - getrennt
 ---
 
 # `=this.Wort`
@@ -24,14 +26,14 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                    |
-| ---------------- | ----------------------- |
-| ich              |                         |
-| du               |                         |
-| er / sie / es    |                         |
-| wir              | **verdammen** |
-| ihr              |                         |
-| sie / Sie        | **verdammen** |
+| Personalpronomen | Verb        |
+| ---------------- | ----------- |
+| ich              | **trenne**  |
+| du               | **trennst** |
+| er / sie / es    | **trennt**  |
+| wir              | **trennen** |
+| ihr              | **trennt**  |
+| sie / Sie        | **trennen** |
 
 > [!INFO]
 > 

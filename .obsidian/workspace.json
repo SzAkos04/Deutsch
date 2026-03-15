@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Eingang/bald.md",
+                "file": "00_Eingang/verdammen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bald"
+              "title": "verdammen"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Eingang/bald.md",
+                "file": "00_Eingang/verdammen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bald"
+              "title": "Backlinks for verdammen"
             }
           },
           {
@@ -116,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Eingang/bald.md",
+                "file": "00_Eingang/verdammen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bald"
+              "title": "Outgoing links from verdammen"
             }
           },
           {
@@ -212,35 +211,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9b5c7e92a804ffa7",
+  "active": "005033a0d5130566",
   "lastOpenFiles": [
-    "01_Grammatik/das Verb.md",
-    "00_Eingang/bald.md",
-    "03_Vokabeln/Verben/beginnen.md",
-    "01_Grammatik/das Substantiv.md",
-    "01_Grammatik/die Präposition.md",
-    "00_Eingang/telefonieren.md",
-    "01_Grammatik/das Pronomen.md",
-    "01_Grammatik/der Artikel.md",
-    "MOC.md",
-    "01_Grammatik/das Adjektiv.md",
-    "03_Vokabeln/Wörterbuch.md",
-    "00_Eingang/besuchte.md",
-    "03_Vokabeln/Adverben/heute.md",
-    "03_Vokabeln/Adverben/noch.md",
-    "03_Vokabeln/Adjektive/schön.md",
-    "03_Vokabeln/Adjektive/alt.md",
-    "03_Vokabeln/Präpositionen",
-    "01_Grammatik/das Numerale.md",
-    "00_Eingang/Zeitung.md",
-    "00_Eingang/fleißig.md",
-    "00_Eingang/Schüler.md",
-    "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
-    "00_Eingang/zusammen.md",
-    "00_Eingang/weißen.md",
+    "03_Vokabeln/Verben/trennen.md",
+    "03_Vokabeln/Verben/lieben.md",
+    "03_Vokabeln/Adjektive/weiß.md",
+    "03_Vokabeln/Substantive/Weiß.md",
+    "03_Vokabeln/Verben/wissen.md",
+    "03_Vokabeln/Substantive/Wohnung.md",
     "00_Eingang/weinen.md",
+    "03_Vokabeln/Adverben/zusammen.md",
+    "03_Vokabeln/Substantive/Zeitung.md",
     "00_Eingang/vereinen.md",
-    "00_Eingang/verdammen.md",
+    "03_Vokabeln/Adjektive/fleißig.md",
+    "03_Vokabeln/Adjektive/heiß.md",
+    "03_Vokabeln/Adjektive/jung.md",
+    "03_Vokabeln/Adjektive/kalt.md",
+    "03_Vokabeln/Substantive/Deutschland.md",
+    "03_Vokabeln/Substantive/Geist.md",
+    "03_Vokabeln/Substantive/Flamme.md",
+    "04_Lieder/Rammstein - Deutschland.md",
+    "00_Eingang/Flammen.md",
+    "03_Vokabeln/Substantive/Spiegelbild.md",
+    "03_Vokabeln/Substantive/Sohn.md",
+    "03_Vokabeln/Substantive/Schüler.md",
+    "03_Vokabeln/Substantive/Juni.md",
+    "03_Vokabeln/Substantive/Herz.md",
+    "03_Vokabeln/Konjunktionen/schon.md",
+    "03_Vokabeln/Verben/telefonieren.md",
+    "03_Vokabeln/Präpositionen",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",

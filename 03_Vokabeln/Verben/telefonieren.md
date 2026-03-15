@@ -1,19 +1,20 @@
 ---
-Wort: verdammen
+Wort: telefonieren
 Wortart: Verb
 Verbtyp:
-  - stark
   - schwach
-  - gemischt
-  - modal
-Bedeutung:
-Präteritum:
-Partizip_II:
+Bedeutung: telefonálni
+Präteritum: telefonierte
+Partizip_II: telefoniert
 Hilfsverb:
   - hat
-  - ist
 Quelle:
+  - "[[das Verb]]"
 aliases:
+  - telefoniere
+  - telefonierst
+  - telefoniert
+  - telefonierte
 ---
 
 # `=this.Wort`
@@ -24,14 +25,14 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                    |
-| ---------------- | ----------------------- |
-| ich              |                         |
-| du               |                         |
-| er / sie / es    |                         |
-| wir              | **verdammen** |
-| ihr              |                         |
-| sie / Sie        | **verdammen** |
+| Personalpronomen | Verb             |
+| ---------------- | ---------------- |
+| ich              | **telefoniere**  |
+| du               | **telefonierst** |
+| er / sie / es    | **telefoniert**  |
+| wir              | **telefonieren** |
+| ihr              | **telefoniert**  |
+| sie / Sie        | **telefonieren** |
 
 > [!INFO]
 > 

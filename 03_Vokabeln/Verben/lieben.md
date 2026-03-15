@@ -1,19 +1,21 @@
 ---
-Wort: verdammen
+Wort: lieben
 Wortart: Verb
 Verbtyp:
-  - stark
   - schwach
-  - gemischt
-  - modal
-Bedeutung:
-Präteritum:
-Partizip_II:
+Bedeutung: szeretni
+Präteritum: liebte
+Partizip_II: geliebt
 Hilfsverb:
   - hat
-  - ist
 Quelle:
+  - "[[Rammstein - Deutschland]]"
 aliases:
+  - liebe
+  - liebst
+  - liebt
+  - liebte
+  - geliebt
 ---
 
 # `=this.Wort`
@@ -24,14 +26,14 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                    |
-| ---------------- | ----------------------- |
-| ich              |                         |
-| du               |                         |
-| er / sie / es    |                         |
-| wir              | **verdammen** |
-| ihr              |                         |
-| sie / Sie        | **verdammen** |
+| Personalpronomen | Verb       |
+| ---------------- | ---------- |
+| ich              | **liebe**  |
+| du               | **liebst** |
+| er / sie / es    | **liebt**  |
+| wir              | **lieben** |
+| ihr              | **liebt**  |
+| sie / Sie        | **lieben** |
 
 > [!INFO]
 > 

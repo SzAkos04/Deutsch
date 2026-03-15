@@ -1,19 +1,21 @@
 ---
-Wort: verdammen
+Wort: machen
 Wortart: Verb
 Verbtyp:
-  - stark
   - schwach
-  - gemischt
-  - modal
-Bedeutung:
-Präteritum:
-Partizip_II:
+Bedeutung: csinálni
+Präteritum: machte
+Partizip_II: gemacht
 Hilfsverb:
   - hat
-  - ist
 Quelle:
+  - "[[das Verb]]"
 aliases:
+  - mache
+  - machst
+  - macht
+  - machte
+  - gemacht
 ---
 
 # `=this.Wort`
@@ -24,14 +26,14 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                    |
-| ---------------- | ----------------------- |
-| ich              |                         |
-| du               |                         |
-| er / sie / es    |                         |
-| wir              | **verdammen** |
-| ihr              |                         |
-| sie / Sie        | **verdammen** |
+| Personalpronomen | Verb       |
+| ---------------- | ---------- |
+| ich              | **mache**  |
+| du               | **machst** |
+| er / sie / es    | **macht**  |
+| wir              | **machen** |
+| ihr              | **macht**  |
+| sie / Sie        | **machen** |
 
 > [!INFO]
 > 

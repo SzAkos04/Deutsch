@@ -16,9 +16,9 @@ Künstler*in: Rammstein
 > Wir (Wir sind, wir sind, wir sind, wir sind)
 > Sind [[schon]] sehr [[lang]] [[zusammen]] (Ihr seid, ihr seid, ihr seid, ihr seid)
 > Dein [[alt|altem]] [[kalt]] (So kalt, so kalt, so kalt, so kalt)
-> Das Herz in [[Flammen]] (So [[heiß]], so heiß, so heiß, so heiß)
+> Das Herz in [[Flamme|Flammen]] (So [[heiß]], so heiß, so heiß, so heiß)
 > Du (Du kannst, du kannst, du kannst, du kannst)
-> Ich (Ich [[weißen|weiß]], ich weiß, ich weiß, ich weiß)
+> Ich (Ich [[wissen|weiß]], ich weiß, ich weiß, ich weiß)
 > Wir (Wir sind, wir sind, wir sind, wir sind)
 > Ihr (Ihr [[bleiben|bleibt]], ihr bleibt, ihr bleibt, ihr bleibt)
 > 
