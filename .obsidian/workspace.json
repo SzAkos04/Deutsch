@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/das Adjektiv.md",
+                "file": "MOC.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "das Adjektiv"
+              "title": "MOC"
             }
           }
         ]
@@ -202,9 +203,6 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
@@ -215,10 +213,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01_Grammatik/das Adjektiv.md",
     "01_Grammatik/das Numerale.md",
     "01_Grammatik/der Artikel.md",
     "00_Eingang/Zeitung.md",
-    "01_Grammatik/das Adjektiv.md",
     "00_Eingang/fleißig.md",
     "00_Eingang/Schüler.md",
     "03_Vokabeln/Verben/beginnen.md",
