@@ -3,7 +3,7 @@ Wort: reden
 Wortart: Verb
 Verbtyp:
   - schwach
-Bedeutung: beszélni
+Bedeutung: beszélni, beszélgetni
 Präteritum: redete
 Partizip_II: geredet
 Hilfsverb:
@@ -47,5 +47,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`
+<!--SR:!2026-03-22,1,230-->
 
 #Lernkarten 

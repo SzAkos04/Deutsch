@@ -44,5 +44,6 @@ aliases:
 ---
 
 hallgatni :: zu|hören
+<!--SR:!2026-03-22,1,230-->
 
 #Lernkarten 

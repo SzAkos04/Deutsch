@@ -31,6 +31,6 @@ aliases:
 ---
 
 havazni :: schneien
-<!--SR:!2026-03-02,1,230-->
+<!--SR:!2026-03-24,2,230-->
 
 #Lernkarten 

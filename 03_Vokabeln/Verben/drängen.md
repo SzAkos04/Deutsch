@@ -53,5 +53,6 @@ aliases:
 ---
 
 sürget, tolong, nyomul :: drängen
+<!--SR:!2026-03-22,1,230-->
 
 #Lernkarten 

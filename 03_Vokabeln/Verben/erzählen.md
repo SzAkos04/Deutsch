@@ -51,5 +51,6 @@ aliases:
 ---
 
 mesélni, elmondani :: erzählen
+<!--SR:!2026-03-23,1,230-->
 
 #Lernkarten 

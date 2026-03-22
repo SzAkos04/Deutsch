@@ -31,6 +31,6 @@ aliases:
 ---
 
 mosolyogni :: lächeln
-<!--SR:!2026-03-02,1,230-->
+<!--SR:!2026-03-22,1,210-->
 
 #Lernkarten 

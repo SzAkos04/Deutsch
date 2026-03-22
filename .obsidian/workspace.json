@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
-                "mode": "source",
+                "file": "MOC.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "MOC"
             }
           }
         ]
@@ -212,13 +212,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0b994ebb02fca3fc",
   "lastOpenFiles": [
+    "_Vorlagen/Verb Vorlage.md",
+    "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "03_Vokabeln/Verben/reden.md",
+    "03_Vokabeln/Verben/lächeln.md",
+    "03_Vokabeln/Verben/zusehen.md",
+    "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/möchten.md",
     "MOC.md",
     "03_Vokabeln/Substantive/Herz.md",
-    "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/weinen.md",
     "03_Vokabeln/Verben/vereinen.md",
     "03_Vokabeln/Verben/verdammen.md",
@@ -236,10 +240,6 @@
     "03_Vokabeln/Adjektive/jung.md",
     "03_Vokabeln/Adjektive/kalt.md",
     "03_Vokabeln/Substantive/Deutschland.md",
-    "03_Vokabeln/Substantive/Geist.md",
-    "03_Vokabeln/Substantive/Flamme.md",
-    "04_Lieder/Rammstein - Deutschland.md",
-    "00_Eingang/Flammen.md",
     "03_Vokabeln/Präpositionen",
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
