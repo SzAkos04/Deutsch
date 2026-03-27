@@ -3,7 +3,7 @@ Wort: zeigen
 Wortart: Verb
 Verbtyp:
   - schwach
-Bedeutung: mutatni
+Bedeutung: mutatni, megmutatni
 Präteritum: zeigte
 Partizip_II: gezeigt
 Hilfsverb:
@@ -33,6 +33,11 @@ aliases:
 | wir              | **zeigen** |
 | ihr              | **zeigt**  |
 | sie / Sie        | **zeigen** |
+
+> [!INFO]
+> 
+> **Verbtyp:** `=this.Verbtyp
+> **_zeigen_ + D, A**: megmutatni vkinek vmit
 
 ---
 

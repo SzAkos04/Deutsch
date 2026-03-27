@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce78ac22025e04e0",
+            "id": "b1bb56351e2a75a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -222,9 +222,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce78ac22025e04e0",
+  "active": "b1bb56351e2a75a8",
   "lastOpenFiles": [
+    "03_Vokabeln/Verben/öffnen.md",
+    "03_Vokabeln/Verben/zeigen.md",
+    "00_Eingang/zeigen.md",
+    "03_Vokabeln/Verben/erklären.md",
+    "03_Vokabeln/Verben/bringen.md",
     "03_Vokabeln/Verben/anbieten.md",
+    "MOC.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/schließen.md",
     "03_Vokabeln/Verben/schaden.md",
@@ -240,16 +246,10 @@
     "03_Vokabeln/Verben/weinen.md",
     "03_Vokabeln/Verben/werden.md",
     "03_Vokabeln/Verben/wissen.md",
-    "03_Vokabeln/Verben/zeigen.md",
     "03_Vokabeln/Verben/zuhören.md",
     "03_Vokabeln/Verben/zusehen.md",
     "03_Vokabeln/Verben/trennen.md",
     "03_Vokabeln/Verben/telefonieren.md",
-    "03_Vokabeln/Verben/stehen.md",
-    "03_Vokabeln/Verben/sollen.md",
-    "03_Vokabeln/Verben/schneien.md",
-    "03_Vokabeln/Verben/schlafen.md",
-    "03_Vokabeln/Verben/schauen.md",
     "00_Eingang",
     "03_Vokabeln/Präpositionen",
     "03_Vokabeln/Konjunktionen",
