@@ -28,6 +28,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
-<!--SR:!2026-03-19,3,250-->
+<!--SR:!2026-03-29,2,230-->
 
 #Lernkarten 

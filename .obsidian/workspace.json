@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28b75f93aeece808",
+        "id": "7f659d63a2126922",
         "type": "tabs",
         "children": [
           {
-            "id": "b1bb56351e2a75a8",
+            "id": "cd0280a3bca48b39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Vorlagen/Verb Vorlage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Verb Vorlage"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "igek",
+                "query": "noch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -222,8 +218,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1bb56351e2a75a8",
+  "active": "cd0280a3bca48b39",
   "lastOpenFiles": [
+    "03_Vokabeln/Adverben/noch.md",
+    "03_Vokabeln/Konjunktionen/schon.md",
+    "04_Lieder/Rammstein - Deutschland.md",
+    "_Vorlagen/Verb Vorlage.md",
     "_Vorlagen/Pronomen Vorlage.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/öffnen.md",
@@ -246,10 +246,6 @@
     "03_Vokabeln/Verben/wecken.md",
     "03_Vokabeln/Verben/weinen.md",
     "03_Vokabeln/Verben/werden.md",
-    "03_Vokabeln/Verben/wissen.md",
-    "03_Vokabeln/Verben/zuhören.md",
-    "03_Vokabeln/Verben/zusehen.md",
-    "03_Vokabeln/Verben/trennen.md",
     "00_Eingang",
     "03_Vokabeln/Präpositionen",
     "03_Vokabeln/Konjunktionen",

@@ -1,7 +1,7 @@
 ---
 Wort: schon
 Wortart: Konjunktion
-Bedeutung: mégis
+Bedeutung: már, mégis
 Quelle:
   - "[[Rammstein - Deutschland]]"
 aliases:
@@ -19,11 +19,11 @@ aliases:
 
 ## Siehe auch
 
-- 
+- [[noch]]
 
 ---
 
 `=this.Bedeutung` :: `=this.Wort`
-<!--SR:!2026-03-17,1,230-->
+<!--SR:!2026-03-28,1,210-->
 
 #Lernkarten 
