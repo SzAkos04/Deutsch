@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +224,11 @@
   },
   "active": "ce78ac22025e04e0",
   "lastOpenFiles": [
-    "00_Eingang/schließen.md",
-    "00_Eingang/schaden.md",
-    "00_Eingang/brauchen.md",
-    "00_Eingang/anbieten.md",
+    "03_Vokabeln/Verben/anbieten.md",
+    "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Verben/schließen.md",
+    "03_Vokabeln/Verben/schaden.md",
+    "03_Vokabeln/Verben/brauchen.md",
     "03_Vokabeln/Verben/erzählen.md",
     "03_Vokabeln/Verben/erleben.md",
     "03_Vokabeln/Verben/umziehen.md",
@@ -250,7 +250,6 @@
     "03_Vokabeln/Verben/schneien.md",
     "03_Vokabeln/Verben/schlafen.md",
     "03_Vokabeln/Verben/schauen.md",
-    "03_Vokabeln/Verben/sagen.md",
     "00_Eingang",
     "03_Vokabeln/Präpositionen",
     "03_Vokabeln/Konjunktionen",
