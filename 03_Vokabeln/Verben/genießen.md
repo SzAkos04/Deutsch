@@ -1,7 +1,13 @@
 ---
-Titel: genießen
+Wort: genießen
 Wortart: Verb
+Verbtyp:
+  - stark
 Bedeutung: élvezni
+Präteritum: genoss
+Partizip_II: genossen
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - genieße
@@ -32,6 +38,6 @@ aliases:
 
 ---
 
-élvezni :: genießen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

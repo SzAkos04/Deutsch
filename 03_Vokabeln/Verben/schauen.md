@@ -1,7 +1,13 @@
 ---
-Titel: schauen
+Wort: schauen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: nézni, tekinteni
+Präteritum: schaute
+Partizip_II: geschaut
+Hilfsverb:
+  - hat
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - schaue
@@ -41,6 +47,6 @@ aliases:
 
 ---
 
-nézni, tekinteni :: schauen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

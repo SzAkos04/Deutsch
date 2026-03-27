@@ -1,7 +1,13 @@
 ---
 Titel: leben
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: élni
+Präteritum: lebte
+Partizip_II: gelebt
+Hilfsverb:
+  - hat
 Quelle:
 aliases:
   - lebe
@@ -43,7 +49,7 @@ aliases:
 
 ---
 
-élni :: leben
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-03-24,2,230-->
 
 #Lernkarten 

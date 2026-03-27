@@ -3,6 +3,7 @@ Wort: erzählen
 Wortart: Verb
 Verbtyp:
   - schwach
+  - untrennbar
 Bedeutung: mesélni, elmondani
 Präteritum: erzählte
 Partizip_II: erzählt

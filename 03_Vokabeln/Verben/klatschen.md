@@ -1,7 +1,13 @@
 ---
-Titel: klatschen
+Wort: klatschen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: tapsolni, csattogni, pofozni, pletykálni
+Präteritum: klatschte
+Partizip_II: geklatscht
+Hilfsverb:
+  - hat
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - klatsche
@@ -39,6 +45,6 @@ aliases:
 
 ---
 
-tapsolni, csattogni, pofozni, pletykálni :: klatschen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

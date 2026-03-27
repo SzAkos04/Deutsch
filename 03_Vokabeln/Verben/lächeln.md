@@ -1,7 +1,13 @@
 ---
-Titel: lächeln
+Wort: lächeln
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: mosolyogni
+Präteritum: lächelte
+Partizip_II: gelächelt
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - lächele
@@ -30,7 +36,7 @@ aliases:
 
 ---
 
-mosolyogni :: lächeln
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-03-22,1,210-->
 
 #Lernkarten 

@@ -1,7 +1,13 @@
 ---
-Titel: glauben
+Wort: glauben
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: hinni
+Präteritum: glaubte
+Partizip_II: geglaubt
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - glaube
@@ -36,6 +42,6 @@ aliases:
 
 ---
 
-hinni :: glauben
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

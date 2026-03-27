@@ -1,7 +1,13 @@
 ---
-Titel: rennen
+Wort: rennen
 Wortart: Verb
+Verbtyp:
+  - stark
 Bedeutung: rohanni, szaladni
+Präteritum: rannte
+Partizip_II: gerannt
+Hilfsverb:
+  - ist
 Quelle:
 aliases:
   - renne
@@ -43,7 +49,7 @@ aliases:
 
 ---
 
-rohanni, szaladni :: rennen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-03-23,1,210-->
 
 #Lernkarten 

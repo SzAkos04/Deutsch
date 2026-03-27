@@ -5,6 +5,9 @@ Verbtyp:
   - stark
 Bedeutung: menni
 Präteritum: ging
+Partizip_II: gegangen
+Hilfsverb:
+  - ist
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - gehe

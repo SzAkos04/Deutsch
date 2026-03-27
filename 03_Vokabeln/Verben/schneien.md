@@ -1,7 +1,13 @@
 ---
 Titel: schneien
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: havazni
+Präteritum: schneite
+Partizip_II: geschneit
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - schneie
@@ -30,7 +36,7 @@ aliases:
 
 ---
 
-havazni :: schneien
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-03-24,2,230-->
 
 #Lernkarten 

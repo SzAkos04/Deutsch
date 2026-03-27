@@ -1,11 +1,22 @@
 ---
-Titel: kennen
+Wort: kennen
 Wortart: Verb
+Verbtyp:
+  - stark
 Bedeutung: ismerni
+Präteritum: kannte
+Partizip_II: gekannt
+Hilfsverb:
+  - hat
 Quelle:
   - "[[Mayberg - Spiegelbild]]"
   - "[[das Pronomen]]"
 aliases:
+  - kenne
+  - kennst
+  - kennt
+  - kannte
+  - gekannt
 ---
 
 # kennen
@@ -43,6 +54,6 @@ aliases:
 
 ---
 
-ismerni :: kennen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

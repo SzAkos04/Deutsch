@@ -3,6 +3,7 @@ Wort: verdammen
 Wortart: Verb
 Verbtyp:
   - schwach
+  - untrennbar
 Bedeutung: elítélni
 Präteritum: verdammte
 Partizip_II: verdammt
@@ -47,6 +48,6 @@ aliases:
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

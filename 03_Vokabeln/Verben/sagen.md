@@ -1,7 +1,13 @@
 ---
-Titel: sagen
+Wort: sagen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: mondani
+Präteritum: sagte
+Partizip_II: gesagt
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - sage
@@ -30,6 +36,6 @@ aliases:
 
 ---
 
-mondani :: sagen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

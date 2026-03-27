@@ -1,7 +1,13 @@
 ---
-Titel: wecken
+Wort: wecken
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: felébreszteni (valakit)
+Präteritum: weckte
+Partizip_II: geweckt
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - wecke
@@ -30,6 +36,6 @@ aliases:
 
 ---
 
-felébreszteni (valakit) :: wecken
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

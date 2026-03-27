@@ -1,7 +1,13 @@
 ---
-Titel: lachen
+Wort: lachen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: nevetni
+Präteritum: lachte
+Partizip_II: gelacht
+Hilfsverb:
+  - hat
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
   - "[[das Pronomen]]"
@@ -32,6 +38,6 @@ aliases:
 
 ---
 
-nevetni :: lachen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

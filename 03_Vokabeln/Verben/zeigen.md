@@ -1,7 +1,13 @@
 ---
-Titel: zeigen
+Wort: zeigen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: mutatni
+Präteritum: zeigte
+Partizip_II: gezeigt
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - zeige
@@ -30,6 +36,6 @@ aliases:
 
 ---
 
-mutatni :: zeigen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

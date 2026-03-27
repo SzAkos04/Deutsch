@@ -3,6 +3,7 @@ Wort: vereinen
 Wortart: Verb
 Verbtyp:
   - schwach
+  - untrennbar
 Bedeutung: egyesíteni
 Präteritum: vereinte
 Partizip_II: vereint
@@ -47,6 +48,6 @@ aliases:
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

@@ -1,7 +1,13 @@
 ---
 Titel: stehen
 Wortart: Verb
+Verbtyp:
+  - stark
 Bedeutung: állni
+Präteritum: stand
+Partizip_II: gestanden
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - stehe
@@ -33,6 +39,6 @@ aliases:
 
 ---
 
-állni :: stehen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

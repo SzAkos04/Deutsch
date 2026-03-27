@@ -1,7 +1,13 @@
 ---
-Titel: werden
+Wort: werden
 Wortart: Verb
+Verbtyp:
+  - unregelmäßig
 Bedeutung: válik valamivé, lesz (folyamat)
+Präteritum: wurde
+Partizip_II: geworden
+Hilfsverb:
+  - ist
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - werde
@@ -45,6 +51,6 @@ aliases:
 
 ---
 
-válik valamivé, lesz (folyamat) :: werden
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

@@ -1,7 +1,13 @@
 ---
 Titel: merken
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: észrevesz, megjegyez
+Präteritum: merkte
+Partizip_II: gemerkt
+Hilfsverb:
+  - hat
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
   - "[[Mayberg - Spiegelbild]]"
@@ -32,7 +38,7 @@ aliases:
 
 ---
 
-észrevesz, megjegyez :: merken
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-03-23,1,230-->
 
 #Lernkarten 

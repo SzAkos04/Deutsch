@@ -1,7 +1,14 @@
 ---
-Titel: verschweigen
+Wort: verschweigen
 Wortart: Verb
+Verbtyp:
+  - stark
+  - untrennbar
 Bedeutung: elhallgatni (valamit)
+Präteritum: verschwieg
+Partizip_II: verschwiegen
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - verschweige
@@ -33,6 +40,6 @@ aliases:
 
 ---
 
-elhallgatni (valamit) :: verschweigen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

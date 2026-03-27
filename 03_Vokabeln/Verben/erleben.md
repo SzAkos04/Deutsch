@@ -3,6 +3,7 @@ Wort: erleben
 Wortart: Verb
 Verbtyp:
   - schwach
+  - untrennbar
 Bedeutung: átél, megél (élményt)
 Präteritum: erlebte
 Partizip_II: erlebt

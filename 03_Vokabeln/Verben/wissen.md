@@ -3,6 +3,7 @@ Wort: wissen
 Wortart: Verb
 Verbtyp:
   - gemischt
+  - unregelmäßig
 Bedeutung: tudni
 Präteritum: wusste
 Partizip_II: gewusst
@@ -50,6 +51,6 @@ aliases:
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

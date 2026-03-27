@@ -1,7 +1,13 @@
 ---
-Titel: reichen
+Wort: reichen
 Wortart: Verb
+Verbtyp:
+  - schwach
 Bedeutung: elegendő; nyújt, átad
+Präteritum: reichte
+Partizip_II: gereicht
+Hilfsverb:
+  - hat
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
   - "[[Mayberg - Spiegelbild]]"
@@ -32,6 +38,6 @@ aliases:
 
 ---
 
-elegendő; nyújt, átad :: reichen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

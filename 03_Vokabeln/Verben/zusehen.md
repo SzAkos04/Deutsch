@@ -1,7 +1,14 @@
 ---
-Titel: zusehen
+Wort: zusehen
 Wortart: Verb
+Verbtyp:
+  - stark
+  - trennbar
 Bedeutung: nézni, figyelni (valakit/valamit)
+Präteritum: sah zu
+Partizip_II: zugesehen
+Hilfsverb:
+  - hat
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - zusehe
@@ -41,6 +48,6 @@ aliases:
 
 ---
 
-nézni, figyelni (valakit/valamit) :: zu|sehen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

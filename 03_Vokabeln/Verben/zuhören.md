@@ -1,7 +1,14 @@
 ---
-Titel: zuhören
+Wort: zuhören
 Wortart: Verb
+Verbtyp:
+  - schwach
+  - trennbar
 Bedeutung: hallgatni
+Präteritum: hörte zu
+Partizip_II: zugehört
+Hilfsverb:
+  - hat
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
   - zuhöre
@@ -43,7 +50,7 @@ aliases:
 
 ---
 
-hallgatni :: zu|hören
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-03-22,1,230-->
 
 #Lernkarten 
