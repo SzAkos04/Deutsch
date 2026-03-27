@@ -1,5 +1,5 @@
 ---
-Titel: fragen
+Wort: fragen
 Wortart: Verb
 Verbtyp:
   - schwach
@@ -51,6 +51,6 @@ aliases:
 
 ---
 
-kérdezni :: fragen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

@@ -1,23 +1,19 @@
 ---
-Wort: fahren
+Wort: schließen
 Wortart: Verb
 Verbtyp:
   - stark
-Bedeutung: utazni, vezetni
-Präteritum: fuhr
-Partizip_II: gefahren
+Bedeutung: bezárni, becsukni
+Präteritum: schloss
+Partizip_II: geschlossen
 Hilfsverb:
-  - ist
   - hat
 Quelle:
-  - "[[das Numerale]]"
 aliases:
-  - fahre
-  - fährst
-  - fährt
-  - fahrt
-  - fuhr
-  - gefahren
+  - schließe
+  - schließt
+  - schloss
+  - geschlossen
 ---
 
 # `=this.Wort`
@@ -28,28 +24,25 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb       |
-| ---------------- | ---------- |
-| ich              | **fahre**  |
-| du               | **fährst** |
-| er / sie / es    | **fährt**  |
-| wir              | **fahren** |
-| ihr              | **fahrt**  |
-| sie / Sie        | **fahren** |
+| Personalpronomen | Verb          |
+| ---------------- | ------------- |
+| ich              | **schließe**  |
+| du               | **schließt**  |
+| er / sie / es    | **schließt**  |
+| wir              | **schließen** |
+| ihr              | **schließt**  |
+| sie / Sie        | **schließen** |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **Ablaut:** f**a**hren $\to$ f**ä**hrst
+> **_schließen_ + A**: becsukni vmit
 
 ---
 
 ## Siehe auch
 
-- [[abfahren]]
-- [[mitfahren]]
-- [[ankommen]]
-- [[Fahrrad]]
+- 
 
 ---
 

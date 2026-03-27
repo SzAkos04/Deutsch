@@ -1,5 +1,5 @@
 ---
-Titel: aussehen
+Wort: aussehen
 Wortart: Verb
 Verbtyp:
   - stark
@@ -53,6 +53,6 @@ aliases:
 
 ---
 
-kinézni (valahogy) :: aus|sehen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

@@ -1,23 +1,25 @@
 ---
-Wort: fahren
+Wort: anbieten
 Wortart: Verb
 Verbtyp:
   - stark
-Bedeutung: utazni, vezetni
-Präteritum: fuhr
-Partizip_II: gefahren
+  - trennbar
+Bedeutung: megkínál, felajánl
+Präteritum: bot an
+Partizip_II: angeboten
 Hilfsverb:
-  - ist
   - hat
 Quelle:
-  - "[[das Numerale]]"
 aliases:
-  - fahre
-  - fährst
-  - fährt
-  - fahrt
-  - fuhr
-  - gefahren
+  - anbiete
+  - biete an
+  - anbietest
+  - bietest an
+  - anbietet
+  - bietet an
+  - anbot
+  - bot an
+  - angeboten
 ---
 
 # `=this.Wort`
@@ -28,28 +30,25 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb       |
-| ---------------- | ---------- |
-| ich              | **fahre**  |
-| du               | **fährst** |
-| er / sie / es    | **fährt**  |
-| wir              | **fahren** |
-| ihr              | **fahrt**  |
-| sie / Sie        | **fahren** |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **an\|biete**   |
+| du               | **an\|bietest** |
+| er / sie / es    | **an\|bietet**  |
+| wir              | **an\|bieten**  |
+| ihr              | **an\|bietet**  |
+| sie / Sie        | **an\|bieten**  |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **Ablaut:** f**a**hren $\to$ f**ä**hrst
+> **_an|bieten_ + D, A**: kínálni vkinek vmit
 
 ---
 
 ## Siehe auch
 
-- [[abfahren]]
-- [[mitfahren]]
-- [[ankommen]]
-- [[Fahrrad]]
+- 
 
 ---
 

@@ -48,6 +48,6 @@ aliases:
 
 ---
 
-hiányozni, hiányolni, elvéteni :: fehlen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

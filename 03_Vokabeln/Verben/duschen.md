@@ -1,5 +1,5 @@
 ---
-Titel: duschen
+Wort: duschen
 Wortart: Verb
 Verbtyp:
   - schwach
@@ -45,6 +45,6 @@ aliases:
 
 ---
 
-zuhanyozni :: duschen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

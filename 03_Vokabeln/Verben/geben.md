@@ -1,5 +1,5 @@
 ---
-Titel: geben
+Wort: geben
 Wortart: Verb
 Verbtyp:
   - stark
@@ -52,6 +52,6 @@ aliases:
 
 ---
 
-adni :: geben
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

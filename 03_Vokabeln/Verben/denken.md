@@ -1,5 +1,5 @@
 ---
-Titel: denken
+Wort: denken
 Wortart: Verb
 Verbtyp:
   - gemischt
@@ -52,6 +52,6 @@ aliases:
 
 ---
 
-gondolkodni, gondolni :: denken
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

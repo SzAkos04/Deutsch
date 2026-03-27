@@ -1,23 +1,20 @@
 ---
-Wort: fahren
+Wort: brauchen
 Wortart: Verb
 Verbtyp:
-  - stark
-Bedeutung: utazni, vezetni
-Präteritum: fuhr
-Partizip_II: gefahren
+  - schwach
+Bedeutung: kell (szükség)
+Präteritum: brauchte
+Partizip_II: gebraucht
 Hilfsverb:
-  - ist
   - hat
 Quelle:
-  - "[[das Numerale]]"
 aliases:
-  - fahre
-  - fährst
-  - fährt
-  - fahrt
-  - fuhr
-  - gefahren
+  - brauche
+  - brauchst
+  - braucht
+  - brauchte
+  - gebraucht
 ---
 
 # `=this.Wort`
@@ -28,28 +25,25 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb       |
-| ---------------- | ---------- |
-| ich              | **fahre**  |
-| du               | **fährst** |
-| er / sie / es    | **fährt**  |
-| wir              | **fahren** |
-| ihr              | **fahrt**  |
-| sie / Sie        | **fahren** |
+| Personalpronomen | Verb         |
+| ---------------- | ------------ |
+| ich              | **brauche**  |
+| du               | **brauchst** |
+| er / sie / es    | **braucht**  |
+| wir              | **brauchen** |
+| ihr              | **braucht**  |
+| sie / Sie        | **brauchen** |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **Ablaut:** f**a**hren $\to$ f**ä**hrst
+> **_brauchen_ + A**: szüksége van vkire / vmire
 
 ---
 
 ## Siehe auch
 
-- [[abfahren]]
-- [[mitfahren]]
-- [[ankommen]]
-- [[Fahrrad]]
+- 
 
 ---
 

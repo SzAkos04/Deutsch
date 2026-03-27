@@ -1,23 +1,20 @@
 ---
-Wort: fahren
+Wort: schaden
 Wortart: Verb
 Verbtyp:
-  - stark
-Bedeutung: utazni, vezetni
-Präteritum: fuhr
-Partizip_II: gefahren
+  - schwach
+Bedeutung: ártani, kárt okozni
+Präteritum: schadete
+Partizip_II: geschadet
 Hilfsverb:
-  - ist
   - hat
 Quelle:
-  - "[[das Numerale]]"
 aliases:
-  - fahre
-  - fährst
-  - fährt
-  - fahrt
-  - fuhr
-  - gefahren
+  - schade
+  - schadest
+  - shadet
+  - shadete
+  - geschadet
 ---
 
 # `=this.Wort`
@@ -28,28 +25,25 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb       |
-| ---------------- | ---------- |
-| ich              | **fahre**  |
-| du               | **fährst** |
-| er / sie / es    | **fährt**  |
-| wir              | **fahren** |
-| ihr              | **fahrt**  |
-| sie / Sie        | **fahren** |
+| Personalpronomen | Verb         |
+| ---------------- | ------------ |
+| ich              | **schade**   |
+| du               | **schadest** |
+| er / sie / es    | **schadet**  |
+| wir              | **schaden**  |
+| ihr              | **schadet**  |
+| sie / Sie        | **schaden**  |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **Ablaut:** f**a**hren $\to$ f**ä**hrst
+> **_schaden_ + D**: ártani vkinek / vminek
 
 ---
 
 ## Siehe auch
 
-- [[abfahren]]
-- [[mitfahren]]
-- [[ankommen]]
-- [[Fahrrad]]
+- 
 
 ---
 

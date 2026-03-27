@@ -1,5 +1,5 @@
 ---
-Titel: drängen
+Wort: drängen
 Wortart: Verb
 Verbtyp:
   - schwach
@@ -52,7 +52,7 @@ aliases:
 
 ---
 
-sürget, tolong, nyomul :: drängen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-03-22,1,230-->
 
 #Lernkarten 

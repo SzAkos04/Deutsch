@@ -1,5 +1,5 @@
 ---
-Titel: durchrennen
+Wort: durchrennen
 Wortart: Verb
 Verbtyp:
   - gemischt
@@ -51,6 +51,6 @@ aliases:
 
 ---
 
-átrohan, keresztülfut :: durch|rennen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

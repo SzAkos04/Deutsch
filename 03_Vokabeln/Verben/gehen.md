@@ -1,7 +1,10 @@
 ---
-Titel: gehen
+Wort: gehen
 Wortart: Verb
+Verbtyp:
+  - stark
 Bedeutung: menni
+Präteritum: ging
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - gehe
@@ -34,6 +37,6 @@ aliases:
 
 ---
 
-menni :: gehen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 
 #Lernkarten 

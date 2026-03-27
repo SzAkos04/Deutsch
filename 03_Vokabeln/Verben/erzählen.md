@@ -1,5 +1,5 @@
 ---
-Titel: erzählen
+Wort: erzählen
 Wortart: Verb
 Verbtyp:
   - schwach
@@ -50,7 +50,7 @@ aliases:
 
 ---
 
-mesélni, elmondani :: erzählen
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-03-23,1,230-->
 
 #Lernkarten 
