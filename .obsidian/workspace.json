@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
+                "file": "_Vorlagen/Verb Vorlage.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "Verb Vorlage"
             }
           }
         ]
@@ -224,6 +224,8 @@
   },
   "active": "b1bb56351e2a75a8",
   "lastOpenFiles": [
+    "_Vorlagen/Pronomen Vorlage.md",
+    "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/öffnen.md",
     "03_Vokabeln/Verben/zeigen.md",
     "00_Eingang/zeigen.md",
@@ -231,7 +233,6 @@
     "03_Vokabeln/Verben/bringen.md",
     "03_Vokabeln/Verben/anbieten.md",
     "MOC.md",
-    "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/schließen.md",
     "03_Vokabeln/Verben/schaden.md",
     "03_Vokabeln/Verben/brauchen.md",
@@ -249,7 +250,6 @@
     "03_Vokabeln/Verben/zuhören.md",
     "03_Vokabeln/Verben/zusehen.md",
     "03_Vokabeln/Verben/trennen.md",
-    "03_Vokabeln/Verben/telefonieren.md",
     "00_Eingang",
     "03_Vokabeln/Präpositionen",
     "03_Vokabeln/Konjunktionen",

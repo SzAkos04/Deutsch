@@ -6,6 +6,9 @@ Verbtyp:
   - schwach
   - gemischt
   - modal
+  - unregelmäßig
+  - trennbar
+  - untrennbar
 Bedeutung:
 Präteritum:
 Partizip_II:
