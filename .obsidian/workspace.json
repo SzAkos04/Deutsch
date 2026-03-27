@@ -176,9 +176,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "68f84b59ca80ee11",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -206,13 +216,13 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0b994ebb02fca3fc",
+  "active": "68f84b59ca80ee11",
   "lastOpenFiles": [
     "_Vorlagen/Verb Vorlage.md",
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
