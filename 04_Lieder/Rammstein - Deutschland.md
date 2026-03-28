@@ -35,7 +35,7 @@ Künstler*in: Rammstein
 > [[überheblich|Überheblich]], [[03_Vokabeln/Adjektive/überlegen|überlegen]]
 > [[übernehmen|Übernehmen]], [[übergeben]]
 > [[überraschen|Überraschen]], [[überfallen]]
-> Deutschland, Deutschland [[über]] [[alles|allen]]
+> Deutschland, Deutschland über [[alles|allen]]
 > 
 > (Deutschland!) Mein Herz in Flammen
 > Will dich lieben und verdammen

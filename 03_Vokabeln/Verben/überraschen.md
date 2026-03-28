@@ -10,7 +10,11 @@ Partizip_II: überrascht
 Hilfsverb:
   - hat
 Quelle:
+  - "[[Deutschland]]"
 aliases:
+  - überrasche
+  - überrascht
+  - überraschte
 ---
 
 # `=this.Wort`
@@ -21,13 +25,13 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                    |
-| ---------------- | ----------------------- |
-| ich              |                         |
-| du               |                         |
-| er / sie / es    |                         |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **überrasche**  |
+| du               | **überrascht**  |
+| er / sie / es    | **überrascht**  |
 | wir              | **überraschen** |
-| ihr              |                         |
+| ihr              | **überrascht**  |
 | sie / Sie        | **überraschen** |
 
 > [!INFO]
