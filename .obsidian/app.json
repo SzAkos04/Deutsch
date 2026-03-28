@@ -24,5 +24,6 @@
     "editor:table-row-delete"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "00_Eingang"
+  "newFileFolderPath": "00_Eingang",
+  "openBehavior": "file:MOC"
 }

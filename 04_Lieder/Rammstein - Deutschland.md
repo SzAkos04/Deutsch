@@ -25,14 +25,14 @@ Künstler*in: Rammstein
 > ([[Deutschland]]!) Mein Herz in Flammen
 > Will dich [[lieben]] und [[verdammen]]
 > (Deutschland!) Dein [[Atem]] kalt
-> So [[jung]] und [[doch]] so alt
+> So [[jung]] und doch so alt
 > (Deutschland!)
 > 
 > Ich (Du hast, du hast, du hast, du hast)
 > Ich will dich nie [[verlassen]] (Ich weiß, ich weiß, ich weiß, ich weiß)
 > Man kann dich lieben (Du liebst, du liebst, du liebst, du liebst)
 > Und will dich [[hassen]] (Du hast, du hast, du hast, du hast)
-> [[überheblich|Überheblich]], [[überlegen]]
+> [[überheblich|Überheblich]], [[03_Vokabeln/Adjektive/überlegen|überlegen]]
 > [[übernehmen|Übernehmen]], [[übergeben]]
 > [[überraschen|Überraschen]], [[überfallen]]
 > Deutschland, Deutschland [[über]] [[alles|allen]]
