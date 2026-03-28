@@ -8,6 +8,7 @@
     "Quelle": "multitext",
     "Verbtyp": "multitext",
     "Hilfsverb": "multitext",
-    "Präteritum": "text"
+    "Präteritum": "text",
+    "Kontext": "multitext"
   }
 }
