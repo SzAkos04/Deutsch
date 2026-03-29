@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "0c3e710259c100ea",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7751dd43d4bcef07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "New tab"
             }
           }
         ]
@@ -96,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MOC"
+              "title": "Backlinks"
             }
           },
           {
@@ -232,10 +226,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7751dd43d4bcef07",
   "lastOpenFiles": [
     "02_Kommunikation/Redewendungen/Es tut mir leid..md",
     "02_Kommunikation/Redewendungen/Gute Besserung!.md",
+    "01_Grammatik/das Pronomen.md",
+    "01_Grammatik/das Numerale.md",
+    "_Vorlagen/Lied Vorlage.md",
+    "MOC.md",
     "02_Kommunikation/E-Mail schreiben.md",
     "_Vorlagen/Redewendung Vorlage.md",
     "04_Lieder/Rammstein - Deutschland.md",
@@ -256,12 +254,8 @@
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/hassen.md",
     "01_Grammatik/das Adjektiv.md",
-    "MOC.md",
     "00_Eingang",
     "03_Vokabeln/Adverben/noch.md",
-    "03_Vokabeln/Konjunktionen/schon.md",
-    "_Vorlagen/Verb Vorlage.md",
-    "_Vorlagen/Pronomen Vorlage.md",
     "00_Eingang",
     "03_Vokabeln/Präpositionen",
     "03_Vokabeln/Konjunktionen",
