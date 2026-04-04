@@ -1,9 +1,9 @@
 ---
-Ausdruck: Schritt um Schritt
+Ausdruck: Hand in Hand
 Wortart:
   - Redewendung
-Bedeutung: lépésről lépésre
-Beispiel:
+Bedeutung: kéz a kézben
+Beispiel: Armut und Krankheit gehen oft Hand in Hand.
 Kontext:
   - neutral
   - alltäglich
@@ -28,7 +28,7 @@ aliases:
 
 ## Siehe auch
 
-- [[Schritt]]
+- [[Hand]]
 
 ---
 

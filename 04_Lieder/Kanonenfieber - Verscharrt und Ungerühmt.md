@@ -20,19 +20,19 @@ Künstler*in: Kanonenfieber
 > Verscharrt und ungerühmt
 > 
 > Und mit der [[gleichen]] [[Treue]]
-> [[Gleicher]] [[Angst]] und gleicher [[Reue]]
-> Väter, Söhne, [[Ehegatten]]
-> [[Drüben]] im [[Feindes]] [[Graben]]
+> Gleicher [[Angst]] und gleicher [[Reue]]
+> Väter, Söhne, [[Ehegatte|Ehegatten]]
+> [[drüben|Drüben]] im [[Feind|Feindes]] [[Graben]]
 > 
 > Das Schicksal, das ihm blüht
 > Verscharrt und ungerühmt
 > Das Schicksal, das ihm blüht
 > Verscharrt und ungerühmt
 > 
-> Im Leiden sind wir gleich
-> Augen trüb, Gesichter bleich
-> Ich liege tot im Niemandsland
-> Mit dem Feinde Hand in Hand
+> Im [[Leiden]] sind wir gleich
+> [[Auge|Augen]] [[trüb]], Gesichter [[bleich]]
+> Ich liege [[tot]] im Niemandsland
+> Mit dem Feinde [[Hand in Hand]]
 > 
 > Das Schicksal, das uns blüht
 > Verscharrt und ungerühmt
