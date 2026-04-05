@@ -18,9 +18,10 @@
 TABLE WITHOUT ID
 	(choice(Genus, Genus + " ", "") + file.link + choice(Plural, ", " + Plural, "")) AS "Wort",
 	Bedeutung,
-	Quelle
+	Niveau
 FROM "03_Vokabeln"
-WHERE Bedeutung != null
+WHERE Bedeutung != null AND
+      Niveau = null
 SORT file.name ASC
 ```
 

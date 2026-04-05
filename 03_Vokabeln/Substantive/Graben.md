@@ -3,7 +3,7 @@ Wort: Graben
 Wortart: Substantiv
 Genus: der
 Plural: -̈
-Niveau: 
+Niveau: B2
 Bedeutung: árok, lövészárok
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

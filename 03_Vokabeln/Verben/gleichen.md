@@ -3,7 +3,7 @@ Wort: gleichen
 Wortart: Verb
 Verbtyp:
   - stark
-Niveau: 
+Niveau: B2
 Bedeutung: hasonlít (vkire/vmire)
 Präteritum: glich
 Partizip_II: geglichen

@@ -1,9 +1,9 @@
 ---
 Wort: Deutschland
 Wortart: Substantiv
+Niveau: A1
 Genus: das
 Plural:
-Niveau: 
 Bedeutung: Németország
 Quelle:
   - "[[Rammstein - Deutschland]]"

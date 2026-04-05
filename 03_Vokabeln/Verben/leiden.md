@@ -3,7 +3,7 @@ Wort: leiden
 Wortart: Verb
 Verbtyp:
   - stark
-Niveau: 
+Niveau: B1
 Bedeutung: szenvedni, eltűrni
 Präteritum: litt
 Partizip_II: gelitten

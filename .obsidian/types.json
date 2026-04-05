@@ -9,6 +9,7 @@
     "Verbtyp": "multitext",
     "Hilfsverb": "multitext",
     "Präteritum": "text",
-    "Kontext": "multitext"
+    "Kontext": "multitext",
+    "Niveau": "text"
   }
 }

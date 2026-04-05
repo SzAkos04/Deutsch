@@ -1,7 +1,7 @@
 ---
 Wort: lang
 Wortart: Adjektiv
-Niveau: 
+Niveau: A1
 Bedeutung: hosszú
 Komparativ: länger
 Superlativ: längsten

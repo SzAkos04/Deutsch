@@ -1,7 +1,7 @@
 ---
 Wort: alltäglich
 Wortart: Adjektiv
-Niveau: 
+Niveau: B1
 Bedeutung: hétköznapi, megszokott, mindennapi
 Komparativ: alltäglicher
 Superlativ: alltäglichsten

@@ -3,7 +3,7 @@ Wort: glauben
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A1
 Bedeutung: hinni
 Präteritum: glaubte
 Partizip_II: geglaubt

@@ -1,7 +1,7 @@
 ---
 Wort: bald
 Wortart: Adjektiv
-Niveau: 
+Niveau: A1
 Bedeutung: hamarosan
 Komparativ: eher
 Superlativ: ehesten

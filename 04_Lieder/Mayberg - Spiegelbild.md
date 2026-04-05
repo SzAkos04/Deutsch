@@ -28,7 +28,7 @@ Künstler*in: Mayberg
 > 
 > Und ich bin [[dankbar]]
 > Dass mein [[03_Vokabeln/Substantive/Leben|Leben]] mir zum Leben [[reichen|reicht]]
-> [[manche|Manche]] haben's nicht so easy
+> [[manchen|Manche]] haben's nicht so easy
 > Manche haben's nicht so [[leicht]]
 > Ich [[kennen|kenne]] [[Leute]], die haben's nicht so leicht
 > Nicht so leicht
@@ -44,7 +44,7 @@ Künstler*in: Mayberg
 > 
 > Und du [[klatschen|klatschst]] in die [[Hand|Hände]], du
 > Bist gut mit deinen [[Eltern]] und am Ende, du
-> [[zuhören|Hörst]] [[nie]] dir, immer den [[andere|andern]] [[zuhören|zu]]
+> [[zuhören|Hörst]] [[nie]] dir, immer den [[ander-|andern]] [[zuhören|zu]]
 > Ja, ich kenn' das, ich kenn' das
 > 
 > Ja, und du schaust täglich in dein Spiegelbild

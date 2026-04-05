@@ -1,9 +1,9 @@
 ---
 Wort: Angst
 Wortart: Substantiv
+Niveau: A1
 Genus: die
 Plural: -̈e
-Niveau: 
 Bedeutung: félelem, szorongás
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

@@ -1,9 +1,9 @@
 ---
 Wort: Enge
 Wortart: Substantiv
+Niveau: B2
 Genus: die
 Plural:
-Niveau: 
 Bedeutung: szűkösség, szorultság
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

@@ -1,7 +1,7 @@
 ---
 Wort: nie
 Wortart: Adverb
-Niveau: 
+Niveau: A1
 Bedeutung: soha
 Quelle:
 aliases:

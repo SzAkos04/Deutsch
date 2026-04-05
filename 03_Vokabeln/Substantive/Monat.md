@@ -1,9 +1,9 @@
 ---
 Wort: Monat
 Wortart: Substantiv
+Niveau: A1
 Genus: der
 Plural: -e
-Niveau: 
 Bedeutung: hónap
 Quelle:
   - "[[das Numerale]]"

@@ -3,7 +3,7 @@ Titel: leben
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A1
 Bedeutung: élni
 Präteritum: lebte
 Partizip_II: gelebt

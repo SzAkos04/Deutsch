@@ -3,7 +3,7 @@ Wort: reichen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: B1
 Bedeutung: elegendő; nyújt, átad
 Präteritum: reichte
 Partizip_II: gereicht

@@ -1,7 +1,7 @@
 ---
 Wort: morgen
 Wortart: Adverb
-Niveau: 
+Niveau: A1
 Bedeutung: holnap
 Quelle:
 aliases:

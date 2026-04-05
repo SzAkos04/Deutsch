@@ -1,9 +1,9 @@
 ---
 Wort: Aufgabe
 Wortart: Substantiv
+Niveau: A1
 Genus: die
 Plural: -n
-Niveau: 
 Bedeutung: feladat
 Quelle:
   - "[[das Pronomen]]"

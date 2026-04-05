@@ -1,9 +1,9 @@
 ---
 Wort: Herz
 Wortart: Substantiv
+Niveau: A1
 Genus: das
 Plural: -en
-Niveau: 
 Bedeutung: szív
 Quelle:
   - "[[Rammstein - Deutschland]]"

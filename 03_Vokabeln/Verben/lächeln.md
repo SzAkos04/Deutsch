@@ -3,7 +3,7 @@ Wort: lächeln
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A2
 Bedeutung: mosolyogni
 Präteritum: lächelte
 Partizip_II: gelächelt

@@ -1,9 +1,9 @@
 ---
 Wort: Geist
 Wortart: Substantiv
+Niveau: B2
 Genus: der
 Plural: -e(r)
-Niveau: 
 Bedeutung: szellem
 Quelle:
   - "[[Rammstein - Deutschland]]"

@@ -1,9 +1,9 @@
 ---
 Wort: Juli
 Wortart: Substantiv
+Niveau: A1
 Genus: der
 Plural: -s
-Niveau: 
 Bedeutung: július
 Quelle:
   - "[[das Numerale]]"

@@ -1,7 +1,7 @@
 ---
 Wort: leicht
 Wortart: Adjektiv
-Niveau: 
+Niveau: A1
 Bedeutung: könnyű, egyszerű
 Komparativ: leichter
 Superlativ: leichtesten

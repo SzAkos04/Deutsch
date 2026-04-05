@@ -3,7 +3,7 @@ Wort: alles
 Wortart:
   - Pronomen
   - Indefinitpronomen
-Niveau: 
+Niveau: A1
 Bedeutung: minden
 Quelle:
   - "[[das Pronomen]]"

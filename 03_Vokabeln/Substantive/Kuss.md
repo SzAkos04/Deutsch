@@ -1,9 +1,9 @@
 ---
 Wort: Kuss
 Wortart: Substantiv
+Niveau: A2
 Genus: der
 Plural: -̈e
-Niveau: 
 Bedeutung: csók
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:

@@ -1,7 +1,7 @@
 ---
 Wort: gestern
 Wortart: Adverb
-Niveau: 
+Niveau: A1
 Bedeutung: tegnap
 Quelle:
 aliases:

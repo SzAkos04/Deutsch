@@ -3,7 +3,7 @@ Wort: kennen
 Wortart: Verb
 Verbtyp:
   - stark
-Niveau: 
+Niveau: A1
 Bedeutung: ismerni
 Präteritum: kannte
 Partizip_II: gekannt

@@ -1,9 +1,9 @@
 ---
 Wort: Schicksal
 Wortart: Substantiv
+Niveau: B2
 Genus: das
 Plural: -e
-Niveau: 
 Bedeutung: sors, végzet
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

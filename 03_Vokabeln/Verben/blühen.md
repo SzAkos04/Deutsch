@@ -3,7 +3,7 @@ Wort: blühen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: B1
 Bedeutung: virágozni
 Präteritum: blühte
 Partizip_II: geblüht

@@ -1,7 +1,7 @@
 ---
 Wort: heutzutage
 Wortart: Adverb
-Niveau: 
+Niveau: B1
 Bedeutung: manapság
 Quelle:
 aliases:

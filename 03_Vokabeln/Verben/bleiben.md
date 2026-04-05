@@ -3,7 +3,7 @@ Wort: bleiben
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A1
 Bedeutung: maradni
 Präteritum: blieb
 Partizip_II: geblieben

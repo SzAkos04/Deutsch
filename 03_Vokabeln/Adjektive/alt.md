@@ -1,7 +1,7 @@
 ---
 Wort: alt
 Wortart: Adjektiv
-Niveau: 
+Niveau: A1
 Bedeutung: idős, régi
 Komparativ: älter
 Superlativ: ältesten

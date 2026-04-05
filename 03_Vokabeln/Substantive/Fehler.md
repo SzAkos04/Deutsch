@@ -1,9 +1,9 @@
 ---
 Wort: Fehler
 Wortart: Substantiv
+Niveau: A2
 Genus: der
 Plural:
-Niveau: 
 Bedeutung: hiba, tévedés
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

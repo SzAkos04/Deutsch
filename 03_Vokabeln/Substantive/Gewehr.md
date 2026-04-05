@@ -1,9 +1,9 @@
 ---
 Wort: Gewehr
 Wortart: Substantiv
+Niveau: B2
 Genus: das
 Plural: -e
-Niveau: 
 Bedeutung: puska, fegyver; agyar
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

@@ -1,9 +1,9 @@
 ---
 Wort: Eltern
 Wortart: Substantiv
+Niveau: A1
 Genus: die
 Plural:
-Niveau: 
 Bedeutung: szülők
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

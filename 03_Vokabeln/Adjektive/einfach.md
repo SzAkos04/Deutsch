@@ -3,9 +3,11 @@ Wort: einfach
 Wortart:
   - Adjektiv
   - Adverb
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+Niveau: A1
+Bedeutung: egyszerű(en)
 Komparativ: einfacher
 Superlativ: einfachsten
+Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:
   - einfacher
   - einfache
@@ -13,8 +15,6 @@ aliases:
   - einfachen
   - einfachsten
   - einfachem
-Niveau: 
-Bedeutung: egyszerű(en)
 ---
 
 # `=this.Wort`

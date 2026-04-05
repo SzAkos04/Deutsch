@@ -1,7 +1,7 @@
 ---
 Wort: also
 Wortart: Konjunktionaladverb
-Niveau: 
+Niveau: A1
 Bedeutung: tehát, szóval
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

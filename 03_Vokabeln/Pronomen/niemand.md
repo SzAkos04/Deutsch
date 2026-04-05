@@ -3,7 +3,7 @@ Wort: niemand
 Wortart:
   - Pronomen
   - Indefinitpronomen
-Niveau: 
+Niveau: A2
 Bedeutung: senki
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"

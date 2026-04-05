@@ -1,7 +1,7 @@
 ---
 Wort: dazwischen
 Wortart: Adverb
-Niveau: 
+Niveau: B1
 Bedeutung: közötte, aközött, közéjük
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

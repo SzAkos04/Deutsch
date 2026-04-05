@@ -1,9 +1,9 @@
 ---
 Wort: Reue
 Wortart: Substantiv
+Niveau: C1
 Genus: die
 Plural:
-Niveau: 
 Bedeutung: bűnbánat, megbánás
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

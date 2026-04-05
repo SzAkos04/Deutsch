@@ -1,9 +1,9 @@
 ---
 Wort: Leute
 Wortart: Substantiv
+Niveau: A1
 Genus: die
 Plural:
-Niveau: 
 Bedeutung: emberek
 Quelle:
   - "[[Mayberg - Spiegelbild]]"

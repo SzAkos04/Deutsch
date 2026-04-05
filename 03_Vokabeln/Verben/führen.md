@@ -3,7 +3,7 @@ Wort: führen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: B1
 Bedeutung: vezet, irányít
 Präteritum: führte
 Partizip_II: geführt

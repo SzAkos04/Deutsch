@@ -1,9 +1,9 @@
 ---
 Wort: Leben
 Wortart: Substantiv
+Niveau: A1
 Genus: das
 Plural:
-Niveau: 
 Bedeutung: élet
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

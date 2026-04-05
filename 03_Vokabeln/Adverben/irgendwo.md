@@ -1,7 +1,7 @@
 ---
 Wort: irgendwo
 Wortart: Adverb
-Niveau: 
+Niveau: A2
 Bedeutung: valahol
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

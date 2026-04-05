@@ -1,9 +1,9 @@
 ---
 Wort: Auge
 Wortart: Substantiv
+Niveau: A1
 Genus: das
 Plural: -n
-Niveau: 
 Bedeutung: szem
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

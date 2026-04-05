@@ -1,9 +1,9 @@
 ---
 Wort: Ende
 Wortart: Substantiv
+Niveau: A1
 Genus: das
 Plural: -n
-Niveau: 
 Bedeutung: vég, befejezés
 Quelle:
   - "[[Mayberg - Spiegelbild]]"

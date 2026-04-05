@@ -1,7 +1,7 @@
 ---
 Wort: immer
 Wortart: Adverb
-Niveau: 
+Niveau: A1
 Bedeutung: mindig
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"

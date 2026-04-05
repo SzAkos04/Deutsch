@@ -3,7 +3,7 @@ Wort: öffnen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A2
 Bedeutung: kinyitni, megnyitni
 Präteritum: öffnete
 Partizip_II: geöffnet

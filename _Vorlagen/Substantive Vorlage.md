@@ -1,9 +1,9 @@
 ---
 Wort: <% tp.file.title %>
 Wortart: Substantiv
+Niveau:
 Genus:
 Plural:
-Niveau: 
 Bedeutung:
 Quelle:
 aliases:

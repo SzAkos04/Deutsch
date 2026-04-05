@@ -1,9 +1,9 @@
 ---
 Wort: Gruppe
 Wortart: Substantiv
+Niveau: A1
 Genus: die
 Plural: -n
-Niveau: 
 Bedeutung: csoport
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

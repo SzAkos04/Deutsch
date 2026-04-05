@@ -1,7 +1,7 @@
 ---
 Wort: bleich
 Wortart: Adjektiv
-Niveau: 
+Niveau: B2
 Bedeutung: sápadt, fakó, halvány
 Komparativ: bleicher
 Superlativ: bleichsten

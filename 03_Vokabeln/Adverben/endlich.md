@@ -1,7 +1,7 @@
 ---
 Wort: endlich
 Wortart: Adverb
-Niveau: 
+Niveau: A2
 Bedeutung: végre, végül
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:

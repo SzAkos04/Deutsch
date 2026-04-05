@@ -1,9 +1,9 @@
 ---
 Wort: Leiden
 Wortart: Substantiv
+Niveau: B2
 Genus: das
 Plural:
-Niveau: 
 Bedeutung: szenvedés
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

@@ -1,9 +1,9 @@
 ---
 Wort: Kino
 Wortart: Substantiv
+Niveau: A1
 Genus: das
 Plural: -s
-Niveau: 
 Bedeutung: mozi
 Quelle:
   - "[[das Numerale]]"

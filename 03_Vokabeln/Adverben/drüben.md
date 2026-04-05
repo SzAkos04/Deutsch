@@ -3,7 +3,7 @@ Wort: drüben
 Wortart:
   - Adverb
   - Lokaladverb
-Niveau: 
+Niveau: B1
 Bedeutung: odaát, amott, a túloldalon
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

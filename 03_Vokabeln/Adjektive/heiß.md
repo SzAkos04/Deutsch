@@ -1,7 +1,7 @@
 ---
 Wort: heiß
 Wortart: Adjektiv
-Niveau: 
+Niveau: A1
 Bedeutung: forró
 Komparativ: heißer
 Superlativ: heißesten

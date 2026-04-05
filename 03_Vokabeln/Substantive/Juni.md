@@ -1,9 +1,9 @@
 ---
 Wort: Juni
 Wortart: Substantiv
+Niveau: A1
 Genus: der
 Plural: -s
-Niveau: 
 Bedeutung: június
 Quelle:
   - "[[das Numerale]]"

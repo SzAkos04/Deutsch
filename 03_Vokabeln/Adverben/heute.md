@@ -1,7 +1,7 @@
 ---
 Wort: heute
 Wortart: Adverb
-Niveau: 
+Niveau: A1
 Bedeutung: ma
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:

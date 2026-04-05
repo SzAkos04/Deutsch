@@ -3,7 +3,7 @@ Wort: genießen
 Wortart: Verb
 Verbtyp:
   - stark
-Niveau: 
+Niveau: B1
 Bedeutung: élvezni
 Präteritum: genoss
 Partizip_II: genossen

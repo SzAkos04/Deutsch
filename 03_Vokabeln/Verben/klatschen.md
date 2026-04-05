@@ -3,7 +3,7 @@ Wort: klatschen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: B1
 Bedeutung: tapsolni, csattogni, pofozni, pletykálni
 Präteritum: klatschte
 Partizip_II: geklatscht

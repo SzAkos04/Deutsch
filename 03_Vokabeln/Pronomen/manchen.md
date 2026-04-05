@@ -1,16 +1,14 @@
 ---
-Wort: andere
+Wort: manchen
 Wortart:
   - Pronomen
   - Indefinitpronomen
-  - Adjektiv
-Niveau: 
-Bedeutung: más, másik, a többiek
+Niveau: A2
+Bedeutung: néhány, némelyik, páran
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:
-  - anderer
-  - anderes
-  - anderen
+  - mancher
+  - manches
 ---
 
 # `=this.Wort`
@@ -19,21 +17,22 @@ aliases:
 
 | Kasus     | Pronomen    | Fragewort |
 | :-------- | ----------- | --------- |
-| Nominativ | **anderen** | Wer? Was? |
-| Akkusativ | **anderen** | Wen? Was? |
-| Dativ     | **anderen** | Wem?      |
-| Genitiv   | **anderen** | Wessen?   |
+| Nominativ | **manche**  | Wer? Was? |
+| Akkusativ | **manche**  | Wen? Was? |
+| Dativ     | **manchen** | Wem?      |
+| Genitiv   | **mancher** | Wessen?   |
 
 ---
 
 ## Siehe auch
 
+- [[viele]]
 - [[einige]]
 - [[alle]]
 
 ---
 
 `=this.Bedeutung` :: `=this.Wort`
-<!--SR:!2026-03-28,1,210-->
+<!--SR:!2026-03-27,1,210-->
 
 #Lernkarten 

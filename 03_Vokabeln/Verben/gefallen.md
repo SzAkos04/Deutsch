@@ -3,7 +3,7 @@ Wort: gefallen
 Wortart: Verb
 Verbtyp:
   - stark
-Niveau: 
+Niveau: A1
 Bedeutung: tetszik
 Präteritum: gefiel
 Partizip_II: gefallen

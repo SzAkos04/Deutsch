@@ -1,9 +1,9 @@
 ---
 Wort: Film
 Wortart: Substantiv
+Niveau: A1
 Genus: der
 Plural: -e
-Niveau: 
 Bedeutung: film
 Quelle:
   - "[[das Numerale]]"

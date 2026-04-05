@@ -1,7 +1,7 @@
 ---
 Wort: gestrig
 Wortart: Adjektiv
-Niveau: 
+Niveau: B2
 Bedeutung: tegnapi
 Komparativ:
 Superlativ:

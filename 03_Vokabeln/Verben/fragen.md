@@ -3,7 +3,7 @@ Wort: fragen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A1
 Bedeutung: kérdezni
 Präteritum: fragte
 Partizip_II: gefragt

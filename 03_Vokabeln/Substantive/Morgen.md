@@ -1,9 +1,9 @@
 ---
 Wort: Morgen
 Wortart: Substantiv
+Niveau: A1
 Genus: der
 Plural:
-Niveau: 
 Bedeutung: reggel
 Quelle:
 aliases:

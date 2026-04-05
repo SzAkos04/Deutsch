@@ -3,7 +3,7 @@ Wort: denken
 Wortart: Verb
 Verbtyp:
   - gemischt
-Niveau: 
+Niveau: A1
 Bedeutung: gondolkodni, gondolni
 Präteritum: dachte
 Partizip_II: gedacht

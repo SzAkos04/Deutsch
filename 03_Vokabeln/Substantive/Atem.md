@@ -1,9 +1,9 @@
 ---
 Wort: Atem
 Wortart: Substantiv
+Niveau: B1
 Genus: der
 Plural:
-Niveau: 
 Bedeutung: lélegzet, lehelet
 Quelle:
   - "[[Deutschland]]"
