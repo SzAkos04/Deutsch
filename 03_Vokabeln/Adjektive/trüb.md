@@ -1,7 +1,7 @@
 ---
 Wort: trüb
 Wortart: Adjektiv
-Niveau: 
+Niveau: B2
 Bedeutung: zavaros, borús, komor, fénytelen
 Komparativ: trüber
 Superlativ: trübsten

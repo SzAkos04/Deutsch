@@ -1,9 +1,9 @@
 ---
 Wort: Spiegelbild
 Wortart: Substantiv
+Niveau: B2
 Genus: das
 Plural: -er
-Niveau: 
 Bedeutung: tükörkép
 Quelle:
   - "[[Mayberg - Spiegelbild]]"

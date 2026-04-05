@@ -4,7 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: 
+Niveau: C1
 Bedeutung: elkapar, elás (hanyagul)
 Präteritum: verscharrte
 Partizip_II: verscharrt

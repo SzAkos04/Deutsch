@@ -1,9 +1,9 @@
 ---
 Wort: Treue
 Wortart: Substantiv
+Niveau: B2
 Genus: die
 Plural:
-Niveau: 
 Bedeutung: hűség
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

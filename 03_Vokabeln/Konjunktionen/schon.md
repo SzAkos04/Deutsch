@@ -1,7 +1,7 @@
 ---
 Wort: schon
 Wortart: Konjunktion
-Niveau: 
+Niveau: A1
 Bedeutung: már, mégis
 Quelle:
   - "[[Rammstein - Deutschland]]"

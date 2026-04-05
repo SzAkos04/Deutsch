@@ -1,9 +1,9 @@
 ---
 Wort: Weg
 Wortart: Substantiv
+Niveau: A1
 Genus: der
 Plural: -e
-Niveau: 
 Bedeutung: út, útvonal
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

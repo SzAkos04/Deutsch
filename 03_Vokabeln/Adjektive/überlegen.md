@@ -1,7 +1,7 @@
 ---
 Wort: überlegen
 Wortart: Adjektiv
-Niveau: 
+Niveau: B2
 Bedeutung: fölényes
 Komparativ: überlegener
 Superlativ: überlegensten

@@ -1,7 +1,7 @@
 ---
 Wort: weiß
 Wortart: Adjektiv
-Niveau: 
+Niveau: A1
 Bedeutung: fehér
 Komparativ: weißer
 Superlativ: weißesten

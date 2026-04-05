@@ -1,7 +1,7 @@
 ---
 Wort: vielleicht
 Wortart: Adverb
-Niveau: 
+Niveau: A1
 Bedeutung: talán
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"

@@ -20,9 +20,9 @@ TABLE WITHOUT ID
 	Bedeutung,
 	Niveau
 FROM "03_Vokabeln"
-WHERE Bedeutung != null AND
-      Niveau = null
-SORT file.name ASC
+WHERE Bedeutung != null
+SORT Niveau,
+     file.name ASC
 ```
 
 ---

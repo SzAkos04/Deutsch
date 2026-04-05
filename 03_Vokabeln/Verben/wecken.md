@@ -3,7 +3,7 @@ Wort: wecken
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A2
 Bedeutung: felébreszteni (valakit)
 Präteritum: weckte
 Partizip_II: geweckt

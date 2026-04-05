@@ -1,9 +1,9 @@
 ---
 Wort: Tochter
 Wortart: Substantiv
+Niveau: A1
 Genus: die
 Plural: -̈
-Niveau: 
 Bedeutung: lány (gyermek)
 Quelle:
   - "[[das Pronomen]]"

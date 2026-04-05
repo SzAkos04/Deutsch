@@ -4,7 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: 
+Niveau: B1
 Bedeutung: átgondol, megfontol, tünődik
 Präteritum: überlegte
 Partizip_II: überlegt

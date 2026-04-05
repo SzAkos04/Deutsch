@@ -3,7 +3,7 @@ Wort: telefonieren
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A1
 Bedeutung: telefonálni
 Präteritum: telefonierte
 Partizip_II: telefoniert

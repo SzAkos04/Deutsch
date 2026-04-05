@@ -4,7 +4,7 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
-Niveau: 
+Niveau: B2
 Bedeutung: átad, átnyújt; hányni
 Präteritum: übergab
 Partizip_II: übergeben

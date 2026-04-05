@@ -4,7 +4,7 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
-Niveau: 
+Niveau: B1
 Bedeutung: elhagyni, rábízni magát (vkire)
 Präteritum: verließ
 Partizip_II: verlassen

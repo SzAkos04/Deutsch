@@ -3,7 +3,7 @@ Wort: umziehen
 Wortart: Verb
 Verbtyp:
   - stark
-Niveau: 
+Niveau: A2
 Bedeutung: átköltözik, átöltözik
 Präteritum: zog um
 Partizip_II: umgezogen

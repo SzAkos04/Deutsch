@@ -1,9 +1,9 @@
 ---
 Wort: Weiß
 Wortart: Substantiv
+Niveau: B1
 Genus: das
 Plural:
-Niveau: 
 Bedeutung: fehér (szín)
 Quelle:
 aliases:

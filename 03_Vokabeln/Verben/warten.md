@@ -3,7 +3,7 @@ Wort: warten
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A1
 Bedeutung: várni
 Präteritum: wartete
 Partizip_II: gewartet

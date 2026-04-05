@@ -4,7 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: 
+Niveau: A2
 Bedeutung: meglepni
 Präteritum: überraschte
 Partizip_II: überrascht

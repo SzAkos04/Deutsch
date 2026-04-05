@@ -1,7 +1,7 @@
 ---
 Wort: ungerühmt
 Wortart: Adjektiv
-Niveau: 
+Niveau: C2
 Bedeutung: dicséret nélkül maradt, nem dicsőített, visszhangtalan
 Komparativ:
 Superlativ:

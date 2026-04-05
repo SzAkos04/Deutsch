@@ -1,7 +1,7 @@
 ---
 Wort: überheblich
 Wortart: Adjektiv
-Niveau: 
+Niveau: C1
 Bedeutung: gőgös, elbizakodott, fölényeskedő
 Komparativ: überheblicher
 Superlativ: überheblichsten

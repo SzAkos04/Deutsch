@@ -1,9 +1,9 @@
 ---
 Wort: Schüler
 Wortart: Substantiv
+Niveau: A1
 Genus: der
 Plural:
-Niveau: 
 Bedeutung: tanuló
 Quelle:
   - "[[das Adjektiv]]"

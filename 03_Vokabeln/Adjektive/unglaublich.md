@@ -1,7 +1,7 @@
 ---
 Wort: unglaublich
 Wortart: Adjektiv
-Niveau: 
+Niveau: A2
 Bedeutung: hihetetlen
 Komparativ: unglaublicher
 Superlativ: unglaublichsten

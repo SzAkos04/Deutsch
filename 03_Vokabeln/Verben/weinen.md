@@ -3,7 +3,7 @@ Wort: weinen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: A2
 Bedeutung: sírni
 Präteritum: weinte
 Partizip_II: geweint

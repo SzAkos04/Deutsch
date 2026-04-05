@@ -1,7 +1,7 @@
 ---
 Wort: sonst
 Wortart: Adverb
-Niveau: 
+Niveau: A2
 Bedeutung: egyébként, különben, máskülönben
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:

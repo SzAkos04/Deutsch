@@ -3,7 +3,7 @@ Wort: schließen
 Wortart: Verb
 Verbtyp:
   - stark
-Niveau: 
+Niveau: A2
 Bedeutung: bezárni, becsukni
 Präteritum: schloss
 Partizip_II: geschlossen

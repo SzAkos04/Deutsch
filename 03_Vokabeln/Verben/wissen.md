@@ -4,7 +4,7 @@ Wortart: Verb
 Verbtyp:
   - gemischt
   - unregelmäßig
-Niveau: 
+Niveau: A1
 Bedeutung: tudni
 Präteritum: wusste
 Partizip_II: gewusst

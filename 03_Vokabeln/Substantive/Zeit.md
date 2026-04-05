@@ -1,9 +1,9 @@
 ---
 Wort: Zeit
 Wortart: Substantiv
+Niveau: A1
 Genus: die
 Plural: -en
-Niveau: 
 Bedeutung: idő
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"

@@ -3,7 +3,7 @@ Wort: trennen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: 
+Niveau: B1
 Bedeutung: elválasztani
 Präteritum: trennte
 Partizip_II: getrennt

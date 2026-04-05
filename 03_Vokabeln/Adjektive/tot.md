@@ -1,7 +1,7 @@
 ---
 Wort: tot
 Wortart: Adjektiv
-Niveau: 
+Niveau: A2
 Bedeutung: halott, élettelen
 Komparativ:
 Superlativ:

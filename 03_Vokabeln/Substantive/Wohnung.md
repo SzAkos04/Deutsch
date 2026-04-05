@@ -1,9 +1,9 @@
 ---
 Wort: Wohnung
 Wortart: Substantiv
+Niveau: A1
 Genus: die
 Plural: -en
-Niveau: 
 Bedeutung: lakás, lakhely
 Quelle:
   - "[[das Numerale]]"

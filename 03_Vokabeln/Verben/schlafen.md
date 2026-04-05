@@ -3,7 +3,7 @@ Wort: schlafen
 Wortart: Verb
 Verbtyp:
   - stark
-Niveau: 
+Niveau: A1
 Bedeutung: aludni
 Präteritum: schlief
 Partizip_II: geschlafen

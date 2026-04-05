@@ -3,7 +3,7 @@ Wort: täglich
 Wortart:
   - Adverb
   - Adjektiv
-Niveau: 
+Niveau: A2
 Bedeutung: napi, naponta, mindennapi
 Quelle:
   - "[[Mayberg - Spiegelbild]]"

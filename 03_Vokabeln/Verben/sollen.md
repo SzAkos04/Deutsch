@@ -3,7 +3,7 @@ Wort: sollen
 Wortart: Verb
 Verbtyp:
   - modal
-Niveau: 
+Niveau: A1
 Bedeutung: kell (kötelesség, elvárás)
 Präteritum: sollte
 Partizip_II: gesollt
