@@ -29,6 +29,6 @@ aliases:
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`
+`=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
 
 #Lernkarten 

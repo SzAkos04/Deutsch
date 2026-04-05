@@ -31,7 +31,7 @@ aliases:
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`
-<!--SR:!2026-03-31,16,290-->
+`=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
+<!--SR:!2026-05-21,46,290-->
 
 #Lernkarten 

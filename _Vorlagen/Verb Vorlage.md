@@ -28,14 +28,14 @@ aliases:
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                    |
-| ---------------- | ----------------------- |
-| ich              |                         |
-| du               |                         |
-| er / sie / es    |                         |
-| wir              | **<% tp.file.title %>** |
-| ihr              |                         |
-| sie / Sie        | **<% tp.file.title %>** |
+| Personalpronomen | Verb                                         |
+| ---------------- | -------------------------------------------- |
+| ich              | **<% tp.file.title.replace(/en$/, "e") %>**  |
+| du               | **<% tp.file.title.replace(/en$/, "st") %>** |
+| er / sie / es    | **<% tp.file.title.replace(/en$/, "t") %>**  |
+| wir              | **<% tp.file.title %>**                      |
+| ihr              | **<% tp.file.title.replace(/en$/, "t") %>**  |
+| sie / Sie        | **<% tp.file.title %>**                      |
 
 > [!INFO]
 > 
