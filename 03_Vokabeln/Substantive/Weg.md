@@ -3,6 +3,7 @@ Wort: Weg
 Wortart: Substantiv
 Genus: der
 Plural: -e
+Niveau: 
 Bedeutung: út, útvonal
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

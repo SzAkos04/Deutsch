@@ -3,6 +3,7 @@ Wort: schaden
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: ártani, kárt okozni
 Präteritum: schadete
 Partizip_II: geschadet

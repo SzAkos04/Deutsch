@@ -3,6 +3,7 @@ Wort: bringen
 Wortart: Verb
 Verbtyp:
   - gemischt
+Niveau: 
 Bedeutung: hoz, visz
 Präteritum: brachte
 Partizip_II: gebracht

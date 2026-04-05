@@ -1,6 +1,7 @@
 ---
 Wort: morgens
 Wortart: Adverb
+Niveau: 
 Bedeutung: reggelente
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:

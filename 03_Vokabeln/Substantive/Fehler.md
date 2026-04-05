@@ -3,6 +3,7 @@ Wort: Fehler
 Wortart: Substantiv
 Genus: der
 Plural:
+Niveau: 
 Bedeutung: hiba, tévedés
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

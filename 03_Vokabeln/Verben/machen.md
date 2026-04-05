@@ -3,6 +3,7 @@ Wort: machen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: csinálni
 Präteritum: machte
 Partizip_II: gemacht

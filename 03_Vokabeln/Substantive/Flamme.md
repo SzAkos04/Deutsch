@@ -3,6 +3,7 @@ Wort: Flamme
 Wortart: Substantiv
 Genus: die
 Plural: -n
+Niveau: 
 Bedeutung: fellobbanás
 Quelle:
   - "[[Rammstein - Deutschland]]"

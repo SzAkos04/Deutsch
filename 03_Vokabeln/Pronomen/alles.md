@@ -3,12 +3,13 @@ Wort: alles
 Wortart:
   - Pronomen
   - Indefinitpronomen
+Niveau: 
 Bedeutung: minden
 Quelle:
   - "[[das Pronomen]]"
 aliases:
 ---
-
+ 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"

@@ -1,6 +1,7 @@
 ---
 Wort: ehrlich
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: őszinte
 Komparativ: ehrlicher
 Superlativ: ehrlichsten

@@ -3,6 +3,7 @@ Wort: früh
 Wortart:
   - Adjektiv
   - Adverb
+Niveau: 
 Bedeutung: korán, korai
 Komparativ: früher
 Superlativ: frühsten

@@ -1,6 +1,7 @@
 ---
 Wort: tief
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: mély, mélyen
 Komparativ: tiefer
 Superlativ: tiefsten

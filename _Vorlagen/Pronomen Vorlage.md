@@ -1,6 +1,7 @@
 ---
 Wort: <% tp.file.title %>
 Wortart: Pronomen
+Niveau: 
 Bedeutung:
 Quelle:
 aliases:

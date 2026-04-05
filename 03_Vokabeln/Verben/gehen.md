@@ -3,6 +3,7 @@ Wort: gehen
 Wortart: Verb
 Verbtyp:
   - stark
+Niveau: 
 Bedeutung: menni
 Präteritum: ging
 Partizip_II: gegangen

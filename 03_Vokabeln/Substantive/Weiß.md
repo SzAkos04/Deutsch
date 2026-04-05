@@ -3,6 +3,7 @@ Wort: Weiß
 Wortart: Substantiv
 Genus: das
 Plural:
+Niveau: 
 Bedeutung: fehér (szín)
 Quelle:
 aliases:

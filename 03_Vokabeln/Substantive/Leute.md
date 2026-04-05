@@ -3,6 +3,7 @@ Wort: Leute
 Wortart: Substantiv
 Genus: die
 Plural:
+Niveau: 
 Bedeutung: emberek
 Quelle:
   - "[[Mayberg - Spiegelbild]]"

@@ -1,6 +1,7 @@
 ---
 Wort: <% tp.file.title %>
 Wortart: Adverb
+Niveau: 
 Bedeutung:
 Quelle:
 aliases:

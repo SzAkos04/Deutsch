@@ -1,6 +1,7 @@
 ---
 Wort: zusammen
 Wortart: Adverb
+Niveau: 
 Bedeutung: együtt, közösen
 Quelle:
   - "[[Rammstein - Deutschland]]"

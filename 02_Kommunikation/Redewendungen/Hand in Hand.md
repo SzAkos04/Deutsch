@@ -2,6 +2,7 @@
 Ausdruck: Hand in Hand
 Wortart:
   - Redewendung
+Niveau: 
 Bedeutung: kéz a kézben
 Beispiel: Armut und Krankheit gehen oft Hand in Hand.
 Kontext:

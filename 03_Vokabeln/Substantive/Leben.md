@@ -3,6 +3,7 @@ Wort: Leben
 Wortart: Substantiv
 Genus: das
 Plural:
+Niveau: 
 Bedeutung: élet
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

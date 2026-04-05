@@ -3,6 +3,7 @@ Wort: reden
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: beszélni, beszélgetni
 Präteritum: redete
 Partizip_II: geredet

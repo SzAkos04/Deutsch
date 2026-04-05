@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
+Niveau: 
 Bedeutung: kijelenteni, megmagyarázni
 Präteritum: erklärte
 Partizip_II: erklärt

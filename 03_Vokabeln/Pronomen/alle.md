@@ -3,6 +3,7 @@ Wort: alle
 Wortart:
   - Pronomen
   - Indefinitpronomen
+Niveau: 
 Bedeutung: mindenki
 Quelle:
   - "[[das Pronomen]]"

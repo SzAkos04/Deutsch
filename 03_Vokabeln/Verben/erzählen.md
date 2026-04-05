@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
+Niveau: 
 Bedeutung: mesélni, elmondani
 Präteritum: erzählte
 Partizip_II: erzählt

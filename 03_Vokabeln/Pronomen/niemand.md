@@ -3,6 +3,7 @@ Wort: niemand
 Wortart:
   - Pronomen
   - Indefinitpronomen
+Niveau: 
 Bedeutung: senki
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"

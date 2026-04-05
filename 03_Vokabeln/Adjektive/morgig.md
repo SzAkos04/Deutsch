@@ -1,6 +1,7 @@
 ---
 Wort: morgig
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: holnapi
 Komparativ:
 Superlativ:

@@ -3,6 +3,7 @@ Wort: sagen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: mondani
 Präteritum: sagte
 Partizip_II: gesagt

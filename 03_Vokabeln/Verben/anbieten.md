@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - stark
   - trennbar
+Niveau: 
 Bedeutung: megkínál, felajánl
 Präteritum: bot an
 Partizip_II: angeboten

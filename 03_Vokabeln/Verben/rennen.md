@@ -3,6 +3,7 @@ Wort: rennen
 Wortart: Verb
 Verbtyp:
   - stark
+Niveau: 
 Bedeutung: rohanni, szaladni
 Präteritum: rannte
 Partizip_II: gerannt

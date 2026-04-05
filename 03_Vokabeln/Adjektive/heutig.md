@@ -1,6 +1,7 @@
 ---
 Wort: heutig
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: mai
 Komparativ:
 Superlativ:

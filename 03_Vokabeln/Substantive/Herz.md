@@ -3,6 +3,7 @@ Wort: Herz
 Wortart: Substantiv
 Genus: das
 Plural: -en
+Niveau: 
 Bedeutung: szív
 Quelle:
   - "[[Rammstein - Deutschland]]"

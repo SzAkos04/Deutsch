@@ -3,6 +3,7 @@ Wort: Schüler
 Wortart: Substantiv
 Genus: der
 Plural:
+Niveau: 
 Bedeutung: tanuló
 Quelle:
   - "[[das Adjektiv]]"

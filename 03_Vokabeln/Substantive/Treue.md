@@ -3,6 +3,7 @@ Wort: Treue
 Wortart: Substantiv
 Genus: die
 Plural:
+Niveau: 
 Bedeutung: hűség
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

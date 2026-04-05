@@ -3,6 +3,7 @@ Wort: geben
 Wortart: Verb
 Verbtyp:
   - stark
+Niveau: 
 Bedeutung: adni
 Präteritum: gab
 Partizip_II: gegeben

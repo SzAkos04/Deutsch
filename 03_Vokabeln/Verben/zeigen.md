@@ -3,6 +3,7 @@ Wort: zeigen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: mutatni, megmutatni
 Präteritum: zeigte
 Partizip_II: gezeigt

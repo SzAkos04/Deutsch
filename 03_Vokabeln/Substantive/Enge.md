@@ -3,6 +3,7 @@ Wort: Enge
 Wortart: Substantiv
 Genus: die
 Plural:
+Niveau: 
 Bedeutung: szűkösség, szorultság
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

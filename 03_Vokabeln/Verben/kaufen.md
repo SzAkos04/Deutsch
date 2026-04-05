@@ -3,6 +3,7 @@ Wort: kaufen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: vásárolni, venni
 Präteritum: kaufte
 Partizip_II: gekauft

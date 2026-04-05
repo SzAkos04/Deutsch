@@ -1,6 +1,7 @@
 ---
 Wort: <% tp.file.title %>
 Wortart: Konjunktion
+Niveau: 
 Bedeutung:
 Quelle:
 aliases:

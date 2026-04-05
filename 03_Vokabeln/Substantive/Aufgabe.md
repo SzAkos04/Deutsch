@@ -3,6 +3,7 @@ Wort: Aufgabe
 Wortart: Substantiv
 Genus: die
 Plural: -n
+Niveau: 
 Bedeutung: feladat
 Quelle:
   - "[[das Pronomen]]"

@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - stark
   - trennbar
+Niveau: 
 Bedeutung: nézni, figyelni (valakit/valamit)
 Präteritum: sah zu
 Partizip_II: zugesehen

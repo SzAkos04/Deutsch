@@ -1,6 +1,7 @@
 ---
 Wort: jung
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: fiatal
 Komparativ: jünger
 Superlativ: jüngsten

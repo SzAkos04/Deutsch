@@ -3,6 +3,7 @@ Wort: Kleid
 Wortart: Substantiv
 Genus: das
 Plural: -er
+Niveau: 
 Bedeutung: ruha, női ruha
 Quelle:
   - "[[das Pronomen]]"

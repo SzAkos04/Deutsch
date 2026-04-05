@@ -3,6 +3,7 @@ Wort: Kino
 Wortart: Substantiv
 Genus: das
 Plural: -s
+Niveau: 
 Bedeutung: mozi
 Quelle:
   - "[[das Numerale]]"

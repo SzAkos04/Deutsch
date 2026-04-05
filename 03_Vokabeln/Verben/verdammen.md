@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
+Niveau: 
 Bedeutung: elítélni
 Präteritum: verdammte
 Partizip_II: verdammt

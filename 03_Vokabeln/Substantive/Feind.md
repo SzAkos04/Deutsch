@@ -3,6 +3,7 @@ Wort: Feind
 Wortart: Substantiv
 Genus: der
 Plural: -e
+Niveau: 
 Bedeutung: ellenség
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

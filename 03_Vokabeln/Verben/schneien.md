@@ -3,6 +3,7 @@ Titel: schneien
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: havazni
 Präteritum: schneite
 Partizip_II: geschneit

@@ -3,6 +3,7 @@ Wort: Jahreszeit
 Wortart: Substantiv
 Genus: die
 Plural: -en
+Niveau: 
 Bedeutung: évszak
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:

@@ -3,6 +3,7 @@ Wort: noch
 Wortart:
   - Adverb
   - Partikel
+Niveau: 
 Bedeutung: még
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:

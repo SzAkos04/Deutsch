@@ -29,7 +29,7 @@ Künstler*in: Kanonenfieber
 > Das Schicksal, das ihm blüht
 > Verscharrt und ungerühmt
 > 
-> Im [[Leiden]] sind wir gleich
+> Im [[03_Vokabeln/Substantive/Leiden|Leiden]] sind wir gleich
 > [[Auge|Augen]] [[trüb]], Gesichter [[bleich]]
 > Ich liege [[tot]] im Niemandsland
 > Mit dem Feinde [[Hand in Hand]]

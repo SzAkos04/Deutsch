@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
+Niveau: 
 Bedeutung: átél, megél (élményt)
 Präteritum: erlebte
 Partizip_II: erlebt

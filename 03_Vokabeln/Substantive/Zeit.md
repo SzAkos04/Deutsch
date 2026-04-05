@@ -3,6 +3,7 @@ Wort: Zeit
 Wortart: Substantiv
 Genus: die
 Plural: -en
+Niveau: 
 Bedeutung: idő
 Quelle:
   - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"

@@ -13,6 +13,7 @@ aliases:
   - einfachen
   - einfachsten
   - einfachem
+Niveau: 
 Bedeutung: egyszerű(en)
 ---
 

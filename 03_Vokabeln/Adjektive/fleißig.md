@@ -1,6 +1,7 @@
 ---
 Wort: fleißig
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: szorgalmas
 Komparativ: fleißiger
 Superlativ: fleißigsten

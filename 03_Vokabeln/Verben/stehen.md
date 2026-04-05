@@ -3,6 +3,7 @@ Titel: stehen
 Wortart: Verb
 Verbtyp:
   - stark
+Niveau: 
 Bedeutung: állni
 Präteritum: stand
 Partizip_II: gestanden

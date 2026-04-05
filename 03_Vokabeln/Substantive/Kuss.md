@@ -3,6 +3,7 @@ Wort: Kuss
 Wortart: Substantiv
 Genus: der
 Plural: -̈e
+Niveau: 
 Bedeutung: csók
 Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
 aliases:

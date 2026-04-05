@@ -3,6 +3,7 @@ Wort: manche
 Wortart:
   - Pronomen
   - Indefinitpronomen
+Niveau: 
 Bedeutung: néhány, némelyik, páran
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

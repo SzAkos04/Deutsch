@@ -3,6 +3,7 @@ Wort: Sohn
 Wortart: Substantiv
 Genus: der
 Plural: -̈e
+Niveau: 
 Bedeutung: fiú (gyermek)
 Quelle:
   - "[[das Pronomen]]"

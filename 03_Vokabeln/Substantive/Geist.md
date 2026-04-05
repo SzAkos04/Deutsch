@@ -3,6 +3,7 @@ Wort: Geist
 Wortart: Substantiv
 Genus: der
 Plural: -e(r)
+Niveau: 
 Bedeutung: szellem
 Quelle:
   - "[[Rammstein - Deutschland]]"

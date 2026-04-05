@@ -3,6 +3,7 @@ Wort: drängen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: sürget, tolong, nyomul
 Präteritum: drängte
 Partizip_II: gedrängt

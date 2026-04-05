@@ -1,6 +1,7 @@
 ---
 Wort: verscharrt
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: elkapart, elásott (hanyagul)
 Komparativ:
 Superlativ:

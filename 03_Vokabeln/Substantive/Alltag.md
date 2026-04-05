@@ -3,6 +3,7 @@ Wort: Alltag
 Wortart: Substantiv
 Genus: der
 Plural: -e
+Niveau: 
 Bedeutung: mindennapok, hétköznapok
 Quelle:
 aliases:

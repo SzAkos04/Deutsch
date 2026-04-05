@@ -3,6 +3,7 @@ Wort: Eltern
 Wortart: Substantiv
 Genus: die
 Plural:
+Niveau: 
 Bedeutung: szülők
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

@@ -3,6 +3,7 @@ Wort: <% tp.file.title %>
 Wortart: Substantiv
 Genus:
 Plural:
+Niveau: 
 Bedeutung:
 Quelle:
 aliases:

@@ -3,6 +3,7 @@ Titel: merken
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: észrevesz, megjegyez
 Präteritum: merkte
 Partizip_II: gemerkt

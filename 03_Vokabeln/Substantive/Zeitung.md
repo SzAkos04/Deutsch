@@ -3,6 +3,7 @@ Wort: Zeitung
 Wortart: Substantiv
 Genus: die
 Plural: -en
+Niveau: 
 Bedeutung: újság
 Quelle:
   - "[[das Adjektiv]]"

@@ -3,6 +3,7 @@ Wort: Juni
 Wortart: Substantiv
 Genus: der
 Plural: -s
+Niveau: 
 Bedeutung: június
 Quelle:
   - "[[das Numerale]]"

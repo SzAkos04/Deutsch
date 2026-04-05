@@ -3,6 +3,7 @@ Wort: bisschen
 Wortart:
   - Pronomen
   - Indefinitpronomen
+Niveau: 
 Bedeutung: egy kicsi, egy kevés
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

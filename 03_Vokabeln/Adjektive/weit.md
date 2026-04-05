@@ -1,6 +1,7 @@
 ---
 Wort: weit
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: messze, távol; széles
 Komparativ: weiter
 Superlativ: weitesten

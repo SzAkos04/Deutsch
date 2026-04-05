@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
+Niveau: 
 Bedeutung: elhallgatni (valamit)
 Präteritum: verschwieg
 Partizip_II: verschwiegen

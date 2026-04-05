@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - trennbar
+Niveau: 
 Bedeutung: hallgatni
 Präteritum: hörte zu
 Partizip_II: zugehört

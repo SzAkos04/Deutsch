@@ -3,6 +3,7 @@ Wort: Monat
 Wortart: Substantiv
 Genus: der
 Plural: -e
+Niveau: 
 Bedeutung: hónap
 Quelle:
   - "[[das Numerale]]"

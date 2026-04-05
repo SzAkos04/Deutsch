@@ -3,6 +3,7 @@ Wort: richtig
 Wortart:
   - Adjektiv
   - Adverb
+Niveau: 
 Bedeutung: helyes, igaz, valódi, rendesen
 Komparativ: richtiger
 Superlativ: richtigsten

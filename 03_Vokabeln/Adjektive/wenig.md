@@ -3,6 +3,7 @@ Wort: wenig
 Wortart:
   - Adjektiv
   - Indefinitpronomen
+Niveau: 
 Bedeutung: kevés
 Komparativ: weniger
 Superlativ: wenigsten

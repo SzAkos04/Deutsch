@@ -1,6 +1,7 @@
 ---
 Wort: <% tp.file.title %>
 Wortart: Adjektiv
+Niveau: 
 Bedeutung:
 Komparativ:
 Superlativ:

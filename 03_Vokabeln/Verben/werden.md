@@ -3,6 +3,7 @@ Wort: werden
 Wortart: Verb
 Verbtyp:
   - unregelmäßig
+Niveau: 
 Bedeutung: válik valamivé, lesz (folyamat)
 Präteritum: wurde
 Partizip_II: geworden

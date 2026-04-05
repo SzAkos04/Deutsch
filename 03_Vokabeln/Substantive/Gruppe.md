@@ -3,6 +3,7 @@ Wort: Gruppe
 Wortart: Substantiv
 Genus: die
 Plural: -n
+Niveau: 
 Bedeutung: csoport
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

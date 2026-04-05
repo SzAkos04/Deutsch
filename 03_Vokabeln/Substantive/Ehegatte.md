@@ -3,6 +3,7 @@ Wort: Ehegatte
 Wortart: Substantiv
 Genus: der
 Plural: -n
+Niveau: 
 Bedeutung: házastárs, hitves
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

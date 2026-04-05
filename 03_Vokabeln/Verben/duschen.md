@@ -3,6 +3,7 @@ Wort: duschen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: zuhanyozni
 Präteritum: duschte
 Partizip_II: geduscht

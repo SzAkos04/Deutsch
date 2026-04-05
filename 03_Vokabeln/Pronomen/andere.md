@@ -4,6 +4,7 @@ Wortart:
   - Pronomen
   - Indefinitpronomen
   - Adjektiv
+Niveau: 
 Bedeutung: más, másik, a többiek
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

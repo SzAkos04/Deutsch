@@ -3,6 +3,7 @@ Wort: lachen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: nevetni
 Präteritum: lachte
 Partizip_II: gelacht

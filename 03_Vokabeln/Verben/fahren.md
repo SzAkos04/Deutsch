@@ -3,6 +3,7 @@ Wort: fahren
 Wortart: Verb
 Verbtyp:
   - stark
+Niveau: 
 Bedeutung: utazni, vezetni
 Präteritum: fuhr
 Partizip_II: gefahren

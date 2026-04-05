@@ -9,6 +9,7 @@ Verbtyp:
   - unregelmäßig
   - trennbar
   - untrennbar
+Niveau: 
 Bedeutung:
 Präteritum:
 Partizip_II:

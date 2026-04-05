@@ -1,6 +1,7 @@
 ---
 Wort: dankbar
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: hálás
 Komparativ: dankbarer
 Superlativ: dankbarsten

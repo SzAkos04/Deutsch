@@ -3,6 +3,7 @@ Wort: Deutschland
 Wortart: Substantiv
 Genus: das
 Plural:
+Niveau: 
 Bedeutung: Németország
 Quelle:
   - "[[Rammstein - Deutschland]]"

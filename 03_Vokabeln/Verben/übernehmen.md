@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
+Niveau: 
 Bedeutung: átvesz, elvállal, magára vállal
 Präteritum: übernahm
 Partizip_II: übernommen

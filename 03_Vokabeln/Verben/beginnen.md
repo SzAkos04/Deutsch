@@ -3,6 +3,7 @@ Wort: beginnen
 Wortart: Verb
 Verbtyp:
   - stark
+Niveau: 
 Bedeutung: kezdődni, elkezdeni
 Präteritum: begann
 Partizip_II: begonnen

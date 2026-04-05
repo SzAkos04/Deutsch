@@ -3,6 +3,7 @@ Wort: hassen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: gyűlölni
 Präteritum: hasste
 Partizip_II: gehasst

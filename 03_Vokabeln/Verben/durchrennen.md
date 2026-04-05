@@ -3,6 +3,7 @@ Wort: durchrennen
 Wortart: Verb
 Verbtyp:
   - gemischt
+Niveau: 
 Bedeutung: átrohan, keresztülfut
 Präteritum: rannte durch
 Partizip_II: durchgerannt

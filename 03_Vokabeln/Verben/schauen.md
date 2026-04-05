@@ -3,6 +3,7 @@ Wort: schauen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: nézni, tekinteni
 Präteritum: schaute
 Partizip_II: geschaut

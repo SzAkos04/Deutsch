@@ -3,6 +3,7 @@ Wort: aussehen
 Wortart: Verb
 Verbtyp:
   - stark
+Niveau: 
 Bedeutung: kinézni (valahogy)
 Präteritum: sah aus
 Partizip_II: ausgesehen

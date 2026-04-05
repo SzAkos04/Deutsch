@@ -3,6 +3,7 @@ Wort: Tag
 Wortart: Substantiv
 Genus: der
 Plural: -e
+Niveau: 
 Bedeutung: nap
 Quelle:
 aliases:

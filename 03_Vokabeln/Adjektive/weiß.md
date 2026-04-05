@@ -1,6 +1,7 @@
 ---
 Wort: weiß
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: fehér
 Komparativ: weißer
 Superlativ: weißesten

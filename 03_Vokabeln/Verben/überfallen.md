@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
+Niveau: 
 Bedeutung: megtámad, lerohan, rajtaüt
 Präteritum: überfiel
 Partizip_II: überfallen

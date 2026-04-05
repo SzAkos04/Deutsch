@@ -1,6 +1,7 @@
 ---
 Wort: süß
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: édes, aranyos
 Komparativ: süßer
 Superlativ: süßesten

@@ -1,6 +1,7 @@
 ---
 Wort: kalt
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: hideg
 Komparativ: kälter
 Superlativ: kältesten

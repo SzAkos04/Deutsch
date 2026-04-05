@@ -1,6 +1,7 @@
 ---
 Wort: ungerühmt
 Wortart: Adjektiv
+Niveau: 
 Bedeutung: dicséret nélkül maradt, nem dicsőített, visszhangtalan
 Komparativ:
 Superlativ:

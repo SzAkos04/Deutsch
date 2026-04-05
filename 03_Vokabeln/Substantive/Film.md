@@ -3,6 +3,7 @@ Wort: Film
 Wortart: Substantiv
 Genus: der
 Plural: -e
+Niveau: 
 Bedeutung: film
 Quelle:
   - "[[das Numerale]]"

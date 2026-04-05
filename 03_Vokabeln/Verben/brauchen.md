@@ -3,6 +3,7 @@ Wort: brauchen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: kell (szükség)
 Präteritum: brauchte
 Partizip_II: gebraucht

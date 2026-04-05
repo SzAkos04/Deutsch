@@ -3,6 +3,7 @@ Wort: schön
 Wortart:
   - Adjektiv
   - Adverb
+Niveau: 
 Bedeutung: szép(en)
 Komparativ: schöner
 Superlativ: schönsten

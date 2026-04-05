@@ -3,6 +3,7 @@ Wort: möchten
 Wortart: Verb
 Verbtyp:
   - modal
+Niveau: 
 Bedeutung: szeretne
 Präteritum:
 Partizip_II:

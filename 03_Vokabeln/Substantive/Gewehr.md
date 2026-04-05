@@ -3,6 +3,7 @@ Wort: Gewehr
 Wortart: Substantiv
 Genus: das
 Plural: -e
+Niveau: 
 Bedeutung: puska, fegyver; agyar
 Quelle:
   - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"

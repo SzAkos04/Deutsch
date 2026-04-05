@@ -3,6 +3,7 @@ Wort: Angst
 Wortart: Substantiv
 Genus: die
 Plural: -̈e
+Niveau: 
 Bedeutung: félelem, szorongás
 Quelle: "[[Mayberg - Spiegelbild]]"
 aliases:

@@ -3,6 +3,7 @@ Wort: Spiel
 Wortart: Substantiv
 Genus: das
 Plural: -e
+Niveau: 
 Bedeutung: játék
 Quelle:
   - "[[das Verb]]"

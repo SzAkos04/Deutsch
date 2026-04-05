@@ -3,6 +3,7 @@ Wort: lieben
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: szeretni
 Präteritum: liebte
 Partizip_II: geliebt

@@ -3,6 +3,7 @@ Titel: fehlen
 Wortart: Verb
 Verbtyp:
   - schwach
+Niveau: 
 Bedeutung: hiányozni, hiányolni, elvéteni
 Präteritum: fehlte
 Partizip_II: gefehlt

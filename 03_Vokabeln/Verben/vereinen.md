@@ -4,6 +4,7 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
+Niveau: 
 Bedeutung: egyesíteni
 Präteritum: vereinte
 Partizip_II: vereint

@@ -2,6 +2,7 @@
 Ausdruck: <% tp.file.title %>
 Wortart:
   - Redewendung
+Niveau: 
 Bedeutung:
 Beispiel:
 Kontext:
