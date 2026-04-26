@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/das Adjektiv.md",
+                "file": "01_Grammatik/Buch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "das Adjektiv"
+              "title": "Buch"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Grammatik/das Adjektiv.md",
+                "file": "01_Grammatik/Buch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for das Adjektiv"
+              "title": "Backlinks for Buch"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Grammatik/das Adjektiv.md",
+                "file": "01_Grammatik/Buch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from das Adjektiv"
+              "title": "Outgoing links from Buch"
             }
           },
           {
@@ -233,7 +233,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01_Grammatik/01. Az ige ragozása jelen időben/01. Szabályos ragozású igék.md",
     "01_Grammatik/Buch.md",
+    "01_Grammatik/01. Az ige ragozása jelen időben",
+    "01_Grammatik/das Adjektiv.md",
+    "03_Vokabeln/Pronomen/alle.md",
     "04_Lieder/Mayberg - Spiegelbild.md",
     "04_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
@@ -256,9 +260,6 @@
     "03_Vokabeln/Adjektive/bleich.md",
     "03_Vokabeln/Adjektive/dankbar.md",
     "03_Vokabeln/Adjektive/ehrlich.md",
-    "03_Vokabeln/Adjektive/einfach.md",
-    "03_Vokabeln/Adjektive/fleißig.md",
-    "03_Vokabeln/Adjektive/früh.md",
     "02_Kommunikation/Redewendungen",
     "00_Eingang",
     "00_Eingang",
@@ -267,7 +268,6 @@
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
     "03_Vokabeln/Adverben",
-    "03_Vokabeln/Adjektive",
-    "03_Vokabeln/Verben"
+    "03_Vokabeln/Adjektive"
   ]
 }
