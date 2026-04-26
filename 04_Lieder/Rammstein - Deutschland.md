@@ -50,8 +50,8 @@ Künstler*in: Rammstein
 > Wir
 > Ihr
 > Du ([[übermächtig|Übermächtig]], [[überflüssig]])
-> Ich ([[übermenschen|Übermenschen]], [[überdrüssig]])
-> Wir (Wer [[hoch]] [[steigt]], der wird [[tief]] [[fallen]])
+> Ich ([[Übermensch|Übermenschen]], [[überdrüssig]])
+> Wir (Wer [[hoch]] [[steigen|steigt]], der wird [[tief]] [[fallen]])
 > Ihr (Deutschland, Deutschland über allen)
 > 
 > (Deutschland!) Mein Herz in Flammen

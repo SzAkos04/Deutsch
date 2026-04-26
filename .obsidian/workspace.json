@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
-                "mode": "preview",
+                "file": "04_Lieder/Rammstein - Deutschland.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "Rammstein - Deutschland"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
+                "file": "04_Lieder/Rammstein - Deutschland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wörterbuch"
+              "title": "Backlinks for Rammstein - Deutschland"
             }
           },
           {
@@ -197,8 +197,7 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -234,9 +233,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Vorlagen/Adjektiv Vorlage.md",
-    "00_Eingang/übermächtig.md",
+    "03_Vokabeln/Verben/fallen.md",
+    "03_Vokabeln/Adjektive/tief.md",
     "04_Lieder/Rammstein - Deutschland.md",
+    "03_Vokabeln/Verben/steigen.md",
+    "03_Vokabeln/Adjektive/hoch.md",
+    "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Adjektive/überdrüssig.md",
+    "03_Vokabeln/Substantive/Übermensch.md",
+    "03_Vokabeln/Adjektive/überflüssig.md",
+    "03_Vokabeln/Adjektive/übermächtig.md",
+    "_Vorlagen/Adjektiv Vorlage.md",
     "MOC.md",
     "04_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
     "03_Vokabeln/Verben/gleichen.md",
@@ -252,14 +259,6 @@
     "03_Vokabeln/Adjektive/gestrig.md",
     "03_Vokabeln/Adjektive/heiß.md",
     "03_Vokabeln/Adjektive/heutig.md",
-    "03_Vokabeln/Adjektive/jung.md",
-    "03_Vokabeln/Adjektive/kalt.md",
-    "03_Vokabeln/Adjektive/lang.md",
-    "03_Vokabeln/Adjektive/leicht.md",
-    "03_Vokabeln/Adjektive/morgig.md",
-    "03_Vokabeln/Adjektive/richtig.md",
-    "03_Vokabeln/Adjektive/schön.md",
-    "03_Vokabeln/Adjektive/süß.md",
     "02_Kommunikation/Redewendungen",
     "00_Eingang",
     "00_Eingang",
