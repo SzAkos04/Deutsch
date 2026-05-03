@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Vorlagen/Verb Vorlage.md",
-                "mode": "preview",
-                "source": true,
+                "file": "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 1.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Verb Vorlage"
+              "title": "Német alapfokú B1 - Teil 1"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Vorlagen/Verb Vorlage.md",
+                "file": "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Verb Vorlage"
+              "title": "Backlinks for Német alapfokú B1 - Teil 1"
             }
           },
           {
@@ -250,13 +250,26 @@
   },
   "active": "1da0a08d896fad55",
   "lastOpenFiles": [
+    "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 2.md",
+    "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 1.md",
+    "05_Prüfungsvorbereitung/TELC - PRÓBAVIZSGA B1.md",
+    "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
+    "05_Prüfungsvorbereitung/03_Hörverstehen",
+    "05_Prüfungsvorbereitung/02_Sprachbausteine",
+    "05_Prüfungsvorbereitung/01_Leseverstehen",
+    "02_Kommunikation/E-Mail schreiben.md",
+    "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Substantive/Feind.md",
+    "04_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
+    "03_Vokabeln/Adjektive/bleich.md",
+    "02_Kommunikation/Redewendungen/Hand in Hand.md",
+    "_Vorlagen/Verb Vorlage.md",
     "_Vorlagen/Substantive Vorlage.md",
     "_Vorlagen/Redewendung Vorlage.md",
     "_Vorlagen/Pronomen Vorlage.md",
     "_Vorlagen/Lied Vorlage.md",
     "_Vorlagen/Konjunktion Vorlage.md",
     "00_Eingang/test.md",
-    "_Vorlagen/Verb Vorlage.md",
     "_Vorlagen/Allgemeine Vorlage.md",
     "_Vorlagen/Adverb Vorlage.md",
     "_Vorlagen/Adjektiv Vorlage.md",
@@ -266,24 +279,12 @@
     "00_Eingang/aoeu.md",
     "00_Eingang/aoeuaoeu.md",
     "00_Eingang/aoeuoaeu.md",
-    "02_Kommunikation/E-Mail schreiben.md",
     "05_Prüfungsvorbereitung",
     "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
-    "03_Vokabeln/Verben/rumsitzen.md",
-    "03_Vokabeln/Substantive/Klavier.md",
-    "03_Vokabeln/Adverben/barfuß.md",
-    "03_Vokabeln/Wörterbuch.md",
-    "MOC.md",
-    "03_Vokabeln/Adverben/wieder.md",
-    "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "01_Grammatik/01. Az ige ragozása jelen időben",
     "02_Kommunikation/Redewendungen",
     "00_Eingang",
     "00_Eingang",
-    "03_Vokabeln/Präpositionen",
-    "03_Vokabeln/Konjunktionen",
-    "03_Vokabeln/Lernkarten",
-    "03_Vokabeln/Pronomen",
-    "03_Vokabeln/Adverben"
+    "03_Vokabeln/Präpositionen"
   ]
 }
