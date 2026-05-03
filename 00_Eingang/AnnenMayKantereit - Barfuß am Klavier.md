@@ -10,7 +10,7 @@ Künstler*in: AnnenMayKantereit
 ## Text
 
 > Und ich sitz' [[schon]] [[wieder]]
-> [[Barfuß]] am [[Klavier]]
+> [[barfuß|Barfuß]] am [[Klavier]]
 > Ich [[träumen|träume]] [[Liebeslieder]]
 > Und sing dabei von Dir
 > 
