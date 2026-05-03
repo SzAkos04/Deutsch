@@ -73,22 +73,3 @@ Az elköszönő forma után németül **NEM teszünk vesszőt,** és utána a k�
 _Mit freundlichen Grüßen_
 
 _János Kovács_
-
----
-
-## 4. Pronomen der Höflichkeit (Önözés)
-
-### A) Alapszabály
-
-Hivatalos levélben az önözést (_Sie, Ihr, Ihnen_) **mindig nagybetűvel** írjuk, hogy megkülönböztessük az "ők" vagy "ő" (nőnem) névmásoktól.
-
-### B) Esetek és alakok
-
-| das Kasus     | das Personalpronomen | die Bedeutung    |
-| ------------- | -------------------- | ---------------- |
-| **Nominativ** | Sie                  | Ön(ök)           |
-| **Akkusativ** | Sie                  | Ön(öke)t         |
-| **Dativ**     | Ihnen                | Ön(ök)nek        |
-| **Genitiv**   | Ihr(e)               | Az Ön(ök) ...-ja |
-
-lásd: [[Artikel und Pronomen (Névelők és névmások)]]

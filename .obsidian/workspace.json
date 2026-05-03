@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
+                "file": "02_Kommunikation/E-Mail schreiben.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AnnenMayKantereit - Barfuß am Klavier"
+              "title": "E-Mail schreiben"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
+                "file": "02_Kommunikation/E-Mail schreiben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AnnenMayKantereit - Barfuß am Klavier"
+              "title": "Backlinks for E-Mail schreiben"
             }
           },
           {
@@ -234,8 +234,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03_Vokabeln/Verben/rumsitzen.md",
     "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
+    "03_Vokabeln/Verben/rumsitzen.md",
     "03_Vokabeln/Substantive/Klavier.md",
     "03_Vokabeln/Adverben/barfuß.md",
     "03_Vokabeln/Wörterbuch.md",
