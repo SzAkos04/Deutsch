@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Kommunikation/E-Mail schreiben.md",
+                "file": "_Vorlagen/Verb Vorlage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "E-Mail schreiben"
+              "title": "Verb Vorlage"
+            }
+          },
+          {
+            "id": "1da0a08d896fad55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Vorlagen/Verb Vorlage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Verb Vorlage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Kommunikation/E-Mail schreiben.md",
+                "file": "_Vorlagen/Verb Vorlage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for E-Mail schreiben"
+              "title": "Backlinks for Verb Vorlage"
             }
           },
           {
@@ -232,8 +248,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1da0a08d896fad55",
   "lastOpenFiles": [
+    "_Vorlagen/Substantive Vorlage.md",
+    "_Vorlagen/Redewendung Vorlage.md",
+    "_Vorlagen/Pronomen Vorlage.md",
+    "_Vorlagen/Lied Vorlage.md",
+    "_Vorlagen/Konjunktion Vorlage.md",
+    "00_Eingang/test.md",
+    "_Vorlagen/Verb Vorlage.md",
+    "_Vorlagen/Allgemeine Vorlage.md",
+    "_Vorlagen/Adverb Vorlage.md",
+    "_Vorlagen/Adjektiv Vorlage.md",
+    "_Vorlagen/test.md",
+    "00_Eingang/testest.md",
+    "00_Eingang/Schreiben Vorlage.md",
+    "00_Eingang/aoeu.md",
+    "00_Eingang/aoeuaoeu.md",
+    "00_Eingang/aoeuoaeu.md",
+    "02_Kommunikation/E-Mail schreiben.md",
+    "05_Prüfungsvorbereitung",
     "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
     "03_Vokabeln/Verben/rumsitzen.md",
     "03_Vokabeln/Substantive/Klavier.md",
@@ -242,25 +276,7 @@
     "MOC.md",
     "03_Vokabeln/Adverben/wieder.md",
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
-    "04_Lieder/Rammstein - Deutschland.md",
-    "01_Grammatik/Buch.md",
-    "01_Grammatik/das Adjektiv.md",
-    "01_Grammatik/01. Az ige ragozása jelen időben/01. Szabályos ragozású igék.md",
     "01_Grammatik/01. Az ige ragozása jelen időben",
-    "03_Vokabeln/Pronomen/alle.md",
-    "04_Lieder/Mayberg - Spiegelbild.md",
-    "04_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
-    "03_Vokabeln/Verben/fallen.md",
-    "03_Vokabeln/Adjektive/tief.md",
-    "03_Vokabeln/Verben/steigen.md",
-    "03_Vokabeln/Adjektive/hoch.md",
-    "03_Vokabeln/Adjektive/überdrüssig.md",
-    "03_Vokabeln/Substantive/Übermensch.md",
-    "03_Vokabeln/Adjektive/überflüssig.md",
-    "03_Vokabeln/Adjektive/übermächtig.md",
-    "_Vorlagen/Adjektiv Vorlage.md",
-    "03_Vokabeln/Verben/gleichen.md",
-    "03_Vokabeln/Adjektive/alltäglich.md",
     "02_Kommunikation/Redewendungen",
     "00_Eingang",
     "00_Eingang",
@@ -268,7 +284,6 @@
     "03_Vokabeln/Konjunktionen",
     "03_Vokabeln/Lernkarten",
     "03_Vokabeln/Pronomen",
-    "03_Vokabeln/Adverben",
-    "03_Vokabeln/Adjektive"
+    "03_Vokabeln/Adverben"
   ]
 }

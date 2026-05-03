@@ -2,20 +2,14 @@
 Wort: <% tp.file.title %>
 Wortart: Verb
 Verbtyp:
-  - stark
-  - schwach
-  - gemischt
-  - modal
-  - unregelmäßig
-  - trennbar
-  - untrennbar
-Niveau: 
+  - <% await tp.system.suggester((item) => item, ["stark", "schwach", "gemischt", "modal"]) %>
+  - <% await tp.system.suggester((item) => item, ["trennbar", "untrennbar"]) %>
+Niveau: <% await tp.system.suggester((item) => item, ["A1", "A2", "B1", "B2", "C1", "C2"]) %>
 Bedeutung:
 Präteritum:
 Partizip_II:
 Hilfsverb:
-  - hat
-  - ist
+  - <% await tp.system.suggester((item) => item, ["hat", "ist"]) %>
 Quelle:
 aliases:
 ---

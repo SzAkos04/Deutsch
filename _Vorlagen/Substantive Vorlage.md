@@ -1,8 +1,8 @@
 ---
 Wort: <% tp.file.title %>
 Wortart: Substantiv
-Niveau:
-Genus:
+Niveau: <% await tp.system.suggester((item) => item, ["A1", "A2", "B1", "B2", "C1", "C2"]) %>
+Genus: <% await tp.system.suggester((item) => item, ["der", "die", "das"]) %>
 Plural:
 Bedeutung:
 Quelle:

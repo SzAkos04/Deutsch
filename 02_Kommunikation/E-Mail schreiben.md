@@ -44,6 +44,9 @@ _vielen Dank für Ihre E-Mail._ (nem pedig: ~~Vielen Dank~~)
 - _Ich schreibe Ihnen, weil..._ (Azért írok Önnek, mert...)
 - _Bezugnehmend auf Ihre Anzeige..._ (Hirdetésére hivatkozva...)
 - _Ich hätte eine Frage bezüglich..._ (Lenne egy kérdésem a ...-val kapcsolatban.)
+- _Leider muss ich Ihnen mitteilen, dass..._ (panasz/rossz hír)
+- _Ich würde mich freuen, wenn..._ (udvarias kérés)
+- _Ich bewerbe mich um..._ (álláspályázat)
 
 ---
 
