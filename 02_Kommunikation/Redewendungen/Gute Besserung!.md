@@ -2,7 +2,7 @@
 Ausdruck: Gute Besserung!
 Wortart:
   - Redewendung
-Niveau: 
+Niveau: A1
 Bedeutung: Jobbulást! Mielőbbi felépülést!
 Beispiel: Ich habe gehört, du bist krank. Gute Besserung!
 Kontext:

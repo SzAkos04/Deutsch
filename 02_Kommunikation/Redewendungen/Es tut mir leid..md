@@ -2,7 +2,7 @@
 Ausdruck: Es tut mir leid.
 Wortart:
   - Redewendung
-Niveau: 
+Niveau: A1
 Bedeutung: Sajnálom.
 Beispiel: Es tut mir leid, dass ich zu spät komme.
 Kontext:

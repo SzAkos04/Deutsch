@@ -2,7 +2,7 @@
 Ausdruck: Schritt um Schritt
 Wortart:
   - Redewendung
-Niveau: 
+Niveau: A2
 Bedeutung: lépésről lépésre
 Beispiel:
 Kontext:
