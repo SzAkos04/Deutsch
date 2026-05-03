@@ -174,37 +174,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
+                "file": "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wörterbuch"
+              "title": "Outline of Német alapfokú B1 - Teil 1"
             }
           },
           {
-            "id": "a87d0cb4ae03b232",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "68f84b59ca80ee11",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "2b5d316602d78534",
+            "id": "92de6f08f937d6b9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -248,7 +228,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1da0a08d896fad55",
+  "active": "92de6f08f937d6b9",
   "lastOpenFiles": [
     "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 2.md",
     "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 1.md",
