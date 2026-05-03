@@ -2,7 +2,7 @@ _Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden T
 Sie können jede Überschrift nur einmal benutzen.
 Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen._
 
-- a) **Ampel auf Rot: Motor abstellen**
+- a) **Ampel auf Rot: Motor abstellen [^1]**
 - b) **Autofahrer telefoniert bei mehr als 180 km/h**
 - c) **Bahn mit Butterbroten angehalten**
 - d) **Frankfurter lieben Hamburger mit Marmelade**
@@ -23,3 +23,5 @@ Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen._
    > **Paris.** In Frankreich hat ein junger Mann bei Tempo 200 auf einer Autobahn am Steuer Filme auf DVD angeschaut. „Ich habe nicht gewusst, dass das verboten ist“, sagte der 21-jährige Pascal A. vor Gericht in Tours. Das Gericht nahm ihm nicht nur den Führerschein weg, sondern beschlagnahmte auch das Auto. Außerdem bekam er eine Geldstrafe von 150 Euro. Die Polizei hatte den Fahranfänger auf der Autobahn angehalten, nachdem er vorher mit über 200 Stundenkilometern viel zu schnell unterwegs gewesen war. Erlaubt war nur Tempo 110.
 5. 
    > **Frankfurt.** Die gebürtige Hamburgerin Tanja Bauer beliefert das „Main Äppel Haus Lohrberg“ schon lange mit ihren Marmeladen-Variationen. Jetzt möchte sie ihr Wissen und ihre Leidenschaft teilen: Am Dienstag weiht sie Interessierte in ihre Tricks ein. Der Kurs dauert von 18 Uhr bis 20 Uhr und findet im „Main Äppel Haus“ in Frankfurt statt. Die Teilnahme kostet 15 Euro pro Person. Anmeldung ist erforderlich unter (06 10 9) 22 59 13.
+
+[^1]: leállítani
