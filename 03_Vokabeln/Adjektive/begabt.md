@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: begabt
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B2
+Bedeutung: tehetséges
+Komparativ: begabter
+Superlativ: begabtesten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[klug]]
+- [[kreativ]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

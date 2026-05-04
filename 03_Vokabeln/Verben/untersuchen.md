@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: untersuchen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B1
+Bedeutung: megvizsgálni, kutatni
+Präteritum: untersuchte
+Partizip_II: untersucht
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **untersuche**   |
+| du               | **untersuchst** |
+| er / sie / es    | **untersucht**  |
+| wir              | **untersuchen**  |
+| ihr              | **untersucht**  |
+| sie / Sie        | **untersuchen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[analysieren]]
+- [[forschen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

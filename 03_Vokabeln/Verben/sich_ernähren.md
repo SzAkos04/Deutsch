@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich ernähren
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B1
+Bedeutung: táplálkozni
+Präteritum: ernährte sich
+Partizip_II: ernährt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **ernähre mich**   |
+| du               | **ernährst dich** |
+| er / sie / es    | **ernährt sich**  |
+| wir              | **sich ernähren**  |
+| ihr              | **ernährt sich**  |
+| sie / Sie        | **sich ernähren**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[sich kümmern um]]
+- [[essen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

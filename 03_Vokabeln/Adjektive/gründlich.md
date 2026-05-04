@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: gründlich
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B2
+Bedeutung: alapos, tüzetes
+Komparativ: gründlicher
+Superlativ: gründlichsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[sorgfältig]]
+- [[genau]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

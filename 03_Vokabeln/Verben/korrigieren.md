@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: korrigieren
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B1
+Bedeutung: javítani, korrigálni
+Präteritum: korrigierte
+Partizip_II: korrigiert
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **korrigiere**   |
+| du               | **korrigierst** |
+| er / sie / es    | **korrigiert**  |
+| wir              | **korrigieren**  |
+| ihr              | **korrigiert**  |
+| sie / Sie        | **korrigieren**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[bewerten]]
+- [[prüfen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

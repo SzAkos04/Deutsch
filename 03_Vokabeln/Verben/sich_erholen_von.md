@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich erholen von
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B1
+Bedeutung: felépülni vmiből
+Präteritum: erholte sich von
+Partizip_II: erholt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **erhole mich von**   |
+| du               | **erholst dich von** |
+| er / sie / es    | **erholt sich von**  |
+| wir              | **sich erholen von**  |
+| ihr              | **erholt sich von**  |
+| sie / Sie        | **sich erholen von**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[heilen]]
+- [[sich ausruhen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

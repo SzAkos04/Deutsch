@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: konzentriert
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B1
+Bedeutung: koncentrált, összpontosított
+Komparativ: konzentrierter
+Superlativ: konzentriertesten
 Quelle:
 aliases:
 ---
@@ -19,7 +19,7 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
+- [[aufmerksam]]
 - [[motiviert]]
 
 ---

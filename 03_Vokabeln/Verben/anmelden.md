@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: anmelden
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - trennbar
+Niveau: B1
+Bedeutung: jelentkezni, regisztrálni
+Präteritum: meldete an
+Partizip_II: angemeldet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **melde an**   |
+| du               | **meldest an** |
+| er / sie / es    | **meldet an**  |
+| wir              | **anmelden**  |
+| ihr              | **meldet an**  |
+| sie / Sie        | **anmelden**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[einschreiben]]
+- [[bewerben]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

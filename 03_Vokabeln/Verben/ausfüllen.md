@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: ausfüllen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
+  - trennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: kitölteni (űrlapot)
+Präteritum: füllte aus
+Partizip_II: ausgefüllt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **fülle aus**   |
+| du               | **füllst aus** |
+| er / sie / es    | **füllt aus**  |
+| wir              | **ausfüllen**  |
+| ihr              | **füllt aus**  |
+| sie / Sie        | **ausfüllen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
+- [[schreiben]]
 - [[notieren]]
-- [[erinnern]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: unterstützen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B1
+Bedeutung: támogatni, segíteni
+Präteritum: unterstützte
+Partizip_II: unterstützt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **unterstütze**   |
+| du               | **unterstützt** |
+| er / sie / es    | **unterstützt**  |
+| wir              | **unterstützen**  |
+| ihr              | **unterstützt**  |
+| sie / Sie        | **unterstützen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[fördern]]
+- [[helfen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

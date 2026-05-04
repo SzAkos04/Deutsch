@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Klausur
 Wortart: Substantiv
-Niveau: A2
+Niveau: B1
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Klausuren
+Bedeutung: írásbeli vizsga, dolgozat
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
 - [[Prüfung]]
+- [[Note]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

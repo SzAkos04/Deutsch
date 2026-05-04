@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich ausruhen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: pihenni, megpihenni
+Präteritum: ruhte sich aus
+Partizip_II: ausgeruht
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **ruhe mich aus**   |
+| du               | **ruhst dich aus** |
+| er / sie / es    | **ruht sich aus**  |
+| wir              | **sich ausruhen**  |
+| ihr              | **ruht sich aus**  |
+| sie / Sie        | **sich ausruhen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[sich erholen]]
+- [[schlafen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

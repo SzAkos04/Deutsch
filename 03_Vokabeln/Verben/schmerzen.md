@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: schmerzen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B1
+Bedeutung: fájni, fájdalmat okozni
+Präteritum: schmerzte
+Partizip_II: geschmerzt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **schmerze**   |
+| du               | **schmerzt** |
+| er / sie / es    | **schmerzt**  |
+| wir              | **schmerzen**  |
+| ihr              | **schmerzt**  |
+| sie / Sie        | **schmerzen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[sich verletzen]]
+- [[leiden]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

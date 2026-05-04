@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich anstecken
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - trennbar
+Niveau: B2
+Bedeutung: megfertőződni, megkapni a betegséget
+Präteritum: steckte sich an
+Partizip_II: angesteckt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **stecke mich an**   |
+| du               | **steckst dich an** |
+| er / sie / es    | **steckt sich an**  |
+| wir              | **sich anstecken**  |
+| ihr              | **steckt sich an**  |
+| sie / Sie        | **sich anstecken**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[erkranken]]
+- [[übertragen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

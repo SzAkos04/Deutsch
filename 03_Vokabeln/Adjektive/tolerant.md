@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: tolerant
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B2
+Bedeutung: toleráns, türelmes
+Komparativ: toleranter
+Superlativ: tolerantesten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[offen]]
+- [[verständnisvoll]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: objektiv
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B2
+Bedeutung: objektív, tárgyilagos
+Komparativ: objektiver
+Superlativ: objektivsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[rational]]
+- [[kritisch]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

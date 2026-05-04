@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: engagiert
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B2
+Bedeutung: elkötelezett, lelkes
+Komparativ: engagierter
+Superlativ: engagiertesten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
 - [[motiviert]]
+- [[fleißig]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Stift
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: A1
+Genus: der
+Plural: Stifte
+Bedeutung: toll, ceruza
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[schreiben]]
+- [[Heft]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

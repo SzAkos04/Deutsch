@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Schülerin
 Wortart: Substantiv
-Niveau: A2
+Niveau: A1
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Schülerinnen
+Bedeutung: tanuló (nő)
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Schüler]]
+- [[Student]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

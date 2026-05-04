@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: einnehmen
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - stark
+  - trennbar
+Niveau: B2
+Bedeutung: bevenni (gyógyszert)
+Präteritum: nahm ein
+Partizip_II: eingenommen
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **nehme ein**   |
+| du               | **nimmst ein** |
+| er / sie / es    | **nimmt ein**  |
+| wir              | **einnehmen**  |
+| ihr              | **nimmt ein**  |
+| sie / Sie        | **einnehmen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[verschreiben]]
+- [[schlucken]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

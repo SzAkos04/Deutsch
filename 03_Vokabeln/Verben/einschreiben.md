@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: einschreiben
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - stark
+  - trennbar
+Niveau: B2
+Bedeutung: beiratkozni
+Präteritum: schrieb ein
+Partizip_II: eingeschrieben
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **schreibe ein**   |
+| du               | **schreibst ein** |
+| er / sie / es    | **schreibt ein**  |
+| wir              | **einschreiben**  |
+| ihr              | **schreibt ein**  |
+| sie / Sie        | **einschreiben**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[studieren]]
+- [[anmelden]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

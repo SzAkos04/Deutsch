@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: debattieren
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B2
+Bedeutung: vitát folytatni, debatálni
+Präteritum: debattierte
+Partizip_II: debattiert
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **debattiere**   |
+| du               | **debattierst** |
+| er / sie / es    | **debattiert**  |
+| wir              | **debattieren**  |
+| ihr              | **debattiert**  |
+| sie / Sie        | **debattieren**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[diskutieren]]
+- [[argumentieren]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

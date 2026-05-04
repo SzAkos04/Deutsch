@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich konzentrieren
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B1
+Bedeutung: koncentrálni, összpontosítani
+Präteritum: konzentrierte sich
+Partizip_II: konzentriert
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **konzentriere mich**   |
+| du               | **konzentrierst dich** |
+| er / sie / es    | **konzentriert sich**  |
+| wir              | **sich konzentrieren**  |
+| ihr              | **konzentriert sich**  |
+| sie / Sie        | **sich konzentrieren**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[lernen]]
+- [[üben]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

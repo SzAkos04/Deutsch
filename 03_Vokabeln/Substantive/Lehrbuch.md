@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Lehrbuch
 Wortart: Substantiv
 Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Genus: das
+Plural: Lehrbücher
+Bedeutung: tankönyv
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Buch]]
+- [[Unterricht]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

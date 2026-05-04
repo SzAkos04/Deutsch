@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Studium
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: B1
+Genus: das
+Plural: Studien
+Bedeutung: egyetemi tanulmányok
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Universität]]
+- [[Student]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

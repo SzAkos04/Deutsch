@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: neugierig
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B1
+Bedeutung: kíváncsi
+Komparativ: neugieriger
+Superlativ: neugierigsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[wissbegierig]]
+- [[offen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

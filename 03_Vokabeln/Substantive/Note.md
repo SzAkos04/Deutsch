@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Note
 Wortart: Substantiv
 Niveau: A2
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Noten
+Bedeutung: osztályzat, jegy
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
 - [[Prüfung]]
+- [[Zeugnis]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

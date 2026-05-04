@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Universität
 Wortart: Substantiv
 Niveau: A2
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Universitäten
+Bedeutung: egyetem
 Quelle:
 aliases:
 ---
@@ -17,12 +17,12 @@ aliases:
 | <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")` | `=choice(this.Genus = "das", this.Plural, "")` |
 
 > [!INFO]
-> 
+> Röviden: Uni
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Hochschule]]
+- [[Student]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

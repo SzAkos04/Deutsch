@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: verordnen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B2
+Bedeutung: elrendelni, előírni (orvosi)
+Präteritum: verordnete
+Partizip_II: verordnet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **verordne**   |
+| du               | **verordnest** |
+| er / sie / es    | **verordnet**  |
+| wir              | **verordnen**  |
+| ihr              | **verordnet**  |
+| sie / Sie        | **verordnen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[verschreiben]]
+- [[behandeln]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: geduldig
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B1
+Bedeutung: türelmes
+Komparativ: geduldiger
+Superlativ: geduldigsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[verständnisvoll]]
+- [[ruhig]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: zunehmen an
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - stark
+  - trennbar
+Niveau: B2
+Bedeutung: növekedni, gyarapodni vmiben
+Präteritum: nahm zu
+Partizip_II: zugenommen
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **nehme zu**   |
+| du               | **nimmst zu** |
+| er / sie / es    | **nimmt zu**  |
+| wir              | **zunehmen an**  |
+| ihr              | **nimmt zu**  |
+| sie / Sie        | **zunehmen an**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[abnehmen]]
+- [[zunehmen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

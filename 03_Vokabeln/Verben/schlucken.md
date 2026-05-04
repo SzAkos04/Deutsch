@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: schlucken
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: nyelni, lenyelni
+Präteritum: schluckte
+Partizip_II: geschluckt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **schlucke**   |
+| du               | **schluckst** |
+| er / sie / es    | **schluckt**  |
+| wir              | **schlucken**  |
+| ihr              | **schluckt**  |
+| sie / Sie        | **schlucken**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[einnehmen]]
+- [[kauen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

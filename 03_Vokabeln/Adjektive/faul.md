@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: faul
 Wortart: Adjektiv
 Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Bedeutung: lusta
+Komparativ: fauler
+Superlativ: faulsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[fleißig]]
+- [[unmotiviert]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

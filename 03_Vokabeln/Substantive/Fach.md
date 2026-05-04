@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Fach
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: B1
+Genus: das
+Plural: Fächer
+Bedeutung: tantárgy, szakterület
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Unterricht]]
+- [[Studium]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

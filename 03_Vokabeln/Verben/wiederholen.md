@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: wiederholen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: ismételni, megismételni
+Präteritum: wiederholte
+Partizip_II: wiederholt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **wiederhole**   |
+| du               | **wiederholst** |
+| er / sie / es    | **wiederholt**  |
+| wir              | **wiederholen**  |
+| ihr              | **wiederholt**  |
+| sie / Sie        | **wiederholen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[lernen]]
+- [[üben]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

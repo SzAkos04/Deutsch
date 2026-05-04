@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich bewegen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: mozogni, mozdulni
+Präteritum: bewegte sich
+Partizip_II: bewegt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **bewege mich**   |
+| du               | **bewegst dich** |
+| er / sie / es    | **bewegt sich**  |
+| wir              | **sich bewegen**  |
+| ihr              | **bewegt sich**  |
+| sie / Sie        | **sich bewegen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[trainieren]]
+- [[Sport treiben]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: wissbegierig
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B2
+Bedeutung: tudásszomjas, kíváncsi
+Komparativ: wissbegieriger
+Superlativ: wissbegierigsten
 Quelle:
 aliases:
 ---
@@ -19,7 +19,7 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
+- [[neugierig]]
 - [[motiviert]]
 
 ---

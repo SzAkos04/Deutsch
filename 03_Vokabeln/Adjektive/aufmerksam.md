@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: aufmerksam
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B1
+Bedeutung: figyelmes, figyelmező
+Komparativ: aufmerksamer
+Superlativ: aufmerksamsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[konzentriert]]
+- [[sorgfältig]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: praktisch
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B1
+Bedeutung: gyakorlati, praktikus
+Komparativ: praktischer
+Superlativ: praktischsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[theoretisch]]
+- [[angewandt]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

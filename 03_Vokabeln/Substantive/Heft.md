@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Heft
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: A1
+Genus: das
+Plural: Hefte
+Bedeutung: füzet
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Notizbuch]]
+- [[schreiben]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

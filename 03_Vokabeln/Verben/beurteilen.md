@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: beurteilen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B2
+Bedeutung: megítélni, értékelni
+Präteritum: beurteilte
+Partizip_II: beurteilt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **beurteile**   |
+| du               | **beurteilst** |
+| er / sie / es    | **beurteilt**  |
+| wir              | **beurteilen**  |
+| ihr              | **beurteilt**  |
+| sie / Sie        | **beurteilen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[bewerten]]
+- [[prüfen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

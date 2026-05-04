@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: abgeben
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - stark
+  - trennbar
+Niveau: B1
+Bedeutung: leadni, beadni (dolgozatot)
+Präteritum: gab ab
+Partizip_II: abgegeben
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **gebe ab**   |
+| du               | **gibst ab** |
+| er / sie / es    | **gibt ab**  |
+| wir              | **abgeben**  |
+| ihr              | **gibt ab**  |
+| sie / Sie        | **abgeben**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[einreichen]]
+- [[präsentieren]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

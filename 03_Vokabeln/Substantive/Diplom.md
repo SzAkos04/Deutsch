@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Diplom
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: B2
+Genus: das
+Plural: Diplome
+Bedeutung: diploma
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Abschluss]]
+- [[Studium]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Hochschule
 Wortart: Substantiv
-Niveau: A2
+Niveau: B1
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Hochschulen
+Bedeutung: főiskola, felsőoktatási intézmény
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Universität]]
+- [[Studium]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

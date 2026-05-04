@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Unterricht
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: A1
+Genus: der
+Plural: Unterrichte
+Bedeutung: óra, oktatás
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Schule]]
+- [[Lehrer]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Klasse
 Wortart: Substantiv
-Niveau: A2
+Niveau: A1
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Klassen
+Bedeutung: osztály (iskolai)
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Schüler]]
+- [[Unterricht]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

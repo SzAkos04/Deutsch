@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich verletzen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: megsérülni, megsebezni magát
+Präteritum: verletzte sich
+Partizip_II: verletzt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **verletze mich**   |
+| du               | **verletzt dich** |
+| er / sie / es    | **verletzt sich**  |
+| wir              | **sich verletzen**  |
+| ihr              | **verletzt sich**  |
+| sie / Sie        | **sich verletzen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[schmerzen]]
+- [[bluten]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

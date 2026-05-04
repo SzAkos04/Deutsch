@@ -1,15 +1,15 @@
 ---
-Wort: merken
+Wort: einschlafen
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
+  - stark
+  - trennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: elaludni
+Präteritum: schlief ein
+Partizip_II: eingeschlafen
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **schlafe ein**   |
+| du               | **schläfst ein** |
+| er / sie / es    | **schläft ein**  |
+| wir              | **einschlafen**  |
+| ihr              | **schläft ein**  |
+| sie / Sie        | **einschlafen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[sich ausruhen]]
+- [[aufwachen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

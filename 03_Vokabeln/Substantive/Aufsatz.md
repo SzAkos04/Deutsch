@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Aufsatz
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: B1
+Genus: der
+Plural: Aufsätze
+Bedeutung: fogalmazás, dolgozat
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
+- [[schreiben]]
 - [[Hausaufgabe]]
-- [[Prüfung]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

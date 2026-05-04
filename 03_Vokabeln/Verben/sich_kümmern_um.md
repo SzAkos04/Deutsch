@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich kümmern um
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B1
+Bedeutung: gondoskodni vkiről/vmiről
+Präteritum: kümmerte sich um
+Partizip_II: gekümmert
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **kümmere mich um**   |
+| du               | **kümmerst dich um** |
+| er / sie / es    | **kümmert sich um**  |
+| wir              | **sich kümmern um**  |
+| ihr              | **kümmert sich um**  |
+| sie / Sie        | **sich kümmern um**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[behandeln]]
+- [[pflegen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Lehrerin
 Wortart: Substantiv
-Niveau: A2
+Niveau: A1
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Lehrerinnen
+Bedeutung: tanár (nő)
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Lehrer]]
+- [[Schüler]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

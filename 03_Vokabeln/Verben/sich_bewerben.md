@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich bewerben
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B2
+Bedeutung: jelentkezni (állásra/iskolába)
+Präteritum: bewarb sich
+Partizip_II: beworben
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **bewerbe mich**   |
+| du               | **bewirbst dich** |
+| er / sie / es    | **bewirbt sich**  |
+| wir              | **sich bewerben**  |
+| ihr              | **bewirbt sich**  |
+| sie / Sie        | **sich bewerben**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[anmelden]]
+- [[einschreiben]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

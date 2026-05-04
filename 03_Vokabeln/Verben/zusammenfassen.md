@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: zusammenfassen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - trennbar
+Niveau: B2
+Bedeutung: összefoglalni
+Präteritum: fasste zusammen
+Partizip_II: zusammengefasst
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **fasse zusammen**   |
+| du               | **fasst zusammen** |
+| er / sie / es    | **fasst zusammen**  |
+| wir              | **zusammenfassen**  |
+| ihr              | **fasst zusammen**  |
+| sie / Sie        | **zusammenfassen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[beschreiben]]
+- [[erklären]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

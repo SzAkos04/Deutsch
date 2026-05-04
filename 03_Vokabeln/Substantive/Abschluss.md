@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Abschluss
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: B1
+Genus: der
+Plural: Abschlüsse
+Bedeutung: végzettség, befejezés
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Zeugnis]]
+- [[Diplom]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

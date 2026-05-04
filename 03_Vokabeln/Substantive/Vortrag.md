@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Vortrag
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: B1
+Genus: der
+Plural: Vorträge
+Bedeutung: előadás, felszólalás
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Referat]]
+- [[vortragen]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

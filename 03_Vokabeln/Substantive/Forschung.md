@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Forschung
 Wortart: Substantiv
-Niveau: A2
+Niveau: B2
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Forschungen
+Bedeutung: kutatás
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[forschen]]
+- [[Wissenschaft]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

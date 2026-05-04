@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Zeugnis
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: B1
+Genus: das
+Plural: Zeugnisse
+Bedeutung: bizonyítvány, értesítő
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Note]]
+- [[Abschluss]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

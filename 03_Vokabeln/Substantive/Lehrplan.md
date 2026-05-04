@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Lehrplan
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: B2
+Genus: der
+Plural: Lehrpläne
+Bedeutung: tanterv
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Unterricht]]
+- [[Fach]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

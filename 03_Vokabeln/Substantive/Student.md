@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Student
 Wortart: Substantiv
 Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Genus: der
+Plural: Studenten
+Bedeutung: egyetemi hallgató (férfi)
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Studentin]]
+- [[Universität]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

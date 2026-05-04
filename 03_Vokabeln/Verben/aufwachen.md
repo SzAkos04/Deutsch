@@ -1,15 +1,15 @@
 ---
-Wort: merken
+Wort: aufwachen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
+  - trennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: felébredni
+Präteritum: wachte auf
+Partizip_II: aufgewacht
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **wache auf**   |
+| du               | **wachst auf** |
+| er / sie / es    | **wacht auf**  |
+| wir              | **aufwachen**  |
+| ihr              | **wacht auf**  |
+| sie / Sie        | **aufwachen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[einschlafen]]
+- [[sich ausruhen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

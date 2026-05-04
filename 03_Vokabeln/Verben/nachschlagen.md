@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: nachschlagen
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - stark
+  - trennbar
+Niveau: B1
+Bedeutung: utánanézni (szótárban)
+Präteritum: schlug nach
+Partizip_II: nachgeschlagen
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **schlage nach**   |
+| du               | **schlägst nach** |
+| er / sie / es    | **schlägt nach**  |
+| wir              | **nachschlagen**  |
+| ihr              | **schlägt nach**  |
+| sie / Sie        | **nachschlagen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[recherchieren]]
+- [[lesen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

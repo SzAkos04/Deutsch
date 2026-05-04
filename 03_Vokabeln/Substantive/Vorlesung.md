@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Vorlesung
 Wortart: Substantiv
-Niveau: A2
+Niveau: B1
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Vorlesungen
+Bedeutung: előadás (egyetemi)
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Seminar]]
+- [[Studium]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

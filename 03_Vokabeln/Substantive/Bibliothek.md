@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Bibliothek
 Wortart: Substantiv
 Niveau: A2
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Bibliotheken
+Bedeutung: könyvtár
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Buch]]
+- [[recherchieren]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

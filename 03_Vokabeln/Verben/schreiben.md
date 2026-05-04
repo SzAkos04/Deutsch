@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: schreiben
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: A1
+Bedeutung: írni
+Präteritum: schrieb
+Partizip_II: geschrieben
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **schreibe**   |
+| du               | **schreibst** |
+| er / sie / es    | **schreibt**  |
+| wir              | **schreiben**  |
+| ihr              | **schreibt**  |
+| sie / Sie        | **schreiben**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
+- [[lesen]]
 - [[notieren]]
-- [[erinnern]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

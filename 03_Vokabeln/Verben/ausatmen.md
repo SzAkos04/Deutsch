@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: ausatmen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - trennbar
+Niveau: B1
+Bedeutung: kilélegezni
+Präteritum: atmete aus
+Partizip_II: ausgeatmet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **atme aus**   |
+| du               | **atmest aus** |
+| er / sie / es    | **atmet aus**  |
+| wir              | **ausatmen**  |
+| ihr              | **atmet aus**  |
+| sie / Sie        | **ausatmen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[einatmen]]
+- [[atmen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

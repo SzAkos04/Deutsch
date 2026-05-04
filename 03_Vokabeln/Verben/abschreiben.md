@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: abschreiben
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - stark
+  - trennbar
+Niveau: B1
+Bedeutung: lemásolni, puskázni
+Präteritum: schrieb ab
+Partizip_II: abgeschrieben
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **schreibe ab**   |
+| du               | **schreibst ab** |
+| er / sie / es    | **schreibt ab**  |
+| wir              | **abschreiben**  |
+| ihr              | **schreibt ab**  |
+| sie / Sie        | **abschreiben**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[schreiben]]
+- [[täuschen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: Sport treiben
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: sportolni
+Präteritum: trieb Sport
+Partizip_II: Sport getrieben
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **treibe Sport**   |
+| du               | **treibst Sport** |
+| er / sie / es    | **treibt Sport**  |
+| wir              | **Sport treiben**  |
+| ihr              | **treibt Sport**  |
+| sie / Sie        | **Sport treiben**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[trainieren]]
+- [[sich bewegen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

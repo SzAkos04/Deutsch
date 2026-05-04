@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: ruhig
 Wortart: Adjektiv
 Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Bedeutung: nyugodt, csendes
+Komparativ: ruhiger
+Superlativ: ruhigsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[geduldig]]
+- [[konzentriert]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

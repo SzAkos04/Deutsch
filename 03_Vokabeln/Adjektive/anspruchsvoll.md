@@ -1,10 +1,10 @@
 ---
-Wort: fleißig
+Wort: anspruchsvoll
 Wortart: Adjektiv
-Niveau: A2
-Bedeutung: szorgalmas
-Komparativ: fleißiger
-Superlativ: fleißigsten
+Niveau: B2
+Bedeutung: igényes, magas követelményeket támasztó
+Komparativ: anspruchsvoller
+Superlativ: anspruchsvollsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[engagiert]]
-- [[motiviert]]
+- [[streng]]
+- [[gründlich]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

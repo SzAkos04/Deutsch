@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Bewerbung
 Wortart: Substantiv
-Niveau: A2
+Niveau: B2
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Bewerbungen
+Bedeutung: jelentkezés, pályázat
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[sich bewerben]]
+- [[Abschluss]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

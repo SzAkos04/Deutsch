@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: verzichten auf
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Niveau: B2
+Bedeutung: lemondani vmiről
+Präteritum: verzichtete auf
+Partizip_II: verzichtet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **verzichte auf**   |
+| du               | **verzichtest auf** |
+| er / sie / es    | **verzichtet auf**  |
+| wir              | **verzichten auf**  |
+| ihr              | **verzichtet auf**  |
+| sie / Sie        | **verzichten auf**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[vermeiden]]
+- [[sich entscheiden]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: sich erinnern
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+Bedeutung: emlékezni vmire
+Präteritum: erinnerte sich
+Partizip_II: erinnert
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **erinnere mich**   |
+| du               | **erinnerst dich** |
+| er / sie / es    | **erinnert sich**  |
+| wir              | **sich erinnern**  |
+| ihr              | **erinnert sich**  |
+| sie / Sie        | **sich erinnern**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[merken]]
+- [[vergessen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

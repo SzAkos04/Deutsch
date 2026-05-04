@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Schule
 Wortart: Substantiv
-Niveau: A2
+Niveau: A1
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Schulen
+Bedeutung: iskola
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Unterricht]]
+- [[Lehrer]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

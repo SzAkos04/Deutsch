@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Prüfung
 Wortart: Substantiv
 Niveau: A2
 Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Plural: Prüfungen
+Bedeutung: vizsga
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Klausur]]
+- [[Note]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

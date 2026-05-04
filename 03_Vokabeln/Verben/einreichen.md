@@ -1,13 +1,13 @@
 ---
-Wort: merken
+Wort: einreichen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: megjegyezni, észrevenni
-Präteritum: merkte
-Partizip_II: gemerkt
+  - trennbar
+Niveau: B2
+Bedeutung: benyújtani, beadni
+Präteritum: reichte ein
+Partizip_II: eingereicht
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **merke**   |
-| du               | **merkst** |
-| er / sie / es    | **merkt**  |
-| wir              | **merken**  |
-| ihr              | **merkt**  |
-| sie / Sie        | **merken**  |
+| ich              | **reiche ein**   |
+| du               | **reichst ein** |
+| er / sie / es    | **reicht ein**  |
+| wir              | **einreichen**  |
+| ihr              | **reicht ein**  |
+| sie / Sie        | **einreichen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[notieren]]
-- [[erinnern]]
+- [[abgeben]]
+- [[bewerben]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

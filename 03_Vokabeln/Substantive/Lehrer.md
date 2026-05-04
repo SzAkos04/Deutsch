@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Lehrer
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Niveau: A1
+Genus: der
+Plural: Lehrer
+Bedeutung: tanár (férfi)
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Lehrerin]]
+- [[Schüler]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

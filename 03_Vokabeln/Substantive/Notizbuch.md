@@ -1,10 +1,10 @@
 ---
-Wort: Aufgabe
+Wort: Notizbuch
 Wortart: Substantiv
 Niveau: A2
-Genus: die
-Plural: Aufgaben
-Bedeutung: feladat
+Genus: das
+Plural: Notizbücher
+Bedeutung: jegyzetfüzet
 Quelle:
 aliases:
 ---
@@ -21,8 +21,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[Hausaufgabe]]
-- [[Prüfung]]
+- [[Heft]]
+- [[notieren]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
