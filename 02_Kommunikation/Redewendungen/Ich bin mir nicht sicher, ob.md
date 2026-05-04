@@ -30,5 +30,5 @@ aliases:
 - [[Ich finde, dass]]
 
 ---
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 #Lernkarten

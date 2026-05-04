@@ -29,5 +29,5 @@ aliases:
 - [[Es ist unbestreitbar, dass]]
 
 ---
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 #Lernkarten

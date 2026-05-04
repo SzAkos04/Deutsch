@@ -30,5 +30,5 @@ aliases:
 - [[Meiner Meinung nach]]
 
 ---
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 #Lernkarten

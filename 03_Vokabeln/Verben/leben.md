@@ -1,5 +1,5 @@
 ---
-Titel: leben
+Wort: leben
 Wortart: Verb
 Verbtyp:
   - schwach
@@ -51,6 +51,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-03-24,2,230-->
+<!--SR:!2026-05-12,7,250-->
 
 #Lernkarten 

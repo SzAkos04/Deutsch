@@ -30,5 +30,5 @@ aliases:
 - [[Es steht außer Frage, dass]]
 
 ---
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 #Lernkarten

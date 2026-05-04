@@ -30,5 +30,5 @@ aliases:
 - [[Ich bin fest davon überzeugt, dass]]
 
 ---
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 #Lernkarten

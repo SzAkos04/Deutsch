@@ -30,5 +30,5 @@ aliases:
 - [[Ich bin der Ansicht, dass]]
 
 ---
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 #Lernkarten
