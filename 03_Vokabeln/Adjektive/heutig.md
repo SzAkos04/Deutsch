@@ -39,6 +39,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-04-12,7,270-->
+<!--SR:!2026-05-30,26,290-->
 
 #Lernkarten 
