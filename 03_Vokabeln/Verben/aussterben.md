@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: aussterben
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - stark
+  - trennbar
+Niveau: B2
+Bedeutung: kipusztulni
+Präteritum: starb aus
+Partizip_II: ausgestorben
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **sterbe aus**   |
+| du               | **stirbst aus** |
+| er / sie / es    | **stirbt aus**  |
+| wir              | **aussterben**  |
+| ihr              | **stirbt aus**  |
+| sie / Sie        | **aussterben**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[verschwinden]]
+- [[ausrotten]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

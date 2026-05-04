@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: wiederverwenden
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - trennbar
+Niveau: B1
+Bedeutung: újra felhasználni
+Präteritum: verwendete wieder
+Partizip_II: wiederverwendet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **verwende wieder**   |
+| du               | **verwendest wieder** |
+| er / sie / es    | **verwendet wieder**  |
+| wir              | **wiederverwenden**  |
+| ihr              | **verwendet wieder**  |
+| sie / Sie        | **wiederverwenden**  |
 
 > [!INFO]
 > 
@@ -35,7 +35,7 @@ aliases:
 ---
 ## Siehe auch
 - [[recyceln]]
-- [[entsorgen]]
+- [[sparen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

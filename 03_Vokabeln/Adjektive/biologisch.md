@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: biologisch
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Niveau: B1
+Bedeutung: biológiai, bio
+Komparativ: biologischer
+Superlativ: biologischsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[natürlich]]
+- [[ökologisch]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: sparen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Bedeutung: spórolni, megtakarítani
+Präteritum: sparte
+Partizip_II: gespart
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **spare**   |
+| du               | **sparst** |
+| er / sie / es    | **spart**  |
+| wir              | **sparen**  |
+| ihr              | **spart**  |
+| sie / Sie        | **sparen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[verbrauchen]]
+- [[reduzieren]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

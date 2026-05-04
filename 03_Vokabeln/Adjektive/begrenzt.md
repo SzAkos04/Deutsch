@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: begrenzt
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: korlátozott, véges
+Komparativ: begrenzter
+Superlativ: begrenztesten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[erschöpflich]]
+- [[knapp]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

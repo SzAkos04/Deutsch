@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: frisch
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Niveau: A2
+Bedeutung: friss, üde
+Komparativ: frischer
+Superlativ: frischsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[sauber]]
+- [[rein]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

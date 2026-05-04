@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: regnen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: A1
+Bedeutung: esni (eső)
+Präteritum: regnete
+Partizip_II: geregnet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **regnet**   |
+| du               | **regnet** |
+| er / sie / es    | **regnet**  |
+| wir              | **regnen**  |
+| ihr              | **regnet**  |
+| sie / Sie        | **regnen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[schneien]]
+- [[stürmen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

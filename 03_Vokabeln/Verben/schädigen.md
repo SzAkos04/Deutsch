@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: schädigen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B2
+Bedeutung: károsítani, ártani
+Präteritum: schädigte
+Partizip_II: geschädigt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **schädige**   |
+| du               | **schädigst** |
+| er / sie / es    | **schädigt**  |
+| wir              | **schädigen**  |
+| ihr              | **schädigt**  |
+| sie / Sie        | **schädigen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[belasten]]
+- [[zerstören]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

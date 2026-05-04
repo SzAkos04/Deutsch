@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: ernten
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Bedeutung: aratni, begyűjteni
+Präteritum: erntete
+Partizip_II: geerntet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **ernte**   |
+| du               | **erntest** |
+| er / sie / es    | **erntet**  |
+| wir              | **ernten**  |
+| ihr              | **erntet**  |
+| sie / Sie        | **ernten**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[pflanzen]]
+- [[anbau]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: umweltschädlich
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: környezetre káros
+Komparativ: umweltschädlicher
+Superlativ: umweltschädlichsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
 - [[gefährlich]]
+- [[schädlich]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

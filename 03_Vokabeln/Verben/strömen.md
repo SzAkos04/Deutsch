@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: strömen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B1
+Bedeutung: áramlani, özönleni
+Präteritum: strömte
+Partizip_II: geströmt
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **ströme**   |
+| du               | **strömst** |
+| er / sie / es    | **strömt**  |
+| wir              | **strömen**  |
+| ihr              | **strömt**  |
+| sie / Sie        | **strömen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[fließen]]
+- [[ansteigen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

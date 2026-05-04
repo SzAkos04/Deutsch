@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: kompostieren
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B1
+Bedeutung: komposztálni
+Präteritum: kompostierte
+Partizip_II: kompostiert
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **kompostiere**   |
+| du               | **kompostierst** |
+| er / sie / es    | **kompostiert**  |
+| wir              | **kompostieren**  |
+| ihr              | **kompostiert**  |
+| sie / Sie        | **kompostieren**  |
 
 > [!INFO]
 > 
@@ -35,7 +35,7 @@ aliases:
 ---
 ## Siehe auch
 - [[recyceln]]
-- [[entsorgen]]
+- [[trennen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

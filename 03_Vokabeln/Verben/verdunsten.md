@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: verdunsten
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B2
+Bedeutung: elpárologni
+Präteritum: verdunstete
+Partizip_II: verdunstet
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **verdunste**   |
+| du               | **verdunstete** |
+| er / sie / es    | **verdunstet**  |
+| wir              | **verdunsten**  |
+| ihr              | **verdunstet**  |
+| sie / Sie        | **verdunsten**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[fließen]]
+- [[abkühlen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

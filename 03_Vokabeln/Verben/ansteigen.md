@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: ansteigen
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - stark
+  - trennbar
+Niveau: B2
+Bedeutung: emelkedni, növekedni
+Präteritum: stieg an
+Partizip_II: angestiegen
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **steige an**   |
+| du               | **steigst an** |
+| er / sie / es    | **steigt an**  |
+| wir              | **ansteigen**  |
+| ihr              | **steigt an**  |
+| sie / Sie        | **ansteigen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[sinken]]
+- [[zunehmen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

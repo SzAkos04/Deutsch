@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: verbrauchen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B1
+Bedeutung: felhasználni, elfogyasztani
+Präteritum: verbrauchte
+Partizip_II: verbraucht
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **verbrauche**   |
+| du               | **verbrauchst** |
+| er / sie / es    | **verbraucht**  |
+| wir              | **verbrauchen**  |
+| ihr              | **verbraucht**  |
+| sie / Sie        | **verbrauchen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[sparen]]
+- [[reduzieren]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

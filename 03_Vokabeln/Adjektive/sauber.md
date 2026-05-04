@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: sauber
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Niveau: A2
+Bedeutung: tiszta, tiszaságos
+Komparativ: sauberer
+Superlativ: saubersten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[rein]]
+- [[frisch]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

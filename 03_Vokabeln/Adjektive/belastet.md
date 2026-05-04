@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: belastet
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: terhelt, szennyezett
+Komparativ: belasteter
+Superlativ: belastetest
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[verschmutzt]]
+- [[verunreinigt]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: aufräumen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
+  - trennbar
 Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Bedeutung: rendbe rakni, kitakarítani
+Präteritum: räumte auf
+Partizip_II: aufgeräumt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **räume auf**   |
+| du               | **räumst auf** |
+| er / sie / es    | **räumt auf**  |
+| wir              | **aufräumen**  |
+| ihr              | **räumt auf**  |
+| sie / Sie        | **aufräumen**  |
 
 > [!INFO]
 > 
@@ -34,7 +34,7 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
+- [[trennen]]
 - [[entsorgen]]
 
 ---

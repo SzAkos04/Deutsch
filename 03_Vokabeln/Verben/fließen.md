@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: fließen
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
 Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Bedeutung: folyni, áramolni
+Präteritum: floss
+Partizip_II: geflossen
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **fließe**   |
+| du               | **fließt** |
+| er / sie / es    | **fließt**  |
+| wir              | **fließen**  |
+| ihr              | **fließt**  |
+| sie / Sie        | **fließen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[strömen]]
+- [[sinken]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

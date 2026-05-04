@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: rein
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Niveau: B1
+Bedeutung: tiszta, szennytelen
+Komparativ: reiner
+Superlativ: reinsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[sauber]]
+- [[frisch]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: erhalten
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B1
+Bedeutung: megőrizni, fenntartani
+Präteritum: erhielt
+Partizip_II: erhalten
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **erhalte**   |
+| du               | **erhältst** |
+| er / sie / es    | **erhält**  |
+| wir              | **erhalten**  |
+| ihr              | **erhält**  |
+| sie / Sie        | **erhalten**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[bewahren]]
+- [[schützen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

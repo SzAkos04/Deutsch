@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: aufforsten
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - trennbar
+Niveau: B2
+Bedeutung: erdősíteni, fát ültetni
+Präteritum: forstete auf
+Partizip_II: aufgeforstet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **forste auf**   |
+| du               | **forstest auf** |
+| er / sie / es    | **forstet auf**  |
+| wir              | **aufforsten**  |
+| ihr              | **forstet auf**  |
+| sie / Sie        | **aufforsten**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[pflanzen]]
+- [[ernten]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

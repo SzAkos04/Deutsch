@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: abkühlen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - trennbar
+Niveau: B1
+Bedeutung: lehűlni, lehűteni
+Präteritum: kühlte ab
+Partizip_II: abgekühlt
 Hilfsverb:
-  - hat
+  - hat/ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **kühle ab**   |
+| du               | **kühlst ab** |
+| er / sie / es    | **kühlt ab**  |
+| wir              | **abkühlen**  |
+| ihr              | **kühlt ab**  |
+| sie / Sie        | **abkühlen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[erwärmen]]
+- [[sinken]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: abbauen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - trennbar
+Niveau: B2
+Bedeutung: lebontani, kitermelni (nyersanyagot)
+Präteritum: baute ab
+Partizip_II: abgebaut
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **baue ab**   |
+| du               | **baust ab** |
+| er / sie / es    | **baut ab**  |
+| wir              | **abbauen**  |
+| ihr              | **baut ab**  |
+| sie / Sie        | **abbauen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[verbrauchen]]
+- [[reduzieren]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

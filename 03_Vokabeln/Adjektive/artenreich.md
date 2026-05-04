@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: artenreich
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: fajgazdag, sokféle fajt tartalmazó
+Komparativ: artenreicher
+Superlativ: artenreichsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[natürlich]]
+- [[ökologisch]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: ausstoßen
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - stark
+  - trennbar
+Niveau: B2
+Bedeutung: kibocsátani, kiárasztani
+Präteritum: stieß aus
+Partizip_II: ausgestoßen
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **stoße aus**   |
+| du               | **stößt aus** |
+| er / sie / es    | **stößt aus**  |
+| wir              | **ausstoßen**  |
+| ihr              | **stößt aus**  |
+| sie / Sie        | **ausstoßen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[emittieren]]
+- [[verschmutzen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

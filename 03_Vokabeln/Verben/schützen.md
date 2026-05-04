@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[impfen]]
-- [[vermeiden]]
+- [[bewahren]]
+- [[erhalten]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

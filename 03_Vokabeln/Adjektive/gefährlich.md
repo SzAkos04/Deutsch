@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: gefährlich
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Niveau: A2
+Bedeutung: veszélyes
+Komparativ: gefährlicher
+Superlativ: gefährlichsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[giftig]]
+- [[schädlich]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

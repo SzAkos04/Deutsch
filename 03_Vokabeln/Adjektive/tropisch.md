@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: tropisch
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Niveau: B1
+Bedeutung: trópusi
+Komparativ: tropischer
+Superlativ: tropischsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[natürlich]]
+- [[feucht]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: emittieren
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B2
+Bedeutung: kibocsátani (szennyezőanyagot)
+Präteritum: emittierte
+Partizip_II: emittiert
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **emittiere**   |
+| du               | **emittierst** |
+| er / sie / es    | **emittiert**  |
+| wir              | **emittieren**  |
+| ihr              | **emittiert**  |
+| sie / Sie        | **emittieren**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[ausstoßen]]
+- [[belasten]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

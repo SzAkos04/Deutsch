@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: entsorgen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B1
+Bedeutung: ártalmatlanítani, elhelyezni (hulladékot)
+Präteritum: entsorgte
+Partizip_II: entsorgt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **entsorge**   |
+| du               | **entsorgst** |
+| er / sie / es    | **entsorgt**  |
+| wir              | **entsorgen**  |
+| ihr              | **entsorgt**  |
+| sie / Sie        | **entsorgen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
+- [[trennen]]
 - [[recyceln]]
-- [[entsorgen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

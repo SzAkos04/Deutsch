@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: recyceln
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Bedeutung: újrahasznosítani
+Präteritum: recycelte
+Partizip_II: recycelt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **recycle**   |
+| du               | **recycelst** |
+| er / sie / es    | **recycelt**  |
+| wir              | **recyceln**  |
+| ihr              | **recycelt**  |
+| sie / Sie        | **recyceln**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[wiederverwenden]]
+- [[trennen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

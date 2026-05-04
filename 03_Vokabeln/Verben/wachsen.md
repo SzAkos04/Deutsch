@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: wachsen
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
 Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Bedeutung: növekedni, nőni
+Präteritum: wuchs
+Partizip_II: gewachsen
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **wachse**   |
+| du               | **wächst** |
+| er / sie / es    | **wächst**  |
+| wir              | **wachsen**  |
+| ihr              | **wächst**  |
+| sie / Sie        | **wachsen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[pflanzen]]
+- [[gedeihen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

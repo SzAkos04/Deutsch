@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: bedrohen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B2
+Bedeutung: fenyegetni, veszélyeztetni
+Präteritum: bedrohte
+Partizip_II: bedroht
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **bedrohe**   |
+| du               | **bedrohst** |
+| er / sie / es    | **bedroht**  |
+| wir              | **bedrohen**  |
+| ihr              | **bedroht**  |
+| sie / Sie        | **bedrohen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[gefährden]]
+- [[schädigen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

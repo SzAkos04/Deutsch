@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: sinken
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B1
+Bedeutung: süllyedni, csökkeni
+Präteritum: sank
+Partizip_II: gesunken
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **sinke**   |
+| du               | **sinkst** |
+| er / sie / es    | **sinkt**  |
+| wir              | **sinken**  |
+| ihr              | **sinkt**  |
+| sie / Sie        | **sinken**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[ansteigen]]
+- [[fallen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: vernichten
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B2
+Bedeutung: megsemmisíteni, kiirtani
+Präteritum: vernichtete
+Partizip_II: vernichtet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **vernichte**   |
+| du               | **vernichtest** |
+| er / sie / es    | **vernichtet**  |
+| wir              | **vernichten**  |
+| ihr              | **vernichtet**  |
+| sie / Sie        | **vernichten**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[zerstören]]
+- [[ausrotten]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

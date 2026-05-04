@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: frieren
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
 Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Bedeutung: fagyni, fázni
+Präteritum: fror
+Partizip_II: gefroren
 Hilfsverb:
-  - hat
+  - hat/ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **friere**   |
+| du               | **frierst** |
+| er / sie / es    | **friert**  |
+| wir              | **frieren**  |
+| ihr              | **friert**  |
+| sie / Sie        | **frieren**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[schneien]]
+- [[abkühlen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

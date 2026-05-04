@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: bedrohlich
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: fenyegető, ijesztő
+Komparativ: bedrohlicher
+Superlativ: bedrohlichsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
 - [[gefährlich]]
+- [[kritisch]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

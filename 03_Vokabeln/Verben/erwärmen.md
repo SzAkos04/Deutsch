@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: erwärmen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B1
+Bedeutung: felmelegíteni, felmelegedni
+Präteritum: erwärmte
+Partizip_II: erwärmt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **erwärme**   |
+| du               | **erwärmst** |
+| er / sie / es    | **erwärmt**  |
+| wir              | **erwärmen**  |
+| ihr              | **erwärmt**  |
+| sie / Sie        | **erwärmen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[sich erhitzen]]
+- [[abkühlen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

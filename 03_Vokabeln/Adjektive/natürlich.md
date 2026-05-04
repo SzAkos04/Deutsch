@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: natürlich
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Niveau: A2
+Bedeutung: természetes, természeti
+Komparativ: natürlicher
+Superlativ: natürlichsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[ökologisch]]
+- [[biologisch]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

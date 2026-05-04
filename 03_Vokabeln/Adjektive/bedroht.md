@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: bedroht
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: fenyegetett, veszélyeztetett
+Komparativ: bedrohter
+Superlativ: bedrohtesten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[gefährdet]]
+- [[ausgestorben]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

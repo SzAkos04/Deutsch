@@ -1,43 +1,42 @@
 ---
-Titel: schneien
+Wort: schneien
 Wortart: Verb
 Verbtyp:
   - schwach
+  - untrennbar
 Niveau: A1
 Bedeutung: havazni
 Präteritum: schneite
 Partizip_II: geschneit
 Hilfsverb:
   - hat
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+Quelle:
 aliases:
-  - schneie
-  - schneist
-  - schneit
-  - schneite
-  - geschneit
 ---
+# `=this.Wort`
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ---------------- | ---------------------- | ----------------------------------------- |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-# schneien
-
-## Ungarisch Bedeutung: "havazni"
-
-| Infinitiv    | Präteritum   | Partizip II       |
-| ------------ | ------------ | ----------------- |
-| **schneien** | **schneite** | hat **geschneit** |
-
-| Personalpronomen | Verb         |
-| ---------------- | ------------ |
-| ich              | **schneie**  |
-| du               | **schneist** |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **schneit**   |
+| du               | **schneit** |
 | er / sie / es    | **schneit**  |
-| wir              | **schneien** |
+| wir              | **schneien**  |
 | ihr              | **schneit**  |
-| sie / Sie        | **schneien** |
+| sie / Sie        | **schneien**  |
+
+> [!INFO]
+> 
+> **Verbtyp:** `=this.Verbtyp`
 
 ---
+## Siehe auch
+- [[regnen]]
+- [[frieren]]
 
+---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-03-24,2,230-->
-
-#Lernkarten 
+#Lernkarten

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: pflanzen
 Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Bedeutung: ültetni, termeszteni
+Präteritum: pflanzte
+Partizip_II: gepflanzt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **pflanze**   |
+| du               | **pflanzt** |
+| er / sie / es    | **pflanzt**  |
+| wir              | **pflanzen**  |
+| ihr              | **pflanzt**  |
+| sie / Sie        | **pflanzen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[aufforsten]]
+- [[ernten]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

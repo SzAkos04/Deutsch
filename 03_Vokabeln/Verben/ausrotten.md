@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: ausrotten
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - trennbar
+Niveau: B2
+Bedeutung: kiirtani (fajt)
+Präteritum: rottete aus
+Partizip_II: ausgerottet
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **rotte aus**   |
+| du               | **rottest aus** |
+| er / sie / es    | **rottet aus**  |
+| wir              | **ausrotten**  |
+| ihr              | **rottet aus**  |
+| sie / Sie        | **ausrotten**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[vernichten]]
+- [[gefährden]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

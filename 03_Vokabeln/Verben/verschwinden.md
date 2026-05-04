@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: verschwinden
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B1
+Bedeutung: eltűnni
+Präteritum: verschwand
+Partizip_II: verschwunden
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **verschwinde**   |
+| du               | **verschwindest** |
+| er / sie / es    | **verschwindet**  |
+| wir              | **verschwinden**  |
+| ihr              | **verschwindet**  |
+| sie / Sie        | **verschwinden**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[ausrotten]]
+- [[gefährden]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: nachhaltig
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: fenntartható
+Komparativ: nachhaltiger
+Superlativ: nachhaltigsten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[ökologisch]]
+- [[umweltfreundlich]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: giftig
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Niveau: B1
+Bedeutung: mérgező, mérges
+Komparativ: giftiger
+Superlativ: giftigsten
 Quelle:
 aliases:
 ---
@@ -19,7 +19,7 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
+- [[schädlich]]
 - [[gefährlich]]
 
 ---

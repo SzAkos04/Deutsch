@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: ausgestorben
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: kihalt, kipusztult
+Komparativ: ausgestorbener
+Superlativ: ausgestorbensten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[bedroht]]
+- [[gefährdet]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`

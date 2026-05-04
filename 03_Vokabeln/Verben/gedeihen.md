@@ -1,15 +1,15 @@
 ---
-Wort: trennen
+Wort: gedeihen
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+Niveau: B2
+Bedeutung: virágozni, fejlődni (növény)
+Präteritum: gedieh
+Partizip_II: gediehen
 Hilfsverb:
-  - hat
+  - ist
 Quelle:
 aliases:
 ---
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **gedeihe**   |
+| du               | **gedeihst** |
+| er / sie / es    | **gedeiht**  |
+| wir              | **gedeihen**  |
+| ihr              | **gedeiht**  |
+| sie / Sie        | **gedeihen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[wachsen]]
+- [[pflanzen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,13 +1,13 @@
 ---
-Wort: trennen
+Wort: aufheizen
 Wortart: Verb
 Verbtyp:
   - schwach
-  - untrennbar
-Niveau: A2
-Bedeutung: szétválasztani (hulladékot)
-Präteritum: trennte
-Partizip_II: getrennt
+  - trennbar
+Niveau: B2
+Bedeutung: felforrósítani, felmelegíteni
+Präteritum: heizte auf
+Partizip_II: aufgeheizt
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **trenne**   |
-| du               | **trennst** |
-| er / sie / es    | **trennt**  |
-| wir              | **trennen**  |
-| ihr              | **trennt**  |
-| sie / Sie        | **trennen**  |
+| ich              | **heize auf**   |
+| du               | **heizt auf** |
+| er / sie / es    | **heizt auf**  |
+| wir              | **aufheizen**  |
+| ihr              | **heizt auf**  |
+| sie / Sie        | **aufheizen**  |
 
 > [!INFO]
 > 
@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[recyceln]]
-- [[entsorgen]]
+- [[erwärmen]]
+- [[emittieren]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

@@ -1,10 +1,10 @@
 ---
-Wort: kritisch
+Wort: verunreinigt
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: kritikus, válságos
-Komparativ: kritischer
-Superlativ: kritischsten
+Bedeutung: szennyezett, tisztátalan
+Komparativ: verunreinigter
+Superlativ: verunreinigtesten
 Quelle:
 aliases:
 ---
@@ -19,8 +19,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[bedrohlich]]
-- [[gefährlich]]
+- [[verschmutzt]]
+- [[belastet]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
