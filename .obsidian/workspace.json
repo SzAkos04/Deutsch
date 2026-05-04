@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d62366ea8897dd8",
+        "id": "b7bc09c740d6c521",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa41b16739942a3",
+            "id": "878bf488f7b0b97b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -222,10 +222,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7fa41b16739942a3",
+  "active": "878bf488f7b0b97b",
   "lastOpenFiles": [
-    "03_Vokabeln/Substantive/Zeugnis.md",
+    "_Vorlagen/Verb Vorlage.md",
+    "03_Vokabeln/Substantive/Bedrohung.md",
+    "03_Vokabeln/Substantive/Aussterben.md",
     "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Substantive/Zeugnis.md",
     "03_Vokabeln/Substantive/Wissenschaft.md",
     "03_Vokabeln/Substantive/Wildtier.md",
     "03_Vokabeln/Substantive/Wiese.md",
@@ -247,9 +250,6 @@
     "03_Vokabeln/Substantive/Schüler.md",
     "03_Vokabeln/Substantive/Schule.md",
     "03_Vokabeln/Substantive/Risiko.md",
-    "03_Vokabeln/Substantive/Referat.md",
-    "03_Vokabeln/Substantive/Prüfung.md",
-    "03_Vokabeln/Substantive/Pflanze.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
