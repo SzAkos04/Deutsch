@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e51a2b2a77e6fd00",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf4e4b3013381cd",
+            "id": "db1c18c9891a61b8",
             "type": "leaf",
             "state": {
-              "type": "spaced-repetition-tab-view",
+              "type": "empty",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -227,15 +228,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cf4e4b3013381cd",
+  "active": "db1c18c9891a61b8",
   "lastOpenFiles": [
+    "MOC.md",
     "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 1.md",
     "03_Vokabeln/Substantive/Zeugnis.md",
     "03_Vokabeln/Substantive/Klausur.md",
     "03_Vokabeln/Substantive/Abschluss.md",
     "03_Vokabeln/Substantive/Unterricht.md",
     "03_Vokabeln/Adjektive/bedrohlich.md",
-    "MOC.md",
     "02_Kommunikation/Redewendungen/Ich bin der Ansicht, dass.md",
     "02_Kommunikation/Redewendungen/Ich finde, dass.md",
     "02_Kommunikation/Redewendungen/Soweit ich weiß.md",
