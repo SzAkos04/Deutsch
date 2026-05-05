@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "Wörterbuch"
             }
+          },
+          {
+            "id": "3d670e28f7844ac4",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +233,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf0a68f6c747ae40",
+  "active": "3d670e28f7844ac4",
   "lastOpenFiles": [
+    "03_Vokabeln/Verben/fehlen.md",
+    "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Substantive/erneuerbare_Energie.md",
     "03_Vokabeln/Substantive/erneuerbare Energie.md",
     "03_Vokabeln/Verben/abgeben.md",
@@ -232,7 +245,6 @@
     "03_Vokabeln/Verben/verzichten auf.md",
     "03_Vokabeln/Verben/sport treiben.md",
     "MOC.md",
-    "03_Vokabeln/Wörterbuch.md",
     "_Vorlagen/Verb Vorlage.md",
     "03_Vokabeln/Substantive/Bedrohung.md",
     "03_Vokabeln/Substantive/Aussterben.md",
@@ -249,7 +261,6 @@
     "03_Vokabeln/Substantive/Treibhausgas.md",
     "03_Vokabeln/Substantive/Tafel.md",
     "03_Vokabeln/Substantive/Studentin.md",
-    "03_Vokabeln/Substantive/Student.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
