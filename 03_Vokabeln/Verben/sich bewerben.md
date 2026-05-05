@@ -1,13 +1,13 @@
 ---
-Wort: sich kümmern um
+Wort: sich bewerben
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - stark
   - untrennbar
-Niveau: B1
-Bedeutung: gondoskodni vkiről/vmiről
-Präteritum: kümmerte sich um
-Partizip_II: gekümmert
+Niveau: B2
+Bedeutung: jelentkezni (állásra/iskolába)
+Präteritum: bewarb sich
+Partizip_II: beworben
 Hilfsverb:
   - hat
 Quelle:
@@ -21,12 +21,12 @@ aliases:
 
 | Personalpronomen | Verb            |
 | ---------------- | --------------- |
-| ich              | **kümmere mich um**   |
-| du               | **kümmerst dich um** |
-| er / sie / es    | **kümmert sich um**  |
-| wir              | **sich kümmern um**  |
-| ihr              | **kümmert sich um**  |
-| sie / Sie        | **sich kümmern um**  |
+| ich              | **bewerbe mich**   |
+| du               | **bewirbst dich** |
+| er / sie / es    | **bewirbt sich**  |
+| wir              | **sich bewerben**  |
+| ihr              | **bewirbt sich**  |
+| sie / Sie        | **sich bewerben**  |
 
 > [!INFO]
 > 
@@ -34,9 +34,10 @@ aliases:
 
 ---
 ## Siehe auch
-- [[behandeln]]
-- [[pflegen]]
+- [[anmelden]]
+- [[einschreiben]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-05-05,1,230-->
 #Lernkarten

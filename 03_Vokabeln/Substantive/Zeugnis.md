@@ -4,7 +4,7 @@ Wortart: Substantiv
 Niveau: B1
 Genus: das
 Plural: -se
-Bedeutung: bizonyítvány, értesítő
+Bedeutung: bizonyítvány
 Quelle:
 aliases:
 ---
@@ -24,4 +24,5 @@ aliases:
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
+<!--SR:!2026-05-05,1,230-->
 #Lernkarten

@@ -30,5 +30,6 @@ Titel: MOC
 ## 4. Lieder
 
 - [[AnnenMayKantereit - Vielleicht Vielleicht]]
+- [[Kanonenfieber - Verscharrt und Ungerühmt]]
 - [[Mayberg - Spiegelbild]]
 - [[Rammstein - Deutschland]]

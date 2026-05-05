@@ -31,6 +31,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
-<!--SR:!2026-04-07,2,230-->
+<!--SR:!2026-05-10,5,230-->
 
 #Lernkarten 

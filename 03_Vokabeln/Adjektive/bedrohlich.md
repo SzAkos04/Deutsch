@@ -2,7 +2,7 @@
 Wort: bedrohlich
 Wortart: Adjektiv
 Niveau: B2
-Bedeutung: fenyegető, ijesztő
+Bedeutung: fenyegető
 Komparativ: bedrohlicher
 Superlativ: bedrohlichsten
 Quelle:
@@ -24,5 +24,5 @@ aliases:
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-05,1,230-->
+<!--SR:!2026-05-05,1,210-->
 #Lernkarten

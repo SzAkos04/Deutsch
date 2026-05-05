@@ -4,7 +4,7 @@ Wortart: Substantiv
 Niveau: A1
 Genus: der
 Plural: -e
-Bedeutung: óra, oktatás
+Bedeutung: tanítás, oktatás
 Quelle:
 aliases:
 ---
@@ -25,4 +25,5 @@ aliases:
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
+<!--SR:!2026-05-06,1,230-->
 #Lernkarten
