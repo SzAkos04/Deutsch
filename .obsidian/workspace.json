@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e51a2b2a77e6fd00",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "db1c18c9891a61b8",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03_Vokabeln/Verben/nachhaltig wirtschaften.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "nachhaltig wirtschaften"
             }
           }
         ]
@@ -75,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -179,16 +183,6 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "ccc10cb385498edf",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
@@ -228,34 +222,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db1c18c9891a61b8",
+  "active": "0b994ebb02fca3fc",
   "lastOpenFiles": [
+    "03_Vokabeln/Verben/zunehmen an.md",
+    "03_Vokabeln/Verben/verzichten auf.md",
+    "03_Vokabeln/Verben/sport treiben.md",
     "MOC.md",
-    "05_Prüfungsvorbereitung/01_Leseverstehen/Német alapfokú B1 - Teil 1.md",
-    "03_Vokabeln/Substantive/Zeugnis.md",
-    "03_Vokabeln/Substantive/Klausur.md",
-    "03_Vokabeln/Substantive/Abschluss.md",
-    "03_Vokabeln/Substantive/Unterricht.md",
-    "03_Vokabeln/Adjektive/bedrohlich.md",
-    "02_Kommunikation/Redewendungen/Ich bin der Ansicht, dass.md",
-    "02_Kommunikation/Redewendungen/Ich finde, dass.md",
-    "02_Kommunikation/Redewendungen/Soweit ich weiß.md",
-    "02_Kommunikation/Redewendungen/Ich halte es für.md",
-    "02_Kommunikation/Redewendungen/Meiner Meinung nach.md",
     "03_Vokabeln/Wörterbuch.md",
-    "03_Vokabeln/Verben/anbieten.md",
-    "03_Vokabeln/Verben/anmelden.md",
-    "03_Vokabeln/Verben/sich verletzen.md",
-    "03_Vokabeln/Verben/sich spezialisieren.md",
-    "03_Vokabeln/Verben/sich kümmern um.md",
-    "03_Vokabeln/Verben/sich kümmern um.md",
-    "03_Vokabeln/Verben/sich konzentrieren.md",
-    "03_Vokabeln/Verben/sich ernähren.md",
-    "03_Vokabeln/Verben/sich ernähren.md",
-    "03_Vokabeln/Verben/sich erinnern.md",
-    "03_Vokabeln/Verben/sich erholen von.md",
-    "03_Vokabeln/Verben/sich erholen.md",
-    "03_Vokabeln/Verben/sich entscheiden.md",
+    "_Vorlagen/Verb Vorlage.md",
+    "03_Vokabeln/Substantive/Bedrohung.md",
+    "03_Vokabeln/Substantive/Aussterben.md",
+    "03_Vokabeln/Substantive/Zeugnis.md",
+    "03_Vokabeln/Substantive/Wissenschaft.md",
+    "03_Vokabeln/Substantive/Wildtier.md",
+    "03_Vokabeln/Substantive/Wiese.md",
+    "03_Vokabeln/Substantive/Vorlesung.md",
+    "03_Vokabeln/Substantive/Wald.md",
+    "03_Vokabeln/Substantive/Vortrag.md",
+    "03_Vokabeln/Substantive/Unterricht.md",
+    "03_Vokabeln/Substantive/Universität.md",
+    "03_Vokabeln/Substantive/Überschwemmung.md",
+    "03_Vokabeln/Substantive/Treibhausgas.md",
+    "03_Vokabeln/Substantive/Tafel.md",
+    "03_Vokabeln/Substantive/Studentin.md",
+    "03_Vokabeln/Substantive/Student.md",
+    "03_Vokabeln/Substantive/Stipendium.md",
+    "03_Vokabeln/Substantive/Stift.md",
+    "03_Vokabeln/Substantive/Seminar.md",
+    "03_Vokabeln/Substantive/Semester.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
