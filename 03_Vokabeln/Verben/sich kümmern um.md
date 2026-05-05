@@ -5,7 +5,7 @@ Verbtyp:
   - schwach
   - untrennbar
 Niveau: B1
-Bedeutung: gondoskodik vkiről/vmiről
+Bedeutung: gondoskodni vkiről/vmiről
 Präteritum: kümmerte sich um
 Partizip_II: gekümmert
 Hilfsverb:

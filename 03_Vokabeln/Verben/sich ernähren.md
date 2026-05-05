@@ -5,7 +5,7 @@ Verbtyp:
   - schwach
   - untrennbar
 Niveau: B1
-Bedeutung: táplálkozik
+Bedeutung: táplálkozni
 Präteritum: ernährte sich
 Partizip_II: ernährt
 Hilfsverb:
