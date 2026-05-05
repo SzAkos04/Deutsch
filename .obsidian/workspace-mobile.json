@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Grammatik/das Numerale.md",
+                "file": "03_Vokabeln/Wörterbuch.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "das Numerale"
+              "title": "Wörterbuch"
             }
           }
         ]
@@ -171,9 +172,6 @@
     "hiddenItems": {
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
       "homepage:Open homepage": false,
@@ -184,9 +182,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03_Vokabeln/Substantive/Tier.md",
+    "03_Vokabeln/Wörterbuch.md",
     "MOC.md",
-    "01_Grammatik/das Pronomen.md",
     "01_Grammatik/das Numerale.md",
+    "01_Grammatik/das Pronomen.md",
     "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "04_Lieder/Mayberg - Spiegelbild.md",
     "02_Kommunikation/E-Mail schreiben.md",
@@ -208,8 +208,6 @@
     "03_Vokabeln/Verben/warten.md",
     "03_Vokabeln/Verben/beginnen.md",
     "03_Vokabeln/Verben/umziehen.md",
-    "03_Vokabeln/Verben/sollen.md",
-    "03_Vokabeln/Verben/möchten.md",
     "/03_Vokabeln/Adjektive",
     "/03_Vokabeln",
     "/01_Grammatik",
