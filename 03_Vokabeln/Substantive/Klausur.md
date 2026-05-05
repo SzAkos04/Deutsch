@@ -4,7 +4,7 @@ Wortart: Substantiv
 Niveau: B1
 Genus: die
 Plural: -en
-Bedeutung: írásbeli vizsga, dolgozat
+Bedeutung: zárthelyi (dolgozat)
 Quelle:
 aliases:
 ---
@@ -25,4 +25,5 @@ aliases:
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
+<!--SR:!2026-05-05,1,230-->
 #Lernkarten
