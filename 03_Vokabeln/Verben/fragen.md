@@ -53,5 +53,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-05-10,4,270-->
 
 #Lernkarten 
