@@ -4,7 +4,7 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
-Niveau: A1
+Niveau: A2
 Bedeutung: megérteni, érteni
 Präteritum: verstand
 Partizip_II: verstanden
@@ -34,10 +34,9 @@ aliases:
 
 ---
 ## Siehe auch
-- [[erklären]]
 - [[begreifen]]
+- [[erkennen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-06,1,230-->
 #Lernkarten

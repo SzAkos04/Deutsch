@@ -3,7 +3,8 @@ Wort: öffnen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: A2
+  - untrennbar
+Niveau: A1
 Bedeutung: kinyitni, megnyitni
 Präteritum: öffnete
 Partizip_II: geöffnet
@@ -11,23 +12,15 @@ Hilfsverb:
   - hat
 Quelle:
 aliases:
-  - öffne
-  - öffnest
-  - öffnet
-  - öffnete
-  - geöffnet
 ---
-
 # `=this.Wort`
-
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
-
 | Infinitiv        | Präteritum             | Partizip II                               |
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb        |
-| ---------------- | ----------- |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
 | ich              | **öffne**   |
 | du               | **öffnest** |
 | er / sie / es    | **öffnet**  |
@@ -38,17 +31,12 @@ aliases:
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **_öffnen_ + D, A**: kinyitni vkinek vmit
 
 ---
-
 ## Siehe auch
-
-- 
+- [[aufmachen]]
+- [[schließen]]
 
 ---
-
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-05,1,230-->
-
-#Lernkarten 
+#Lernkarten

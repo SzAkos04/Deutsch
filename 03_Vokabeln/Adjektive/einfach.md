@@ -1,39 +1,27 @@
 ---
 Wort: einfach
-Wortart:
-  - Adjektiv
-  - Adverb
-Niveau: A1
-Bedeutung: egyszerű(en)
+Wortart: Adjektiv
+Niveau: A2
+Bedeutung: egyszerű, egyszerűen
 Komparativ: einfacher
 Superlativ: einfachsten
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+Quelle:
 aliases:
-  - einfacher
-  - einfache
-  - einfaches
-  - einfachen
-  - einfachsten
-  - einfachem
 ---
-
 # `=this.Wort`
-
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
-| Positiv          | Komparativ             | Superlativ                 |
-| ---------------- | ---------------------- | -------------------------- |
-| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlative`** |
+> [!INFO]
+> 
 
 ---
-
 ## Siehe auch
-
-- 
+- [[schwer]]
+- [[kompliziert]]
 
 ---
-
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-06-03,30,290-->
-
-#Lernkarten 
+#Lernkarten

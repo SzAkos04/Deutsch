@@ -3,57 +3,40 @@ Wort: geben
 Wortart: Verb
 Verbtyp:
   - stark
+  - untrennbar
 Niveau: A1
 Bedeutung: adni
 Präteritum: gab
 Partizip_II: gegeben
 Hilfsverb:
   - hat
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+Quelle:
 aliases:
-  - gebe
-  - gibst
-  - gibt
-  - gebt
-  - gab
-  - gegeben
 ---
+# `=this.Wort`
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ---------------- | ---------------------- | ----------------------------------------- |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-# geben
-
-## Ungarisch Bedeutung: "adni"
-
-| Infinitiv | Präteritum | Partizip II     |
-| --------- | ---------- | --------------- |
-| **geben** | **gab**    | hat **gegeben** |
-
-| Personalpronomen | Verb      |
-| ---------------- | --------- |
-| ich              | **gebe**  |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **gebe**   |
 | du               | **gibst** |
 | er / sie / es    | **gibt**  |
-| wir              | **geben** |
-| ihr              | **gebt**  |
-| sie / Sie        | **geben** |
+| wir              | **geben**  |
+| ihr              | **gibt**  |
+| sie / Sie        | **geben**  |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **_Es gibt_ + Akkusativ:** van, létezik
 
 ---
-
 ## Siehe auch
-
-- [[abgeben]]
-- [[ausgeben]]
-- [[aufgeben]]
-- [[bekanntgeben]]
-- [[nachgeben]]
+- [[schenken]]
+- [[reichen]]
 
 ---
-
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-09,4,270-->
-
-#Lernkarten 
+#Lernkarten

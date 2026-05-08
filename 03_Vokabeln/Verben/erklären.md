@@ -5,7 +5,7 @@ Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megmagyarázni, megmagyarázni
+Bedeutung: megmagyarázni, elmagyarázni
 Präteritum: erklärte
 Partizip_II: erklärt
 Hilfsverb:
@@ -34,10 +34,9 @@ aliases:
 
 ---
 ## Siehe auch
-- [[lehren]]
-- [[verstehen]]
+- [[beschreiben]]
+- [[zeigen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-06,1,230-->
 #Lernkarten

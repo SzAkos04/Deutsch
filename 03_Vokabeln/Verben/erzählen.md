@@ -5,54 +5,38 @@ Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: mesélni, elmondani
+Bedeutung: mesélni, elmesélni
 Präteritum: erzählte
 Partizip_II: erzählt
 Hilfsverb:
   - hat
 Quelle:
-  - "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
-  - "[[Mayberg - Spiegelbild]]"
-  - "[[das Pronomen]]"
 aliases:
-  - erzähle
-  - erzählst
-  - erzählt
-  - erzählte
 ---
+# `=this.Wort`
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ---------------- | ---------------------- | ----------------------------------------- |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-# erzählen
-
-## Ungarisch Bedeutung: "mesélni, elmondani"
-
-| Infinitiv    | Präteritum   | Partizip II     |
-| ------------ | ------------ | --------------- |
-| **erzählen** | **erzählte** | hat **erzählt** |
-
-| Personalpronomen | Verb         |
-| ---------------- | ------------ |
-| ich              | **erzähle**  |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **erzähle**   |
 | du               | **erzählst** |
 | er / sie / es    | **erzählt**  |
-| wir              | **erzählen** |
+| wir              | **erzählen**  |
 | ihr              | **erzählt**  |
-| sie / Sie        | **erzählen** |
+| sie / Sie        | **erzählen**  |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **Nem elváló igekötő:** Partizip II $\to$ $\varnothing$ _ge-_
 
 ---
-
 ## Siehe auch
-
+- [[berichten]]
 - [[sagen]]
-- [[verraten]]
 
 ---
-
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-07,2,210-->
-
-#Lernkarten 
+#Lernkarten

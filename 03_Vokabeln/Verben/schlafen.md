@@ -3,6 +3,7 @@ Wort: schlafen
 Wortart: Verb
 Verbtyp:
   - stark
+  - untrennbar
 Niveau: A1
 Bedeutung: aludni
 Präteritum: schlief
@@ -10,48 +11,32 @@ Partizip_II: geschlafen
 Hilfsverb:
   - hat
 Quelle:
-  - "[[der Artikel]]"
 aliases:
-  - schlafe
-  - schläfst
-  - schläft
-  - schlaft
-  - schlief
-  - geschlafen
 ---
-
 # `=this.Wort`
-
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ---------------- | ---------------------- | ----------------------------------------- |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Infinitiv        | Präteritum         | Partizip II                           |
-| ---------------- | ------------------ | ------------------------------------- |
-| **`=this.Wort`** | `=this.Präteritum` | `=this.Hilfsverb` `=this.Partizip_II` |
-
-| Personalpronomen | Verb         |
-| ---------------- | ------------ |
-| ich              | **schlafe**  |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **schlafe**   |
 | du               | **schläfst** |
 | er / sie / es    | **schläft**  |
-| wir              | **schlafen** |
-| ihr              | **schlaft**  |
-| sie / Sie        | **schlafen** |
+| wir              | **schlafen**  |
+| ihr              | **schläft**  |
+| sie / Sie        | **schlafen**  |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **Ablaut:** a $\to$ ä
 
 ---
-
 ## Siehe auch
-
+- [[ruhen]]
 - [[einschlafen]]
-- [[verschlafen]]
-- [[ausschlafen]]
 
 ---
-
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-
-#Lernkarten 
+#Lernkarten

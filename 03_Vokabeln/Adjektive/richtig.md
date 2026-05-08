@@ -1,40 +1,27 @@
 ---
 Wort: richtig
-Wortart:
-  - Adjektiv
-  - Adverb
-Niveau: A1
-Bedeutung: helyes, igaz, valódi, rendesen
+Wortart: Adjektiv
+Niveau: A2
+Bedeutung: helyes, igaz
 Komparativ: richtiger
 Superlativ: richtigsten
-Quelle: "[[Mayberg - Spiegelbild]]"
+Quelle:
 aliases:
-  - richtiger
-  - richtige
-  - richtiges
-  - richtigen
-  - richtigsten
-  - richtigem
 ---
-
 # `=this.Wort`
-
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
-
 | Positiv          | Komparativ             | Superlativ                |
 | ---------------- | ---------------------- | ------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
----
+> [!INFO]
+> 
 
+---
 ## Siehe auch
-
 - [[falsch]]
-- [[echt]]
+- [[korrekt]]
 
 ---
-
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-08,3,210-->
-
-#Lernkarten 
+#Lernkarten

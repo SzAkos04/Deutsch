@@ -2,7 +2,7 @@
 Wort: sauber
 Wortart: Adjektiv
 Niveau: A2
-Bedeutung: tiszta, tiszaságos
+Bedeutung: tiszta
 Komparativ: sauberer
 Superlativ: saubersten
 Quelle:
@@ -19,10 +19,9 @@ aliases:
 
 ---
 ## Siehe auch
+- [[schmutzig]]
 - [[rein]]
-- [[frisch]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-05,1,190-->
 #Lernkarten

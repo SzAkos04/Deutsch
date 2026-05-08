@@ -3,45 +3,40 @@ Wort: zeigen
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: A1
+  - untrennbar
+Niveau: A2
 Bedeutung: mutatni, megmutatni
 Präteritum: zeigte
 Partizip_II: gezeigt
 Hilfsverb:
   - hat
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
+Quelle:
 aliases:
-  - zeige
-  - zeigst
-  - zeigt
-  - zeigte
-  - gezeigt
 ---
+# `=this.Wort`
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ---------------- | ---------------------- | ----------------------------------------- |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-# zeigen
-
-## Ungarisch Bedeutung: "mutatni"
-
-| Infinitiv  | Präteritum | Partizip II     |
-| ---------- | ---------- | --------------- |
-| **zeigen** | **zeigte** | hat **gezeigt** |
-
-| Personalpronomen | Verb       |
-| ---------------- | ---------- |
-| ich              | **zeige**  |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **zeige**   |
 | du               | **zeigst** |
 | er / sie / es    | **zeigt**  |
-| wir              | **zeigen** |
+| wir              | **zeigen**  |
 | ihr              | **zeigt**  |
-| sie / Sie        | **zeigen** |
+| sie / Sie        | **zeigen**  |
 
 > [!INFO]
 > 
-> **Verbtyp:** `=this.Verbtyp
-> **_zeigen_ + D, A**: megmutatni vkinek vmit
+> **Verbtyp:** `=this.Verbtyp`
 
 ---
+## Siehe auch
+- [[erklären]]
+- [[vorstellen]]
 
+---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-
-#Lernkarten 
+#Lernkarten

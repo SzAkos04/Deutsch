@@ -3,57 +3,40 @@ Wort: fahren
 Wortart: Verb
 Verbtyp:
   - stark
+  - untrennbar
 Niveau: A1
-Bedeutung: utazni, vezetni
+Bedeutung: utazni, menni (járművel)
 Präteritum: fuhr
 Partizip_II: gefahren
 Hilfsverb:
   - ist
-  - hat
 Quelle:
-  - "[[das Numerale]]"
 aliases:
-  - fahre
-  - fährst
-  - fährt
-  - fahrt
-  - fuhr
-  - gefahren
 ---
-
 # `=this.Wort`
-
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
-
 | Infinitiv        | Präteritum             | Partizip II                               |
 | ---------------- | ---------------------- | ----------------------------------------- |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb       |
-| ---------------- | ---------- |
-| ich              | **fahre**  |
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **fahre**   |
 | du               | **fährst** |
 | er / sie / es    | **fährt**  |
-| wir              | **fahren** |
-| ihr              | **fahrt**  |
-| sie / Sie        | **fahren** |
+| wir              | **fahren**  |
+| ihr              | **fährt**  |
+| sie / Sie        | **fahren**  |
 
 > [!INFO]
 > 
 > **Verbtyp:** `=this.Verbtyp`
-> **Ablaut:** f**a**hren $\to$ f**ä**hrst
 
 ---
-
 ## Siehe auch
-
-- [[abfahren]]
-- [[mitfahren]]
-- [[ankommen]]
-- [[Fahrrad]]
+- [[reisen]]
+- [[gehen]]
 
 ---
-
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-
-#Lernkarten 
+#Lernkarten
