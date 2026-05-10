@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
+                "file": "MOC.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "MOC"
             }
           }
         ]
@@ -224,6 +224,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/waschen.md",
     "03_Vokabeln/Verben/verlieren.md",
     "03_Vokabeln/Verben/verdienen.md",
@@ -249,7 +250,6 @@
     "03_Vokabeln/Verben/empfehlen.md",
     "03_Vokabeln/Verben/einsteigen.md",
     "03_Vokabeln/Verben/einkaufen.md",
-    "03_Vokabeln/Verben/brennen.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
