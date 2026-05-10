@@ -15,14 +15,12 @@ aliases:
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
-> 
 
 ---
 ## Siehe auch
-- [[Lehrer]]
-- [[Prüfung]]
+- [[nachsichtig]]
+- [[erziehen]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-06,1,230-->
 #Lernkarten

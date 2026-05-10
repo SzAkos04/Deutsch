@@ -1,0 +1,26 @@
+---
+Wort: misstrauisch
+Wortart: Adjektiv
+Niveau: B2
+Bedeutung: bizalmatlan, gyanakvó
+Komparativ: misstrauischer
+Superlativ: misstrauischsten
+Quelle:
+aliases:
+---
+# `=this.Wort`
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+| Positiv          | Komparativ             | Superlativ                |
+| ---------------- | ---------------------- | ------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
+
+> [!INFO]
+
+---
+## Siehe auch
+- [[eifersüchtig]]
+- [[vertrauen]]
+
+---
+`=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
+#Lernkarten

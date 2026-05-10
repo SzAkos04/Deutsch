@@ -7,6 +7,7 @@ Plural: -̈er
 Bedeutung: erdő
 Quelle:
 aliases:
+  - Wälder
 ---
 # `=this.Genus` `=this.Wort`, `=this.Plural`
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"

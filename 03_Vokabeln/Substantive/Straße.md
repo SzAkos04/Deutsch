@@ -3,10 +3,11 @@ Wort: Straße
 Wortart: Substantiv
 Niveau: A1
 Genus: die
-Plural: Straßen
+Plural: -n
 Bedeutung: utca, út
 Quelle:
 aliases:
+  - Straßen
 ---
 # `=this.Genus` `=this.Wort`, `=this.Plural`
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
@@ -26,4 +27,5 @@ aliases:
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
+<!--SR:!2026-05-14,4,270-->
 #Lernkarten

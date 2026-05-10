@@ -34,8 +34,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[fördern]]
 - [[helfen]]
+- [[fördern]]
 
 ---
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`

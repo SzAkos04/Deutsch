@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "Wörterbuch"
             }
+          },
+          {
+            "id": "5700b45fddc3df93",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,34 +233,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf8436d59bcca1c2",
+  "active": "5700b45fddc3df93",
   "lastOpenFiles": [
-    "03_Vokabeln/Substantive/Zug.md",
-    "03_Vokabeln/Wörterbuch.md",
-    "03_Vokabeln/Substantive/Unterschied.md",
-    "03_Vokabeln/Substantive/Wagen.md",
-    "03_Vokabeln/Substantive/Vorstellung.md",
-    "03_Vokabeln/Substantive/Urlaub.md",
-    "03_Vokabeln/Substantive/Unfall.md",
-    "03_Vokabeln/Substantive/Tablette.md",
-    "03_Vokabeln/Substantive/Straßenbahn.md",
-    "03_Vokabeln/Substantive/Sprachprüfung.md",
-    "03_Vokabeln/Substantive/Sprache.md",
-    "03_Vokabeln/Substantive/Risiko.md",
-    "03_Vokabeln/Substantive/Reise.md",
-    "03_Vokabeln/Substantive/Rechnung.md",
-    "03_Vokabeln/Substantive/Polizist.md",
-    "03_Vokabeln/Substantive/Nachricht.md",
-    "03_Vokabeln/Substantive/Meinung.md",
-    "03_Vokabeln/Substantive/Lösung.md",
-    "03_Vokabeln/Substantive/Krankenhaus.md",
-    "03_Vokabeln/Substantive/Kellner.md",
-    "03_Vokabeln/Substantive/Haus.md",
-    "03_Vokabeln/Substantive/Geschichte.md",
-    "03_Vokabeln/Substantive/Geschenk.md",
-    "03_Vokabeln/Substantive/Gast.md",
-    "03_Vokabeln/Substantive/Führerschein.md",
-    "03_Vokabeln/Substantive/Fahrkarte.md",
+    "03_Vokabeln/Verben/adoptieren.md",
+    "03_Vokabeln/Verben/zusammenleben.md",
+    "03_Vokabeln/Verben/vorstellen.md",
+    "03_Vokabeln/Verben/verwöhnen.md",
+    "03_Vokabeln/Verben/vertrauen.md",
+    "03_Vokabeln/Verben/vermissen.md",
+    "03_Vokabeln/Verben/vergeben.md",
+    "03_Vokabeln/Verben/vererben.md",
+    "03_Vokabeln/Verben/vereinbaren.md",
+    "03_Vokabeln/Verben/umarmen.md",
+    "03_Vokabeln/Verben/trösten.md",
+    "03_Vokabeln/Verben/trauern.md",
+    "03_Vokabeln/Verben/streiten.md",
+    "03_Vokabeln/Verben/sich_versöhnen.md",
+    "03_Vokabeln/Verben/sich_verloben.md",
+    "03_Vokabeln/Verben/sich_verlieben.md",
+    "03_Vokabeln/Verben/sich_verlassen_auf.md",
+    "03_Vokabeln/Verben/sich_verhalten.md",
+    "03_Vokabeln/Verben/sich_verabschieden.md",
+    "03_Vokabeln/Verben/sich_trennen.md",
+    "03_Vokabeln/Verben/sich_streiten.md",
+    "03_Vokabeln/Verben/sich_sorgen_um.md",
+    "03_Vokabeln/Verben/sich_scheiden_lassen.md",
+    "03_Vokabeln/Verben/sich_küssen.md",
+    "03_Vokabeln/Verben/sich_kümmern_um.md",
+    "03_Vokabeln/Verben/sich_einigen.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
