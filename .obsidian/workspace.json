@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:_",
+                "query": "abh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,8 +221,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49a5f8c85340df93",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03_Vokabeln/Adjektive/abhängig.md",
+    "MOC.md",
     "03_Vokabeln/Verben/waschen.md",
     "03_Vokabeln/Verben/vorstellen.md",
     "03_Vokabeln/Verben/verwöhnen.md",
@@ -248,8 +249,6 @@
     "03_Vokabeln/Verben/essen.md",
     "03_Vokabeln/Verben/erziehen.md",
     "03_Vokabeln/Verben/bitten.md",
-    "03_Vokabeln/Verben/bezahlen.md",
-    "03_Vokabeln/Verben/besuchen.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
