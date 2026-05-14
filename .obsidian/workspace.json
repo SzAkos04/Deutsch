@@ -75,7 +75,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -223,8 +224,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03_Vokabeln/Adjektive/abhängig.md",
+    "03_Vokabeln/Wörterbuch.md",
     "MOC.md",
+    "03_Vokabeln/Adjektive/abhängig.md",
     "03_Vokabeln/Verben/waschen.md",
     "03_Vokabeln/Verben/vorstellen.md",
     "03_Vokabeln/Verben/verwöhnen.md",
@@ -248,7 +250,6 @@
     "03_Vokabeln/Verben/feiern.md",
     "03_Vokabeln/Verben/essen.md",
     "03_Vokabeln/Verben/erziehen.md",
-    "03_Vokabeln/Verben/bitten.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
