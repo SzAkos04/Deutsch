@@ -31,5 +31,5 @@ aliases:
 
 ---
 `=this.Bedeutung` :: `=this.Ausdruck`
-<!--SR:!2026-05-08,3,250-->
+<!--SR:!2026-05-22,8,250-->
 #Lernkarten
