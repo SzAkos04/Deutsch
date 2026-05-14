@@ -1,0 +1,42 @@
+---
+Wort: entlassen
+Wortart: Verb
+Verbtyp:
+  - stark
+  - trennbar
+Niveau: B2
+Bedeutung: elbocsátani, kirúgni
+Präteritum: entließ
+Partizip_II: entlassen
+Hilfsverb:
+  - hat
+Quelle:
+aliases:
+---
+# `=this.Wort`
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ---------------- | ---------------------- | ----------------------------------------- |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
+
+| Personalpronomen | Verb            |
+| ---------------- | --------------- |
+| ich              | **entlasse**   |
+| du               | **entlässt** |
+| er / sie / es    | **entlässt**  |
+| wir              | **entlassen**  |
+| ihr              | **entlässt**  |
+| sie / Sie        | **entlassen**  |
+
+> [!INFO]
+> 
+> **Verbtyp:** `=this.Verbtyp`
+
+---
+## Siehe auch
+- [[einstellen]]
+- [[kündigen]]
+
+---
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+#Lernkarten
