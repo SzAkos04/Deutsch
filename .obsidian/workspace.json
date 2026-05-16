@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
-          },
-          {
-            "id": "b2b7295b3a658353",
-            "type": "leaf",
-            "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,27 +158,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Kommunikation/Redewendungen/Ich bin fest davon überzeugt, dass.md",
+                "file": "MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ich bin fest davon überzeugt, dass"
+              "title": "Outline of MOC"
             }
           },
           {
-            "id": "92de6f08f937d6b9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "eff0ffeed8643d1a",
+            "id": "359bf6591d1c8626",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -233,7 +212,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2b7295b3a658353",
+  "active": "359bf6591d1c8626",
   "lastOpenFiles": [
     "03_Vokabeln/Verben/abschreiben.md",
     "MOC.md",
