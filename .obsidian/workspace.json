@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "b2b7295b3a658353",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +233,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b2b7295b3a658353",
   "lastOpenFiles": [
+    "03_Vokabeln/Verben/abschreiben.md",
+    "MOC.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/tree.txt",
     "03_Vokabeln/Substantive/Lohn.md",
@@ -249,7 +262,6 @@
     "03_Vokabeln/Substantive/Schiff.md",
     "03_Vokabeln/Substantive/Scheidung.md",
     "03_Vokabeln/Substantive/Rucksack.md",
-    "03_Vokabeln/Substantive/Reiseroute.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
