@@ -4,6 +4,7 @@
       "#flashcards",
       "#Lernkarten"
     ],
+    "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": true,
     "burySiblingCards": false,
     "flashcardCardOrder": "NewFirstRandom",
@@ -26,6 +27,7 @@
     "tagsToReview": [
       "#review"
     ],
+    "noteTagsToIgnore": [],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
     ],
@@ -39,11 +41,11 @@
     "showCardStatusBarItem": true,
     "showNoteStatusBarItem": true,
     "showUpdateAvailableStatusBarItem": true,
-    "initiallyExpandAllSubdecksInTree": false,
+    "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": false,
     "showIntervalInReviewButtons": true,
-    "flashcardHeightPercentage": 80,
-    "flashcardWidthPercentage": 40,
+    "flashcardHeightPercentage": 100,
+    "flashcardWidthPercentage": 100,
     "flashcardHeightPercentageMobile": 100,
     "flashcardWidthPercentageMobile": 100,
     "flashcardAgainText": "Again",
@@ -63,11 +65,13 @@
     "loadBalance": true,
     "maximumInterval": 36525,
     "maxLinkFactor": 1,
+    "fsrsDesiredRetention": 0.9,
     "startOfDay": "00:00:00",
     "dataStore": "NOTES",
     "cardCommentOnSameLine": false,
     "showSchedulingDebugMessages": false,
-    "showParserDebugMessages": false
+    "showParserDebugMessages": false,
+    "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY"
   },
   "buryDate": "2026-05-16",
   "buryList": [],

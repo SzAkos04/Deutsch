@@ -21,8 +21,34 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "f4f54b8c1345e0b8",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
+          },
+          {
+            "id": "2d4c9436221a8d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Vokabeln/Wörterbuch.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Wörterbuch"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md",
+                "file": "03_Vokabeln/Wörterbuch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC"
+              "title": "Outline of Wörterbuch"
             }
           },
           {
@@ -212,10 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "359bf6591d1c8626",
+  "active": "2d4c9436221a8d62",
   "lastOpenFiles": [
-    "03_Vokabeln/Verben/abschreiben.md",
+    "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
     "MOC.md",
+    "00_Eingang/Untitled.base",
+    "03_Vokabeln/Verben/abschreiben.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/tree.txt",
     "03_Vokabeln/Substantive/Lohn.md",
@@ -240,7 +268,6 @@
     "03_Vokabeln/Substantive/See.md",
     "03_Vokabeln/Substantive/Schiff.md",
     "03_Vokabeln/Substantive/Scheidung.md",
-    "03_Vokabeln/Substantive/Rucksack.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
@@ -248,7 +275,6 @@
     "05_Prüfungsvorbereitung/02_Sprachbausteine",
     "05_Prüfungsvorbereitung/01_Leseverstehen",
     "05_Prüfungsvorbereitung",
-    "01_Grammatik/01. Az ige ragozása jelen időben",
-    "02_Kommunikation/Redewendungen"
+    "01_Grammatik/01. Az ige ragozása jelen időben"
   ]
 }
