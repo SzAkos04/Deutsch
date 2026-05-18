@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "692623459bb614fc",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +223,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "692623459bb614fc",
   "lastOpenFiles": [
     "03_Vokabeln/Wörterbuch.md",
     "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
