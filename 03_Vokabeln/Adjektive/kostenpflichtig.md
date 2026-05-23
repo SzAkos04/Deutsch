@@ -3,7 +3,7 @@ Wort: kostenpflichtig
 Wortart: Adjektiv
 Niveau: B2
 Bedeutung: fizetős, díjköteles
-Komparativ: kostenpflichtigerer
+Komparativ: kostenpflichtiger
 Superlativ: kostenpflichtigsten
 Quelle:
 aliases:

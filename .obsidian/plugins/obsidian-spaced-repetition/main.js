@@ -105,8 +105,8 @@ var require_moment = __commonJS({
         }
         return a2;
       }
-      function createUTC(input, format2, locale3, strict) {
-        return createLocalOrUTC(input, format2, locale3, strict, true).utc();
+      function createUTC(input, format2, locale2, strict) {
+        return createLocalOrUTC(input, format2, locale2, strict, true).utc();
       }
       function defaultParsingFlags() {
         return {
@@ -416,10 +416,10 @@ var require_moment = __commonJS({
         formatFunctions[format2] = formatFunctions[format2] || makeFormatFunction(format2);
         return formatFunctions[format2](m2);
       }
-      function expandFormat(format2, locale3) {
+      function expandFormat(format2, locale2) {
         var i2 = 5;
         function replaceLongDateFormatTokens(input) {
-          return locale3.longDateFormat(input) || input;
+          return locale2.longDateFormat(input) || input;
         }
         localFormattingTokens.lastIndex = 0;
         while (i2 >= 0 && localFormattingTokens.test(format2)) {
@@ -817,11 +817,11 @@ var require_moment = __commonJS({
       });
       addRegexToken("M", match1to2, match1to2NoLeadingZero);
       addRegexToken("MM", match1to2, match2);
-      addRegexToken("MMM", function(isStrict, locale3) {
-        return locale3.monthsShortRegex(isStrict);
+      addRegexToken("MMM", function(isStrict, locale2) {
+        return locale2.monthsShortRegex(isStrict);
       });
-      addRegexToken("MMMM", function(isStrict, locale3) {
-        return locale3.monthsRegex(isStrict);
+      addRegexToken("MMMM", function(isStrict, locale2) {
+        return locale2.monthsRegex(isStrict);
       });
       addParseToken(["M", "MM"], function(input, array) {
         array[MONTH] = toInt(input) - 1;
@@ -1136,14 +1136,14 @@ var require_moment = __commonJS({
       addRegexToken("d", match1to2);
       addRegexToken("e", match1to2);
       addRegexToken("E", match1to2);
-      addRegexToken("dd", function(isStrict, locale3) {
-        return locale3.weekdaysMinRegex(isStrict);
+      addRegexToken("dd", function(isStrict, locale2) {
+        return locale2.weekdaysMinRegex(isStrict);
       });
-      addRegexToken("ddd", function(isStrict, locale3) {
-        return locale3.weekdaysShortRegex(isStrict);
+      addRegexToken("ddd", function(isStrict, locale2) {
+        return locale2.weekdaysShortRegex(isStrict);
       });
-      addRegexToken("dddd", function(isStrict, locale3) {
-        return locale3.weekdaysRegex(isStrict);
+      addRegexToken("dddd", function(isStrict, locale2) {
+        return locale2.weekdaysRegex(isStrict);
       });
       addWeekParseToken(["dd", "ddd", "dddd"], function(input, week, config, token2) {
         var weekday = config._locale.weekdaysParse(input, token2, config._strict);
@@ -1156,22 +1156,22 @@ var require_moment = __commonJS({
       addWeekParseToken(["d", "e", "E"], function(input, week, config, token2) {
         week[token2] = toInt(input);
       });
-      function parseWeekday(input, locale3) {
+      function parseWeekday(input, locale2) {
         if (typeof input !== "string") {
           return input;
         }
         if (!isNaN(input)) {
           return parseInt(input, 10);
         }
-        input = locale3.weekdaysParse(input);
+        input = locale2.weekdaysParse(input);
         if (typeof input === "number") {
           return input;
         }
         return null;
       }
-      function parseIsoWeekday(input, locale3) {
+      function parseIsoWeekday(input, locale2) {
         if (typeof input === "string") {
-          return locale3.weekdaysParse(input) % 7 || 7;
+          return locale2.weekdaysParse(input) % 7 || 7;
         }
         return isNaN(input) ? null : input;
       }
@@ -1448,8 +1448,8 @@ var require_moment = __commonJS({
       }
       meridiem("a", true);
       meridiem("A", false);
-      function matchMeridiem(isStrict, locale3) {
-        return locale3._meridiemParse;
+      function matchMeridiem(isStrict, locale2) {
+        return locale2._meridiemParse;
       }
       addRegexToken("a", matchMeridiem);
       addRegexToken("A", matchMeridiem);
@@ -1540,16 +1540,16 @@ var require_moment = __commonJS({
         return key ? key.toLowerCase().replace("_", "-") : key;
       }
       function chooseLocale(names2) {
-        var i2 = 0, j2, next, locale3, split;
+        var i2 = 0, j2, next, locale2, split;
         while (i2 < names2.length) {
           split = normalizeLocale(names2[i2]).split("-");
           j2 = split.length;
           next = normalizeLocale(names2[i2 + 1]);
           next = next ? next.split("-") : null;
           while (j2 > 0) {
-            locale3 = loadLocale(split.slice(0, j2).join("-"));
-            if (locale3) {
-              return locale3;
+            locale2 = loadLocale(split.slice(0, j2).join("-"));
+            if (locale2) {
+              return locale2;
             }
             if (next && next.length >= j2 && commonPrefix(split, next) >= j2 - 1) {
               break;
@@ -1599,7 +1599,7 @@ var require_moment = __commonJS({
       }
       function defineLocale(name, config) {
         if (config !== null) {
-          var locale3, parentConfig = baseConfig;
+          var locale2, parentConfig = baseConfig;
           config.abbr = name;
           if (locales[name] != null) {
             deprecateSimple(
@@ -1611,9 +1611,9 @@ var require_moment = __commonJS({
             if (locales[config.parentLocale] != null) {
               parentConfig = locales[config.parentLocale]._config;
             } else {
-              locale3 = loadLocale(config.parentLocale);
-              if (locale3 != null) {
-                parentConfig = locale3._config;
+              locale2 = loadLocale(config.parentLocale);
+              if (locale2 != null) {
+                parentConfig = locale2._config;
               } else {
                 if (!localeFamilies[config.parentLocale]) {
                   localeFamilies[config.parentLocale] = [];
@@ -1641,7 +1641,7 @@ var require_moment = __commonJS({
       }
       function updateLocale(name, config) {
         if (config != null) {
-          var locale3, tmpLocale, parentConfig = baseConfig;
+          var locale2, tmpLocale, parentConfig = baseConfig;
           if (locales[name] != null && locales[name].parentLocale != null) {
             locales[name].set(mergeConfigs(locales[name]._config, config));
           } else {
@@ -1653,9 +1653,9 @@ var require_moment = __commonJS({
             if (tmpLocale == null) {
               config.abbr = name;
             }
-            locale3 = new Locale(config);
-            locale3.parentLocale = locales[name];
-            locales[name] = locale3;
+            locale2 = new Locale(config);
+            locale2.parentLocale = locales[name];
+            locales[name] = locale2;
           }
           getSetGlobalLocale(name);
         } else {
@@ -1673,7 +1673,7 @@ var require_moment = __commonJS({
         return locales[name];
       }
       function getLocale(key) {
-        var locale3;
+        var locale2;
         if (key && key._locale && key._locale._abbr) {
           key = key._locale._abbr;
         }
@@ -1681,9 +1681,9 @@ var require_moment = __commonJS({
           return globalLocale;
         }
         if (!isArray2(key)) {
-          locale3 = loadLocale(key);
-          if (locale3) {
-            return locale3;
+          locale2 = loadLocale(key);
+          if (locale2) {
+            return locale2;
           }
           key = [key];
         }
@@ -2065,15 +2065,15 @@ var require_moment = __commonJS({
         configFromArray(config);
         checkOverflow(config);
       }
-      function meridiemFixWrap(locale3, hour, meridiem2) {
+      function meridiemFixWrap(locale2, hour, meridiem2) {
         var isPm;
         if (meridiem2 == null) {
           return hour;
         }
-        if (locale3.meridiemHour != null) {
-          return locale3.meridiemHour(hour, meridiem2);
-        } else if (locale3.isPM != null) {
-          isPm = locale3.isPM(meridiem2);
+        if (locale2.meridiemHour != null) {
+          return locale2.meridiemHour(hour, meridiem2);
+        } else if (locale2.isPM != null) {
+          isPm = locale2.isPM(meridiem2);
           if (isPm && hour < 12) {
             hour += 12;
           }
@@ -2191,29 +2191,29 @@ var require_moment = __commonJS({
           hooks.createFromInputFallback(config);
         }
       }
-      function createLocalOrUTC(input, format2, locale3, strict, isUTC) {
+      function createLocalOrUTC(input, format2, locale2, strict, isUTC) {
         var c2 = {};
         if (format2 === true || format2 === false) {
           strict = format2;
           format2 = void 0;
         }
-        if (locale3 === true || locale3 === false) {
-          strict = locale3;
-          locale3 = void 0;
+        if (locale2 === true || locale2 === false) {
+          strict = locale2;
+          locale2 = void 0;
         }
         if (isObject2(input) && isObjectEmpty(input) || isArray2(input) && input.length === 0) {
           input = void 0;
         }
         c2._isAMomentObject = true;
         c2._useUTC = c2._isUTC = isUTC;
-        c2._l = locale3;
+        c2._l = locale2;
         c2._i = input;
         c2._f = format2;
         c2._strict = strict;
         return createFromConfig(c2);
       }
-      function createLocal(input, format2, locale3, strict) {
-        return createLocalOrUTC(input, format2, locale3, strict, false);
+      function createLocal(input, format2, locale2, strict) {
+        return createLocalOrUTC(input, format2, locale2, strict, false);
       }
       var prototypeMin = deprecate(
         "moment().min is deprecated, use moment.max instead. http://momentjs.com/guides/#/warnings/min-max/",
@@ -2882,7 +2882,7 @@ var require_moment = __commonJS({
       function toNow(withoutSuffix) {
         return this.to(createLocal(), withoutSuffix);
       }
-      function locale2(key) {
+      function locale(key) {
         var newLocaleData;
         if (key === void 0) {
           return this._locale._abbr;
@@ -3268,17 +3268,17 @@ var require_moment = __commonJS({
         }
         return isStrict ? this._erasNarrowRegex : this._erasRegex;
       }
-      function matchEraAbbr(isStrict, locale3) {
-        return locale3.erasAbbrRegex(isStrict);
+      function matchEraAbbr(isStrict, locale2) {
+        return locale2.erasAbbrRegex(isStrict);
       }
-      function matchEraName(isStrict, locale3) {
-        return locale3.erasNameRegex(isStrict);
+      function matchEraName(isStrict, locale2) {
+        return locale2.erasNameRegex(isStrict);
       }
-      function matchEraNarrow(isStrict, locale3) {
-        return locale3.erasNarrowRegex(isStrict);
+      function matchEraNarrow(isStrict, locale2) {
+        return locale2.erasNarrowRegex(isStrict);
       }
-      function matchEraYearOrdinal(isStrict, locale3) {
-        return locale3._eraYearOrdinalRegex || matchUnsigned;
+      function matchEraYearOrdinal(isStrict, locale2) {
+        return locale2._eraYearOrdinalRegex || matchUnsigned;
       }
       function computeErasParse() {
         var abbrPieces = [], namePieces = [], narrowPieces = [], mixedPieces = [], i2, l2, erasName, erasAbbr, erasNarrow, eras = this.eras();
@@ -3395,8 +3395,8 @@ var require_moment = __commonJS({
       addFormatToken("D", ["DD", 2], "Do", "date");
       addRegexToken("D", match1to2, match1to2NoLeadingZero);
       addRegexToken("DD", match1to2, match2);
-      addRegexToken("Do", function(isStrict, locale3) {
-        return isStrict ? locale3._dayOfMonthOrdinalParse || locale3._ordinalParse : locale3._dayOfMonthOrdinalParseLenient;
+      addRegexToken("Do", function(isStrict, locale2) {
+        return isStrict ? locale2._dayOfMonthOrdinalParse || locale2._ordinalParse : locale2._dayOfMonthOrdinalParseLenient;
       });
       addParseToken(["D", "DD"], DATE);
       addParseToken("Do", function(input, array) {
@@ -3493,7 +3493,7 @@ var require_moment = __commonJS({
       proto.isSameOrBefore = isSameOrBefore;
       proto.isValid = isValid$2;
       proto.lang = lang;
-      proto.locale = locale2;
+      proto.locale = locale;
       proto.localeData = localeData;
       proto.max = prototypeMax;
       proto.min = prototypeMin;
@@ -3617,8 +3617,8 @@ var require_moment = __commonJS({
       proto$1.isPM = localeIsPM;
       proto$1.meridiem = localeMeridiem;
       function get$1(format2, index, field, setter) {
-        var locale3 = getLocale(), utc = createUTC().set(setter, index);
-        return locale3[field](utc, format2);
+        var locale2 = getLocale(), utc = createUTC().set(setter, index);
+        return locale2[field](utc, format2);
       }
       function listMonthsImpl(format2, index, field) {
         if (isNumber2(format2)) {
@@ -3652,7 +3652,7 @@ var require_moment = __commonJS({
           }
           format2 = format2 || "";
         }
-        var locale3 = getLocale(), shift = localeSorted ? locale3._week.dow : 0, i2, out = [];
+        var locale2 = getLocale(), shift = localeSorted ? locale2._week.dow : 0, i2, out = [];
         if (index != null) {
           return get$1(format2, (index + shift) % 7, field, "day");
         }
@@ -3850,10 +3850,10 @@ var require_moment = __commonJS({
         M: 11
         // months to year
       };
-      function substituteTimeAgo(string, number, withoutSuffix, isFuture, locale3) {
-        return locale3.relativeTime(number || 1, !!withoutSuffix, string, isFuture);
+      function substituteTimeAgo(string, number, withoutSuffix, isFuture, locale2) {
+        return locale2.relativeTime(number || 1, !!withoutSuffix, string, isFuture);
       }
-      function relativeTime$1(posNegDuration, withoutSuffix, thresholds2, locale3) {
+      function relativeTime$1(posNegDuration, withoutSuffix, thresholds2, locale2) {
         var duration = createDuration(posNegDuration).abs(), seconds2 = round2(duration.as("s")), minutes2 = round2(duration.as("m")), hours2 = round2(duration.as("h")), days2 = round2(duration.as("d")), months2 = round2(duration.as("M")), weeks2 = round2(duration.as("w")), years2 = round2(duration.as("y")), a2 = seconds2 <= thresholds2.ss && ["s", seconds2] || seconds2 < thresholds2.s && ["ss", seconds2] || minutes2 <= 1 && ["m"] || minutes2 < thresholds2.m && ["mm", minutes2] || hours2 <= 1 && ["h"] || hours2 < thresholds2.h && ["hh", hours2] || days2 <= 1 && ["d"] || days2 < thresholds2.d && ["dd", days2];
         if (thresholds2.w != null) {
           a2 = a2 || weeks2 <= 1 && ["w"] || weeks2 < thresholds2.w && ["ww", weeks2];
@@ -3861,7 +3861,7 @@ var require_moment = __commonJS({
         a2 = a2 || months2 <= 1 && ["M"] || months2 < thresholds2.M && ["MM", months2] || years2 <= 1 && ["y"] || ["yy", years2];
         a2[2] = withoutSuffix;
         a2[3] = +posNegDuration > 0;
-        a2[4] = locale3;
+        a2[4] = locale2;
         return substituteTimeAgo.apply(null, a2);
       }
       function getSetRelativeTimeRounding(roundingFunction) {
@@ -3891,7 +3891,7 @@ var require_moment = __commonJS({
         if (!this.isValid()) {
           return this.localeData().invalidDate();
         }
-        var withSuffix = false, th2 = thresholds, locale3, output;
+        var withSuffix = false, th2 = thresholds, locale2, output;
         if (typeof argWithSuffix === "object") {
           argThresholds = argWithSuffix;
           argWithSuffix = false;
@@ -3905,12 +3905,12 @@ var require_moment = __commonJS({
             th2.ss = argThresholds.s - 1;
           }
         }
-        locale3 = this.localeData();
-        output = relativeTime$1(this, !withSuffix, th2, locale3);
+        locale2 = this.localeData();
+        output = relativeTime$1(this, !withSuffix, th2, locale2);
         if (withSuffix) {
-          output = locale3.pastFuture(+this, output);
+          output = locale2.pastFuture(+this, output);
         }
-        return locale3.postformat(output);
+        return locale2.postformat(output);
       }
       var abs$1 = Math.abs;
       function sign2(x2) {
@@ -3968,7 +3968,7 @@ var require_moment = __commonJS({
       proto$2.toISOString = toISOString$1;
       proto$2.toString = toISOString$1;
       proto$2.toJSON = toISOString$1;
-      proto$2.locale = locale2;
+      proto$2.locale = locale;
       proto$2.localeData = localeData;
       proto$2.toIsoString = deprecate(
         "toIsoString() is deprecated. Please use toISOString() instead (notice the capitals)",
@@ -4740,7 +4740,7 @@ __export(main_exports, {
   default: () => SRPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian36 = require("obsidian");
+var import_obsidian37 = require("obsidian");
 
 // src/algorithms/base/repetition-item.ts
 var RepetitionItem = class {
@@ -6650,7 +6650,6 @@ var OBSIDIAN_TAG_AT_STARTOFLINE_REGEX = /^#[^\s#]+/gi;
 var OBSIDIAN_BLOCK_ID_ENDOFLINE_REGEX = / (\^[a-zA-Z0-9-]+)$/;
 var PREFERRED_DATE_FORMAT = "YYYY-MM-DD";
 var ALLOWED_DATE_FORMATS = [PREFERRED_DATE_FORMAT, "DD-MM-YYYY", "ddd MMM DD YYYY"];
-var COLLAPSE_ICON = '<svg viewBox="0 0 100 100" width="8" height="8" class="svg-icon right-triangle"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg>';
 var TICKS_PER_DAY = 24 * 3600 * 1e3;
 var SR_HTML_COMMENT_BEGIN = "<!--SR:";
 var SR_HTML_COMMENT_END = "-->";
@@ -6961,7 +6960,7 @@ var en = {
   SHOW_NOTE_STATUS_BAR_ITEM: "Show note status bar item",
   SHOW_NOTE_STATUS_BAR_ITEM_DESC: "Turn this off to hide the note's review status in Obsidian's status bar",
   SHOW_UPDATE_AVAILABLE_STATUS_BAR_ITEM: "Show update available status bar item",
-  SHOW_UPDATE_AVAILABLE_STATUS_BAR_ITEM_DESC: "Turn this off to hide the update available status bar item",
+  SHOW_UPDATE_AVAILABLE_STATUS_BAR_ITEM_DESC: "Turn this off to hide the update available status bar item & to stop the fetching of the newest version number",
   SHOW_RIBBON_ICON: "Show icon in the ribbon bar",
   SHOW_RIBBON_ICON_DESC: "Turn this off to hide the plugin icon from Obsidian's ribbon bar",
   ENABLE_FILE_MENU_REVIEW_OPTIONS: "Enable the review options in the file menu (e.g. Review: Easy, Good, Hard)",
@@ -11071,21 +11070,98 @@ var localeMap = {
   "zh-cn": zh_cn_default,
   "zh-tw": zh_tw_default
 };
-var locale = localeMap[import_obsidian.moment.locale()];
-function interpolate(str, params) {
+var loadedLocale = import_obsidian.moment.locale();
+var currentLocale = localeMap[loadedLocale];
+function insertParameters(translation, params) {
   const names2 = Object.keys(params);
   const vals = Object.values(params);
-  return new Function(...names2, `return \`${str}\`;`)(...vals);
+  function replaceNamesWithValues(translation2, names3, vals2) {
+    let result = translation2;
+    for (let i2 = 0; i2 < names3.length; i2++) {
+      const name = names3[i2];
+      const value = vals2[i2];
+      result = result.replace("${" + name + "}", value + "");
+    }
+    return result;
+  }
+  return replaceNamesWithValues(translation, names2, vals);
 }
-function t(str, params) {
-  if (!locale) {
+function t(translationKey, params) {
+  if (!currentLocale) {
     console.error(`SRS error: Locale ${import_obsidian.moment.locale()} not found.`);
   }
-  const result = locale && locale[str] || en_default[str];
+  const translation = currentLocale && currentLocale[translationKey] || en_default[translationKey];
   if (params) {
-    return interpolate(result, params);
+    return insertParameters(translation, params);
   }
-  return result;
+  return translation;
+}
+function tHTML(translationKey, params) {
+  return parseHTMLTags(t(translationKey, params)).map(
+    (translationElement) => translationElement.element
+  );
+}
+function parseHTMLTags(translation) {
+  const resultArray = [];
+  for (let currentPosition = 0; currentPosition < translation.length; currentPosition++) {
+    const anchorPosition = translation.indexOf("<a", currentPosition);
+    const codePosition = translation.indexOf("<code", currentPosition);
+    const noAnchorTagsFound = anchorPosition === -1;
+    const noCodeTagsFound = codePosition === -1;
+    const noTagsFound = noAnchorTagsFound && noCodeTagsFound;
+    const handleAnchorFirst = anchorPosition < codePosition && !noAnchorTagsFound || noCodeTagsFound;
+    const relevantPosition = handleAnchorFirst ? anchorPosition : codePosition;
+    if (noTagsFound || relevantPosition > currentPosition) {
+      const startOfText = resultArray.length === 0 ? 0 : resultArray[resultArray.length - 1].end + 1;
+      const endOfText = noTagsFound ? translation.length - 1 : relevantPosition - 1;
+      resultArray.push(createTranslationTextElement(translation, startOfText, endOfText));
+      if (noTagsFound) break;
+    }
+    if (handleAnchorFirst) {
+      const linkRegex = /<a.+href="(.+)".*>(.+)<\/a>/;
+      const linkMatch = linkRegex.exec(translation);
+      if (linkMatch) {
+        const href = linkMatch[1];
+        const text = linkMatch[2];
+        const anchorElement = activeDocument.createElement("a");
+        anchorElement.setAttribute("href", href);
+        anchorElement.setText(text);
+        resultArray.push({
+          element: anchorElement,
+          start: anchorPosition,
+          end: anchorPosition + linkMatch[0].length - 1
+        });
+      } else {
+        return [];
+      }
+      currentPosition = anchorPosition + linkMatch[0].length - 1;
+    } else {
+      const codeRegex = /<code.*>(.+)<\/code>/;
+      const codeMatch = codeRegex.exec(translation);
+      if (codeMatch) {
+        const text = codeMatch[1];
+        const codeElement = activeDocument.createElement("code");
+        codeElement.setText(text);
+        resultArray.push({
+          element: codeElement,
+          start: codePosition,
+          end: codePosition + codeMatch[0].length - 1
+        });
+      } else {
+        return [];
+      }
+      currentPosition = codePosition + codeMatch[0].length - 1;
+    }
+  }
+  return resultArray;
+}
+function createTranslationTextElement(translation, start, end) {
+  const text = translation.substring(start, end + 1);
+  return {
+    element: activeDocument.createTextNode(text),
+    start,
+    end
+  };
 }
 
 // src/algorithms/osr/note-scheduling.ts
@@ -12180,7 +12256,7 @@ var range = (a2, b2, str) => {
   return result;
 };
 
-// node_modules/.pnpm/brace-expansion@5.0.5/node_modules/brace-expansion/dist/esm/index.js
+// node_modules/.pnpm/brace-expansion@5.0.6/node_modules/brace-expansion/dist/esm/index.js
 var escSlash = "\0SLASH" + Math.random() + "\0";
 var escOpen = "\0OPEN" + Math.random() + "\0";
 var escClose = "\0CLOSE" + Math.random() + "\0";
@@ -12299,7 +12375,7 @@ function expand_(str, max, isTop) {
       }
       const pad = n2.some(isPadded);
       N2 = [];
-      for (let i2 = x2; test(i2, y2); i2 += incr) {
+      for (let i2 = x2; test(i2, y2) && N2.length < max; i2 += incr) {
         let c2;
         if (isAlphaSequence) {
           c2 = String.fromCharCode(i2);
@@ -14076,7 +14152,7 @@ var RandomNumberProvider = class {
 var StaticRandomNumberProvider = class {
   getInteger(lowerBound, upperBound) {
     if (lowerBound !== this.expectedLowerBound || upperBound !== this.expectedUpperBound)
-      throw `lowerBound: A${lowerBound}/E${this.expectedLowerBound}, upperBound: A${upperBound}/E${this.expectedUpperBound}`;
+      return 0;
     return this.next;
   }
 };
@@ -16511,7 +16587,7 @@ var ReviewQueueListView = class extends import_obsidian7.ItemView {
     const collapseIconEl = folderTitleEl.createDiv(
       "tree-item-icon collapse-icon nav-folder-collapse-indicator"
     );
-    collapseIconEl.innerHTML = COLLAPSE_ICON;
+    (0, import_obsidian7.setIcon)(collapseIconEl, "chevron-down");
     folderTitleEl.createDiv("tree-item-inner nav-folder-title-content").setText(folderTitle);
     if (collapsed && !folderEl.hasClass("is-collapsed")) {
       folderEl.addClass("is-collapsed");
@@ -16522,11 +16598,13 @@ var ReviewQueueListView = class extends import_obsidian7.ItemView {
       collapseIconEl2.removeClass("is-collapsed");
     }
     if (hidden) {
-      folderEl.style.display = "none";
+      folderEl.setCssProps({ display: "none" });
     }
     folderTitleEl.onClickEvent(() => {
       this.changeFolderFolding(folderEl, !folderEl.hasClass("is-collapsed"));
-      childrenEl.style.display = !folderEl.hasClass("is-collapsed") ? "block" : "none";
+      childrenEl.setCssProps({
+        display: !folderEl.hasClass("is-collapsed") ? "block" : "none"
+      });
       if (!folderEl.hasClass("is-collapsed")) {
         deck.activeFolders.delete(folderTitle);
       } else {
@@ -16541,7 +16619,9 @@ var ReviewQueueListView = class extends import_obsidian7.ItemView {
     )[0];
     const navFileEl = childrenEl.createDiv("nav-file");
     if (hidden) {
-      childrenEl.style.display = "none";
+      childrenEl.setCssProps({
+        display: "none"
+      });
     }
     const navFileTitle = navFileEl.createDiv("tree-item-self nav-file-title");
     navFileTitle.addClass("is-clickable");
@@ -16635,7 +16715,7 @@ var ReviewQueueListView = class extends import_obsidian7.ItemView {
 };
 
 // src/ui/ui-manager.tsx
-var import_obsidian35 = require("obsidian");
+var import_obsidian36 = require("obsidian");
 
 // src/icons/app-icon.ts
 var import_obsidian8 = require("obsidian");
@@ -16650,11 +16730,11 @@ function appIcon() {
 }
 
 // src/ui/obsidian-ui-components/item-views/sr-tab-view.tsx
-var import_obsidian21 = require("obsidian");
+var import_obsidian22 = require("obsidian");
 
 // src/ui/obsidian-ui-components/content-container/content-manager.tsx
 var import_moment8 = __toESM(require_moment());
-var import_obsidian20 = require("obsidian");
+var import_obsidian21 = require("obsidian");
 
 // src/ui/obsidian-ui-components/content-container/card-container/card-container.tsx
 var import_moment7 = __toESM(require_moment());
@@ -16769,11 +16849,11 @@ var SRResponseButtonComponent = class extends SRButtonComponent {
 // src/utils/platform-detector.ts
 function EmulatedPlatform() {
   return {
-    isDesktop: DEBUG_MODE_ENABLED && !document.body.hasClass("emulate-mobile"),
-    isMobile: DEBUG_MODE_ENABLED && document.body.hasClass("emulate-mobile"),
-    isPhone: DEBUG_MODE_ENABLED && document.body.hasClass("emulate-mobile") && document.body.hasClass("is-phone"),
-    isTablet: DEBUG_MODE_ENABLED && document.body.hasClass("emulate-mobile") && document.body.hasClass("is-tablet"),
-    isEmulated: DEBUG_MODE_ENABLED && document.body.hasClass("emulate-mobile")
+    isDesktop: DEBUG_MODE_ENABLED && !activeDocument.body.hasClass("emulate-mobile"),
+    isMobile: DEBUG_MODE_ENABLED && activeDocument.body.hasClass("emulate-mobile"),
+    isPhone: DEBUG_MODE_ENABLED && activeDocument.body.hasClass("emulate-mobile") && activeDocument.body.hasClass("is-phone"),
+    isTablet: DEBUG_MODE_ENABLED && activeDocument.body.hasClass("emulate-mobile") && activeDocument.body.hasClass("is-tablet"),
+    isEmulated: DEBUG_MODE_ENABLED && activeDocument.body.hasClass("emulate-mobile")
   };
 }
 
@@ -17373,8 +17453,6 @@ var RenderMarkdownWrapper = class {
     this.notePath = notePath;
     this.plugin = plugin;
   }
-  // slightly modified version of the renderMarkdown function in
-  // https://github.com/mgmeyers/obsidian-kanban/blob/main/src/KanbanView.tsx
   async renderMarkdownWrapper(markdownString, containerEl, textDirection, recursiveDepth = 0) {
     if (recursiveDepth > 4) return;
     let el;
@@ -17426,7 +17504,7 @@ var CardContainer = class {
     this.clozeInputs = null;
     this.clozeAnswers = null;
     this._keydownHandler = (e2) => {
-      if (this.plugin.data.settings.useCustomHotkeys || document.activeElement !== null && (document.activeElement.nodeName === "TEXTAREA" || document.activeElement.nodeName === "INPUT") || this.cardState === 2 /* Closed */ || !this.plugin.uiManager.getSRInFocusState() || import_obsidian16.Platform.isMobile || // No keyboard events on mobile
+      if (this.plugin.data.settings.useCustomHotkeys || activeDocument.activeElement !== null && (activeDocument.activeElement.nodeName === "TEXTAREA" || activeDocument.activeElement.nodeName === "INPUT") || this.cardState === 2 /* Closed */ || !this.plugin.uiManager.getSRInFocusState() || import_obsidian16.Platform.isMobile || // No keyboard events on mobile
       EmulatedPlatform().isMobile) {
         return;
       }
@@ -17539,7 +17617,7 @@ var CardContainer = class {
     }
     await this.drawCardFront(sessionData, settings);
     this.view.removeClass("sr-is-hidden");
-    document.addEventListener("keydown", this._keydownHandler);
+    activeDocument.addEventListener("keydown", this._keydownHandler);
   }
   /**
    * Hides the FlashcardView if it is visible
@@ -17553,7 +17631,7 @@ var CardContainer = class {
       this.pendingResumeTimeout = null;
     }
     this.cardState = 2 /* Closed */;
-    document.removeEventListener("keydown", this._keydownHandler);
+    activeDocument.removeEventListener("keydown", this._keydownHandler);
     this.view.addClass("sr-is-hidden");
   }
   /**
@@ -17563,9 +17641,9 @@ var CardContainer = class {
    */
   blockKeyInput(block) {
     if (block) {
-      document.addEventListener("keydown", this._keydownHandler);
+      activeDocument.addEventListener("keydown", this._keydownHandler);
     } else {
-      document.removeEventListener("keydown", this._keydownHandler);
+      activeDocument.removeEventListener("keydown", this._keydownHandler);
     }
   }
   async drawCardFront(sessionData, settings) {
@@ -17590,12 +17668,13 @@ var CardContainer = class {
       sessionData.cardData.currentCard.front.trimStart(),
       this.content,
       sessionData.currentQuestion.questionText.textDirection
+      // sessionData.cardData.currentCardState
     );
     this.content.scrollTop = 0;
     this.response.resetResponseButtons();
     this._setupClozeInputListeners();
     if (sessionData.currentQuestion.questionType === 4 /* Cloze */) {
-      const firstInput = document.querySelector(".cloze-input");
+      const firstInput = activeDocument.querySelector(".cloze-input");
       if (firstInput) {
         firstInput.focus();
       }
@@ -17654,7 +17733,7 @@ var CardContainer = class {
     );
   }
   _setupClozeInputListeners() {
-    this.clozeInputs = document.querySelectorAll(".cloze-input");
+    this.clozeInputs = activeDocument.querySelectorAll(".cloze-input");
     this.clozeInputs.forEach((input) => {
       input.addEventListener("keydown", (e2) => {
         if (e2.key === "Enter") {
@@ -17667,15 +17746,32 @@ var CardContainer = class {
     });
   }
   _evaluateClozeAnswers() {
-    this.clozeAnswers = document.querySelectorAll(".cloze-answer");
+    this.clozeAnswers = activeDocument.querySelectorAll(".cloze-answer");
     if (this.clozeInputs !== null && this.clozeAnswers.length === this.clozeInputs.length) {
       for (let i2 = 0; i2 < this.clozeAnswers.length; i2++) {
         const clozeInput = this.clozeInputs[i2];
         const clozeAnswer = this.clozeAnswers[i2];
         const inputText = clozeInput.value.trim();
         const answerText = clozeAnswer.innerText.trim();
-        const answerElement = inputText === answerText ? `<span style="color: green">${escapeHtml(inputText)}</span>` : `[<span style="color: red; text-decoration: line-through;">${escapeHtml(inputText)}</span><span style="color: green">${answerText}</span>]`;
-        clozeAnswer.innerHTML = answerElement;
+        clozeAnswer.empty();
+        const answerElement = clozeAnswer.createSpan({
+          text: escapeHtml(inputText),
+          cls: "cloze-answer"
+        });
+        answerElement.setCssProps({
+          color: inputText === answerText ? "green" : "red",
+          "text-Decoration": inputText === answerText ? "none" : "line-through"
+        });
+        if (inputText !== answerText) {
+          const span = clozeAnswer.createSpan({
+            text: escapeHtml(answerText),
+            cls: "cloze-answer-wrong"
+          });
+          span.setCssProps({
+            color: "green",
+            "text-decoration": "none"
+          });
+        }
       }
     }
   }
@@ -17684,7 +17780,7 @@ var CardContainer = class {
     this.cardState = sessionData.cardData.currentCardState;
     this.toolbar.setResetButtonDisabled(false);
     if (sessionData.currentQuestion.questionType !== 4 /* Cloze */) {
-      const hr = document.createElement("hr");
+      const hr = activeDocument.createElement("hr");
       this.content.appendChild(hr);
     } else {
       this.content.empty();
@@ -17698,6 +17794,7 @@ var CardContainer = class {
       sessionData.cardData.currentCard.back,
       this.content,
       sessionData.currentQuestion.questionText.textDirection
+      // sessionData.cardData.currentCardState,
     );
     this._evaluateClozeAnswers();
     this.response.showRatingButtons(
@@ -17729,6 +17826,7 @@ var CardInfoNotice = class extends import_obsidian17.Notice {
 };
 
 // src/ui/obsidian-ui-components/content-container/deck-container/deck-list.tsx
+var import_obsidian18 = require("obsidian");
 var DeckListComponent = class {
   constructor(parentEl, startReviewOfDeck) {
     this.startReviewOfDeck = startReviewOfDeck;
@@ -17860,9 +17958,9 @@ var DeckListComponent = class {
     treeRowSelf.addClass("sr-tree-item-row");
     let collapsed = !initiallyExpanded;
     const collapseIconEl = treeRowSelf.createDiv("tree-item-icon collapse-icon");
-    collapseIconEl.innerHTML = COLLAPSE_ICON;
+    (0, import_obsidian18.setIcon)(collapseIconEl, "chevron-down");
     if (collapsed) collapseIconEl.addClass("is-collapsed");
-    if (numOfSubdecks === 0) collapseIconEl.style.display = "none";
+    if (numOfSubdecks === 0) collapseIconEl.setCssProps({ display: "none" });
     const treeRowInner = treeRowSelf.createDiv("tree-item-inner");
     const treeRowInnerText = treeRowInner.createDiv("tag-pane-tag-text");
     const treeRowInnerTextSpan = treeRowInnerText.createSpan("tag-pane-tag-self");
@@ -17870,7 +17968,7 @@ var DeckListComponent = class {
     const treeRowOuter = treeRowSelf.createDiv();
     treeRowOuter.addClasses(["tree-item-flair-outer", "sr-tree-stats-container"]);
     const treeRowChildren = treeRow.createDiv("tree-item-children");
-    treeRowChildren.style.display = collapsed ? "none" : "block";
+    treeRowChildren.setCssProps({ display: collapsed ? "none" : "block" });
     if (disableInteraction || deckStats.dueCount === 0 && deckStats.newCount === 0) {
       if (!disableInteraction) {
         treeRowSelf.addClass("is-disabled");
@@ -17880,10 +17978,10 @@ var DeckListComponent = class {
       collapseIconEl.addEventListener("click", (e2) => {
         if (collapsed) {
           collapseIconEl.removeClass("is-collapsed");
-          treeRowChildren.style.display = "block";
+          treeRowChildren.setCssProps({ display: "block" });
         } else {
           collapseIconEl.addClass("is-collapsed");
-          treeRowChildren.style.display = "none";
+          treeRowChildren.setCssProps({ display: "none" });
         }
         e2.stopPropagation();
         collapsed = !collapsed;
@@ -17919,7 +18017,7 @@ var DeckListComponent = class {
 };
 
 // src/ui/obsidian-ui-components/content-container/deck-container/deck-list-header.tsx
-var import_obsidian18 = require("obsidian");
+var import_obsidian19 = require("obsidian");
 var DeckListHeaderComponent = class {
   constructor(parentEl, changeReviewMode, closeModal) {
     this.header = parentEl.createDiv();
@@ -17927,12 +18025,12 @@ var DeckListHeaderComponent = class {
     this.header.addClass("sr-header");
     this.deckIcon = this.header.createDiv();
     this.deckIcon.addClass("sr-deck-icon");
-    (0, import_obsidian18.setIcon)(this.deckIcon, "layers");
+    (0, import_obsidian19.setIcon)(this.deckIcon, "layers");
     this.title = this.header.createDiv();
     this.title.addClass("sr-title");
     this.title.setText(t("DECKS"));
     this.header.createDiv().addClass("sr-flex-spacer");
-    this.reviewModeDropdown = new import_obsidian18.DropdownComponent(this.header);
+    this.reviewModeDropdown = new import_obsidian19.DropdownComponent(this.header);
     const reviewModeOptions = {
       Review: t("REVIEW_MODE"),
       Cram: t("CRAM_MODE")
@@ -17947,9 +18045,9 @@ var DeckListHeaderComponent = class {
     if (closeModal === void 0) return;
     const closeButtonClasses = [
       "sr-modal-close-button",
-      EmulatedPlatform().isPhone || import_obsidian18.Platform.isPhone ? "mod-raised" : "clickable-icon"
+      EmulatedPlatform().isPhone || import_obsidian19.Platform.isPhone ? "mod-raised" : "clickable-icon"
     ];
-    if (EmulatedPlatform().isPhone || import_obsidian18.Platform.isPhone) {
+    if (EmulatedPlatform().isPhone || import_obsidian19.Platform.isPhone) {
       closeButtonClasses.push("mod-raised");
       closeButtonClasses.push("clickable-icon");
     }
@@ -18002,8 +18100,8 @@ var DeckContainer = class {
 };
 
 // src/ui/obsidian-ui-components/modals/edit-modal.tsx
-var import_obsidian19 = require("obsidian");
-var FlashcardEditModal = class _FlashcardEditModal extends import_obsidian19.Modal {
+var import_obsidian20 = require("obsidian");
+var FlashcardEditModal = class _FlashcardEditModal extends import_obsidian20.Modal {
   constructor(app, settings, currentCard, existingText, textDirection) {
     super(app);
     this.resolvePromise = null;
@@ -18077,7 +18175,7 @@ var FlashcardEditModal = class _FlashcardEditModal extends import_obsidian19.Mod
     }
     const response = this.contentEl.createDiv();
     response.addClass("sr-response");
-    const saveButton = new import_obsidian19.ButtonComponent(response);
+    const saveButton = new import_obsidian20.ButtonComponent(response);
     saveButton.setClass("sr-response-button");
     saveButton.setClass("sr-save-button");
     saveButton.setClass("sr-bg-green");
@@ -18088,7 +18186,7 @@ var FlashcardEditModal = class _FlashcardEditModal extends import_obsidian19.Mod
     const button = response.createEl("button");
     button.addClasses(["sr-response-button", "sr-dummy-button"]);
     button.setText("");
-    const cancelButton = new import_obsidian19.ButtonComponent(response);
+    const cancelButton = new import_obsidian20.ButtonComponent(response);
     cancelButton.setClass("sr-response-button");
     cancelButton.setClass("sr-cancel-button");
     cancelButton.setClass("sr-bg-red");
@@ -18401,8 +18499,8 @@ var ContentManager = class {
     if (this.reviewSequencer === null) return;
     const currentQuestion = this.reviewSequencer.currentQuestion;
     if (!currentQuestion) return;
-    if (!this.settings.openViewInNewTab && !(import_obsidian20.Platform.isMobile || EmulatedPlatform().isMobile) || !this.settings.openViewInNewTabMobile && (import_obsidian20.Platform.isMobile || EmulatedPlatform().isMobile)) {
-      new import_obsidian20.Notice("Note was opened in new tab in the background");
+    if (!this.settings.openViewInNewTab && !(import_obsidian21.Platform.isMobile || EmulatedPlatform().isMobile) || !this.settings.openViewInNewTabMobile && (import_obsidian21.Platform.isMobile || EmulatedPlatform().isMobile)) {
+      new import_obsidian21.Notice("Note was opened in new tab in the background");
     }
     const file = currentQuestion.note.file.tfile;
     const blockId = currentQuestion.questionText.obsidianBlockId;
@@ -18491,7 +18589,7 @@ var ContentManager = class {
 };
 
 // src/ui/obsidian-ui-components/item-views/sr-tab-view.tsx
-var SRTabView = class extends import_obsidian21.ItemView {
+var SRTabView = class extends import_obsidian22.ItemView {
   constructor(leaf, plugin, reviewQueueLoader) {
     super(leaf);
     this.reviewQueueLoader = null;
@@ -18508,18 +18606,11 @@ var SRTabView = class extends import_obsidian21.ItemView {
     this.viewContainerEl.addClass("sr-tab-view");
     this.viewContainerEl.addClass("sr-view");
     this.viewContentEl = this.viewContainerEl.createDiv("sr-tab-view-content");
-    if (import_obsidian21.Platform.isMobile || EmulatedPlatform().isMobile) {
-      this.viewContentEl.style.height = this.settings.flashcardHeightPercentageMobile + "%";
-      this.viewContentEl.style.maxHeight = this.settings.flashcardHeightPercentageMobile + "%";
-      this.viewContentEl.style.width = this.settings.flashcardWidthPercentageMobile + "%";
-      this.viewContentEl.style.maxWidth = this.settings.flashcardWidthPercentageMobile + "%";
-    } else {
-      this.viewContentEl.style.height = this.settings.flashcardHeightPercentage + "%";
-      this.viewContentEl.style.maxHeight = this.settings.flashcardHeightPercentage + "%";
-      this.viewContentEl.style.width = this.settings.flashcardWidthPercentage + "%";
-      this.viewContentEl.style.maxWidth = this.settings.flashcardWidthPercentage + "%";
-    }
-    if (this.settings.flashcardHeightPercentage < 100 || this.settings.flashcardWidthPercentage < 100) {
+    const isMobile = import_obsidian22.Platform.isMobile || EmulatedPlatform().isMobile;
+    const heightPercent = isMobile ? this.settings.flashcardHeightPercentageMobile : this.settings.flashcardHeightPercentage;
+    const widthPercent = isMobile ? this.settings.flashcardWidthPercentageMobile : this.settings.flashcardWidthPercentage;
+    this.setSize(widthPercent, heightPercent);
+    if (heightPercent < 100 || widthPercent < 100) {
       this.viewContentEl.addClass("sr-center-view");
     }
   }
@@ -18554,14 +18645,14 @@ var SRTabView = class extends import_obsidian21.ItemView {
   async onOpen() {
     if (this.viewContainerEl === null || this.viewContentEl === null || this.reviewQueueLoader === null)
       return;
-    if (document.body.classList.contains("is-mobile")) {
-      const mobileNavbar = document.getElementsByClassName("mobile-navbar")[0];
+    if (activeDocument.body.classList.contains("is-mobile")) {
+      const mobileNavbar = activeDocument.getElementsByClassName("mobile-navbar")[0];
       if (mobileNavbar) {
-        mobileNavbar.style.position = "relative";
+        mobileNavbar.setCssProps({ position: "relative" });
       }
     }
-    if (document.body.classList.contains("is-phone") && document.body.classList.contains("is-floating-nav")) {
-      document.body.style.setProperty(
+    if (activeDocument.body.classList.contains("is-phone") && activeDocument.body.classList.contains("is-floating-nav")) {
+      activeDocument.body.style.setProperty(
         "--view-bottom-fade-mask",
         "linear-gradient(to top, rgba(0, 0, 0, 0.5) 0%, #000000 calc(16px - 0px))"
       );
@@ -18581,30 +18672,39 @@ var SRTabView = class extends import_obsidian21.ItemView {
    * Ensures that resources associated with these views are properly released.
    */
   async onClose() {
-    if (document.body.classList.contains("is-mobile")) {
-      const mobileNavbar = document.getElementsByClassName("mobile-navbar")[0];
+    if (activeDocument.body.classList.contains("is-mobile")) {
+      const mobileNavbar = activeDocument.getElementsByClassName("mobile-navbar")[0];
       if (mobileNavbar) {
-        mobileNavbar.style.position = "unset";
+        mobileNavbar.setCssProps({ position: "unset" });
       }
     }
-    if (document.body.classList.contains("is-phone") && document.body.classList.contains("is-floating-nav")) {
-      document.body.style.setProperty(
+    if (activeDocument.body.classList.contains("is-phone") && activeDocument.body.classList.contains("is-floating-nav")) {
+      activeDocument.body.style.setProperty(
         "--view-bottom-fade-mask",
         "linear-gradient(to top, rgba(0, 0, 0, 0.5) 0%, #000000 calc(34px - 0px + 12px))"
       );
     }
     if (this.contentManager) this.contentManager.close();
   }
+  setSize(widthPercent, heightPercent) {
+    if (!this.viewContentEl) return;
+    this.viewContentEl.setCssProps({
+      width: widthPercent + "%",
+      "max-width": widthPercent + "%",
+      height: heightPercent + "%",
+      "max-height": heightPercent + "%"
+    });
+  }
 };
 
 // src/ui/obsidian-ui-components/modals/sr-modal-view.tsx
-var import_obsidian22 = require("obsidian");
-var SRModalView = class extends import_obsidian22.Modal {
+var import_obsidian23 = require("obsidian");
+var SRModalView = class extends import_obsidian23.Modal {
   constructor(app, plugin, settings, reviewQueueLoader) {
     super(app);
     this.resizeObserver = null;
     this.plugin = plugin;
-    if (import_obsidian22.Platform.isMobile || EmulatedPlatform().isMobile) {
+    if (import_obsidian23.Platform.isMobile || EmulatedPlatform().isMobile) {
       this.setModalSize(
         settings.flashcardHeightPercentageMobile,
         settings.flashcardWidthPercentageMobile
@@ -18650,21 +18750,17 @@ var SRModalView = class extends import_obsidian22.Modal {
     this.saveSizeToSettings(
       heightPercent,
       widthPercent,
-      import_obsidian22.Platform.isMobile || EmulatedPlatform().isMobile
+      import_obsidian23.Platform.isMobile || EmulatedPlatform().isMobile
     );
   }
   setRoundedModalCorners(rounded) {
-    if (rounded) {
-      this.modalEl.style.borderRadius = "var(--modal-radius)";
-    } else {
-      this.modalEl.style.borderRadius = "0";
-    }
+    this.modalEl.setCssProps({ "border-Radius": rounded ? "var(--modal-radius)" : "0" });
   }
   setModalSize(heightPercent, widthPercent) {
-    this.modalEl.style.height = heightPercent + "%";
-    this.modalEl.style.width = widthPercent + "%";
+    this.modalEl.setCssProps({ height: heightPercent + "%" });
+    this.modalEl.setCssProps({ width: widthPercent + "%" });
     this.setRoundedModalCorners(
-      !(parseInt(this.modalEl.style.height.split("%")[0]) >= 100 || parseInt(this.modalEl.style.width.split("%")[0]) >= 100)
+      !(parseInt(this.modalEl.getCssPropertyValue("height").split("%")[0]) >= 100 || parseInt(this.modalEl.getCssPropertyValue("width").split("%")[0]) >= 100)
     );
   }
   async saveSizeToSettings(heightPercent, widthPercent, isMobile) {
@@ -18681,13 +18777,13 @@ var SRModalView = class extends import_obsidian22.Modal {
 };
 
 // src/ui/obsidian-ui-components/settings-tab.tsx
-var import_obsidian32 = require("obsidian");
+var import_obsidian33 = require("obsidian");
 
 // src/ui/obsidian-ui-components/content-container/settings-page/data-page.tsx
-var import_obsidian24 = require("obsidian");
+var import_obsidian25 = require("obsidian");
 
 // src/ui/obsidian-ui-components/content-container/settings-page/settings-page.tsx
-var import_obsidian23 = require("obsidian");
+var import_obsidian24 = require("obsidian");
 var SettingsPage = class {
   constructor(pageContainerEl, plugin, pageType, applySettingsUpdate, display, openPage, scrollListener) {
     this.plugin = plugin;
@@ -18705,7 +18801,7 @@ var SettingsPage = class {
       this.backToMainPage();
     });
     if (pageType === "main-page") this.pageHeaderEl.addClass("sr-is-hidden");
-    this.backButton = new import_obsidian23.ButtonComponent(this.pageHeaderEl);
+    this.backButton = new import_obsidian24.ButtonComponent(this.pageHeaderEl);
     this.backButton.setClass("sr-settings-page-back-button");
     this.backButton.setClass("clickable-icon");
     this.backButton.setIcon("chevron-left");
@@ -18716,10 +18812,10 @@ var SettingsPage = class {
     this.titleWrapperEl.addClass("sr-settings-page-title-wrapper");
     this.titleIconEl = this.titleWrapperEl.createDiv();
     this.titleIconEl.addClass("sr-settings-page-title-icon");
-    (0, import_obsidian23.setIcon)(this.titleIconEl, getPageIcon(pageType));
+    (0, import_obsidian24.setIcon)(this.titleIconEl, getPageIcon(pageType));
     this.titleEl = this.titleWrapperEl.createDiv();
     this.titleEl.addClass("sr-settings-page-title");
-    this.titleEl.insertAdjacentHTML("beforeend", getPageName(pageType));
+    this.titleEl.setText(getPageName(pageType));
     this.containerEl = this.pageContainerEl.createDiv();
     this.containerEl.addClass("sr-settings-page-content");
     this.containerEl.addEventListener("scroll", (_2) => {
@@ -18801,7 +18897,7 @@ var DataPage = class extends SettingsPage {
       openPage,
       scrollListener
     );
-    new import_obsidian24.SettingGroup(this.containerEl).setHeading(t("GROUP_DATA_STORAGE")).addSetting((setting) => {
+    new import_obsidian25.SettingGroup(this.containerEl).setHeading(t("GROUP_DATA_STORAGE")).addSetting((setting) => {
       setting.setName(t("GROUP_DATA_STORAGE")).setDesc(t("GROUP_DATA_STORAGE_DESC")).addDropdown(
         (dropdown) => dropdown.addOptions({
           NOTES: t("STORE_IN_NOTES")
@@ -18818,7 +18914,7 @@ var DataPage = class extends SettingsPage {
         })
       );
     });
-    new import_obsidian24.SettingGroup(this.containerEl).setHeading(t("DELETE_SCHEDULING_DATA_ALL")).addSetting((setting) => {
+    new import_obsidian25.SettingGroup(this.containerEl).setHeading(t("DELETE_SCHEDULING_DATA_ALL")).addSetting((setting) => {
       setting.setName(t("DELETE_TAGS_WHEN_DELETING_SCHEDULING_DATA")).setDesc(t("DELETE_TAGS_WHEN_DELETING_SCHEDULING_DATA_DESC")).addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.deleteTagsOnSchedulingDataDeletion).onChange(async (value) => {
           this.plugin.data.settings.deleteTagsOnSchedulingDataDeletion = value;
@@ -18878,7 +18974,7 @@ var DataPage = class extends SettingsPage {
         });
       });
     });
-    new import_obsidian24.SettingGroup(this.containerEl).setHeading(t("GROUP_RESET_SETTINGS")).addSetting((setting) => {
+    new import_obsidian25.SettingGroup(this.containerEl).setHeading(t("GROUP_RESET_SETTINGS")).addSetting((setting) => {
       setting.setName(t("GROUP_RESET_SETTINGS")).setDesc(t("GROUP_RESET_SETTINGS_DESC")).addButton((button) => {
         button.setButtonText(t("RESET_SETTINGS")).setClass("mod-warning").onClick(async () => {
           new ConfirmationModal(
@@ -18899,7 +18995,7 @@ var DataPage = class extends SettingsPage {
 };
 
 // src/ui/obsidian-ui-components/content-container/settings-page/flashcards-page.tsx
-var import_obsidian25 = require("obsidian");
+var import_obsidian26 = require("obsidian");
 var FlashcardsPage = class extends SettingsPage {
   constructor(pageContainerEl, plugin, pageType, didReadMultilineEndMarkerWarning, applySettingsUpdate, display, openPage, scrollListener, changeMultilineEndMarkerWarningState) {
     super(
@@ -18911,7 +19007,7 @@ var FlashcardsPage = class extends SettingsPage {
       openPage,
       scrollListener
     );
-    new import_obsidian25.SettingGroup(this.containerEl).setHeading(t("GROUP_TAGS_FOLDERS")).addSetting((setting) => {
+    new import_obsidian26.SettingGroup(this.containerEl).setHeading(t("GROUP_TAGS_FOLDERS")).addSetting((setting) => {
       setting.setName(t("FLASHCARD_TAGS")).setDesc(t("FLASHCARD_TAGS_DESC")).addTextArea(
         (text) => text.setValue(this.plugin.data.settings.flashcardTags.join(" ")).onChange((value) => {
           applySettingsUpdate(async () => {
@@ -18953,7 +19049,7 @@ var FlashcardsPage = class extends SettingsPage {
         })
       );
     });
-    new import_obsidian25.SettingGroup(this.containerEl).setHeading(t("GROUP_FLASHCARD_REVIEW")).addSetting((setting) => {
+    new import_obsidian26.SettingGroup(this.containerEl).setHeading(t("GROUP_FLASHCARD_REVIEW")).addSetting((setting) => {
       setting.setName(t("BURY_SIBLINGS_TILL_NEXT_DAY")).setDesc(t("BURY_SIBLINGS_TILL_NEXT_DAY_DESC")).addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.burySiblingCards).onChange(async (value) => {
           this.plugin.data.settings.burySiblingCards = value;
@@ -19000,16 +19096,20 @@ var FlashcardsPage = class extends SettingsPage {
         })
       );
     });
-    new import_obsidian25.SettingGroup(this.containerEl).setHeading(t("GROUP_FLASHCARD_SEPARATORS")).addSetting((setting) => {
+    new import_obsidian26.SettingGroup(this.containerEl).setHeading(t("GROUP_FLASHCARD_SEPARATORS")).addSetting((setting) => {
       const convertHighlightsToClozesEl = setting.setName(
         t("CONVERT_HIGHLIGHTS_TO_CLOZES")
       );
-      convertHighlightsToClozesEl.descEl.insertAdjacentHTML(
-        "beforeend",
-        t("CONVERT_HIGHLIGHTS_TO_CLOZES_DESC", {
+      const elements = tHTML(
+        "CONVERT_HIGHLIGHTS_TO_CLOZES_DESC",
+        {
           defaultPattern: "==[123;;]answer[;;hint]=="
-        })
+        }
       );
+      setting.descEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.descEl.append(elements[i2]);
+      }
       convertHighlightsToClozesEl.addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.convertHighlightsToClozes).onChange(async (value) => {
           const defaultHightlightPattern = "==[123;;]answer[;;hint]==";
@@ -19029,12 +19129,13 @@ var FlashcardsPage = class extends SettingsPage {
       );
     }).addSetting((setting) => {
       const convertBoldTextToClozesEl = setting.setName(t("CONVERT_BOLD_TEXT_TO_CLOZES"));
-      convertBoldTextToClozesEl.descEl.insertAdjacentHTML(
-        "beforeend",
-        t("CONVERT_BOLD_TEXT_TO_CLOZES_DESC", {
-          defaultPattern: "**[123;;]answer[;;hint]**"
-        })
-      );
+      const elements = tHTML("CONVERT_BOLD_TEXT_TO_CLOZES_DESC", {
+        defaultPattern: "**[123;;]answer[;;hint]**"
+      });
+      setting.descEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.descEl.append(elements[i2]);
+      }
       convertBoldTextToClozesEl.addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.convertBoldTextToClozes).onChange(async (value) => {
           const defaultBoldPattern = "**[123;;]answer[;;hint]**";
@@ -19056,12 +19157,16 @@ var FlashcardsPage = class extends SettingsPage {
       const convertCurlyBracketsToClozesEl = setting.setName(
         t("CONVERT_CURLY_BRACKETS_TO_CLOZES")
       );
-      convertCurlyBracketsToClozesEl.descEl.insertAdjacentHTML(
-        "beforeend",
-        t("CONVERT_CURLY_BRACKETS_TO_CLOZES_DESC", {
+      const elements = tHTML(
+        "CONVERT_CURLY_BRACKETS_TO_CLOZES_DESC",
+        {
           defaultPattern: "{{[123;;]answer[;;hint]}}"
-        })
+        }
       );
+      setting.descEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.descEl.append(elements[i2]);
+      }
       convertCurlyBracketsToClozesEl.addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.convertCurlyBracketsToClozes).onChange(async (value) => {
           const defaultCurlyBracketsPattern = "{{[123;;]answer[;;hint]}}";
@@ -19081,12 +19186,13 @@ var FlashcardsPage = class extends SettingsPage {
       );
     }).addSetting((setting) => {
       const clozePatterns = setting.setName(t("CLOZE_PATTERNS"));
-      clozePatterns.descEl.insertAdjacentHTML(
-        "beforeend",
-        t("CLOZE_PATTERNS_DESC", {
-          docsUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/flashcards/cloze-cards/#cloze-types"
-        })
-      );
+      const elements = tHTML("CLOZE_PATTERNS_DESC", {
+        docsUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/flashcards/cloze-cards/#cloze-types"
+      });
+      setting.descEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.descEl.append(elements[i2]);
+      }
       clozePatterns.addTextArea(
         (text) => text.setPlaceholder(
           "Example:\n==[123;;]answer[;;hint]==\n**[123;;]answer[;;hint]**\n{{[123;;]answer[;;hint]}}"
@@ -19215,13 +19321,13 @@ var FlashcardsPage = class extends SettingsPage {
 };
 
 // src/ui/obsidian-ui-components/content-container/settings-page/main-page.tsx
-var import_obsidian26 = require("obsidian");
+var import_obsidian27 = require("obsidian");
 var MainPage = class extends SettingsPage {
   constructor(pageContainerEl, plugin, pageType, display, openPage, scrollListener) {
     super(pageContainerEl, plugin, pageType, () => {
     }, display, openPage, scrollListener);
     this.containerEl.addClass("sr-main-page");
-    const mainSettingsGroup = new import_obsidian26.SettingGroup(this.containerEl).setHeading(
+    const mainSettingsGroup = new import_obsidian27.SettingGroup(this.containerEl).setHeading(
       t("SETTINGS_TAB_HEADING")
     );
     SettingsPageTypesArray.forEach((pageType2) => {
@@ -19234,9 +19340,9 @@ var MainPage = class extends SettingsPage {
           });
           button.buttonEl.addClass("clickable-icon");
         });
-        const iconEl = document.createElement("div");
+        const iconEl = activeDocument.createElement("div");
         iconEl.addClass("sr-settings-page-title-icon");
-        (0, import_obsidian26.setIcon)(iconEl, getPageIcon(pageType2));
+        (0, import_obsidian27.setIcon)(iconEl, getPageIcon(pageType2));
         setting.nameEl.insertBefore(iconEl, setting.nameEl.firstChild);
         setting.nameEl.addClass("sr-settings-page-title");
         setting.settingEl.addClass("sr-settings-page-title-setting");
@@ -19245,16 +19351,16 @@ var MainPage = class extends SettingsPage {
         });
       });
     });
-    new import_obsidian26.SettingGroup(this.containerEl).setHeading(t("INFO")).addSetting((setting) => {
+    new import_obsidian27.SettingGroup(this.containerEl).setHeading(t("INFO")).addSetting((setting) => {
       setting.setName(getPageName("statistics-page")).addButton((button) => {
         button.setIcon("chevron-right").onClick(() => {
           this.openPage("statistics-page");
         });
         button.buttonEl.addClass("clickable-icon");
       });
-      const iconEl = document.createElement("div");
+      const iconEl = activeDocument.createElement("div");
       iconEl.addClass("sr-settings-page-title-icon");
-      (0, import_obsidian26.setIcon)(iconEl, getPageIcon("statistics-page"));
+      (0, import_obsidian27.setIcon)(iconEl, getPageIcon("statistics-page"));
       setting.nameEl.insertBefore(iconEl, setting.nameEl.firstChild);
       setting.nameEl.addClass("sr-settings-page-title");
       setting.settingEl.addClass("sr-settings-page-title-setting");
@@ -19262,64 +19368,72 @@ var MainPage = class extends SettingsPage {
         this.openPage("statistics-page");
       });
     }).addSetting((setting) => {
-      setting.infoEl.insertAdjacentHTML(
-        "beforeend",
-        t("CHECK_WIKI", {
-          wikiUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/"
-        })
-      );
+      const elements = tHTML("CHECK_WIKI", {
+        wikiUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/"
+      });
+      setting.infoEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.infoEl.append(elements[i2]);
+      }
     }).addSetting((setting) => {
-      setting.infoEl.insertAdjacentHTML(
-        "beforeend",
-        t("CHECK_ROADMAP", {
-          roadMapUrl: "https://github.com/users/st3v3nmw/projects/6"
-        })
-      );
+      const elements = tHTML("CHECK_ROADMAP", {
+        roadMapUrl: "https://github.com/users/st3v3nmw/projects/6"
+      });
+      setting.infoEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.infoEl.append(elements[i2]);
+      }
     }).addSetting((setting) => {
-      setting.infoEl.insertAdjacentHTML(
-        "beforeend",
-        t("CHECK_DEV_NEWS", {
-          devNewsUrl: "https://github.com/st3v3nmw/obsidian-spaced-repetition/discussions/categories/development-news"
-        })
-      );
+      const elements = tHTML("CHECK_DEV_NEWS", {
+        devNewsUrl: "https://github.com/st3v3nmw/obsidian-spaced-repetition/discussions/categories/development-news"
+      });
+      setting.infoEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.infoEl.append(elements[i2]);
+      }
     });
-    new import_obsidian26.SettingGroup(this.containerEl).setHeading(t("HELP") + " & " + t("GROUP_CONTRIBUTING")).addSetting((setting) => {
-      setting.infoEl.insertAdjacentHTML(
-        "beforeend",
-        t("GITHUB_DISCUSSIONS", {
-          discussionsUrl: "https://github.com/st3v3nmw/obsidian-spaced-repetition/discussions/"
-        })
-      );
+    new import_obsidian27.SettingGroup(this.containerEl).setHeading(t("HELP") + " & " + t("GROUP_CONTRIBUTING")).addSetting((setting) => {
+      const elements = tHTML("GITHUB_DISCUSSIONS", {
+        discussionsUrl: "https://github.com/st3v3nmw/obsidian-spaced-repetition/discussions/"
+      });
+      setting.infoEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.infoEl.append(elements[i2]);
+      }
     }).addSetting((setting) => {
-      setting.infoEl.insertAdjacentHTML(
-        "beforeend",
-        t("GITHUB_ISSUES", {
-          issuesUrl: "https://github.com/st3v3nmw/obsidian-spaced-repetition/issues/"
-        })
-      );
+      const elements = tHTML("GITHUB_ISSUES", {
+        issuesUrl: "https://github.com/st3v3nmw/obsidian-spaced-repetition/issues/"
+      });
+      setting.infoEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.infoEl.append(elements[i2]);
+      }
     }).addSetting((setting) => {
-      setting.infoEl.insertAdjacentHTML(
-        "beforeend",
-        t("GITHUB_SOURCE_CODE", {
-          githubProjectUrl: "https://github.com/st3v3nmw/obsidian-spaced-repetition"
-        })
-      );
+      const elements = tHTML("GITHUB_SOURCE_CODE", {
+        githubProjectUrl: "https://github.com/st3v3nmw/obsidian-spaced-repetition"
+      });
+      setting.infoEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.infoEl.append(elements[i2]);
+      }
     }).addSetting((setting) => {
-      setting.infoEl.insertAdjacentHTML(
-        "beforeend",
-        t("CODE_CONTRIBUTION_INFO", {
-          codeContributionUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/contributing/#code"
-        })
-      );
+      const elements = tHTML("CODE_CONTRIBUTION_INFO", {
+        codeContributionUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/contributing/#code"
+      });
+      setting.infoEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.infoEl.append(elements[i2]);
+      }
     }).addSetting((setting) => {
-      setting.infoEl.insertAdjacentHTML(
-        "beforeend",
-        t("TRANSLATION_CONTRIBUTION_INFO", {
-          translationContributionUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/contributing/#translating"
-        })
-      );
+      const elements = tHTML("TRANSLATION_CONTRIBUTION_INFO", {
+        translationContributionUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/contributing/#translating"
+      });
+      setting.infoEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.infoEl.append(elements[i2]);
+      }
     });
-    new import_obsidian26.SettingGroup(this.containerEl).setHeading(t("LOGGING")).addSetting((setting) => {
+    new import_obsidian27.SettingGroup(this.containerEl).setHeading(t("LOGGING")).addSetting((setting) => {
       setting.setName(t("DISPLAY_SCHEDULING_DEBUG_INFO")).addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.showSchedulingDebugMessages).onChange(async (value) => {
           this.plugin.data.settings.showSchedulingDebugMessages = value;
@@ -19339,7 +19453,7 @@ var MainPage = class extends SettingsPage {
 };
 
 // src/ui/obsidian-ui-components/content-container/settings-page/notes-page.tsx
-var import_obsidian27 = require("obsidian");
+var import_obsidian28 = require("obsidian");
 var NotesPage = class extends SettingsPage {
   constructor(pageContainerEl, plugin, pageType, applySettingsUpdate, display, openPage, scrollListener) {
     super(
@@ -19351,7 +19465,7 @@ var NotesPage = class extends SettingsPage {
       openPage,
       scrollListener
     );
-    new import_obsidian27.SettingGroup(this.containerEl).setHeading(t("GROUP_TAGS_FOLDERS")).addSetting((setting) => {
+    new import_obsidian28.SettingGroup(this.containerEl).setHeading(t("GROUP_TAGS_FOLDERS")).addSetting((setting) => {
       setting.setName(t("TAGS_TO_REVIEW")).setDesc(t("TAGS_TO_REVIEW_DESC")).addTextArea(
         (text) => text.setValue(this.plugin.data.settings.tagsToReview.join(" ")).onChange((value) => {
           applySettingsUpdate(async () => {
@@ -19379,7 +19493,7 @@ var NotesPage = class extends SettingsPage {
         })
       );
     });
-    new import_obsidian27.SettingGroup(this.containerEl).setHeading(t("NOTES_REVIEW_QUEUE")).addSetting((setting) => {
+    new import_obsidian28.SettingGroup(this.containerEl).setHeading(t("NOTES_REVIEW_QUEUE")).addSetting((setting) => {
       setting.setName(t("DATE_FORMAT_FOR_NOTE_REVIEW_QUEUE")).addExtraButton((button) => {
         button.setIcon("reset").setTooltip(t("RESET_DEFAULT")).onClick(async () => {
           this.plugin.data.settings.preferredDateFormatForNoteReviewQueue = DEFAULT_SETTINGS.preferredDateFormatForNoteReviewQueue;
@@ -19396,12 +19510,16 @@ var NotesPage = class extends SettingsPage {
           });
         })
       );
-      setting.descEl.insertAdjacentHTML(
-        "beforeend",
-        t("DATE_FORMAT_FOR_NOTE_REVIEW_QUEUE_DESC", {
+      const elements = tHTML(
+        "DATE_FORMAT_FOR_NOTE_REVIEW_QUEUE_DESC",
+        {
           docsUrl: "https://momentjs.com/docs/#/displaying/format/"
-        })
+        }
       );
+      setting.descEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        setting.descEl.append(elements[i2]);
+      }
     }).addSetting((setting) => {
       setting.setName(t("AUTO_NEXT_NOTE")).addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.autoNextNote).onChange(async (value) => {
@@ -19436,7 +19554,7 @@ var NotesPage = class extends SettingsPage {
             const numValue = Number.parseInt(value);
             if (!isNaN(numValue)) {
               if (numValue < 1) {
-                new import_obsidian27.Notice(t("MIN_ONE_DAY"));
+                new import_obsidian28.Notice(t("MIN_ONE_DAY"));
                 text.setValue(
                   this.plugin.data.settings.maxNDaysNotesReviewQueue.toString()
                 );
@@ -19445,7 +19563,7 @@ var NotesPage = class extends SettingsPage {
               this.plugin.data.settings.maxNDaysNotesReviewQueue = numValue;
               await this.plugin.savePluginData();
             } else {
-              new import_obsidian27.Notice(t("VALID_NUMBER_WARNING"));
+              new import_obsidian28.Notice(t("VALID_NUMBER_WARNING"));
             }
           });
         })
@@ -19455,7 +19573,7 @@ var NotesPage = class extends SettingsPage {
 };
 
 // src/ui/obsidian-ui-components/content-container/settings-page/scheduling-page.tsx
-var import_obsidian28 = require("obsidian");
+var import_obsidian29 = require("obsidian");
 var SchedulingPage = class extends SettingsPage {
   async setAlgorithm(algorithm) {
     this.plugin.data.settings.algorithm = algorithm;
@@ -19473,7 +19591,7 @@ var SchedulingPage = class extends SettingsPage {
       openPage,
       scrollListener
     );
-    const algorithmGroup = new import_obsidian28.SettingGroup(this.containerEl).setHeading(t("ALGORITHM"));
+    const algorithmGroup = new import_obsidian29.SettingGroup(this.containerEl).setHeading(t("ALGORITHM"));
     algorithmGroup.addSetting((setting) => {
       const algoSettingEl = setting.setName(t("ALGORITHM")).setDesc("").addDropdown(
         (dropdown) => dropdown.addOptions({
@@ -19501,12 +19619,13 @@ var SchedulingPage = class extends SettingsPage {
           await this.setAlgorithm(selectedAlgorithm);
         })
       );
-      algoSettingEl.descEl.insertAdjacentHTML(
-        "beforeend",
-        t("CHECK_ALGORITHM_WIKI", {
-          algoUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/algorithms/"
-        })
-      );
+      const elements = tHTML("CHECK_ALGORITHM_WIKI", {
+        algoUrl: "https://stephenmwangi.com/obsidian-spaced-repetition/algorithms/"
+      });
+      algoSettingEl.descEl.empty();
+      for (let i2 = 0; i2 < elements.length; i2++) {
+        algoSettingEl.descEl.append(elements[i2]);
+      }
     });
     algorithmGroup.addSetting((setting) => {
       setting.setName("Flashcard algorithm scope").setDesc(
@@ -19526,7 +19645,7 @@ var SchedulingPage = class extends SettingsPage {
             applySettingsUpdate(async () => {
               const numValue = Number.parseFloat(value);
               if (Number.isNaN(numValue) || numValue <= 0 || numValue > 1) {
-                new import_obsidian28.Notice(
+                new import_obsidian29.Notice(
                   "FSRS desired retention must be between 0 and 1."
                 );
                 text.setValue(
@@ -19555,7 +19674,7 @@ var SchedulingPage = class extends SettingsPage {
               const numValue = Number.parseInt(value);
               if (!isNaN(numValue)) {
                 if (numValue < 130) {
-                  new import_obsidian28.Notice(t("BASE_EASE_MIN_WARNING"));
+                  new import_obsidian29.Notice(t("BASE_EASE_MIN_WARNING"));
                   text.setValue(
                     this.plugin.data.settings.baseEase.toString()
                   );
@@ -19564,7 +19683,7 @@ var SchedulingPage = class extends SettingsPage {
                 this.plugin.data.settings.baseEase = numValue;
                 await this.plugin.savePluginData();
               } else {
-                new import_obsidian28.Notice(t("VALID_NUMBER_WARNING"));
+                new import_obsidian29.Notice(t("VALID_NUMBER_WARNING"));
               }
             });
           })
@@ -19608,7 +19727,7 @@ var SchedulingPage = class extends SettingsPage {
               const numValue = Number.parseInt(value) / 100;
               if (!isNaN(numValue)) {
                 if (numValue < 1) {
-                  new import_obsidian28.Notice(t("EASY_BONUS_MIN_WARNING"));
+                  new import_obsidian29.Notice(t("EASY_BONUS_MIN_WARNING"));
                   text.setValue(
                     (this.plugin.data.settings.easyBonus * 100).toString()
                   );
@@ -19617,7 +19736,7 @@ var SchedulingPage = class extends SettingsPage {
                 this.plugin.data.settings.easyBonus = numValue;
                 await this.plugin.savePluginData();
               } else {
-                new import_obsidian28.Notice(t("VALID_NUMBER_WARNING"));
+                new import_obsidian29.Notice(t("VALID_NUMBER_WARNING"));
               }
             });
           })
@@ -19644,7 +19763,7 @@ var SchedulingPage = class extends SettingsPage {
             const numValue = Number.parseInt(value);
             if (!isNaN(numValue)) {
               if (numValue < 1) {
-                new import_obsidian28.Notice(t("MAX_INTERVAL_MIN_WARNING"));
+                new import_obsidian29.Notice(t("MAX_INTERVAL_MIN_WARNING"));
                 text.setValue(
                   this.plugin.data.settings.maximumInterval.toString()
                 );
@@ -19653,7 +19772,7 @@ var SchedulingPage = class extends SettingsPage {
               this.plugin.data.settings.maximumInterval = numValue;
               await this.plugin.savePluginData();
             } else {
-              new import_obsidian28.Notice(t("VALID_NUMBER_WARNING"));
+              new import_obsidian29.Notice(t("VALID_NUMBER_WARNING"));
             }
           });
         })
@@ -19670,7 +19789,7 @@ var SchedulingPage = class extends SettingsPage {
           applySettingsUpdate(async () => {
             const dayBoundary = DateUtil.strToDayBoundary(value);
             if (dayBoundary === null) {
-              new import_obsidian28.Notice(t("INVALID_START_OF_DAY_WARNING"));
+              new import_obsidian29.Notice(t("INVALID_START_OF_DAY_WARNING"));
               return;
             } else {
               this.plugin.data.settings.startOfDay = value;
@@ -20083,7 +20202,7 @@ function rgbString(v2) {
 }
 var to = (v2) => v2 <= 31308e-7 ? v2 * 12.92 : Math.pow(v2, 1 / 2.4) * 1.055 - 0.055;
 var from = (v2) => v2 <= 0.04045 ? v2 / 12.92 : Math.pow((v2 + 0.055) / 1.055, 2.4);
-function interpolate2(rgb1, rgb2, t3) {
+function interpolate(rgb1, rgb2, t3) {
   const r2 = from(b2n(rgb1.r));
   const g2 = from(b2n(rgb1.g));
   const b2 = from(b2n(rgb1.b));
@@ -20185,7 +20304,7 @@ var Color = class _Color {
   }
   interpolate(color2, t3) {
     if (color2) {
-      this._rgb = interpolate2(this._rgb, color2._rgb, t3);
+      this._rgb = interpolate(this._rgb, color2._rgb, t3);
     }
     return this;
   }
@@ -20865,18 +20984,18 @@ function applyLayoutsDefaults(defaults3) {
   });
 }
 var intlCache = /* @__PURE__ */ new Map();
-function getNumberFormat(locale2, options) {
+function getNumberFormat(locale, options) {
   options = options || {};
-  const cacheKey = locale2 + JSON.stringify(options);
+  const cacheKey = locale + JSON.stringify(options);
   let formatter = intlCache.get(cacheKey);
   if (!formatter) {
-    formatter = new Intl.NumberFormat(locale2, options);
+    formatter = new Intl.NumberFormat(locale, options);
     intlCache.set(cacheKey, formatter);
   }
   return formatter;
 }
-function formatNumber(num, locale2, options) {
-  return getNumberFormat(locale2, options).format(num);
+function formatNumber(num, locale, options) {
+  return getNumberFormat(locale, options).format(num);
 }
 var formatters = {
   values(value) {
@@ -20886,7 +21005,7 @@ var formatters = {
     if (tickValue === 0) {
       return "0";
     }
-    const locale2 = this.chart.options.locale;
+    const locale = this.chart.options.locale;
     let notation;
     let delta = tickValue;
     if (ticks.length > 1) {
@@ -20904,7 +21023,7 @@ var formatters = {
       maximumFractionDigits: numDecimal
     };
     Object.assign(options, this.options.ticks.format);
-    return formatNumber(tickValue, locale2, options);
+    return formatNumber(tickValue, locale, options);
   },
   logarithmic(tickValue, index, ticks) {
     if (tickValue === 0) {
@@ -31545,7 +31664,7 @@ __publicField(TimeScale, "defaults", {
     }
   }
 });
-function interpolate3(table, val, reverse) {
+function interpolate2(table, val, reverse) {
   let lo = 0;
   let hi2 = table.length - 1;
   let prevSource, nextSource, prevTarget, nextTarget;
@@ -31575,8 +31694,8 @@ var TimeSeriesScale = class extends TimeScale {
   initOffsets() {
     const timestamps = this._getTimestampsForTable();
     const table = this._table = this.buildLookupTable(timestamps);
-    this._minPos = interpolate3(table, this.min);
-    this._tableRange = interpolate3(table, this.max) - this._minPos;
+    this._minPos = interpolate2(table, this.min);
+    this._tableRange = interpolate2(table, this.max) - this._minPos;
     super.initOffsets(timestamps);
   }
   buildLookupTable(timestamps) {
@@ -31643,23 +31762,23 @@ var TimeSeriesScale = class extends TimeScale {
     return timestamps;
   }
   getDecimalForValue(value) {
-    return (interpolate3(this._table, value) - this._minPos) / this._tableRange;
+    return (interpolate2(this._table, value) - this._minPos) / this._tableRange;
   }
   getValueForPixel(pixel) {
     const offsets = this._offsets;
     const decimal = this.getDecimalForPixel(pixel) / offsets.factor - offsets.end;
-    return interpolate3(this._table, decimal * this._tableRange + this._minPos, true);
+    return interpolate2(this._table, decimal * this._tableRange + this._minPos, true);
   }
 };
 __publicField(TimeSeriesScale, "id", "timeseries");
 __publicField(TimeSeriesScale, "defaults", TimeScale.defaults);
 
 // src/ui/obsidian-ui-components/content-container/settings-page/statistics-page/statistics-page.tsx
-var import_obsidian30 = require("obsidian");
+var import_obsidian31 = require("obsidian");
 
 // src/ui/obsidian-ui-components/content-container/settings-page/statistics-page/settings-item-override-component.tsx
-var import_obsidian29 = require("obsidian");
-var SettingsItemOverrideComponent = class extends import_obsidian29.BaseComponent {
+var import_obsidian30 = require("obsidian");
+var SettingsItemOverrideComponent = class extends import_obsidian30.BaseComponent {
   constructor(parentContainerEl) {
     super();
     parentContainerEl.addClass("sr-setting-override");
@@ -31684,7 +31803,7 @@ var ChartComponent = class extends SettingsItemOverrideComponent {
     this.canvasEl.id = canvasId;
     this.summaryEl = this.containerEl.createDiv();
     this.summaryEl.id = summaryId;
-    const style = getComputedStyle(document.body);
+    const style = getComputedStyle(activeDocument.body);
     const textColor = style.getPropertyValue("--text-normal");
     let scales = {};
     let backgroundColor = ["#2196f3"];
@@ -31709,7 +31828,7 @@ var ChartComponent = class extends SettingsItemOverrideComponent {
       backgroundColor = ["#2196f3", "#4caf50", "green"];
     }
     const shouldFilter = canvasId === "forecastChart" || canvasId === "intervalsChart";
-    const statsChart = new Chart(document.getElementById(canvasId), {
+    const statsChart = new Chart(activeDocument.getElementById(canvasId), {
       type,
       data: {
         labels: shouldFilter ? labels.slice(0, 31) : labels,
@@ -31755,7 +31874,9 @@ var ChartComponent = class extends SettingsItemOverrideComponent {
       }
     });
     if (shouldFilter) {
-      const chartPeriodEl = document.getElementById("sr-chart-period");
+      const chartPeriodEl = activeDocument.getElementById(
+        "sr-chart-period"
+      );
       chartPeriodEl.addEventListener("change", () => {
         let filteredLabels, filteredData;
         const chartPeriod = chartPeriodEl.value;
@@ -31782,8 +31903,15 @@ var ChartComponent = class extends SettingsItemOverrideComponent {
         statsChart.update();
       });
     }
-    document.getElementById(`${canvasId}Summary`).innerText = summary;
-    document.getElementById(`${canvasId}Summary`).style.textAlign = canvasId === "cardTypesChart" ? "right" : "center";
+    const canvasSummary = activeDocument.getElementById(
+      `${canvasId}Summary`
+    );
+    if (canvasSummary) {
+      canvasSummary.setText(summary);
+      canvasSummary.setCssProps({
+        "text-align": canvasId === "cardTypesChart" ? "right" : "center"
+      });
+    }
     this.chart = statsChart;
   }
   destroy() {
@@ -33498,7 +33626,7 @@ var StatisticsPage = class extends SettingsPage {
     );
     this.containerEl.addClass("sr-statistics-page");
     this.plugin = plugin;
-    new import_obsidian30.Setting(this.containerEl).setName(t("PERIOD_TITLE")).setDesc(t("PERIOD_DESC")).addDropdown((el) => {
+    new import_obsidian31.Setting(this.containerEl).setName(t("PERIOD_TITLE")).setDesc(t("PERIOD_DESC")).addDropdown((el) => {
       el.addOption("month", t("MONTH")).addOption("quarter", t("QUARTER")).addOption("year", t("YEAR")).addOption("lifetime", t("LIFETIME")).setValue("month");
       el.selectEl.setAttr("id", "sr-chart-period");
     });
@@ -33537,7 +33665,7 @@ var StatisticsPage = class extends SettingsPage {
     }
     const scheduledCount = cardStats.youngCount + cardStats.matureCount;
     maxN = Math.max(maxN, 1);
-    new import_obsidian30.SettingGroup(this.containerEl).setHeading(t("FORECAST")).addSetting((setting) => {
+    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("FORECAST")).addSetting((setting) => {
       this.forecastChart = new ChartComponent(
         setting.settingEl,
         "forecastChart",
@@ -33562,7 +33690,7 @@ var StatisticsPage = class extends SettingsPage {
       false
     );
     const longestInterval = textInterval(cardStats.intervals.getMaxValue(), false);
-    new import_obsidian30.SettingGroup(this.containerEl).setHeading(t("INTERVALS")).addSetting((setting) => {
+    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("INTERVALS")).addSetting((setting) => {
       this.intervalsChart = new ChartComponent(
         setting.settingEl,
         "intervalsChart",
@@ -33584,7 +33712,7 @@ var StatisticsPage = class extends SettingsPage {
       cardStats.eases.clearCountIfMissing(ease);
     }
     const averageEase = Math.round(cardStats.eases.getTotalOfValueMultiplyCount() / scheduledCount) || 0;
-    new import_obsidian30.SettingGroup(this.containerEl).setHeading(t("EASES")).addSetting((setting) => {
+    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("EASES")).addSetting((setting) => {
       this.easesChart = new ChartComponent(
         setting.settingEl,
         "easesChart",
@@ -33605,7 +33733,7 @@ var StatisticsPage = class extends SettingsPage {
       2 /* All */,
       true
     );
-    new import_obsidian30.SettingGroup(this.containerEl).setHeading(t("CARD_TYPES")).addSetting((setting) => {
+    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("CARD_TYPES")).addSetting((setting) => {
       this.cardTypesChart = new ChartComponent(
         setting.settingEl,
         "cardTypesChart",
@@ -33633,7 +33761,7 @@ var StatisticsPage = class extends SettingsPage {
         return [key.split(".")[0], Math.round(value)];
       }
     );
-    new import_obsidian30.SettingGroup(this.containerEl).setHeading(t("NOTES")).addSetting((setting) => {
+    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("NOTES")).addSetting((setting) => {
       this.noteStatsGrid = new NoteStatsComponent(setting.settingEl, noteEases);
       return this.noteStatsGrid;
     });
@@ -33641,7 +33769,7 @@ var StatisticsPage = class extends SettingsPage {
 };
 
 // src/ui/obsidian-ui-components/content-container/settings-page/ui-preferences-page.tsx
-var import_obsidian31 = require("obsidian");
+var import_obsidian32 = require("obsidian");
 var UIPreferencesPage = class extends SettingsPage {
   constructor(containerEl, plugin, pageType, applySettingsUpdate, display, openPage, scrollListener) {
     super(
@@ -33653,9 +33781,9 @@ var UIPreferencesPage = class extends SettingsPage {
       openPage,
       scrollListener
     );
-    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("OBSIDIAN_INTEGRATION")).addSetting((setting) => {
+    new import_obsidian32.SettingGroup(this.containerEl).setHeading(t("OBSIDIAN_INTEGRATION")).addSetting((setting) => {
       setting.setName(t("OPEN_IN_TAB")).setDesc(t("OPEN_IN_TAB_DESC")).addToggle((toggle) => {
-        const isMobile = import_obsidian31.Platform.isMobile || EmulatedPlatform().isMobile;
+        const isMobile = import_obsidian32.Platform.isMobile || EmulatedPlatform().isMobile;
         toggle.setValue(
           isMobile ? this.plugin.data.settings.openViewInNewTabMobile : this.plugin.data.settings.openViewInNewTab
         ).onChange(async (value) => {
@@ -33680,7 +33808,7 @@ var UIPreferencesPage = class extends SettingsPage {
         });
       });
     }).addSetting((setting) => {
-      const isMobile = import_obsidian31.Platform.isMobile || EmulatedPlatform().isMobile;
+      const isMobile = import_obsidian32.Platform.isMobile || EmulatedPlatform().isMobile;
       setting.setName(t("USE_CUSTOM_HOTKEYS")).setDesc(t("USE_CUSTOM_HOTKEYS_DESC")).addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.useCustomHotkeys).setDisabled(
           isMobile && !this.plugin.data.settings.openViewInNewTabMobile || !isMobile && !this.plugin.data.settings.openViewInNewTab
@@ -33727,7 +33855,7 @@ var UIPreferencesPage = class extends SettingsPage {
     }).addSetting((setting) => {
       setting.setName(t("CARD_MODAL_HEIGHT_PERCENT")).setDesc(t("CARD_MODAL_SIZE_PERCENT_DESC")).addExtraButton((button) => {
         button.setIcon("reset").setTooltip(t("RESET_DEFAULT")).onClick(async () => {
-          const isMobile = import_obsidian31.Platform.isMobile || EmulatedPlatform().isMobile;
+          const isMobile = import_obsidian32.Platform.isMobile || EmulatedPlatform().isMobile;
           if (isMobile) {
             this.plugin.data.settings.flashcardHeightPercentageMobile = DEFAULT_SETTINGS.flashcardHeightPercentageMobile;
           } else {
@@ -33737,7 +33865,7 @@ var UIPreferencesPage = class extends SettingsPage {
           this.display();
         });
       }).addSlider((slider) => {
-        const isMobile = import_obsidian31.Platform.isMobile || EmulatedPlatform().isMobile;
+        const isMobile = import_obsidian32.Platform.isMobile || EmulatedPlatform().isMobile;
         slider.setLimits(10, 100, 5).setValue(
           isMobile ? this.plugin.data.settings.flashcardHeightPercentageMobile : this.plugin.data.settings.flashcardHeightPercentage
         ).setDynamicTooltip().onChange(async (value) => {
@@ -33752,7 +33880,7 @@ var UIPreferencesPage = class extends SettingsPage {
     }).addSetting((setting) => {
       setting.setName(t("CARD_MODAL_WIDTH_PERCENT")).setDesc(t("CARD_MODAL_SIZE_PERCENT_DESC")).addExtraButton((button) => {
         button.setIcon("reset").setTooltip(t("RESET_DEFAULT")).onClick(async () => {
-          const isMobile = import_obsidian31.Platform.isMobile || EmulatedPlatform().isMobile;
+          const isMobile = import_obsidian32.Platform.isMobile || EmulatedPlatform().isMobile;
           if (isMobile) {
             this.plugin.data.settings.flashcardWidthPercentageMobile = DEFAULT_SETTINGS.flashcardWidthPercentageMobile;
           } else {
@@ -33762,7 +33890,7 @@ var UIPreferencesPage = class extends SettingsPage {
           this.display();
         });
       }).addSlider((slider) => {
-        const isMobile = import_obsidian31.Platform.isMobile || EmulatedPlatform().isMobile;
+        const isMobile = import_obsidian32.Platform.isMobile || EmulatedPlatform().isMobile;
         slider.setLimits(10, 100, 5).setValue(
           isMobile ? this.plugin.data.settings.flashcardWidthPercentageMobile : this.plugin.data.settings.flashcardWidthPercentage
         ).setDynamicTooltip().onChange(async (value) => {
@@ -33775,7 +33903,7 @@ var UIPreferencesPage = class extends SettingsPage {
         });
       });
     });
-    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("STATUS_BAR_SETTINGS")).addSetting((setting) => {
+    new import_obsidian32.SettingGroup(this.containerEl).setHeading(t("STATUS_BAR_SETTINGS")).addSetting((setting) => {
       setting.setName(t("SHOW_STATUS_BAR")).setDesc(t("SHOW_STATUS_BAR_DESC")).addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.showStatusBar).onChange(async (value) => {
           this.plugin.data.settings.showStatusBar = value;
@@ -33808,7 +33936,7 @@ var UIPreferencesPage = class extends SettingsPage {
         })
       );
     });
-    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("FLASHCARDS")).addSetting((setting) => {
+    new import_obsidian32.SettingGroup(this.containerEl).setHeading(t("FLASHCARDS")).addSetting((setting) => {
       setting.setName(t("INITIALLY_EXPAND_SUBDECKS_IN_TREE")).setDesc(t("INITIALLY_EXPAND_SUBDECKS_IN_TREE_DESC")).addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.initiallyExpandAllSubdecksInTree).onChange(async (value) => {
           this.plugin.data.settings.initiallyExpandAllSubdecksInTree = value;
@@ -33838,7 +33966,7 @@ var UIPreferencesPage = class extends SettingsPage {
         })
       );
     });
-    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("GROUP_FLASHCARDS_NOTES")).addSetting((setting) => {
+    new import_obsidian32.SettingGroup(this.containerEl).setHeading(t("GROUP_FLASHCARDS_NOTES")).addSetting((setting) => {
       setting.setName(t("FLASHCARD_EASY_LABEL")).setDesc(t("FLASHCARD_EASY_DESC")).addExtraButton((button) => {
         button.setIcon("reset").setTooltip(t("RESET_DEFAULT")).onClick(async () => {
           this.plugin.data.settings.flashcardEasyText = DEFAULT_SETTINGS.flashcardEasyText;
@@ -33990,7 +34118,7 @@ var SettingsPageManager = class {
   }
   // https://github.com/mgmeyers/obsidian-kanban/blob/main/src/Settings.ts
   applySettingsUpdate(callback2) {
-    clearTimeout(this.applyDebounceTimer);
+    window.clearTimeout(this.applyDebounceTimer);
     this.applyDebounceTimer = window.setTimeout(callback2, 512);
   }
   createPages() {
@@ -34107,7 +34235,7 @@ var SettingsPageManager = class {
 };
 
 // src/ui/obsidian-ui-components/settings-tab.tsx
-var SRSettingTab = class extends import_obsidian32.PluginSettingTab {
+var SRSettingTab = class extends import_obsidian33.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.settingsPageManager = null;
@@ -34231,10 +34359,10 @@ var SidebarManager = class {
 };
 
 // src/ui/status-bar-manager.tsx
-var import_obsidian34 = require("obsidian");
+var import_obsidian35 = require("obsidian");
 
 // src/ui/obsidian-ui-components/statusbar-items/icon-statusbar-item.tsx
-var import_obsidian33 = require("obsidian");
+var import_obsidian34 = require("obsidian");
 
 // src/ui/obsidian-ui-components/statusbar-items/statusbar-item.tsx
 var StatusBarItem = class {
@@ -34304,7 +34432,7 @@ var IconStatusBarItem = class extends StatusBarItem {
   setStatusBarItemIcon(icon) {
     this.icon = icon;
     if (this.iconEl === null || !this.statusBarItem.hasChildNodes()) {
-      this.iconEl = document.createElement("span");
+      this.iconEl = activeDocument.createElement("span");
       this.iconEl.addClass("status-bar-item-icon");
       this.addSegment(this.iconEl);
     } else {
@@ -34312,7 +34440,7 @@ var IconStatusBarItem = class extends StatusBarItem {
         this.iconEl.empty();
       }
     }
-    (0, import_obsidian33.setIcon)(this.iconEl, this.icon);
+    (0, import_obsidian34.setIcon)(this.iconEl, this.icon);
     if (!this.iconEl.hasClass("status-bar-item-icon")) {
       this.iconEl.addClass("status-bar-item-icon");
     }
@@ -34366,7 +34494,7 @@ var TextStatusBarItem = class extends IconStatusBarItem {
     return this.text;
   }
   createTextSegment(text) {
-    const segment = document.createElement("span");
+    const segment = activeDocument.createElement("span");
     segment.setText(text);
     this.addSegment(segment);
   }
@@ -34449,7 +34577,9 @@ var StatusBarManager = class {
             break;
           case "update-available":
             if (showItems && showUpdateAvailableItem) {
-              statusBarItem.show();
+              this.checkAndUpdatePluginVersion().then((_2) => {
+                statusBarItem.show();
+              });
             } else {
               statusBarItem.hide();
             }
@@ -34512,20 +34642,25 @@ var StatusBarManager = class {
       }
       this.statusBarItems.push(statusBarItem);
     });
-    if (this.plugin.manifest.version !== await this.getNewestVersion()) {
-      const updateItem = this.statusBarItems.find(
-        (statusBarItem) => statusBarItem.getStatusBarItemType() === "update-available"
-      );
-      if (updateItem !== void 0) {
-        updateItem.setText("Spaced Repetition: new Update!");
-      }
+    if (this.plugin.data.settings.showStatusBar && this.plugin.data.settings.showUpdateAvailableStatusBarItem) {
+      await this.checkAndUpdatePluginVersion();
+    }
+  }
+  async checkAndUpdatePluginVersion() {
+    const newestVersion = await this.getNewestVersion();
+    if (this.plugin.manifest.version === newestVersion) return;
+    const updateItem = this.statusBarItems.find(
+      (statusBarItem) => statusBarItem.getStatusBarItemType() === "update-available"
+    );
+    if (updateItem !== void 0) {
+      updateItem.setText("Spaced Repetition: new Update!");
     }
   }
   async getNewestVersion() {
     try {
       const gitAPIrequest = async () => {
         return JSON.parse(
-          await (0, import_obsidian34.request)({
+          await (0, import_obsidian35.request)({
             url: "https://api.github.com/repos/st3v3nmw/obsidian-spaced-repetition/releases?per_page=15&page=1"
           })
         );
@@ -34638,7 +34773,7 @@ var UIManager = class {
     this.sidebarManager.init();
     this.plugin.app.workspace.onLayoutReady(async () => {
       await this.sidebarManager.activateReviewQueueViewPanel();
-      setTimeout(async () => {
+      window.setTimeout(async () => {
         if (!this.plugin.osrAppCore.syncLock) {
           await this.plugin.sync();
         }
@@ -34682,7 +34817,7 @@ var UIManager = class {
       this.plugin.app.workspace.on("active-leaf-change", this.handleFocusChange.bind(this))
     );
     this.externalModalObserver = new MutationObserver(this.handleExternalModalOpen.bind(this));
-    this.externalModalObserver.observe(document.body, {
+    this.externalModalObserver.observe(activeDocument.body, {
       childList: true,
       subtree: true
     });
@@ -34701,7 +34836,7 @@ var UIManager = class {
     mutationList.length > 0 && mutationList.filter(
       (mutation) => mutation.type === "childList" && (mutation.addedNodes.length > 0 || mutation.removedNodes.length > 0)
     ).length > 0) {
-      const modal = document.querySelector(".modal-container");
+      const modal = activeDocument.querySelector(".modal-container");
       this.setSRViewInFocus(
         (modal === null || modal === void 0) && this.plugin.app.workspace.getActiveViewOfType(SRTabView) !== null && this.plugin.app.workspace.getActiveViewOfType(SRTabView) !== void 0
       );
@@ -34718,7 +34853,7 @@ var UIManager = class {
       return;
     }
     await this.plugin.sync();
-    const isMobile = import_obsidian35.Platform.isMobile || EmulatedPlatform().isMobile;
+    const isMobile = import_obsidian36.Platform.isMobile || EmulatedPlatform().isMobile;
     const openInNewTab = !isMobile && this.plugin.data.settings.openViewInNewTab || isMobile && this.plugin.data.settings.openViewInNewTabMobile;
     const reviewQueueLoader = new ReviewQueueLoader(
       this.plugin,
@@ -34757,14 +34892,10 @@ var UIManager = class {
         }
       );
     }
-    if (status) {
-      this.ribbonIcon.style.display = "";
-    } else {
-      this.ribbonIcon.style.display = "none";
-    }
+    this.ribbonIcon.setCssProps({ display: status ? "" : "none" });
   }
   fileMenuHandler(menu, file) {
-    if (!(file instanceof import_obsidian35.TFile && file.extension === "md")) return;
+    if (!(file instanceof import_obsidian36.TFile && file.extension === "md")) return;
     if (this.plugin.data.settings.showFileMenuReviewOptions) {
       menu.addItem((item) => {
         item.setTitle(
@@ -34837,7 +34968,7 @@ var UIManager = class {
 };
 
 // src/main.ts
-var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
+var SRPlugin = class _SRPlugin extends import_obsidian37.Plugin {
   async onload() {
     await this.loadPluginData();
     const noteReviewQueue = new NoteReviewQueue();
@@ -34881,8 +35012,8 @@ var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
       }),
       repeatable: false,
       checkCallback: (checking) => {
-        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian36.Platform.isMobile || // No keyboard events on mobile
-        EmulatedPlatform().isMobile) && !(document.activeElement !== null && (document.activeElement.nodeName === "TEXTAREA" || document.activeElement.nodeName === "INPUT"))) {
+        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian37.Platform.isMobile || // No keyboard events on mobile
+        EmulatedPlatform().isMobile) && !(activeDocument.activeElement !== null && (activeDocument.activeElement.nodeName === "TEXTAREA" || activeDocument.activeElement.nodeName === "INPUT"))) {
           if (!checking) {
             this.uiManager.contentManager._processReview(3 /* Again */);
           }
@@ -34898,8 +35029,8 @@ var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
       }),
       repeatable: false,
       checkCallback: (checking) => {
-        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian36.Platform.isMobile || // No keyboard events on mobile
-        EmulatedPlatform().isMobile) && !(document.activeElement !== null && (document.activeElement.nodeName === "TEXTAREA" || document.activeElement.nodeName === "INPUT"))) {
+        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian37.Platform.isMobile || // No keyboard events on mobile
+        EmulatedPlatform().isMobile) && !(activeDocument.activeElement !== null && (activeDocument.activeElement.nodeName === "TEXTAREA" || activeDocument.activeElement.nodeName === "INPUT"))) {
           if (!checking) {
             this.uiManager.contentManager._processReview(2 /* Hard */);
           }
@@ -34914,8 +35045,8 @@ var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
         difficulty: this.data.settings.flashcardGoodText
       }),
       checkCallback: (checking) => {
-        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian36.Platform.isMobile || // No keyboard events on mobile
-        EmulatedPlatform().isMobile) && !(document.activeElement !== null && (document.activeElement.nodeName === "TEXTAREA" || document.activeElement.nodeName === "INPUT"))) {
+        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian37.Platform.isMobile || // No keyboard events on mobile
+        EmulatedPlatform().isMobile) && !(activeDocument.activeElement !== null && (activeDocument.activeElement.nodeName === "TEXTAREA" || activeDocument.activeElement.nodeName === "INPUT"))) {
           if (!checking) {
             this.uiManager.contentManager._processReview(1 /* Good */);
           }
@@ -34931,8 +35062,8 @@ var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
       }),
       repeatable: false,
       checkCallback: (checking) => {
-        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian36.Platform.isMobile || // No keyboard events on mobile
-        EmulatedPlatform().isMobile) && !(document.activeElement !== null && (document.activeElement.nodeName === "TEXTAREA" || document.activeElement.nodeName === "INPUT"))) {
+        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian37.Platform.isMobile || // No keyboard events on mobile
+        EmulatedPlatform().isMobile) && !(activeDocument.activeElement !== null && (activeDocument.activeElement.nodeName === "TEXTAREA" || activeDocument.activeElement.nodeName === "INPUT"))) {
           if (!checking) {
             this.uiManager.contentManager._processReview(0 /* Easy */);
           }
@@ -34946,8 +35077,8 @@ var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
       name: t("SHOW_ANSWER"),
       repeatable: false,
       checkCallback: (checking) => {
-        if (this.uiManager.uiState === 2 /* CardFront */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian36.Platform.isMobile || // No keyboard events on mobile
-        EmulatedPlatform().isMobile) && !(document.activeElement !== null && (document.activeElement.nodeName === "TEXTAREA" || document.activeElement.nodeName === "INPUT"))) {
+        if (this.uiManager.uiState === 2 /* CardFront */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian37.Platform.isMobile || // No keyboard events on mobile
+        EmulatedPlatform().isMobile) && !(activeDocument.activeElement !== null && (activeDocument.activeElement.nodeName === "TEXTAREA" || activeDocument.activeElement.nodeName === "INPUT"))) {
           if (!checking) {
             this.uiManager.contentManager._showAnswer();
           }
@@ -34961,8 +35092,8 @@ var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
       name: t("SKIP"),
       repeatable: false,
       checkCallback: (checking) => {
-        if ((this.uiManager.uiState === 3 /* CardBack */ || this.uiManager.uiState === 2 /* CardFront */) && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian36.Platform.isMobile || // No keyboard events on mobile
-        EmulatedPlatform().isMobile) && !(document.activeElement !== null && (document.activeElement.nodeName === "TEXTAREA" || document.activeElement.nodeName === "INPUT"))) {
+        if ((this.uiManager.uiState === 3 /* CardBack */ || this.uiManager.uiState === 2 /* CardFront */) && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian37.Platform.isMobile || // No keyboard events on mobile
+        EmulatedPlatform().isMobile) && !(activeDocument.activeElement !== null && (activeDocument.activeElement.nodeName === "TEXTAREA" || activeDocument.activeElement.nodeName === "INPUT"))) {
           if (!checking) {
             this.uiManager.contentManager._skipCurrentCard();
           }
@@ -34976,8 +35107,8 @@ var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
       name: t("RESET_CARD_PROGRESS"),
       repeatable: false,
       checkCallback: (checking) => {
-        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian36.Platform.isMobile || // No keyboard events on mobile
-        EmulatedPlatform().isMobile) && !(document.activeElement !== null && (document.activeElement.nodeName === "TEXTAREA" || document.activeElement.nodeName === "INPUT"))) {
+        if (this.uiManager.uiState === 3 /* CardBack */ && this.uiManager.isSRInFocus && this.uiManager.contentManager !== null && !(import_obsidian37.Platform.isMobile || // No keyboard events on mobile
+        EmulatedPlatform().isMobile) && !(activeDocument.activeElement !== null && (activeDocument.activeElement.nodeName === "TEXTAREA" || activeDocument.activeElement.nodeName === "INPUT"))) {
           if (!checking) {
             this.uiManager.contentManager._processReview(4 /* Reset */);
           }
@@ -35178,16 +35309,16 @@ var SRPlugin = class _SRPlugin extends import_obsidian36.Plugin {
   async saveNoteReviewResponse(note, response) {
     const noteSrTFile = this.createSrTFile(note);
     if (SettingsUtil.isPathInNoteIgnoreFolder(this.data.settings, note.path)) {
-      new import_obsidian36.Notice(t("NOTE_IN_IGNORED_FOLDER"));
+      new import_obsidian37.Notice(t("NOTE_IN_IGNORED_FOLDER"));
       return;
     }
     const tags = noteSrTFile.getAllTagsFromCache();
     if (!SettingsUtil.isAnyTagANoteReviewTag(this.data.settings, tags)) {
-      new import_obsidian36.Notice(t("PLEASE_TAG_NOTE"));
+      new import_obsidian37.Notice(t("PLEASE_TAG_NOTE"));
       return;
     }
     await this.osrAppCore.saveNoteReviewResponse(noteSrTFile, response, this.data.settings);
-    new import_obsidian36.Notice(t("RESPONSE_RECEIVED"));
+    new import_obsidian37.Notice(t("RESPONSE_RECEIVED"));
     if (this.data.settings.autoNextNote) {
       this.nextNoteReviewHandler.autoReviewNextNote();
     }
