@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Netzwerk
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: B1
+Genus: das
+Plural: -e
+Bedeutung: hálózat
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Internet]]
+- [[verbinden]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

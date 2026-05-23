@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Daten
 Wortart: Substantiv
-Niveau: A2
+Niveau: B1
 Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Plural: 
+Bedeutung: adatok
 Quelle:
 aliases:
 ---
@@ -17,11 +17,12 @@ aliases:
 | <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")` | `=choice(this.Genus = "das", this.Plural, "")` |
 
 > [!INFO]
+> Nur Plural
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[speichern]]
+- [[schützen]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

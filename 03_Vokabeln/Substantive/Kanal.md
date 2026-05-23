@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Kanal
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: B1
+Genus: der
+Plural: -̈e
+Bedeutung: csatorna (YouTube stb.)
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[abonnieren]]
+- [[streamen]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

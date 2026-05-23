@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Algorithmus
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: B2
+Genus: der
+Plural: Algorithmen
+Bedeutung: algoritmus
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[programmieren]]
+- [[Künstliche Intelligenz]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

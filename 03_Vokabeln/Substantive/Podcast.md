@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Podcast
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: B1
+Genus: der
+Plural: -s
+Bedeutung: podcast
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[streamen]]
+- [[hören]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

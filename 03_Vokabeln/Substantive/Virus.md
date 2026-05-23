@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Virus
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: B2
+Genus: der
+Plural: Viren
+Bedeutung: vírus (számítógépes)
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[hacken]]
+- [[schützen]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

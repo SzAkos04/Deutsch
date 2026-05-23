@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Künstliche Intelligenz
 Wortart: Substantiv
-Niveau: A2
+Niveau: B2
 Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Plural: 
+Bedeutung: mesterséges intelligencia
 Quelle:
 aliases:
 ---
@@ -17,11 +17,12 @@ aliases:
 | <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")` | `=choice(this.Genus = "das", this.Plural, "")` |
 
 > [!INFO]
+> Abkürzung: KI
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Algorithmus]]
+- [[entwickeln]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

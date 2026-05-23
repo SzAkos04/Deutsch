@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Benutzername
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: B1
+Genus: der
+Plural: -n
+Bedeutung: felhasználónév
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Passwort]]
+- [[einloggen]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

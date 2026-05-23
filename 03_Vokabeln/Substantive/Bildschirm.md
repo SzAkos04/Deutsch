@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Bildschirm
 Wortart: Substantiv
 Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Genus: der
+Plural: -e
+Bedeutung: képernyő
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Computer]]
+- [[Display]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

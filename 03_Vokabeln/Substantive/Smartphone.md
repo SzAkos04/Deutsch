@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Smartphone
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: A1
+Genus: das
+Plural: -s
+Bedeutung: okostelefon
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Tablet]]
+- [[App]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

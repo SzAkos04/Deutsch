@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Cloud
 Wortart: Substantiv
-Niveau: A2
+Niveau: B1
 Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Plural: -s
+Bedeutung: felhő (adattárolás)
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[speichern]]
+- [[Daten]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Verbindung
 Wortart: Substantiv
-Niveau: A2
+Niveau: B1
 Genus: die
 Plural: -en
-Bedeutung: üzenet, hír
+Bedeutung: kapcsolat, csatlakozás
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[verbinden]]
+- [[WLAN]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

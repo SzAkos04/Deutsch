@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Fernseher
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: A1
+Genus: der
+Plural: -
+Bedeutung: televízió, tévé
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[streamen]]
+- [[Medien]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

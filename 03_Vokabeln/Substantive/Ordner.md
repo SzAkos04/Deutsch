@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Ordner
 Wortart: Substantiv
 Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Genus: der
+Plural: -
+Bedeutung: mappa (számítógépen)
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Datei]]
+- [[speichern]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Drucker
 Wortart: Substantiv
 Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Genus: der
+Plural: -
+Bedeutung: nyomtató
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[drucken]]
+- [[Scanner]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

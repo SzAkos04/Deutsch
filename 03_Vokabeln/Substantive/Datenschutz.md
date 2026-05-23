@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Datenschutz
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: B2
+Genus: der
+Plural: 
+Bedeutung: adatvédelem
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Daten]]
+- [[schützen]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

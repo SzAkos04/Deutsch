@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Tastatur
 Wortart: Substantiv
 Niveau: A2
 Genus: die
 Plural: -en
-Bedeutung: üzenet, hír
+Bedeutung: billentyűzet
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Bildschirm]]
+- [[tippen]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Kamera
 Wortart: Substantiv
 Niveau: A2
 Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Plural: -s
+Bedeutung: kamera, fényképezőgép
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[fotografieren]]
+- [[filmen]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

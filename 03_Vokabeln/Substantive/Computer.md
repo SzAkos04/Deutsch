@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Computer
 Wortart: Substantiv
-Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Niveau: A1
+Genus: der
+Plural: -
+Bedeutung: számítógép
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Laptop]]
+- [[Tablet]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

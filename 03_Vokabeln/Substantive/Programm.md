@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Programm
 Wortart: Substantiv
 Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Genus: das
+Plural: -e
+Bedeutung: program
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Software]]
+- [[App]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

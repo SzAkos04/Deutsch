@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: WLAN
 Wortart: Substantiv
 Niveau: A2
-Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Genus: das
+Plural: 
+Bedeutung: wifi, vezeték nélküli internet
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[Internet]]
+- [[Netzwerk]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

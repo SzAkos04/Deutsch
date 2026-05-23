@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: Datei
 Wortart: Substantiv
-Niveau: A2
+Niveau: B1
 Genus: die
 Plural: -en
-Bedeutung: üzenet, hír
+Bedeutung: fájl, adatfájl
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[speichern]]
+- [[Ordner]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`

@@ -1,10 +1,10 @@
 ---
-Wort: Nachricht
+Wort: E-Mail
 Wortart: Substantiv
 Niveau: A2
 Genus: die
-Plural: -en
-Bedeutung: üzenet, hír
+Plural: -s
+Bedeutung: e-mail, elektronikus levél
 Quelle:
 aliases:
 ---
@@ -20,8 +20,8 @@ aliases:
 
 ---
 ## Siehe auch
-- [[chatten]]
-- [[senden]]
+- [[mailen]]
+- [[Nachricht]]
 
 ---
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
