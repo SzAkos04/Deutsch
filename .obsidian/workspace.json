@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
+                "file": "03_Vokabeln/Substantive/Buch.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Buch"
             }
           }
         ]
@@ -214,11 +214,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03_Vokabeln/Substantive/Büro.md",
+    "03_Vokabeln/Substantive/E-Mail.md",
+    "03_Vokabeln/Substantive/CO2.md",
+    "03_Vokabeln/Substantive/Buch.md",
+    "03_Vokabeln/Substantive/Baum.md",
+    "03_Vokabeln/Substantive/Bahnhof.md",
+    "03_Vokabeln/Substantive/Branche.md",
+    "03_Vokabeln/Substantive/Blume.md",
+    "03_Vokabeln/Substantive/Dürre.md",
+    "03_Vokabeln/Substantive/Cousin.md",
+    "03_Vokabeln/Substantive/Blog.md",
+    "MOC.md",
+    "03_Vokabeln/Substantive/Alltag.md",
     "03_Vokabeln/Verben/ernten.md",
     "03_Vokabeln/Verben/beurteilen.md",
     "03_Vokabeln/Verben/befördern.md",
     "03_Vokabeln/Verben/abbauen.md",
-    "MOC.md",
     "_Vorlagen/Substantive Vorlage.md",
     "00_Eingang/test.md",
     "03_Vokabeln/Wörterbuch.md",
@@ -230,18 +242,6 @@
     "03_Vokabeln/Verben/abschreiben.md",
     "03_Vokabeln/tree.txt",
     "03_Vokabeln/Substantive/Lohn.md",
-    "03_Vokabeln/Substantive/Zoll.md",
-    "03_Vokabeln/Substantive/Zelt.md",
-    "03_Vokabeln/Substantive/Weiterbildung.md",
-    "03_Vokabeln/Substantive/Wechselkurs.md",
-    "03_Vokabeln/Substantive/Währung.md",
-    "03_Vokabeln/Substantive/Vorgesetzte.md",
-    "03_Vokabeln/Substantive/Vertrag.md",
-    "03_Vokabeln/Substantive/Verspätung.md",
-    "03_Vokabeln/Substantive/Versicherung.md",
-    "03_Vokabeln/Substantive/Unternehmen.md",
-    "03_Vokabeln/Substantive/Unterkunft.md",
-    "03_Vokabeln/Substantive/Ticket.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
