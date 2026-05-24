@@ -16,8 +16,24 @@
               "icon": "SpacedRepIcon",
               "title": "Spaced Repetition"
             }
+          },
+          {
+            "id": "d5eb3a86eb3793c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Vokabeln/Wörterbuch.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Wörterbuch"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +222,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54d5fb4c6191efe8",
+  "active": "d5eb3a86eb3793c9",
   "lastOpenFiles": [
-    "MOC.md",
+    "03_Vokabeln/Verben/reichen.md",
     "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Verben/chatten.md",
+    "MOC.md",
     "03_Vokabeln/Adjektive/kostenpflichtig.md",
     "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
     "00_Eingang/Untitled.base",
@@ -234,8 +252,6 @@
     "03_Vokabeln/Substantive/Stipendium.md",
     "03_Vokabeln/Substantive/Stelle.md",
     "03_Vokabeln/Substantive/Sehenswürdigkeit.md",
-    "03_Vokabeln/Substantive/See.md",
-    "03_Vokabeln/Substantive/Schiff.md",
     "03_Vokabeln/Verben/Verben_Gesundheit",
     "03_Vokabeln/Präpositionen",
     "05_Prüfungsvorbereitung/04_Schriftlicher Ausdruck",
