@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eltern",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -70,8 +70,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,6 +207,9 @@
   },
   "active": "5f4b8583e99d68c9",
   "lastOpenFiles": [
+    "03_Vokabeln/Substantive/Eltern.md",
+    "03_Vokabeln/Substantive/Abteilung.md",
+    "03_Vokabeln/Substantive/Adoption.md",
     "03_Vokabeln/Substantive/Angst.md",
     "03_Vokabeln/Verben/auswerten.md",
     "MOC.md",
@@ -231,9 +233,6 @@
     "00_Eingang/test.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/reichen.md",
-    "03_Vokabeln/Verben/chatten.md",
-    "03_Vokabeln/Adjektive/kostenpflichtig.md",
-    "00_Eingang/AnnenMayKantereit - Barfuß am Klavier.md",
     "00_Eingang/Untitled.base",
     "03_Vokabeln/tree.txt",
     "03_Vokabeln/Verben/Verben_Gesundheit",
