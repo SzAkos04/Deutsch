@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "781b5ff17d5e07f7",
+        "id": "2078db57e3cf7ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "5f4b8583e99d68c9",
+            "id": "bb5629eac0bb6205",
             "type": "leaf",
             "state": {
               "type": "spaced-repetition-tab-view",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eltern",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -70,7 +70,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
             }
           },
           {
-            "id": "4eb2b8bf5a2bc265",
+            "id": "f9502895c800a53c",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -205,14 +206,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f4b8583e99d68c9",
+  "active": "bb5629eac0bb6205",
   "lastOpenFiles": [
+    "03_Vokabeln/Wörterbuch.md",
+    "MOC.md",
     "03_Vokabeln/Substantive/Eltern.md",
     "03_Vokabeln/Substantive/Abteilung.md",
     "03_Vokabeln/Substantive/Adoption.md",
     "03_Vokabeln/Substantive/Angst.md",
     "03_Vokabeln/Verben/auswerten.md",
-    "MOC.md",
     "03_Vokabeln/Substantive/Buch.md",
     "03_Vokabeln/Substantive/Büro.md",
     "03_Vokabeln/Substantive/E-Mail.md",
@@ -231,7 +233,6 @@
     "03_Vokabeln/Verben/abbauen.md",
     "_Vorlagen/Substantive Vorlage.md",
     "00_Eingang/test.md",
-    "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Verben/reichen.md",
     "00_Eingang/Untitled.base",
     "03_Vokabeln/tree.txt",
