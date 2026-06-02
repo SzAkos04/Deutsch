@@ -26,10 +26,15 @@
             "id": "9880d39cea850cd3",
             "type": "leaf",
             "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
+              "type": "markdown",
+              "state": {
+                "file": "MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC"
             }
           }
         ],
@@ -222,7 +227,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9880d39cea850cd3",
+  "active": "f9502895c800a53c",
   "lastOpenFiles": [
     "MOC.md",
     "03_Vokabeln/Wörterbuch.md",
