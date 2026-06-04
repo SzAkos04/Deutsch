@@ -3,7 +3,7 @@ Wort: befreundet
 Wortart: Adjektiv
 Niveau: B1
 Bedeutung: baráti viszonyban lévő
-Komparativ: befreundeteter
+Komparativ: befreundeter
 Superlativ: befreundetest
 Quelle:
 aliases:
