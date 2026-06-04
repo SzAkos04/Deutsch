@@ -183,13 +183,13 @@
             }
           },
           {
-            "id": "f9502895c800a53c",
+            "id": "bdd0b1780f64a5f7",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -223,10 +223,11 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f9502895c800a53c",
+  "active": "bdd0b1780f64a5f7",
   "lastOpenFiles": [
     "MOC.md",
     "03_Vokabeln/Wörterbuch.md",
