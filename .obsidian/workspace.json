@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "a677000107fadcc3",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,13 +193,13 @@
             }
           },
           {
-            "id": "31364f85c48afff0",
+            "id": "958d9f4099e776c3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -222,10 +233,11 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "31364f85c48afff0",
+  "active": "a677000107fadcc3",
   "lastOpenFiles": [
     "MOC.md",
     "03_Vokabeln/Substantive/Gast.md",
