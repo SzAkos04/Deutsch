@@ -187,8 +187,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -222,17 +222,24 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "31364f85c48afff0",
   "lastOpenFiles": [
     "MOC.md",
+    "03_Vokabeln/Substantive/Gast.md",
+    "03_Vokabeln/Substantive/Geburtstag.md",
+    "03_Vokabeln/Substantive/Gefahr.md",
+    "03_Vokabeln/Substantive/Cousin.md",
+    "03_Vokabeln/Substantive/Arzt.md",
+    "03_Vokabeln/Substantive/Arbeit.md",
+    "03_Vokabeln/Substantive/Adoption.md",
+    "03_Vokabeln/Verben/abnehmen.md",
+    "03_Vokabeln/Verben/abfahren.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Substantive/Eltern.md",
     "03_Vokabeln/Substantive/Abteilung.md",
-    "03_Vokabeln/Substantive/Adoption.md",
     "03_Vokabeln/Substantive/Angst.md",
     "03_Vokabeln/Verben/auswerten.md",
     "03_Vokabeln/Substantive/Buch.md",
@@ -244,16 +251,8 @@
     "03_Vokabeln/Substantive/Branche.md",
     "03_Vokabeln/Substantive/Blume.md",
     "03_Vokabeln/Substantive/Dürre.md",
-    "03_Vokabeln/Substantive/Cousin.md",
     "03_Vokabeln/Substantive/Blog.md",
     "03_Vokabeln/Substantive/Alltag.md",
-    "03_Vokabeln/Verben/ernten.md",
-    "03_Vokabeln/Verben/beurteilen.md",
-    "03_Vokabeln/Verben/befördern.md",
-    "03_Vokabeln/Verben/abbauen.md",
-    "_Vorlagen/Substantive Vorlage.md",
-    "00_Eingang/test.md",
-    "03_Vokabeln/Verben/reichen.md",
     "00_Eingang/Untitled.base",
     "03_Vokabeln/tree.txt",
     "03_Vokabeln/Verben/Verben_Gesundheit",
