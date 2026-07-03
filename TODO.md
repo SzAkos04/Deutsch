@@ -1,7 +1,7 @@
 # 1. Das Verb
 
 ## 1.1 Grundlagen
-- [ ] Verbkonjugation im Präsens
+- [x] Verbkonjugation im Präsens
   Level: A1
   Prerequisites: []
 - [ ] Regelmäßige Verben (Schwache Verben)
@@ -192,7 +192,7 @@
 # 2. Satzbau (Syntax)
 
 ## 2.1 Hauptsätze
-- [ ] Aussagesatz (Verb an Position 2)
+- [x] Aussagesatz (Verb an Position 2)
   Level: A1
   Prerequisites: []
 - [ ] Inversion (Satzglied an Position 1, Verb bleibt an Position 2)

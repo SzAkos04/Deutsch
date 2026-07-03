@@ -1,9 +1,4 @@
----
-Titel: MOC
----
-# MOC
-
-## 1. Grammatik
+# 1. Grammatik
 
 - [[der Artikel]]
 - [[das Substantiv]]
@@ -15,19 +10,19 @@ Titel: MOC
 
 ---
 
-## 2. Kommunikation
+# 2. Kommunikation
 
 - [[E-Mail schreiben]]
 
 ---
 
-## 3. Vokabeln
+# 3. Vokabeln
 
 - [[Wörterbuch]]
 
 ---
 
-## 4. Lieder
+# 4. Lieder
 
 - [[AnnenMayKantereit - Vielleicht Vielleicht]]
 - [[Kanonenfieber - Verscharrt und Ungerühmt]]
