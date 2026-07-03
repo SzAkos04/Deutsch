@@ -22,6 +22,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`
-<!--SR:!2026-06-16,42,290-->
+<!--SR:!2026-12-19,169,310-->
 
 #Lernkarten 

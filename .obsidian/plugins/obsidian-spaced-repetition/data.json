@@ -43,7 +43,6 @@
     "showFileMenuReviewOptions": true,
     "deleteTagsOnSchedulingDataDeletion": false,
     "maxNDaysNotesReviewQueue": 365,
-    "showRibbonIcon": true,
     "showStatusBar": true,
     "showCardStatusBarItem": true,
     "showNoteStatusBarItem": true,
