@@ -4,7 +4,7 @@
 - [x] Verbkonjugation im Präsens
   Level: A1
   Prerequisites: []
-- [ ] Regelmäßige Verben (Schwache Verben)
+- [x] Regelmäßige Verben (Schwache Verben)
   Level: A1
   Prerequisites: [Verbkonjugation im Präsens]
 - [ ] Unregelmäßige Verben (Starke Verben: e->i, a->ä)
