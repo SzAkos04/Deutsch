@@ -16,7 +16,7 @@ tags:
 
 - [ ] **Elmélet:** [[nemet_halado_szoszedet.pdf]] Lektion 1
 - [ ] **Elmélet** [[nemet_kozephalado_segedlet.pdf]] S. 35 / A leggyakoribb melléknevekből képzett főnevek
-- [ ] **Gyakorlat:** [[B1 segédlet.pdf]] S. 3 / 1 (Az összes rokonom...)
+- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 3 / 1 (Az összes rokonom...)
 > [!success]- Megoldás
 > az összes rokonom - alle meine Verwandten
 > az önkéntesek - die Freiwilligen
@@ -29,7 +29,7 @@ tags:
 > egy szerelmes férfi - ein Verliebter
 > egy németet - einen Deutschen
 
-- [ ] **Gyakorlat:** [[B1 segédlet.pdf]] S. 4 / 2
+- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 4 / 2
 > [!success]- Megoldás
 > 1. Im Urlaub habe ich zum ersten Mal mit einem Deutsch**en** auf Deutsch gesprochen.
 > 2. Diese Veranstaltung dürfen Kinder nur in Begleitung eines Erwachsen**en** besuchen.
@@ -56,6 +56,6 @@ tags:
 
 ## Siehe auch
 
-- [[]]
+- [[2026-07-06]]
 
 #Hausaufgabe
