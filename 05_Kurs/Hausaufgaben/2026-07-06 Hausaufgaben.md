@@ -45,7 +45,7 @@ tags:
 
 - [ ] **Gyakorlat:** [[Menschen B1.pdf]] S. 13 / 6
 > [!success]- Megoldás
-> Das ist Nóri, meine Partnerin. Wir sind seit mehr als 2 Jahren zusammen. Wir kennen uns aus der Schule. Nóri ist lieb, humorvoll und ich bin dankbar für sie. Wir haben viel gemeinsam, aber es gibt auch viel Kontrast, und ich glaube, dass es so ist, wie es sein muss. Wir gehen regelmäßig 
+> Das ist Nóri, meine Partnerin. Wir sind seit mehr als 2 Jahren zusammen. Wir kennen uns aus der Schule. Ich bin dankbar für sie. Wir haben viel gemeinsam, aber es gibt auch viel Kontrast, und ich glaube, dass es so ist, wie es sein muss. Wir machen viel zusammen, z.B. ins Restaurant gehen, Filme ansehen und so weiter. Sie ist lieb, humorvoll und ordentlich.
 
 ## Megjegyzések
 
