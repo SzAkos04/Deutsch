@@ -21,6 +21,24 @@
               "icon": "lucide-file",
               "title": "2026-07-06 Hausaufgaben"
             }
+          }
+        ]
+      },
+      {
+        "id": "c535e23c509c0a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c7d74adf3f22ab3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen_B1/pdf/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
+            }
           },
           {
             "id": "721532e4574d7719",
@@ -32,18 +50,6 @@
               },
               "icon": "lucide-file-text",
               "title": "B1 segédlet"
-            }
-          },
-          {
-            "id": "5c7d74adf3f22ab3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05_Kurs/Materialen/Menschen_B1/pdf/Menschen B1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Menschen B1"
             }
           }
         ]
@@ -104,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -236,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
