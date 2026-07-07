@@ -1,0 +1,4 @@
+.callout[data-callout="quizlet"] {
+  --callout-color: 66, 133, 244;
+  --callout-icon: lucide-layers;
+}

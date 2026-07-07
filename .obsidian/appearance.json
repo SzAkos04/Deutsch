@@ -1,5 +1,8 @@
 {
   "cssTheme": "Aura",
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "quizlet-callout"
+  ]
 }
