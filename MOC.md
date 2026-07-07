@@ -1,12 +1,6 @@
 # 1. Grammatik
 
-- [[der Artikel]]
-- [[das Substantiv]]
-- [[das Pronomen]]
-- [[das Numerale]]
-- [[das Adjektiv]]
-- [[die Präposition]]
-- [[das Verb]]
+- [[TODO]]
 
 ---
 

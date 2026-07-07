@@ -10,6 +10,7 @@
     "Hilfsverb": "multitext",
     "Präteritum": "text",
     "Kontext": "multitext",
-    "Niveau": "text"
+    "Niveau": "text",
+    "Frist": "date"
   }
 }
