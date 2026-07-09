@@ -22,3 +22,9 @@
 - [[Kanonenfieber - Verscharrt und Ungerühmt]]
 - [[Mayberg - Spiegelbild]]
 - [[Rammstein - Deutschland]]
+
+---
+
+# 5. Kurs
+
+- [[Német haladó félintenzív]]

@@ -1,7 +1,7 @@
 ---
 Kurs: Német haladó félintenzív
 Niveau: B1
-Lehrerin: Vitez Adrien
+Lehrerin: Vitéz Adrienn
 Lehrbuch: "[[Menschen B1.pdf]]"
 Beginn: 2026-07-06
 tags:
