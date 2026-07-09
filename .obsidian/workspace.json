@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Eingang/2026-07-09.md",
+                "file": "05_Kurs/Unterricht/2026-07-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -34,7 +34,8 @@
               "title": "nemet_halado_segedlet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Eingang/2026-07-09.md",
+                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-09"
+              "title": "Outline of nemet_halado_segedlet"
             }
           },
           {
@@ -225,11 +226,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9b811e686f5f38b3",
   "lastOpenFiles": [
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
-    "00_Eingang/2026-07-09.md",
     "05_Kurs/Unterricht/2026-07-09.md",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Unterricht/2026-07-06.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Materialen/nemet_kozephalado_segedlet.pdf",
@@ -244,7 +244,6 @@
     "05_Kurs/Materialen/Extra/Adjektive.docx",
     "05_Kurs/Materialen/Extra/Adjektivdeklination.docx",
     "05_Kurs/Materialen/Extra/vonzatos-igek.docx",
-    "05_Kurs/Materialen/Extra/Dömők_Szilvia_-_Gyakorló_Német_Nyelvtan.pdf",
     "_Vorlagen/Unterricht Vorlage.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
