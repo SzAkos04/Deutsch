@@ -23,7 +23,7 @@ tags:
 
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1193553214/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
-- [x] **Fordítás:** [[nemet_halado_segedlet.pdf]] S. 3 / 1 (Az összes rokonom...)
+- [x] **Fordítás:** [[nemet_halado_segedlet.pdf]] S. 3 / 1 (*Az összes rokonom*...)
 
 > [!success]- Megoldás
 > az összes rokonom - alle meine Verwandten
