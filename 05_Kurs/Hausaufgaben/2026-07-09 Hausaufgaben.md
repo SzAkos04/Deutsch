@@ -64,7 +64,7 @@ tags:
 > [!success]- Megoldás
 > 
 
-- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján Mein erster Arbeitstag schreiben
+- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag* schreiben
 
 > [!success]- Megoldás
 > 
