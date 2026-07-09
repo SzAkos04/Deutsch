@@ -237,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +255,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Unterricht/2026-07-09.md",
+    "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Unterricht/2026-07-06.md",
