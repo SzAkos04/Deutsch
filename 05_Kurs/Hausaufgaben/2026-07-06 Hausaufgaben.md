@@ -14,14 +14,14 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 1
+- [x] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 1
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1193484337/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
-- [ ] **Szavak** [[nemet_kozephalado_segedlet.pdf]] S. 35 / A leggyakoribb melléknevekből képzett főnevek
+- [x] **Szavak** [[nemet_kozephalado_segedlet.pdf]] S. 35 / A leggyakoribb melléknevekből képzett főnevek
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1193553214/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
-- [ ] **Fordítás:** [[nemet_halado_segedlet.pdf]] S. 3 / 1 (Az összes rokonom...)
+- [x] **Fordítás:** [[nemet_halado_segedlet.pdf]] S. 3 / 1 (Az összes rokonom...)
 > [!success]- Megoldás
 > az összes rokonom - alle meine Verwandten
 > az önkéntesek - die Freiwilligen
@@ -34,7 +34,7 @@ tags:
 > egy szerelmes férfi - ein Verliebter
 > egy németet - einen Deutschen
 
-- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 4 / 2
+- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 4 / 2
 > [!success]- Megoldás
 > 1. Im Urlaub habe ich zum ersten Mal mit einem Deutsch**en** auf Deutsch gesprochen.
 > 2. Diese Veranstaltung dürfen Kinder nur in Begleitung eines Erwachsen**en** besuchen.
@@ -48,7 +48,7 @@ tags:
 > 10. Er kannte die Frau zwar nicht, aber er hatte große Lust, die Unbekannt**en** kennenzulernen.
 > 11. Sie hat ihren Geburtstag mit Freunden und Bekannt**en** gefeiert.
 
-- [ ] **Fogalmazás:** [[Menschen B1.pdf]] S. 13 / 6
+- [x] **Fogalmazás:** [[Menschen B1.pdf]] S. 13 / 6
 > [!success]- Megoldás
 > Das ist Nóri, meine Partnerin. Wir sind seit mehr als 2 Jahren zusammen. Wir kennen uns aus der Schule. Ich bin dankbar für sie. Wir haben viel gemeinsam, aber auch große Unterschiede, und ich glaube, dass es so ist, wie es sein muss. Wir machen viel zusammen, z.B. ins Restaurant gehen, Filme ansehen und so weiter. Sie ist lieb, humorvoll und ordentlich.
 
