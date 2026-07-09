@@ -1,7 +1,7 @@
 ---
 Kurs: Német haladó félintenzív
 Niveau: B1
-Lehrerin: Vitez Adrien
+Lehrerin: Vitéz Adrienn
 Lehrbuch: "[[Menschen B1.pdf]]"
 Beginn: 2026-07-06
 tags:
@@ -33,15 +33,6 @@ TABLE Datum, Frist, Status
 FROM #Hausaufgabe
 WHERE Kurs = this.file.link
 SORT Frist ASC
-```
-
-## 🗂️ Neue Wörter aus diesem Kurs
-
-```dataview
-LIST
-FROM #Lernkarten
-WHERE contains(string(Quelle), this.file.name)
-SORT file.name ASC
 ```
 
 ---

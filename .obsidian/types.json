@@ -11,6 +11,7 @@
     "Präteritum": "text",
     "Kontext": "multitext",
     "Niveau": "text",
-    "Frist": "date"
+    "Frist": "date",
+    "Buchseite": "multitext"
   }
 }
