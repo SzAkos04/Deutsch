@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
-                "mode": "preview",
+                "file": "05_Kurs/Unterricht/2026-07-09.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-06 Hausaufgaben"
+              "title": "2026-07-09"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
+                "file": "05_Kurs/Unterricht/2026-07-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-06 Hausaufgaben"
+              "title": "Outline of 2026-07-09"
             }
           },
           {
@@ -213,9 +213,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "49a5f8c85340df93",
   "lastOpenFiles": [
     "05_Kurs/Unterricht/2026-07-06.md",
+    "05_Kurs/Unterricht/2026-07-09.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "MOC.md",
     "05_Kurs/Materialen/Menschen-B1-arbeitsbuch.pdf",
