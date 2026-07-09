@@ -61,8 +61,7 @@
               "title": "Menschen B1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
+                "file": "05_Kurs/Unterricht/2026-07-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-09 Hausaufgaben"
+              "title": "Outline of 2026-07-09"
             }
           },
           {
@@ -253,10 +252,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "82f9364b0ff36214",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_Kurs/Unterricht/2026-07-09.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Unterricht/2026-07-09.md",
     "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
     "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Unterricht/2026-07-06.md",
