@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
+                "file": "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "2026-07-09 Hausaufgaben"
+            }
+          },
+          {
+            "id": "103d3a4996bc5a32",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "nemet_halado_segedlet"
             }
           }
         ]
@@ -158,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md",
+                "file": "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC"
+              "title": "Outline of 2026-07-09 Hausaufgaben"
             }
           },
           {
@@ -215,15 +227,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
+    "05_Kurs/Unterricht/2026-07-09.md",
     "MOC.md",
+    "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "05_Kurs/Német haladó félintenzív.md",
     "_Vorlagen/Unterricht Vorlage.md",
-    "05_Kurs/Unterricht/2026-07-09.md",
     "05_Kurs/Unterricht/2026-07-06.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Materialen/nemet_kozephalado_segedlet.pdf",
     "05_Kurs/Materialen/Menschen-B1-arbeitsbuch.pdf",
