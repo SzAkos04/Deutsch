@@ -255,7 +255,7 @@ tags:
 - [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag* schreiben
 
 > [!success]- Megoldás
-> 
+> Am Abend von meinem ersten Tag war ich nervös. Aber der Tag ist mir in guter Erinnerung geblieben. Gleich am Morgen verschlief ich und mich verspäte. Weil ich zu spät kam an, hatte ich keine Zeit zu mich umziehen, also ging ich in der Kleidung zur Arbeit, in der ich geschlafen hatte. Zuerst schien die Chefin nett zu sein. Sie half mir bei dem Kehren. Ich musste die Tickets der Menschen überprüfen. Besonders gut gefiel mir das Betriebsklima. Es war ein  Ich machte das bis 14:30 Uhr, danach ging ich nach Hause.
 
 ## Megjegyzések
 
