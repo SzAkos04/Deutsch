@@ -252,10 +252,10 @@ tags:
 > 17. Nachdem ich das Zimmer aufgeräumt habe, ruhe ich mich ein bisschen aus.
 > 18. Nachdem ich das Zimmer aufgeräumt habe, werde ich mich ein bisschen ausruhen.
 
-- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag* schreiben
+- [x] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag* schreiben
 
 > [!success]- Megoldás
-> Am Abend von meinem ersten Tag war ich nervös. Aber der Tag ist mir in guter Erinnerung geblieben. Gleich am Morgen verschlief ich und mich verspäte. Weil ich zu spät kam an, hatte ich keine Zeit zu mich umziehen, also ging ich in der Kleidung zur Arbeit, in der ich geschlafen hatte. Zuerst schien die Chefin nett zu sein. Sie half mir bei dem Kehren. Ich musste die Tickets der Menschen überprüfen. Besonders gut gefiel mir das Betriebsklima. Es war ein  Ich machte das bis 14:30 Uhr, danach ging ich nach Hause.
+> Am Abend von meinem ersten Tag war ich nervös. Aber der Tag ist mir in guter Erinnerung geblieben. Gleich am Morgen verschlief ich und kam zu spät. Weil ich zu spät ankam, hatte ich keine Zeit, mich umzuziehen, also ging ich in der Kleidung zur Arbeit, in der ich geschlafen hatte. Zuerst schien die Chefin nett zu sein. Sie half mir bei dem Aufräumen. Ich musste die Tickets der Leute überprüfen. Besonders gut gefiel mir das Betriebsklima. Es war ein bisschen langweilig, aber es lohnte sich für 2000 Forint pro Stunde. Ich machte das bis 14:30 Uhr, danach ging ich nach Hause.
 
 ## Megjegyzések
 
