@@ -33,8 +33,21 @@
               "icon": "lucide-file-text",
               "title": "nemet_halado_segedlet"
             }
+          },
+          {
+            "id": "11fd84dd071c9608",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
+                "file": "05_Kurs/Materialen/Menschen B1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-09 Hausaufgaben"
+              "title": "Outline of Menschen B1"
             }
           },
           {
@@ -225,10 +238,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "11fd84dd071c9608",
   "lastOpenFiles": [
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
+    "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Unterricht/2026-07-09.md",
     "MOC.md",
     "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
@@ -236,7 +250,6 @@
     "_Vorlagen/Unterricht Vorlage.md",
     "05_Kurs/Unterricht/2026-07-06.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
-    "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Materialen/nemet_kozephalado_segedlet.pdf",
     "05_Kurs/Materialen/Menschen-B1-arbeitsbuch.pdf",
     "_Vorlagen/Hausaufgabe Vorlage.md",
