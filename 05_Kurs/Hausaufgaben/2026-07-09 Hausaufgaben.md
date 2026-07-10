@@ -157,15 +157,15 @@ tags:
 > **Fejezz ki múltbeli előidejűséget az igeidők egyeztetésével!**
 > 
 > ...
-> 13. Sobald der Zug ... (an|kommen), ... (dürfen) wir einsteigen.
-> 14. Sobald ich ... (auf|stehen), ... (müssen) ich lernen. 
+> 1. Sobald der Zug ... (an|kommen), ... (dürfen) wir einsteigen.
+> 2. Sobald ich ... (auf|stehen), ... (müssen) ich lernen. 
 
 > [!success]- Megoldás
-> 15. Sobald der Zug angekommen war, durften wir einsteigen.
+> 1. Sobald der Zug angekommen war, durften wir einsteigen.
 >    Sobald der Zug angekommen ist, dürfen wir einsteigen.
 >    Sobald der Zug angekommen ist, werden wir einsteigen dürfen.
 >    
-> 16. Sobald ich aufgestanden war, musste ich lernen.
+> 2. Sobald ich aufgestanden war, musste ich lernen.
 >    Sobald ich aufgestanden bin, musste ich lernen.
 >    Sobald ich aufgestanden bin, werde ich lernen.
 
@@ -175,82 +175,82 @@ tags:
 > [!info] Feladat
 > **Fordítsd le a mondatokat!**
 > 
-> 17. Miután bevásároltam, ettem egy csokit.
-> 18. Miután bevásároltam, megeszem a csokit.
-> 19. Miután bevásároltam, meg fogom enni a csokit.
+> 1. Miután bevásároltam, ettem egy csokit.
+> 2. Miután bevásároltam, megeszem a csokit.
+> 3. Miután bevásároltam, meg fogom enni a csokit.
 >    
-> 20. Miután felkelt, kinyitotta az ablakot.
-> 21. Miután felkelt, kinyitja az ablakot.
-> 22. Miután felkelt, ki fogja nyitni az ablakot.
+> 4. Miután felkelt, kinyitotta az ablakot.
+> 5. Miután felkelt, kinyitja az ablakot.
+> 6. Miután felkelt, ki fogja nyitni az ablakot.
 >    
-> 23. Miután ebédeltek, bementek az irodába.
-> 24. Miután ebédelnek, elmennek az irodába.
-> 25. Miután megebédeltek, el fognak menni az irodába.
+> 7. Miután ebédeltek, bementek az irodába.
+> 8. Miután ebédelnek, elmennek az irodába.
+> 9. Miután megebédeltek, el fognak menni az irodába.
 
 > [!success]- Megoldás
-> 26. Nachdem ich eingekauft hatte, aß ich eine Schokolade.
-> 27. Nachdem ich eingekauft habe, esse ich eine Schokolade.
-> 28. Nachdem ich eingekauft habe, werde ich eine Schokolade essen.
+> 1. Nachdem ich eingekauft hatte, aß ich eine Schokolade.
+> 2. Nachdem ich eingekauft habe, esse ich eine Schokolade.
+> 3. Nachdem ich eingekauft habe, werde ich eine Schokolade essen.
 >    
-> 29. Nachdem er aufgestanden war, öffnete er das Fenster.
-> 30. Nachdem er aufgestanden ist, öffnet er das Fenster.
-> 31. Nachdem er aufgestanden ist, wird er das Fenster öffnen.
+> 4. Nachdem er aufgestanden war, öffnete er das Fenster.
+> 5. Nachdem er aufgestanden ist, öffnet er das Fenster.
+> 6. Nachdem er aufgestanden ist, wird er das Fenster öffnen.
 >    
-> 32. Nachdem sie zu Mittag gegessen hatten, gingen sie ins Büro.
-> 33. Nachdem sie zu Mittag gegessen haben, gehen sie ins Büro.
-> 34. Nachdem sie zu Mittag gegessen haben, werden sie ins Büro gehen.
+> 7. Nachdem sie zu Mittag gegessen hatten, gingen sie ins Büro.
+> 8. Nachdem sie zu Mittag gegessen haben, gehen sie ins Büro.
+> 9. Nachdem sie zu Mittag gegessen haben, werden sie ins Büro gehen.
 
 - [x] **Szorgalmi:** extra mondatok
 
 > [!info] Feladat
-> 35. Miután felkeltem, megittam a kávét.
-> 36. Miután felkelek/felkeltem, megiszom a kávét.
-> 37. Miután felkeltem, meg fogom inni a kávét.
+> 1. Miután felkeltem, megittam a kávét.
+> 2. Miután felkelek/felkeltem, megiszom a kávét.
+> 3. Miután felkeltem, meg fogom inni a kávét.
 > 
-> 38. Miután hazaértem, felhívtam a barátomat.
-> 39. Miután hazaérek/hazaértem, felhívom a barátomat.
-> 40. Miután hazaértem, fel fogom hívni a barátomat.
+> 4. Miután hazaértem, felhívtam a barátomat.
+> 5. Miután hazaérek/hazaértem, felhívom a barátomat.
+> 6. Miután hazaértem, fel fogom hívni a barátomat.
 > 
-> 41. Miután elolvastam a könyvet, visszaadtam a könyvtárnak.
-> 42. Miután elolvasom/elolvastam a könyvet, visszaadom a könyvtárnak.
-> 43. Miután elolvastam a könyvet, vissza fogom adni a könyvtárnak.
+> 7. Miután elolvastam a könyvet, visszaadtam a könyvtárnak.
+> 8. Miután elolvasom/elolvastam a könyvet, visszaadom a könyvtárnak.
+> 9. Miután elolvastam a könyvet, vissza fogom adni a könyvtárnak.
 > 
-> 44. Miután befejeztem a munkát, hazamentem.
-> 45. Miután befejezem/befejeztem a munkát, hazamegyek.
-> 46. Miután befejeztem a munkát, haza fogok menni.
+> 10. Miután befejeztem a munkát, hazamentem.
+> 11. Miután befejezem/befejeztem a munkát, hazamegyek.
+> 12. Miután befejeztem a munkát, haza fogok menni.
 > 
-> 47. Miután megittam a teát, lefeküdtem aludni.
-> 48. Miután megiszom/megittam a teát, lefekszem aludni.
-> 49. Miután megittam a teát, le fogok feküdni aludni.
+> 13. Miután megittam a teát, lefeküdtem aludni.
+> 14. Miután megiszom/megittam a teát, lefekszem aludni.
+> 15. Miután megittam a teát, le fogok feküdni aludni.
 > 
-> 50. Miután kitakarítottam a szobát, pihentem egy kicsit.
-> 51. Miután kitakarítom a szobát, pihenek egy kicsit.
-> 52. Miután kitakarítottam a szobát, pihenni fogok egy kicsit.
+> 16. Miután kitakarítottam a szobát, pihentem egy kicsit.
+> 17. Miután kitakarítom a szobát, pihenek egy kicsit.
+> 18. Miután kitakarítottam a szobát, pihenni fogok egy kicsit.
 
 > [!success]- Megoldás
-> 53. Nachdem ich aufgestanden war, trank ich den Kaffee.
-> 54. Nachdem ich aufgestanden bin, trinke ich den Kaffee.
-> 55. Nachdem ich aufgestanden bin, werde ich den Kaffee trinken.
+> 1. Nachdem ich aufgestanden war, trank ich den Kaffee.
+> 2. Nachdem ich aufgestanden bin, trinke ich den Kaffee.
+> 3. Nachdem ich aufgestanden bin, werde ich den Kaffee trinken.
 > 
-> 56. Nachdem ich zu Hause angekommen war, rief ich meinen Freund an.
-> 57. Nachdem ich zu Hause angekommen bin, rufe ich meinen Freund an.
-> 58. Nachdem ich zu Hause angekommen bin, werde ich meinen Freund anrufen.
+> 4. Nachdem ich zu Hause angekommen war, rief ich meinen Freund an.
+> 5. Nachdem ich zu Hause angekommen bin, rufe ich meinen Freund an.
+> 6. Nachdem ich zu Hause angekommen bin, werde ich meinen Freund anrufen.
 > 
-> 59. Nachdem ich das Buch gelesen hatte, gab ich es der Bibliothek zurück.
-> 60. Nachdem ich das Buch gelesen habe, gebe ich es der Bibliothek zurück.
-> 61. Nachdem ich das Buch gelesen habe, werde ich es der Bibliothek zurückgeben.
+> 7. Nachdem ich das Buch gelesen hatte, gab ich es der Bibliothek zurück.
+> 8. Nachdem ich das Buch gelesen habe, gebe ich es der Bibliothek zurück.
+> 9. Nachdem ich das Buch gelesen habe, werde ich es der Bibliothek zurückgeben.
 > 
-> 62. Nachdem ich die Arbeit beendet hatte, ging ich nach Hause.
-> 63. Nachdem ich die Arbeit beendet habe, gehe ich nach Hause.
-> 64. Nachdem ich die Arbeit beendet habe, werde ich nach Hause gehen.
+> 10. Nachdem ich die Arbeit beendet hatte, ging ich nach Hause.
+> 11. Nachdem ich die Arbeit beendet habe, gehe ich nach Hause.
+> 12. Nachdem ich die Arbeit beendet habe, werde ich nach Hause gehen.
 > 
-> 65. Nachdem ich den Tee getrunken hatte, ging ich ins Bett.
-> 66. Nachdem ich den Tee getrunken habe, gehe ich ins Bett.
-> 67. Nachdem ich den Tee getrunken habe, werde ich ins Bett gehen.
+> 13. Nachdem ich den Tee getrunken hatte, ging ich ins Bett.
+> 14. Nachdem ich den Tee getrunken habe, gehe ich ins Bett.
+> 15. Nachdem ich den Tee getrunken habe, werde ich ins Bett gehen.
 > 
-> 68. Nachdem ich das Zimmer aufgeräumt hatte, ruhte ich mich ein bisschen aus.
-> 69. Nachdem ich das Zimmer aufgeräumt habe, ruhe ich mich ein bisschen aus.
-> 70. Nachdem ich das Zimmer aufgeräumt habe, werde ich mich ein bisschen ausruhen.
+> 16. Nachdem ich das Zimmer aufgeräumt hatte, ruhte ich mich ein bisschen aus.
+> 17. Nachdem ich das Zimmer aufgeräumt habe, ruhe ich mich ein bisschen aus.
+> 18. Nachdem ich das Zimmer aufgeräumt habe, werde ich mich ein bisschen ausruhen.
 
 - [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag* schreiben
 
