@@ -144,78 +144,113 @@ tags:
 > 4. Ich habe nur schnell einen Apfel eingesteckt, die Wohnung verlassen und bin die Treppe hinuntergerannt.
 > 5. Ich bin ihm gerade vor der Nase weggegangen.
 > 6. Ich bin ungeduldig zehn Minuten lang an der Haltestelle hin- und hergelaufen.
-> 7. Ich bin eilig in die nächste Bahn gestiegen, hat aber dabei die Fahrkarte aus der Hand verloren.
+> 7. Ich bin eilig in die nächste Bahn gestiegen, habe aber dabei die Fahrkarte aus der Hand verloren.
 > 8. Ich habe mich umgedreht, die Fahrkarte vom Boden aufgehoben, aber der Fahrer hat im selben Augenblick die automatischen Türen zugemacht.
-> 9. Ich habe ein Taxi angehalten, aber der Taxifahrer hat die Adresse falsch verstanden und habe den Wagen zunächst in die falsche Richtung gelenkt.
+> 9. Ich habe ein Taxi angehalten, aber der Taxifahrer hat die Adresse falsch verstanden und hat den Wagen zunächst in die falsche Richtung gelenkt.
 > 10. So ist wieder viel Zeit vergangen.
-> 11. Ich habe 45 Minuten zu spät in der Firma angekommen, habe mich beim Chef entschuldigt und die Sekretärin beruhigt.
-> 12. Ich habe dann noch eine halbe Stunden am Schreibtisch geschlafen.
+> 11. Ich bin 45 Minuten zu spät in der Firma angekommen, habe mich beim Chef entschuldigt und die Sekretärin beruhigt.
+> 12. Ich habe dann noch eine halbe Stunde am Schreibtisch geschlafen.
 
-- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 9 / 1 (utolsó 2)
+- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 9 / 1 (utolsó 2)
 
 > [!info] Feladat
 > **Fejezz ki múltbeli előidejűséget az igeidők egyeztetésével!**
 > 
 > ...
-> 1. Sobald der Zug ... (an|kommen), ... (dürfen) wir einsteigen.
-> 2. Sobald ich ... (auf|stehen), ... (müssen) ich lernen. 
+> 13. Sobald der Zug ... (an|kommen), ... (dürfen) wir einsteigen.
+> 14. Sobald ich ... (auf|stehen), ... (müssen) ich lernen. 
 
 > [!success]- Megoldás
-> 1. Sobald der Zug angekommen war, durften wir einsteigen.
->    Sobald der Zug angekommen ist, durfen wir einsteigen.
+> 15. Sobald der Zug angekommen war, durften wir einsteigen.
+>    Sobald der Zug angekommen ist, dürfen wir einsteigen.
 >    Sobald der Zug angekommen ist, werden wir einsteigen dürfen.
 >    
-> 2. Sobald ich aufgestanden war, musste ich lernen.
->    Sobald ich aufgestanden ist, 
+> 16. Sobald ich aufgestanden war, musste ich lernen.
+>    Sobald ich aufgestanden bin, musste ich lernen.
+>    Sobald ich aufgestanden bin, werde ich lernen.
 
 
-- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 10 / 3
+- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 10 / 3
 
 > [!info] Feladat
 > **Fordítsd le a mondatokat!**
 > 
-> 3. Miután bevásároltam, ettem egy csokit.
-> 4. Miután bevásároltam, megeszem a csokit.
-> 5. Miután bevásároltam, meg fogom enni a csokit.
-> 6. Miután felkelt, kinyitotta az ablakot.
-> 7. Miután felkelt, kinyitja az ablakot.
-> 8. Miután felkelt, ki fogja nyitni az ablakot.
-> 9. Miután ebédeltek, bementek az irodába.
-> 10. Miután ebédelnek, elmennek az irodába.
-> 11. Miután megebédeltek, el fognak menni az irodába.
+> 17. Miután bevásároltam, ettem egy csokit.
+> 18. Miután bevásároltam, megeszem a csokit.
+> 19. Miután bevásároltam, meg fogom enni a csokit.
+>    
+> 20. Miután felkelt, kinyitotta az ablakot.
+> 21. Miután felkelt, kinyitja az ablakot.
+> 22. Miután felkelt, ki fogja nyitni az ablakot.
+>    
+> 23. Miután ebédeltek, bementek az irodába.
+> 24. Miután ebédelnek, elmennek az irodába.
+> 25. Miután megebédeltek, el fognak menni az irodába.
 
 > [!success]- Megoldás
-> 
+> 26. Nachdem ich eingekauft hatte, aß ich eine Schokolade.
+> 27. Nachdem ich eingekauft habe, esse ich eine Schokolade.
+> 28. Nachdem ich eingekauft habe, werde ich eine Schokolade essen.
+>    
+> 29. Nachdem er aufgestanden war, öffnete er das Fenster.
+> 30. Nachdem er aufgestanden ist, öffnet er das Fenster.
+> 31. Nachdem er aufgestanden ist, wird er das Fenster öffnen.
+>    
+> 32. Nachdem sie zu Mittag gegessen hatten, gingen sie ins Büro.
+> 33. Nachdem sie zu Mittag gegessen haben, gehen sie ins Büro.
+> 34. Nachdem sie zu Mittag gegessen haben, werden sie ins Büro gehen.
 
-- [ ] **Szorgalmi:** extra mondatok
+- [x] **Szorgalmi:** extra mondatok
 
 > [!info] Feladat
-> 12. Miután felkeltem, megittam a kávét.
-> 13. Miután felkelek/felkeltem, megiszom a kávét.
-> 14. Miután felkeltem, meg fogom inni a kávét.
+> 35. Miután felkeltem, megittam a kávét.
+> 36. Miután felkelek/felkeltem, megiszom a kávét.
+> 37. Miután felkeltem, meg fogom inni a kávét.
 > 
-> 15. Miután hazaértem, felhívtam a barátomat.
-> 16. Miután hazaérek/hazaértem, felhívom a barátomat.
-> 17. Miután hazaértem, fel fogom hívni a barátomat.
+> 38. Miután hazaértem, felhívtam a barátomat.
+> 39. Miután hazaérek/hazaértem, felhívom a barátomat.
+> 40. Miután hazaértem, fel fogom hívni a barátomat.
 > 
-> 18. Miután elolvastam a könyvet, visszaadtam a könyvtárnak.
-> 19. Miután elolvasom/elolvastam a könyvet, visszaadom a könyvtárnak.
-> 20. Miután elolvastam a könyvet, vissza fogom adni a könyvtárnak.
+> 41. Miután elolvastam a könyvet, visszaadtam a könyvtárnak.
+> 42. Miután elolvasom/elolvastam a könyvet, visszaadom a könyvtárnak.
+> 43. Miután elolvastam a könyvet, vissza fogom adni a könyvtárnak.
 > 
-> 21. Miután befejeztem a munkát, hazamentem.
-> 22. Miután befejezem/befejeztem a munkát, hazamegyek.
-> 23. Miután befejeztem a munkát, haza fogok menni.
+> 44. Miután befejeztem a munkát, hazamentem.
+> 45. Miután befejezem/befejeztem a munkát, hazamegyek.
+> 46. Miután befejeztem a munkát, haza fogok menni.
 > 
-> 24. Miután megittam a teát, lefeküdtem aludni.
-> 25. Miután megiszom/megittam a teát, lefekszem aludni.
-> 26. Miután megittam a teát, le fogok feküdni aludni.
+> 47. Miután megittam a teát, lefeküdtem aludni.
+> 48. Miután megiszom/megittam a teát, lefekszem aludni.
+> 49. Miután megittam a teát, le fogok feküdni aludni.
 > 
-> 27. Miután kitakarítottam a szobát, pihentem egy kicsit.
-> 28. Miután kitakarítom a szobát, pihenek egy kicsit.
-> 29. Miután kitakarítottam a szobát, pihenni fogok egy kicsit.
+> 50. Miután kitakarítottam a szobát, pihentem egy kicsit.
+> 51. Miután kitakarítom a szobát, pihenek egy kicsit.
+> 52. Miután kitakarítottam a szobát, pihenni fogok egy kicsit.
 
 > [!success]- Megoldás
+> 53. Nachdem ich aufgestanden war, trank ich den Kaffee.
+> 54. Nachdem ich aufgestanden bin, trinke ich den Kaffee.
+> 55. Nachdem ich aufgestanden bin, werde ich den Kaffee trinken.
 > 
+> 56. Nachdem ich zu Hause angekommen war, rief ich meinen Freund an.
+> 57. Nachdem ich zu Hause angekommen bin, rufe ich meinen Freund an.
+> 58. Nachdem ich zu Hause angekommen bin, werde ich meinen Freund anrufen.
+> 
+> 59. Nachdem ich das Buch gelesen hatte, gab ich es der Bibliothek zurück.
+> 60. Nachdem ich das Buch gelesen habe, gebe ich es der Bibliothek zurück.
+> 61. Nachdem ich das Buch gelesen habe, werde ich es der Bibliothek zurückgeben.
+> 
+> 62. Nachdem ich die Arbeit beendet hatte, ging ich nach Hause.
+> 63. Nachdem ich die Arbeit beendet habe, gehe ich nach Hause.
+> 64. Nachdem ich die Arbeit beendet habe, werde ich nach Hause gehen.
+> 
+> 65. Nachdem ich den Tee getrunken hatte, ging ich ins Bett.
+> 66. Nachdem ich den Tee getrunken habe, gehe ich ins Bett.
+> 67. Nachdem ich den Tee getrunken habe, werde ich ins Bett gehen.
+> 
+> 68. Nachdem ich das Zimmer aufgeräumt hatte, ruhte ich mich ein bisschen aus.
+> 69. Nachdem ich das Zimmer aufgeräumt habe, ruhe ich mich ein bisschen aus.
+> 70. Nachdem ich das Zimmer aufgeräumt habe, werde ich mich ein bisschen ausruhen.
 
 - [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag* schreiben
 
