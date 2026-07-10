@@ -119,7 +119,7 @@ tags:
 > 3. Ich habe deinen Freund Klavier spielen hören.
 > 4. Wohin bist du spazieren gegangen?
 
-- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 8 / 6
+- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 8 / 6
 
 > [!info] Feladat
 > **Tedd át a mondatokat Perfekt E/1-be**
@@ -128,26 +128,28 @@ tags:
 > 2. Das macht ihn schon sehr ärgerlich.
 > 3. Er wusch sich nicht, zog sich in aller Eile an, verwechselte die Strümpfe und band sich eine falsche Krawatte um.
 > 4. Er steckte nur schnell einen Apfel ein, verließ die Wohnung und rannte die Treppe hinunter.
-> 5. Die Straßenbahn fuhr ihm gerade vor der Nase weg. Er lief ungeduldig zehn Minuten lang an der Haltestelle hin und her.
-> 6. Er stieg eilig in die nächste Bahn, verlor aber dabei die Fahrkarte aus der Hand.
-> 7. Er drehte sich um, hob die Fahrkarte vom Boden auf, aber der Fahrer machte im selben Augenblick die automatischen Türen zu.
-> 8. Er hielt ein Taxi an, aber der Taxifahrer verstand die Adresse falsch und lenkte den Wagen zunächst in die falsche Richtung.
-> 9. So verging wieder viel Zeit.
-> 10. Er kam 45 Minuten zu spät in der Firma an, entschuldigte sich beim Chef und beruhigte die Sekretärin.
-> 11. Er schlief dann noch eine halbe Stunde am Schreibtisch.
+> 5. Die Straßenbahn fuhr ihm gerade vor der Nase weg.
+> 6. Er lief ungeduldig zehn Minuten lang an der Haltestelle hin und her.
+> 7. Er stieg eilig in die nächste Bahn, verlor aber dabei die Fahrkarte aus der Hand.
+> 8. Er drehte sich um, hob die Fahrkarte vom Boden auf, aber der Fahrer machte im selben Augenblick die automatischen Türen zu.
+> 9. Er hielt ein Taxi an, aber der Taxifahrer verstand die Adresse falsch und lenkte den Wagen zunächst in die falsche Richtung.
+> 10. So verging wieder viel Zeit.
+> 11. Er kam 45 Minuten zu spät in der Firma an, entschuldigte sich beim Chef und beruhigte die Sekretärin.
+> 12. Er schlief dann noch eine halbe Stunde am Schreibtisch.
 
 > [!success]- Megoldás
 > 1. Ich bin zu spät aufgewacht, sofort aus dem Bett gesprungen, habe dabei die Bettdecke zerrissen und das Wasserglas vom Nachttisch geworfen.
 > 2. Das hat mich schon sehr ärgerlich gemacht.
 > 3. Ich habe mich nicht gewaschen, mich in aller Eile angezogen, die Strümpfe verwechselt und mir eine falsche Krawatte umgebunden.
-> 4. 
-> 5. 
-> 6. 
-> 7. 
-> 8. 
-> 9. 
-> 10. 
-> 11. 
+> 4. Ich habe nur schnell einen Apfel eingesteckt, die Wohnung verlassen und bin die Treppe hinuntergerannt.
+> 5. Ich bin ihm gerade vor der Nase weggegangen.
+> 6. Ich bin ungeduldig zehn Minuten lang an der Haltestelle hin- und hergelaufen.
+> 7. Ich bin eilig in die nächste Bahn gestiegen, hat aber dabei die Fahrkarte aus der Hand verloren.
+> 8. Ich habe mich umgedreht, die Fahrkarte vom Boden aufgehoben, aber der Fahrer hat im selben Augenblick die automatischen Türen zugemacht.
+> 9. Ich habe ein Taxi angehalten, aber der Taxifahrer hat die Adresse falsch verstanden und habe den Wagen zunächst in die falsche Richtung gelenkt.
+> 10. So ist wieder viel Zeit vergangen.
+> 11. Ich habe 45 Minuten zu spät in der Firma angekommen, habe mich beim Chef entschuldigt und die Sekretärin beruhigt.
+> 12. Ich habe dann noch eine halbe Stunden am Schreibtisch geschlafen.
 
 - [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 9 / 1 (utolsó 2)
 
@@ -159,8 +161,12 @@ tags:
 > 2. Sobald ich ... (auf|stehen), ... (müssen) ich lernen. 
 
 > [!success]- Megoldás
-> 1. 
-> 2. 
+> 1. Sobald der Zug angekommen war, durften wir einsteigen.
+>    Sobald der Zug angekommen ist, durfen wir einsteigen.
+>    Sobald der Zug angekommen ist, werden wir einsteigen dürfen.
+>    
+> 2. Sobald ich aufgestanden war, musste ich lernen.
+>    Sobald ich aufgestanden ist, 
 
 
 - [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 10 / 3
@@ -168,15 +174,15 @@ tags:
 > [!info] Feladat
 > **Fordítsd le a mondatokat!**
 > 
-> 1. Miután bevásároltam, ettem egy csokit.
-> 2. Miután bevásároltam, megeszem a csokit.
-> 3. Miután bevásároltam, meg fogom enni a csokit.
-> 4. Miután felkelt, kinyitotta az ablakot.
-> 5. Miután felkelt, kinyitja az ablakot.
-> 6. Miután felkelt, ki fogja nyitni az ablakot.
-> 7. Miután ebédeltek, bementek az irodába.
-> 8. Miután ebédelnek, elmennek az irodába.
-> 9. Miután megebédeltek, el fognak menni az irodába.
+> 3. Miután bevásároltam, ettem egy csokit.
+> 4. Miután bevásároltam, megeszem a csokit.
+> 5. Miután bevásároltam, meg fogom enni a csokit.
+> 6. Miután felkelt, kinyitotta az ablakot.
+> 7. Miután felkelt, kinyitja az ablakot.
+> 8. Miután felkelt, ki fogja nyitni az ablakot.
+> 9. Miután ebédeltek, bementek az irodába.
+> 10. Miután ebédelnek, elmennek az irodába.
+> 11. Miután megebédeltek, el fognak menni az irodába.
 
 > [!success]- Megoldás
 > 
@@ -184,29 +190,29 @@ tags:
 - [ ] **Szorgalmi:** extra mondatok
 
 > [!info] Feladat
-> 1. Miután felkeltem, megittam a kávét.
-> 2. Miután felkelek/felkeltem, megiszom a kávét.
-> 3. Miután felkeltem, meg fogom inni a kávét.
+> 12. Miután felkeltem, megittam a kávét.
+> 13. Miután felkelek/felkeltem, megiszom a kávét.
+> 14. Miután felkeltem, meg fogom inni a kávét.
 > 
-> 4. Miután hazaértem, felhívtam a barátomat.
-> 5. Miután hazaérek/hazaértem, felhívom a barátomat.
-> 6. Miután hazaértem, fel fogom hívni a barátomat.
+> 15. Miután hazaértem, felhívtam a barátomat.
+> 16. Miután hazaérek/hazaértem, felhívom a barátomat.
+> 17. Miután hazaértem, fel fogom hívni a barátomat.
 > 
-> 7. Miután elolvastam a könyvet, visszaadtam a könyvtárnak.
-> 8. Miután elolvasom/elolvastam a könyvet, visszaadom a könyvtárnak.
-> 9. Miután elolvastam a könyvet, vissza fogom adni a könyvtárnak.
+> 18. Miután elolvastam a könyvet, visszaadtam a könyvtárnak.
+> 19. Miután elolvasom/elolvastam a könyvet, visszaadom a könyvtárnak.
+> 20. Miután elolvastam a könyvet, vissza fogom adni a könyvtárnak.
 > 
-> 10. Miután befejeztem a munkát, hazamentem.
-> 11. Miután befejezem/befejeztem a munkát, hazamegyek.
-> 12. Miután befejeztem a munkát, haza fogok menni.
+> 21. Miután befejeztem a munkát, hazamentem.
+> 22. Miután befejezem/befejeztem a munkát, hazamegyek.
+> 23. Miután befejeztem a munkát, haza fogok menni.
 > 
-> 13. Miután megittam a teát, lefeküdtem aludni.
-> 14. Miután megiszom/megittam a teát, lefekszem aludni.
-> 15. Miután megittam a teát, le fogok feküdni aludni.
+> 24. Miután megittam a teát, lefeküdtem aludni.
+> 25. Miután megiszom/megittam a teát, lefekszem aludni.
+> 26. Miután megittam a teát, le fogok feküdni aludni.
 > 
-> 16. Miután kitakarítottam a szobát, pihentem egy kicsit.
-> 17. Miután kitakarítom a szobát, pihenek egy kicsit.
-> 18. Miután kitakarítottam a szobát, pihenni fogok egy kicsit.
+> 27. Miután kitakarítottam a szobát, pihentem egy kicsit.
+> 28. Miután kitakarítom a szobát, pihenek egy kicsit.
+> 29. Miután kitakarítottam a szobát, pihenni fogok egy kicsit.
 
 > [!success]- Megoldás
 > 
