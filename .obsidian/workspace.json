@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "90f62b7255bee960",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "edefa3084a6b4020",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf"
+                "file": "MOC.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "nemet_halado_szoszedet"
+              "icon": "lucide-file",
+              "title": "MOC"
             }
           }
         ]
@@ -155,17 +158,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
+                "file": "MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nemet_halado_szoszedet"
+              "title": "Outline of MOC"
+            }
+          },
+          {
+            "id": "7265f92043403b02",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -200,11 +213,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "edefa3084a6b4020",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
     "MOC.md",
-    "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "05_Kurs/Német haladó félintenzív.md",
     "_Vorlagen/Unterricht Vorlage.md",
     "05_Kurs/Unterricht/2026-07-09.md",
