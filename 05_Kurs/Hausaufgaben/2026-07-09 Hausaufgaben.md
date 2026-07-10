@@ -63,18 +63,28 @@ tags:
 > Mindent bevásároltam a testvéremmel. - Ich habe mit meinem Bruder / meiner Schwester alles eingekauft.
 > Már 4 óra előtt felkeltek. - Sie sind vor 4 Uhr aufgestanden.
 
-- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 4 (jobb oszlop)
+- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 4 (jobb oszlop)
 
 > [!success]- Megoldás
 > Nem akart jönni tegnap. - Er hat gestern nicht kommen wollen.
-> Hallottátok már őt fütyülni? - H
-> Hallottam zongorázni a barátodat.
-> Hova mentél sétálni.
+> Hallottátok már őt fütyülni? - Habt ihr ihn pfeifen hören?
+> Hallottam zongorázni a barátodat. - Ich habe deinen Freund Klavier spielen hören.
+> Hova mentél sétálni. - Wohin bist du spazieren gegangen?
 
-- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 6
+- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 8 / 6
 
 > [!success]- Megoldás
-> 
+> 1. Er wachte zu spät auf, sprang sofort aus dem Bett, zerriss dabei die Bettdecke und warf das Wasserglas vom Nachttisch. - Ich bin zu spät aufgewacht, sofort aus dem Bett gesprungen, habe dabei die Bettdecke zerrissen und das Wasserglas vom Nachttisch geworfen.
+> 2. Das macht ihn schon sehr ärgerlich. - Das hat mich schon sehr ärgerlich gemacht.
+> 3. Er wusch sich nicht, zog sich in aller Eile an, verwechselte die Strümpfe und band sich eine falsche Krawatte um. - Ich habe mich nicht gewaschen, mich in aller Eile angezogen, die Strümpfe verwechselt und mir eine falsche Krawatte umgebunden.
+> 4. Er steckte nur schnell einen Apfel ein, verließ die Wohnung und rannte die Treppe hinunter.
+> 5. Die Straßenbahn fuhr ihm gerade vor der Nase weg. Er lief ungeduldig zehn Minuten lang an der Haltestelle hin und her.
+> 6. Er stieg eilig in die nächste Bahn, verlor aber dabei die Fahrkarte aus der Hand.
+> 7. Er drehte sich um, hob die Fahrkarte vom Boden auf, aber der Fahrer machte im selben Augenblick die automatischen Türen zu.
+> 8. Er hielt ein Taxi an, aber der Taxifahrer verstand die Adresse falsch und lenkte den Wagen zunächst in die falsche Richtung.
+> 9. So verging wieder viel Zeit.
+> 10. Er kam 45 Minuten zu spät in der Firma an, entschuldigte sich beim Chef und beruhigte die Sekretärin.
+> 11. Er schlief dann noch eine halbe Stunde am Schreibtisch.
 
 - [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 9 / 1 (utolsó 2)
 
