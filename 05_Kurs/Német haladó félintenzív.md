@@ -23,7 +23,7 @@ tags:
 TABLE Datum, Thema
 FROM #Unterricht
 WHERE Kurs = this.file.link
-SORT Datum ASC
+SORT Datum DESC
 ```
 
 ## 📝 Hausaufgaben
@@ -32,7 +32,7 @@ SORT Datum ASC
 TABLE Datum, Frist, Status
 FROM #Hausaufgabe
 WHERE Kurs = this.file.link
-SORT Frist ASC
+SORT Frist DESC
 ```
 
 ---
