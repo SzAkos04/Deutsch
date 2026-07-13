@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "3bcc975f56dcb901",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "nemet_halado_segedlet"
-            }
-          },
-          {
             "id": "43d05b2fe9ee154b",
             "type": "leaf",
             "state": {
@@ -60,9 +48,21 @@
               "icon": "lucide-file-text",
               "title": "Menschen B1"
             }
+          },
+          {
+            "id": "3bcc975f56dcb901",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "nemet_halado_segedlet"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,13 +256,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "3bcc975f56dcb901",
+  "active": "43d05b2fe9ee154b",
   "lastOpenFiles": [
-    "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Unterricht/2026-07-13.md",
-    "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
+    "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
     "05_Kurs/Materialen/Menschen-B1-arbeitsbuch.pdf",
     "00_Eingang/2026-07-13.md",
