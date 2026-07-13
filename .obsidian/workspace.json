@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "43d05b2fe9ee154b",
+  "active": "ce2a2564c783de34",
   "lastOpenFiles": [
     "05_Kurs/Unterricht/2026-07-13.md",
     "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",

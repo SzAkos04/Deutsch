@@ -14,12 +14,14 @@ tags:
 
 ## Feladatok
 
-- [ ] [[nemet_halado_segedlet.pdf]] S. 11 / 1 (jobb oszlop)
-- [ ] [[nemet_halado_segedlet.pdf]] S. 12-13 / 2 (Amíg ivott egy sört...)
-- [ ] [[nemet_halado_segedlet.pdf]] S. 13 / 1 (jobb oszlop)
-- [ ] [[nemet_halado_segedlet.pdf]] S. 14 / 1 (III) (jobb oszlop)
-- [ ] [[nemet_halado_segedlet.pdf]] S. 14 / 1 (IV) (Mindent bepakolt a táskájába...)
-- [ ] [[nemet_halado_segedlet.pdf]] S. 15-16 átnézni
+- [ ] **Szavak:** Lektion 3
+- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 11 / 1 (jobb oszlop)
+- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 12-13 / 2 (Amíg ivott egy sört...)
+- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 13 / 1 (jobb oszlop)
+- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 14 / 1 (III) (jobb oszlop)
+- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 14 / 1 (IV) (Mindent bepakolt a táskájába...)
+- [ ] **Gyakorlat:** [[Menschen B1.pdf]] S. 21 / 3 c)
+- [ ] **Elmélet:** [[nemet_halado_segedlet.pdf]] S. 15-16 átnézni
 
 ## Megjegyzések
 
