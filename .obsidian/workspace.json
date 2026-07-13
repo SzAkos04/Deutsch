@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "05_Kurs/Unterricht/2026-07-13.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -36,8 +36,33 @@
               "icon": "lucide-file",
               "title": "2026-07-13 Hausaufgaben"
             }
+          },
+          {
+            "id": "3bcc975f56dcb901",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "nemet_halado_segedlet"
+            }
+          },
+          {
+            "id": "43d05b2fe9ee154b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +130,7 @@
       {
         "id": "b48b3660aad9e0fc",
         "type": "tabs",
-        "dimension": 78.58672376873662,
+        "dimension": 53.69774919614147,
         "children": [
           {
             "id": "9b5c7e92a804ffa7",
@@ -193,38 +218,14 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "3bcc975f56dcb901",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "nemet_halado_segedlet"
-            }
-          },
-          {
-            "id": "43d05b2fe9ee154b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05_Kurs/Materialen/Menschen B1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Menschen B1"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "9afdaf56f0dcfca1",
         "type": "tabs",
-        "dimension": 21.413276231263385,
+        "dimension": 46.30225080385852,
         "children": [
           {
             "id": "0b994ebb02fca3fc",
@@ -240,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 803.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,11 +256,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3bcc975f56dcb901",
   "lastOpenFiles": [
     "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
-    "05_Kurs/Unterricht/2026-07-13.md",
     "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
+    "05_Kurs/Unterricht/2026-07-13.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",

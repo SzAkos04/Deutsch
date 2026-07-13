@@ -15,7 +15,11 @@ tags:
 ## Feladatok
 
 - [ ] [[nemet_halado_segedlet.pdf]] S. 11 / 1 (jobb oszlop)
-- [ ] [[nemet_halado_segedlet.pdf]] S. 13 / 2 (Amíg ivott egy sört...)
+- [ ] [[nemet_halado_segedlet.pdf]] S. 12-13 / 2 (Amíg ivott egy sört...)
+- [ ] [[nemet_halado_segedlet.pdf]] S. 13 / 1 (jobb oszlop)
+- [ ] [[nemet_halado_segedlet.pdf]] S. 14 / 1 (III) (jobb oszlop)
+- [ ] [[nemet_halado_segedlet.pdf]] S. 14 / 1 (IV) (Mindent bepakolt a táskájába...)
+- [ ] [[nemet_halado_segedlet.pdf]] S. 15-16 átnézni
 
 ## Megjegyzések
 
