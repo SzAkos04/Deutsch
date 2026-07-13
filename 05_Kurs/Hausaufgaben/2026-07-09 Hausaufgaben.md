@@ -138,15 +138,15 @@ tags:
 > 12. Er schlief dann noch eine halbe Stunde am Schreibtisch.
 
 > [!success]- Megoldás
-> 1. Ich bin zu spät aufgewacht, sofort aus dem Bett gesprungen, habe dabei die Bettdecke zerrissen und das Wasserglas vom Nachttisch geworfen.
+> 1. Ich bin zu spät aufgewacht, bin sofort aus dem Bett gesprungen, habe dabei die Bettdecke zerrissen und das Wasserglas vom Nachttisch geworfen.
 > 2. Das hat mich schon sehr ärgerlich gemacht.
 > 3. Ich habe mich nicht gewaschen, mich in aller Eile angezogen, die Strümpfe verwechselt und mir eine falsche Krawatte umgebunden.
-> 4. Ich habe nur schnell einen Apfel eingesteckt, die Wohnung verlassen und bin die Treppe hinuntergerannt.
-> 5. Ich bin ihm gerade vor der Nase weggegangen.
+> 4. Ich habe nur schnell einen Apfel eingesteckt, habe die Wohnung verlassen und die Treppe hinuntergerannt.
+> 5. Die Straßenbahn ist mir gerade vor der Nase weggefahren.
 > 6. Ich bin ungeduldig zehn Minuten lang an der Haltestelle hin- und hergelaufen.
 > 7. Ich bin eilig in die nächste Bahn gestiegen, habe aber dabei die Fahrkarte aus der Hand verloren.
 > 8. Ich habe mich umgedreht, die Fahrkarte vom Boden aufgehoben, aber der Fahrer hat im selben Augenblick die automatischen Türen zugemacht.
-> 9. Ich habe ein Taxi angehalten, aber der Taxifahrer hat die Adresse falsch verstanden und hat den Wagen zunächst in die falsche Richtung gelenkt.
+> 9. Ich habe ein Taxi angehalten, aber der Taxifahrer hat die Adresse falsch verstanden und den Wagen zunächst in die falsche Richtung gelenkt.
 > 10. So ist wieder viel Zeit vergangen.
 > 11. Ich bin 45 Minuten zu spät in der Firma angekommen, habe mich beim Chef entschuldigt und die Sekretärin beruhigt.
 > 12. Ich habe dann noch eine halbe Stunde am Schreibtisch geschlafen.
@@ -166,8 +166,8 @@ tags:
 >    Sobald der Zug angekommen ist, werden wir einsteigen dürfen.
 >    
 > 2. Sobald ich aufgestanden war, musste ich lernen.
->    Sobald ich aufgestanden bin, musste ich lernen.
->    Sobald ich aufgestanden bin, werde ich lernen.
+>    Sobald ich aufgestanden bin, muss ich lernen.
+>    Sobald ich aufgestanden bin, werde ich lernen müssen.
 
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 10 / 3
@@ -189,8 +189,8 @@ tags:
 
 > [!success]- Megoldás
 > 1. Nachdem ich eingekauft hatte, aß ich eine Schokolade.
-> 2. Nachdem ich eingekauft habe, esse ich eine Schokolade.
-> 3. Nachdem ich eingekauft habe, werde ich eine Schokolade essen.
+> 2. Nachdem ich eingekauft habe, esse ich die Schokolade.
+> 3. Nachdem ich eingekauft habe, werde ich die Schokolade essen.
 >    
 > 4. Nachdem er aufgestanden war, öffnete er das Fenster.
 > 5. Nachdem er aufgestanden ist, öffnet er das Fenster.
