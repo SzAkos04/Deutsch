@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 2
+- [x] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 2
 
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1193997655/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
