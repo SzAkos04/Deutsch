@@ -14,8 +14,8 @@ tags:
 
 ## Feladatok
 
-- [ ] 
-- [ ] 
+- [ ] [[nemet_halado_segedlet.pdf]] S. 11 / 1 (jobb oszlop)
+- [ ] [[nemet_halado_segedlet.pdf]] S. 13 / 2 (Amíg ivott egy sört...)
 
 ## Megjegyzések
 
