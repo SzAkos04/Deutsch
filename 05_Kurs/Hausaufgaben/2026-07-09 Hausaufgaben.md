@@ -94,12 +94,12 @@ tags:
 > 8. Már 4 óra előtt felkeltek.
 
 > [!success]- Megoldás
-> 1. Wann seid ihr eingeschlafen?
+> 1. Wann seid ihr aufgestanden?
 > 2. Gestern haben wir alles eingekauft.
-> 3. Seid ihr aufgestanden.
+> 3. Seid ihr schon aufgestanden.
 > 4. Sind die Gäste schon weggegangen.
 > 5. Der Zug ist schon angekommen.
-> 6. In Győr haben wir immer ferngesehen
+> 6. In Győr haben wir immer ferngesehen.
 > 7. Ich habe mit meinem Bruder / meiner Schwester alles eingekauft.
 > 8. Sie sind vor 4 Uhr aufgestanden.
 
