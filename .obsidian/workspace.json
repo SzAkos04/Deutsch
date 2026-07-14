@@ -26,15 +26,12 @@
             "id": "ce2a2564c783de34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2026-07-13 Hausaufgaben"
+              "icon": "lucide-file-text",
+              "title": "nemet_halado_segedlet"
             }
           },
           {
@@ -258,8 +255,8 @@
   },
   "active": "ce2a2564c783de34",
   "lastOpenFiles": [
-    "05_Kurs/Unterricht/2026-07-13.md",
     "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
+    "05_Kurs/Unterricht/2026-07-13.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
