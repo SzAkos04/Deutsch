@@ -15,7 +15,22 @@ tags:
 ## Feladatok
 
 - [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+> [!success]- Megoldás
+> 1. 
+
 - [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+> [!success]- Megoldás
+> 1. 
 
 ## Megjegyzések
 
