@@ -48,8 +48,8 @@ tags:
 > 4. Amíg itt fecsegsz, kifut a tejed.
 
 > [!success]- Megoldás
-> 1. Bis er ein Bier getrunken hat, ging sein Zug weg.
-> 2. Viele Zeit hat vergangen, bis der Zug wegging.
+> 1. Solange er ein Bier trank, ging sein Zug weg.
+> 2. Viel Zeit ist vergangen, bis der Zug wegging.
 > 3. Bis er mich besucht, gebe ich ihm das Geld nicht.
 > 4. Solange du hier redest, läuft deine Milch über.
 
