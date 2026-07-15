@@ -17,6 +17,7 @@ tags:
 - [ ] **Szavak:** Lektion 3
 
 > [!quizlet]- Quizlet
+> <iframe src="https://quizlet.com/1194933884/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 11 / 1 (jobb oszlop)
 
@@ -71,24 +72,42 @@ tags:
 > 5. Als ich bei ihm Urlaub machte, bekam ich etwas.
 > 6. Wenn ich glücklich bin, lächle ich immer.
 
-- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 14 / 1 (III) (jobb oszlop)
+- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 14 / 1 (III) (jobb oszlop)
 
 > [!info] Feladat
 > **1. Wenn vagy als?**
-> 1. Er hatte ein paar Glas Bier getrunken. Er wurde immer sehr laut.
-> 2. Sie dachte an ihre Schwester. Es wurde ihr jedes Mal beinahe schlecht.
-> 3. Ich traf gestern meinen Freund auf der Straße. Ich freute mich sehr. Der Redner schlug mit der Faust auf den Tisch. Alle Zuhörer wachten wieder auf. Er kam aus dem Urlaub zurück. Er brachte immer Räucherfisch mit.
+> 1. Er hatte ein paar Glas Bier getrunken.
+>    Er wurde immer sehr laut.
+> 2. Sie dachte an ihre Schwester.
+>    Es wurde ihr jedes Mal beinahe schlecht.
+> 3. Ich traf gestern meinen Freund auf der Straße.
+>    Ich freute mich sehr.
+> 4. Der Redner schlug mit der Faust auf den Tisch.
+>    Alle Zuhörer wachten wieder auf.
+> 5. Er kam aus dem Urlaub zurück.
+>    Er brachte immer Räucherfisch mit.
 
 > [!success]- Megoldás
-> 3. 
+> 1. Wenn er ein paar Glas Bier getrunken hatte, wurde er immer sehr laut.
+> 2. Wenn sie an ihre Schwester dachte, wurde es ihr jedes Mal beinahe schlecht.
+> 3. Als ich gestern meinen Freund auf der Straße traf, freute ich mich sehr.
+> 4. Als der Redner mit der Faust auf den Tisch schlug, wachten alle Zuhörer wieder auf.
+> 5. Wenn er aus dem Urlaub zurückkam, brachte er immer Räucherfisch mit.
 
-- [ ] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 14 / 1 (IV) (Mindent bepakolt a táskájába...)
+- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 14 / 1 (IV) (Mindent bepakolt a táskájába...)
 
 > [!info] Feladat
-> ****
+> **1. Forditsd le!**
+> 1. Mindent bepakolt a táskájába, mielőtt elhagyta a céget.
+> 2. Mielőtt hazamész, oltsd el a lámpát.
+> 3. Sokat gondolkodtam, mielőtt igy döntöttem.
+> 4. Mielőtt felveszed a zoknidat, most meg a lábadat.
 
 > [!success]- Megoldás
-> 4. 
+> 1. Er hat alles in die Tasche gepackt, bevor er die Firma verlassen hat.
+> 2. Bevor du nach Hause gehst, schalte die Lampe aus.
+> 3. Ich habe lange nachgedacht, bevor ich mich so entschieden habe.
+> 4. Bevor du deine Socken anziehst, wasch dir die Füße.
 
 - [ ] **Gyakorlat:** [[Menschen B1.pdf]] S. 21 / 3 c)
 
