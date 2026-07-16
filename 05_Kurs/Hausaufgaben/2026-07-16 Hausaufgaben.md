@@ -1,8 +1,8 @@
 ---
 Titel: 2026-07-16 Hausaufgaben
-Kurs:
+Kurs: "[[Német haladó félintenzív]]"
 Datum: 2026-07-16
-Frist:
+Frist: 2026-07-20
 Status: nincs elkezdve
 tags:
   - Hausaufgabe
@@ -49,6 +49,6 @@ tags:
 
 ## Siehe auch
 
-- [[]]
+- [[2026-07-16]]
 
 #Hausaufgabe
