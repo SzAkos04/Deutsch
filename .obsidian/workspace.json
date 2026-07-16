@@ -13,13 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
+                "file": "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "2026-07-13 Hausaufgaben"
+            }
+          }
+        ]
+      },
+      {
+        "id": "03c5cfd5223de46a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22cea46b33de10be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
             }
           }
         ]
@@ -80,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -200,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,16 +237,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
+    "05_Kurs/Német haladó félintenzív.md",
+    "MOC.md",
     "05_Kurs/Unterricht/2026-07-13.md",
     "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
-    "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
     "_Vorlagen/Hausaufgabe Vorlage.md",
     "_Vorlagen/Unterricht Vorlage.md",
-    "05_Kurs/Német haladó félintenzív.md",
-    "MOC.md",
     "05_Kurs/Materialen/Menschen-B1-arbeitsbuch.pdf",
     "00_Eingang/2026-07-13.md",
     "05_Kurs/Materialen/Stunden/20260709/GMT20260709-160423_Recording_1686x768.mp4",

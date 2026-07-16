@@ -112,10 +112,54 @@ tags:
 - [ ] **Gyakorlat:** [[Menschen B1.pdf]] S. 21 / 3 c)
 
 > [!info] Feladat
-> ****
+> **3. Ein Interview**
+> **c) Was ist richtig? Lesen und hören Sie den Text und kreuzen Sie an.**
+> Hilfe finden Sie auch im Bildlexikon.
+>
+> **A** Joachim wollte in
+> - [ ] einer eigenen Wohnung
+> - [ ] einer Wohngemeinschaft leben.
+>
+> Er durfte in den Zirkuswagen ziehen, wenn er
+> - [ ] ihn renoviert.
+> - [ ] der Besitzerin hilft.
+>
+> Nach dem Tod der alten Dame
+> - [ ] musste er ausziehen.
+> - [ ] konnte er in das Haus einziehen.
+>
+> **B** Den Souza Fontes vermittelte Herbert Hauser eine Wohnung
+> - [ ] in der Innenstadt.
+> - [ ] in einem Vorort.
+>
+> Die Miethöhe
+> - [ ] spielte keine Rolle.
+> - [ ] war für die Entscheidung wichtig.
+>
+> **C** Für die Ettenhubers fand Herbert Hauser einen Bauernhof mit
+> - [ ] kleinem Garten.
+> - [ ] großem Grundstück.
+>
+> Sie übernahmen den Hof
+> - [ ] möbliert.
+> - [ ] unmöbliert.
+>
+> Das schönste an dem Haus ist
+> - [ ] der Ofen.
+> - [ ] das Grundstück.
+>
+> **D** Herbert Hauser hat seine Ehefrau
+> - [ ] bei der Arbeit in Frankfurt
+> - [ ] im Urlaub am Bodensee kennengelernt.
+>
+> Diese Kundin suchte ein Apartment mit Dachterrasse in bester Lage
+> - [ ] am Stadtrand.
+> - [ ] im Zentrum.
 
 > [!success]- Megoldás
-> 5. 
+> A: einer eigen Wohnung / der Besitzerin hilft / konnte er in das Haus einziehen
+> B: in einem Vorort / war für die Entscheidung wichtig
+> C: 
 
 - [ ] **Elmélet:** [[nemet_halado_segedlet.pdf]] S. 15-16 átnézni
 
