@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -39,8 +39,21 @@
               "icon": "lucide-file-text",
               "title": "Menschen B1"
             }
+          },
+          {
+            "id": "d4185cb1aeec3282",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "nemet_halado_segedlet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,10 +248,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d4185cb1aeec3282",
   "lastOpenFiles": [
-    "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
+    "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Német haladó félintenzív.md",
     "MOC.md",
     "05_Kurs/Unterricht/2026-07-13.md",

@@ -109,7 +109,7 @@ tags:
 > 3. Ich habe lange nachgedacht, bevor ich mich so entschieden habe.
 > 4. Bevor du deine Socken anziehst, wasch dir die Füße.
 
-- [ ] **Gyakorlat:** [[Menschen B1.pdf]] S. 21 / 3 c)
+- [x] **Gyakorlat:** [[Menschen B1.pdf]] S. 21 / 3 c)
 
 > [!info] Feladat
 > **3. Ein Interview**
@@ -159,7 +159,8 @@ tags:
 > [!success]- Megoldás
 > A: einer eigen Wohnung / der Besitzerin hilft / konnte er in das Haus einziehen
 > B: in einem Vorort / war für die Entscheidung wichtig
-> C: 
+> C: großem Grundstück / möbliert / der Ofen
+> D: bei der Arbeit in Frankfurt / im Zentrum
 
 - [ ] **Elmélet:** [[nemet_halado_segedlet.pdf]] S. 15-16 átnézni
 
