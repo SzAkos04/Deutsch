@@ -27,6 +27,32 @@ tags:
 
 %%.%%
 
+- [ ] [[nemet_halado_segedlet.pdf]] S. 16-17 / 2 (Nem tudom, hogy milyen házban lakik...)
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] [[nemet_halado_segedlet.pdf]] S. 17 / 4
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
 - [ ] 
 
 > [!info] Feladat

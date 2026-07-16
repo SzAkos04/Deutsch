@@ -117,7 +117,7 @@ tags:
 > Hilfe finden Sie auch im Bildlexikon.
 >
 > **A** Joachim wollte in
-> - [ ] einer eigenen Wohnung
+> - [ ] einer eigenen Wohnung leben.
 > - [ ] einer Wohngemeinschaft leben.
 >
 > Er durfte in den Zirkuswagen ziehen, wenn er
@@ -162,7 +162,7 @@ tags:
 > C: großem Grundstück / möbliert / der Ofen
 > D: bei der Arbeit in Frankfurt / im Zentrum
 
-- [ ] **Elmélet:** [[nemet_halado_segedlet.pdf]] S. 15-16 átnézni
+- [x] **Elmélet:** [[nemet_halado_segedlet.pdf]] S. 15-16 átnézni
 
 ## Megjegyzések
 
