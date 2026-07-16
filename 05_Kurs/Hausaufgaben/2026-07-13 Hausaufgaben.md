@@ -33,9 +33,9 @@ tags:
 > [!success]- Megoldás
 > 1. Während er gut verdiente, gab er viel aus.
 > 2. Während Vater arbeitet, spielen die Kinder bei uns.
-> 3. Während du bei mir bist, habe ich keine Angst.
-> 4. Während er in den USA lebt, wird das Haus in Ungarn gebaut.
-> 5. Während ich liege, erzählt er mir eine Geschichte.
+> 3. Während du mit mir bist, habe ich keine Angst.
+> 4. Während er in den USA lebt, wird sein Haus in Ungarn gebaut.
+> 5. Während ich liege, liest er mir eine Märchen vor.
 > 6. Während du bei mir bist, sei nicht nervös.
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 12-13 / 2 (Amíg ivott egy sört...)
@@ -48,10 +48,10 @@ tags:
 > 4. Amíg itt fecsegsz, kifut a tejed.
 
 > [!success]- Megoldás
-> 1. Solange er ein Bier trank, ging sein Zug weg.
-> 2. Viel Zeit ist vergangen, bis der Zug wegging.
+> 1. Solange er ein Bier trank, fuhr sein Zug ab.
+> 2. Es verging Viel Zeit, bis der Zug wegging.
 > 3. Bis er mich besucht, gebe ich ihm das Geld nicht.
-> 4. Solange du hier redest, läuft deine Milch über.
+> 4. Solange du hier plauderst, kocht deine Milch über.
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 13 / 1 (jobb oszlop)
 
@@ -104,10 +104,10 @@ tags:
 > 4. Mielőtt felveszed a zoknidat, most meg a lábadat.
 
 > [!success]- Megoldás
-> 1. Er hat alles in die Tasche gepackt, bevor er die Firma verlassen hat.
+> 1. Er hat alles in ihre Tasche gepackt, bevor er die Firma verlassen hat.
 > 2. Bevor du nach Hause gehst, schalte die Lampe aus.
 > 3. Ich habe lange nachgedacht, bevor ich mich so entschieden habe.
-> 4. Bevor du deine Socken anziehst, wasch dir die Füße.
+> 4. Bevor du dir die Socken anziehst, wasch dir die Füße!
 
 - [x] **Gyakorlat:** [[Menschen B1.pdf]] S. 21 / 3 c)
 

@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] 
+- [ ] [[nemet_halado_segedlet#Konjunktionen]] 1
 
 > [!info] Feladat
 > ****
