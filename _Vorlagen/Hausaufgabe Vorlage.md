@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] 
+- [x] 
 
 > [!info] Feladat
 > ****
@@ -27,7 +27,7 @@ tags:
 
 %%.%%
 
-- [ ] 
+- [x] 
 
 > [!info] Feladat
 > ****

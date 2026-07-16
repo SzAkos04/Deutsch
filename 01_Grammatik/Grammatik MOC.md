@@ -22,7 +22,7 @@ SORT Kategorie ASC, Thema ASC
 ## 📝 Feladatok, amik még hátravannak
 ```dataview
 TASK
-FROM #Grammatik OR #Übung
+FROM #Grammatik OR #Übung OR #Hausaufgabe 
 WHERE !completed
 ```
 

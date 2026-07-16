@@ -14,28 +14,15 @@ tags:
 
 ## Feladatok
 
-- [ ] [[nemet_halado_szoszedet.pdf]] Lektion 4
+- [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 4
 
-- [ ] [[nemet_halado_segedlet#Konjunktionen]] 1
+- [ ] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 1
 
-- [ ] [[nemet_halado_segedlet#Konjunktionen]] 2 (Nem tudom, hogy milyen házban lakik...)
+- [ ] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 2 (Nem tudom, hogy milyen házban lakik...)
 
-- [ ] [[nemet_halado_segedlet#Konjunktionen]] 4
+- [ ] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 4
 
-- [ ] [[Menschen B1.pdf]] S. 22 / 6 (\*)
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
-
-- [ ] [[Menschen B1.pdf]] S. 23 / 7
+- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 22 / 6 (\*)
 
 > [!info] Feladat
 > ****
@@ -48,7 +35,7 @@ tags:
 
 %%.%%
 
-- [ ] [[Menschen B1.pdf]] S. 25 / 1 (\*)
+- [ ] **Gyakorlat:** [[Menschen B1.pdf]] S. 22 / 7
 
 > [!info] Feladat
 > ****
@@ -61,7 +48,20 @@ tags:
 
 %%.%%
 
-- [ ] [[Menschen B1.pdf]] S. 27 / 2 (\*)
+- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 25 / 1 (\*)
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 27 / 2 (\*)
 
 > [!info] Feladat
 > ****

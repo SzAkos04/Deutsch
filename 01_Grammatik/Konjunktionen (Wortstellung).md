@@ -79,15 +79,15 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 > 9. Hogy mikor jön, nem tudjuk.
 > 10. Meg szeretném tőled kérdezni, hogy mennyi az idő.
 > 11. Tudja, hogy hogy alszik el.
-> - Hallom, hogy holnap jön meg.
-> - Nem tudom, hogy ezt a feladatot még ma be tudom-e fejezni.
-> - Kérdezd meg az apádat, hogy miért tévézik mindig.
-> - Nem tudom, hogy milyen házban lakik.
-> - Meg tudod mondani, hogy mikor indul a vonat?
-> - Tudod egyáltalán, hogy hol állunk meg?
-> - Látom, hol száll be a buszba.
-> - Hallottad, hogy milyen szépen énekeltek a gyerekek.
-> - Habár rossz az idő, a gyerekek kint játszanak a kertben.
+> 12. Hallom, hogy holnap jön meg.
+> 13. Nem tudom, hogy ezt a feladatot még ma be tudom-e fejezni.
+> 14. Kérdezd meg az apádat, hogy miért tévézik mindig.
+> 15. Nem tudom, hogy milyen házban lakik.
+> 16. Meg tudod mondani, hogy mikor indul a vonat?
+> 17. Tudod egyáltalán, hogy hol állunk meg?
+> 18. Látom, hol száll be a buszba.
+> 19. Hallottad, hogy milyen szépen énekeltek a gyerekek.
+> 20. Habár rossz az idő, a gyerekek kint játszanak a kertben.
 
 %%.%%
 > [!success]- Megoldás

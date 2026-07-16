@@ -46,6 +46,14 @@ Ebben az esetben is semleges nemű lesz a főnév. Azonban ha nem határozott n�
 
 ## Feladatok
 
+### Feladat-követés
+
+- [x] Feladat 1.1
+- [x] Feladat 1.2
+- [x] Feladat 3.1
+- [x] Feladat 4
+- [x] Feladat 5
+
 > [!question]- Feladat 1.1 – Wie sagt man das auf deutsch?
 > 1. sok felnőtt
 > 2. kevés gyereknek

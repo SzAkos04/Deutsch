@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** Lektion 3
+- [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 3
 
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1194933884/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
@@ -117,44 +117,44 @@ tags:
 > Hilfe finden Sie auch im Bildlexikon.
 >
 > **A** Joachim wollte in
-> - [ ] einer eigenen Wohnung leben.
-> - [ ] einer Wohngemeinschaft leben.
+> - einer eigenen Wohnung leben.
+> - einer Wohngemeinschaft leben.
 >
 > Er durfte in den Zirkuswagen ziehen, wenn er
-> - [ ] ihn renoviert.
-> - [ ] der Besitzerin hilft.
+> - ihn renoviert.
+> - der Besitzerin hilft.
 >
 > Nach dem Tod der alten Dame
-> - [ ] musste er ausziehen.
-> - [ ] konnte er in das Haus einziehen.
+> - musste er ausziehen.
+> - konnte er in das Haus einziehen.
 >
 > **B** Den Souza Fontes vermittelte Herbert Hauser eine Wohnung
-> - [ ] in der Innenstadt.
-> - [ ] in einem Vorort.
+> - in der Innenstadt.
+> - in einem Vorort.
 >
 > Die Miethöhe
-> - [ ] spielte keine Rolle.
-> - [ ] war für die Entscheidung wichtig.
+> - spielte keine Rolle.
+> - war für die Entscheidung wichtig.
 >
 > **C** Für die Ettenhubers fand Herbert Hauser einen Bauernhof mit
-> - [ ] kleinem Garten.
-> - [ ] großem Grundstück.
+> - kleinem Garten.
+> - großem Grundstück.
 >
 > Sie übernahmen den Hof
-> - [ ] möbliert.
-> - [ ] unmöbliert.
+> - möbliert.
+> - unmöbliert.
 >
 > Das schönste an dem Haus ist
-> - [ ] der Ofen.
-> - [ ] das Grundstück.
+> - der Ofen.
+> - das Grundstück.
 >
 > **D** Herbert Hauser hat seine Ehefrau
-> - [ ] bei der Arbeit in Frankfurt
-> - [ ] im Urlaub am Bodensee kennengelernt.
+> - bei der Arbeit in Frankfurt
+> - im Urlaub am Bodensee kennengelernt.
 >
 > Diese Kundin suchte ein Apartment mit Dachterrasse in bester Lage
-> - [ ] am Stadtrand.
-> - [ ] im Zentrum.
+> - am Stadtrand.
+> - im Zentrum.
 
 > [!success]- Megoldás
 > A: einer eigen Wohnung / der Besitzerin hilft / konnte er in das Haus einziehen

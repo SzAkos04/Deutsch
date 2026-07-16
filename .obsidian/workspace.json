@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a966591fd47dd62c",
+            "id": "368e6d7290b5186b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,18 +23,15 @@
             }
           },
           {
-            "id": "368e6d7290b5186b",
+            "id": "a742d2feb59f5bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2026-07-16 Hausaufgaben"
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
             }
           },
           {
@@ -257,14 +254,23 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a966591fd47dd62c",
+  "active": "368e6d7290b5186b",
   "lastOpenFiles": [
-    "01_Grammatik/Wiederholungstests.md",
+    "05_Kurs/Német haladó félintenzív.md",
+    "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
+    "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Unterricht/2026-07-16.md",
     "01_Grammatik/Grammatik MOC.md",
+    "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
+    "_Vorlagen/Hausaufgabe Vorlage.md",
+    "01_Grammatik/Nominalisierte Adjektive.md",
+    "01_Grammatik/Konjunktionen (Wortstellung).md",
+    "05_Kurs/Materialen/nemet_halado_segedlet.md",
+    "_Vorlagen/Grammatik.md",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "01_Grammatik/Verbtabellen.md",
     "MOC.md",
-    "05_Kurs/Unterricht/2026-07-16.md",
-    "_Vorlagen/Grammatik.md",
+    "01_Grammatik/Wiederholungstests.md",
     "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
     "01_Grammatik/Zu + Infinitiv (Grundlagen).md",
     "01_Grammatik/Vorgangspassiv.md",
@@ -277,16 +283,6 @@
     "01_Grammatik/Präpositionen mit Genitiv.md",
     "01_Grammatik/Plusquamperfekt.md",
     "01_Grammatik/Perfekt.md",
-    "01_Grammatik/Partizipien.md",
-    "01_Grammatik/Nominalisierte Adjektive.md",
-    "01_Grammatik/Konjunktiv II.md",
-    "01_Grammatik/Konjunktionen (Wortstellung).md",
-    "01_Grammatik/Genitivus Partitivus.md",
-    "01_Grammatik/Adjektivdeklination.md",
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
-    "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
-    "05_Kurs/Unterricht/2026-07-13.md",
-    "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "05_Kurs/Materialen/Stunden/20260716",
     "05_Kurs/Materialen/Stunden/20260713/GMT20260713-160345_Recording_1686x768.mp4",
