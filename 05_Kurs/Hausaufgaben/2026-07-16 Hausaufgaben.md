@@ -53,6 +53,32 @@ tags:
 
 %%.%%
 
+- [ ] [[Menschen B1.pdf]] S. 22 / 6 (\*)
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] [[Menschen B1.pdf]] S. 23 / 7
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
 - [ ] 
 
 > [!info] Feladat
