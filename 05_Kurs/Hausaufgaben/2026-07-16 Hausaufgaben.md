@@ -1,9 +1,9 @@
 ---
-Titel: <% tp.file.title %>
+Titel: 2026-07-16 Hausaufgaben
 Kurs:
-Datum: <% tp.date.now("YYYY-MM-DD") %>
+Datum: 2026-07-16
 Frist:
-Status: <% await tp.system.suggester((item) => item, ["nincs elkezdve", "folyamatban", "kész"]) %>
+Status: nincs elkezdve
 tags:
   - Hausaufgabe
 ---
@@ -39,6 +39,7 @@ tags:
 > 1. 
 
 %%.%%
+
 ## Megjegyzések
 
 > [!INFO]
