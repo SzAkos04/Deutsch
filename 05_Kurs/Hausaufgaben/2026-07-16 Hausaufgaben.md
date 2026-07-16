@@ -79,6 +79,19 @@ tags:
 
 %%.%%
 
+- [ ] [[Menschen B1.pdf]] S. 25 / 1 (\*)
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
 - [ ] 
 
 > [!info] Feladat
