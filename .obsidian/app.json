@@ -25,5 +25,7 @@
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "00_Eingang",
-  "openBehavior": "file:MOC"
+  "openBehavior": "file:MOC",
+  "smartIndentList": true,
+  "vimMode": false
 }
