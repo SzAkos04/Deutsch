@@ -61,6 +61,19 @@ tags:
 
 %%.%%
 
+- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 26 / 1 (\*)
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
 - [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 27 / 2 (\*)
 
 > [!info] Feladat

@@ -48,7 +48,13 @@
               "icon": "lucide-file-text",
               "title": "nemet_halado_segedlet"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0d21a569e3dc4217",
+        "type": "tabs",
+        "children": [
           {
             "id": "a742d2feb59f5bae",
             "type": "leaf",
@@ -61,8 +67,7 @@
               "title": "Menschen B1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -240,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,15 +262,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "70274f78b4b1f3a8",
+  "active": "368e6d7290b5186b",
   "lastOpenFiles": [
-    "05_Kurs/Unterricht/2026-07-16.md",
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Unterricht/2026-07-16.md",
+    "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "01_Grammatik/Grammatik MOC.md",
     "05_Kurs/Materialen/nemet_halado_segedlet.md",
     "05_Kurs/Német haladó félintenzív.md",
-    "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
     "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
     "_Vorlagen/Hausaufgabe Vorlage.md",
     "01_Grammatik/Nominalisierte Adjektive.md",
