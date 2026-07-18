@@ -45,14 +45,14 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 
 **KATI szórenddel álló legfontosabb kötőszavak:**
 
-| | |
-|---|---|
-| dass - hogy | ob – vajon, hogy…e |
-| als - amikor | wenn – amikor, ha |
-| während/solange – amíg, mialatt | weil - mert |
-| obwohl – habár, annak ellenére, hogy | bis - amíg |
-| bevor/ehe - mielőtt | nachdem - miután |
-| sobald – amint, mihelyt | az összes kérdőszó |
+|                                      |                    |
+| ------------------------------------ | ------------------ |
+| dass - hogy                          | ob – vajon, hogy…e |
+| als - amikor                         | wenn – amikor, ha  |
+| während/solange – amíg, mialatt      | weil - mert        |
+| obwohl – habár, annak ellenére, hogy | bis - amíg         |
+| bevor/ehe - mielőtt                  | nachdem - miután   |
+| sobald – amint, mihelyt              | az összes kérdőszó |
 
 > [!tip] Megjegyzés
 > Ha kérdőszóból kötőszó lesz, a németben (a magyarral ellentétben) NEM szabad kitenni a „hogy – dass" szót, csak a kérdőszót. z.B.: *Nem tudom, hogy hol laksz – Ich weiss nicht, wo du wohnst.*
@@ -65,8 +65,8 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 %%.%%
 > [!success]- Megoldás
 > Wir kaufen diese Wohnung nicht **denn** sie ist zu teuer. Die Frau ist krank **deshalb** geht sie zum Arzt. Nicht Kurt **aber** sein Freund studiert in Erfurt. Jetzt schreibe ich die Aufgaben **dann** gehe ich in die Kaufhalle. Sie trinkt jeden Abend ein Glas Wein **aber** heute trinkt sie Bier. Ein Auto kostet viel Geld **deshalb** haben nicht alle Leute eins. Ich möchte ein bisschen lesen **aber** ich habe keine Zeit dazu. Er geht einkaufen **denn** sie kocht das Essen. Kommen sie heute Abend mit dem Zug **oder** erst morgen mit dem Auto? Gehst du heute arbeiten **oder** bleibst zu Hause? Er ist nicht gesund **trotzdem** trinkt er viel Alkohol. Zuerst machen wir unsere Arbeit fertig **dann** gehen wir nach Hause. Martina kommt mit **denn** sie möchte uns alles zeigen. Iss nicht so viel **sonst** bekommst du Bauchschmerzen. Ich bleibe nicht sechs **sondern** nur vier Tage in München. Morgen stehen wir früh auf **deshalb** gehen wir jetzt ins Bett.
-%%.%%
 
+%%.%%
 > [!question]- Feladat 2 – Fordítsd le a mondatokat!
 > 1. Tudod, kik a szülei?
 > 2. Szeretném tudni, hogy él-e még.
@@ -111,16 +111,16 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 > 18. Ich sehe, wo er in den Bus einsteigt.
 > 19. Hast du gehört, wie schön die Kinder gesungen haben?
 > 20. Obwohl die Wetter schlecht ist, spielen die Kinder im Garten.
-%%.%%
 
+%%.%%
 > [!question]- Feladat 3 – Pótold az odaillő kötőszóval!
 > Wir wissen nicht ……..…. Imre gesund ist. Ich nehme an ……..…. er noch zu Hause ist. Können Sie mir sagen …..……. ich zur Post komme? …..……. der Staubsauger funktioniert, weiss ich leider nicht. ……. ich krank bin, gehe ich nicht zum Arzt. Mich interessiert ..….……. Geld er verdient. Karl ist der Meinung ………… die Kleider hier sehr teuer sind. Weisst du nicht …..……. Katalin noch hier lebt? Ich bin mir sicher …..……. er gelogen hat. Wisst ihr nicht …..……. Katharina aussieht. Hast du eine gute Idee …..……. ich jetzt einen guten Job finde? Kannst du mir sagen …..……. dein Bruder mit mir so frech ist? Ich weiss nicht …..……. er das nicht macht. Können Sie mir erklären …..……. dieser Staubsauger funktioniert?
 
-%%.%%
+ %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
+> Wir wissen nicht **ob** Imre gesund ist. Ich nehme an **dass** er noch zu Hause ist. Können Sie mir sagen **wie** ich zur Post komme? **Ob** der Staubsauger funktioniert, weiss ich leider nicht. **Obwohl** ich krank bin, gehe ich nicht zum Arzt. Mich interessiert **wie viel** Geld er verdient. Karl ist der Meinung **dass** die Kleider hier sehr teuer sind. Weisst du nicht **ob** Katalin noch hier lebt? Ich bin mir sicher **dass** er gelogen hat. Wisst ihr nicht **wie** Katharina aussieht. Hast du eine gute Idee **wo** ich jetzt einen guten Job finde? Kannst du mir sagen **warum** dein Bruder mit mir so frech ist? Ich weiss nicht **warum** er das nicht macht. Können Sie mir erklären **wie** dieser Staubsauger funktioniert?
 
+%%.%%
 > [!question]- Feladat 4 – Fordítsd le a következő kifejezésekkel!
 > *Ich bin der Meinung, dass …* – Az a véleményem, hogy …
 > *Ich zweifle daran, dass …* – Kételkedem abban, hogy…
@@ -128,23 +128,33 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 > *Ich bin überzeugt davon, dass …* – Meg vagyok győzödve arról…
 > *Ich bin einverstanden damit, dass…* – Egyetértek azzal, hogy…
 >
-> - A főnök nincs meggyőzödve teljesen arról, hogy jól dolgozik-e a munkatársa.
-> - Kár, hogy ilyen lusta.
-> - Kár, hogy nem beszél jól németül.
-> - Az a véleményem, hogy a barátnőd bolond.
-> - Kételkedem abban, hogy itt lakik.
-> - Kételkedem abban, hogy odaadom neki a megoldást.
-> - Az a véleményem, hogy még kevés embert ismersz.
-> - Kár, hogy nincs itt. Kételkedem abban, hogy normális a barátod.
-> - Meg vagyok győzödve arról, hogy nincs itt.
-> - Egyetértesz azzal, hogy inkább moziba menjünk?
-> - Ki ért egyet azzal, hogy inkább itt maradjunk?
-> - Nem vagyok meggyőződve teljesen, hogy ő-e az igazi?
+> 1. A főnök nincs meggyőzödve teljesen arról, hogy jól dolgozik-e a munkatársa.
+> 2. Kár, hogy ilyen lusta.
+> 3. Kár, hogy nem beszél jól németül.
+> 4. Az a véleményem, hogy a barátnőd bolond.
+> 5. Kételkedem abban, hogy itt lakik.
+> 6. Kételkedem abban, hogy odaadom neki a megoldást.
+> 7. Az a véleményem, hogy még kevés embert ismersz.
+> 8. Kár, hogy nincs itt.
+> 9. Kételkedem abban, hogy normális a barátod.
+> 10. Meg vagyok győzödve arról, hogy nincs itt.
+> 11. Egyetértesz azzal, hogy inkább moziba menjünk?
+> 12. Ki ért egyet azzal, hogy inkább itt maradjunk?
+> 13. Nem vagyok meggyőződve teljesen, hogy ő-e az igazi?
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
+> 1. Der Chef ist überzeugt davon, ob sein Mitarbeiter gut arbeitet.
+> 2. Schade, dass er so faul ist.
+> 3. Schade, dass er nicht gut Deutsch spricht.
+> 4. Ich bin der Meinung, dass dein Freundin verrückt ist.
+> 5. Ich zweifle daran, dass er hier wohnt.
+> 6. Ich zweifle daran, dass ich die Lösung ihm gebe.
+> 7. Ich bin der Meinung, dass du wenige Leute kennt.
+> 8. Schade, dass er nicht hier ist.
+> 9. Ich zweifle daran, dass dein Freund normal ist.
+> 10. Ich bin überzeugt davon, dass er nicht hier ist.
+> 11. Bist du einverstanden damit, dass wir eher ins Kino gehen?
 
 ---
 ## Siehe auch
