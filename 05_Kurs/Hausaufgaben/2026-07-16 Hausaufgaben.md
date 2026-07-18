@@ -16,9 +16,9 @@ tags:
 
 - [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 4
 
-- [ ] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 1
+- [x] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 1
 
-- [ ] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 2 (Nem tudom, hogy milyen házban lakik...)
+- [x] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 2 (Nem tudom, hogy milyen házban lakik...)
 
 - [ ] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 4
 
@@ -35,7 +35,7 @@ tags:
 
 %%.%%
 
-- [ ] **Gyakorlat:** [[Menschen B1.pdf]] S. 22 / 7
+- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 22 / 7 (\*)
 
 > [!info] Feladat
 > ****

@@ -64,7 +64,7 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> Wir kaufen diese Wohnung nicht **denn** sie ist zu teuer. Die Frau ist krank **deshalb** geht sie zum Arzt. Nicht Kurt **aber** sein Freund studiert in Erfurt. Jetzt schreibe ich die Aufgaben **dann** gehe ich in die Kaufhalle. Sie trinkt jeden Abend ein Glas Wein **aber** heute trinkt sie Bier. Ein Auto kostet viel Geld **deshalb** haben nicht alle Leute eins. Ich möchte ein bisschen lesen **aber** ich habe keine Zeit dazu. Er geht einkaufen **denn** sie kocht das Essen. Kommen sie heute Abend mit dem Zug **oder** erst morgen mit dem Auto? Gehst du heute arbeiten **oder** bleibst zu Hause? Er ist nicht gesund **trotzdem** trinkt er viel Alkohol. Zuerst machen wir unsere Arbeit fertig **dann** gehen wir nach Hause. Martina kommt mit **denn** sie möchte uns alles zeigen. Iss nicht so viel **sonst** bekommst du Bauchschmerzen. Ich bleibe nicht sechs **sondern** nur vier Tage in München. Morgen stehen wir früh auf **deshalb** gehen wir jetzt ins Bett.
 %%.%%
 
 > [!question]- Feladat 2 – Fordítsd le a mondatokat!
@@ -99,7 +99,18 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 > 6. Sie haben keine Ahnung, wann der Chef kommt.
 > 7. Er hat Hunger, trotzdem isst er nichts.
 > 8. Wenn er müde ist, trinkt er einen Kaffee.
-> *(a lista további tételeihez nem volt megoldókulcs a forrásban)*
+> 9. Wann er kommt, wissen wir nicht.
+> 10. Ich möchte dich fragen, wie spät es ist.
+> 11. Er weiß, wie er einschläft.
+> 12. Ich höre, dass er morgen kommt.
+> 13. Ich weiß nicht, ob ich heute diese Aufgabe beenden kann.
+> 14. Frag deinen Vater, warum er immer fernsieht.
+> 15. Ich weiß nicht, in was für einem Haus er wohnt.
+> 16. Kannst du mir sagen, wann der Zug abfährt?
+> 17. Weißt du überhaupt, wo wir halten?
+> 18. Ich sehe, wo er in den Bus einsteigt.
+> 19. Hast du gehört, wie schön die Kinder gesungen haben?
+> 20. Obwohl die Wetter schlecht ist, spielen die Kinder im Garten.
 %%.%%
 
 > [!question]- Feladat 3 – Pótold az odaillő kötőszóval!
