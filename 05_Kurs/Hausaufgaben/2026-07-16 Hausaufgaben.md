@@ -3,7 +3,7 @@ Titel: 2026-07-16 Hausaufgaben
 Kurs: "[[Német haladó félintenzív]]"
 Datum: 2026-07-16
 Frist: 2026-07-20
-Status: nincs elkezdve
+Status: folyamatban
 tags:
   - Hausaufgabe
 ---
@@ -20,7 +20,7 @@ tags:
 
 - [x] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 2 (Nem tudom, hogy milyen házban lakik...)
 
-- [ ] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 4
+- [x] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 4
 
 - [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 22 / 6 (\*)
 

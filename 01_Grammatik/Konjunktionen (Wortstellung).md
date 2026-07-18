@@ -147,14 +147,16 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 > 1. Der Chef ist überzeugt davon, ob sein Mitarbeiter gut arbeitet.
 > 2. Schade, dass er so faul ist.
 > 3. Schade, dass er nicht gut Deutsch spricht.
-> 4. Ich bin der Meinung, dass dein Freundin verrückt ist.
+> 4. Ich bin der Meinung, dass deine Freundin verrückt ist.
 > 5. Ich zweifle daran, dass er hier wohnt.
-> 6. Ich zweifle daran, dass ich die Lösung ihm gebe.
-> 7. Ich bin der Meinung, dass du wenige Leute kennt.
+> 6. Ich zweifle daran, dass ich ihm die Lösung gebe.
+> 7. Ich bin der Meinung, dass du wenige Leute kennst.
 > 8. Schade, dass er nicht hier ist.
 > 9. Ich zweifle daran, dass dein Freund normal ist.
 > 10. Ich bin überzeugt davon, dass er nicht hier ist.
-> 11. Bist du einverstanden damit, dass wir eher ins Kino gehen?
+> 11. Bist du einverstanden damit, dass wir lieber ins Kino gehen?
+> 12. Wer ist einverstanden damit, dass wir lieber hier bleiben?
+> 13. Ich bin nicht überzeugt davon, ob sie die Richtige ist.
 
 ---
 ## Siehe auch
