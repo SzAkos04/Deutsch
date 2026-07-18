@@ -6,6 +6,7 @@ Lehrbuch: "[[Menschen B1.pdf]]"
 Beginn: 2026-07-06
 tags:
   - Kurs
+  - MOC
 ---
 
 # `=this.Kurs`

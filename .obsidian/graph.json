@@ -3,33 +3,68 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:01_Grammatik  ",
+      "query": "path:_Vorlagen  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
+      "query": "path:01_Grammatik  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:02_Kommunikation  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
       "query": "path:03_Vokabeln  ",
       "color": {
         "a": 1,
-        "rgb": 5562450
+        "rgb": 5431378
       }
     },
     {
       "query": "path:04_Lieder  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:05_Kurs/Unterricht  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:05_Kurs/Hausaufgaben  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#MOC  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6214562503580223,
+  "scale": 0.19600796547812466,
   "close": true
 }

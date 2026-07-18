@@ -1,3 +1,7 @@
+---
+tags:
+  - MOC
+---
 # 1. Grammatik
 
 - [[Grammatik MOC]]

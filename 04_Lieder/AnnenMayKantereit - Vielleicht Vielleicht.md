@@ -1,6 +1,8 @@
 ---
 Titel: Vielleicht Vielleicht
 Künstler*in: AnnenMayKantereit
+tags:
+  - Lied
 ---
 
 # Lied: Vielleicht Vielleicht

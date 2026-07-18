@@ -1,6 +1,8 @@
 ---
 Titel: Spiegelbild
 Künstler*in: Mayberg
+tags:
+  - Lied
 ---
 
 # Lied: Spiegelbild

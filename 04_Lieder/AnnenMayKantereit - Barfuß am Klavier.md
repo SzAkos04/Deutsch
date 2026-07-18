@@ -1,6 +1,8 @@
 ---
 Titel: Barfuß am Klavier
 Künstler*in: AnnenMayKantereit
+tags:
+  - Lied
 ---
 
 # Lied: `=this.Titel`

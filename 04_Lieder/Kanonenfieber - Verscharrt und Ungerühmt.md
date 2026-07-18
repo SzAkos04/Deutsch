@@ -1,6 +1,8 @@
 ---
 Titel: Verscharrt und Ungerühmt
 Künstler*in: Kanonenfieber
+tags:
+  - Lied
 ---
 
 # Lied: `=this.Titel`

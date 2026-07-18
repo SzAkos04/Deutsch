@@ -1,6 +1,8 @@
 ---
 Titel: Deutschland
 Künstler*in: Rammstein
+tags:
+  - Lied
 ---
 
 # Lied: `=this.Titel`
