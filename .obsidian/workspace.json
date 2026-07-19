@@ -11,15 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "MOC"
+              "icon": "lucide-file-text",
+              "title": "nemet_halado_szoszedet"
             }
           }
         ]
@@ -174,8 +171,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -217,12 +214,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MOC.md",
     "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Német haladó félintenzív.md",
     "01_Grammatik/Grammatik MOC.md",
-    "MOC.md",
     "01_Grammatik/Konjunktionen (Wortstellung).md",
     "_Vorlagen/Grammatik.md",
     "04_Lieder/Rammstein - Deutschland.md",
