@@ -64,7 +64,7 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 
 %%.%%
 > [!success]- Megoldás
-> Wir kaufen diese Wohnung nicht **denn** sie ist zu teuer. Die Frau ist krank **deshalb** geht sie zum Arzt. Nicht Kurt **sondern** sein Freund studiert in Erfurt. Jetzt schreibe ich die Aufgaben **dann** gehe ich in die Kaufhalle. Sie trinkt jeden Abend ein Glas Wein **aber** heute trinkt sie Bier. Ein Auto kostet viel Geld **deshalb** haben nicht alle Leute eins. Ich möchte ein bisschen lesen **aber** ich habe keine Zeit dazu. Er geht einkaufen **denn** sie kocht das Essen. Kommen sie heute Abend mit dem Zug **oder** erst morgen mit dem Auto? Gehst du heute arbeiten **oder** bleibst zu Hause? Er ist nicht gesund **trotzdem** trinkt er viel Alkohol. Zuerst machen wir unsere Arbeit fertig **dann** gehen wir nach Hause. Martina kommt mit **denn** sie möchte uns alles zeigen. Iss nicht so viel **sonst** bekommst du Bauchschmerzen. Ich bleibe nicht sechs **sondern** nur vier Tage in München. Morgen stehen wir früh auf **deshalb** gehen wir jetzt ins Bett.
+> Wir kaufen diese Wohnung nicht **denn** sie ist zu teuer. Die Frau ist krank **deshalb** geht sie zum Arzt. Nicht Kurt **sondern** sein Freund studiert in Erfurt. Jetzt schreibe ich die Aufgaben **dann** gehe ich in die Kaufhalle. Sie trinkt jeden Abend ein Glas Wein **aber** heute trinkt sie Bier. Ein Auto kostet viel Geld **deshalb** haben nicht alle Leute eins. Ich möchte ein bisschen lesen **aber** ich habe keine Zeit dazu. Er geht einkaufen **denn/und** sie kocht das Essen. Kommen sie heute Abend mit dem Zug **oder** erst morgen mit dem Auto? Gehst du heute arbeiten **oder** bleibst zu Hause? Er ist nicht gesund **trotzdem** trinkt er viel Alkohol. Zuerst machen wir unsere Arbeit fertig **dann** gehen wir nach Hause. Martina kommt mit **denn** sie möchte uns alles zeigen. Iss nicht so viel **sonst** bekommst du Bauchschmerzen. Ich bleibe nicht sechs **sondern** nur vier Tage in München. Morgen stehen wir früh auf **deshalb** gehen wir jetzt ins Bett.
 
 %%.%%
 > [!question]- Feladat 2 – Fordítsd le a mondatokat!
@@ -107,10 +107,10 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 > 14. Frag deinen Vater, warum er immer fernsieht.
 > 15. Ich weiß nicht, in was für einem Haus er wohnt.
 > 16. Kannst du mir sagen, wann der Zug abfährt?
-> 17. Weißt du überhaupt, wo wir halten?
+> 17. Weißt du überhaupt, wo wir anhalten?
 > 18. Ich sehe, wo er in den Bus einsteigt.
 > 19. Hast du gehört, wie schön die Kinder gesungen haben?
-> 20. Obwohl die Wetter schlecht ist, spielen die Kinder im Garten.
+> 20. Obwohl das Wetter schlecht ist, spielen die Kinder im Garten.
 
 %%.%%
 > [!question]- Feladat 3 – Pótold az odaillő kötőszóval!
@@ -144,19 +144,19 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 
 %%.%%
 > [!success]- Megoldás
-> 1. Der Chef ist überzeugt davon, ob sein Mitarbeiter gut arbeitet.
+> 1. Der Chef ist nicht überzeugt davon, ob sein Mitarbeiter gut arbeitet.
 > 2. Schade, dass er so faul ist.
 > 3. Schade, dass er nicht gut Deutsch spricht.
 > 4. Ich bin der Meinung, dass deine Freundin verrückt ist.
 > 5. Ich zweifle daran, dass er hier wohnt.
 > 6. Ich zweifle daran, dass ich ihm die Lösung gebe.
 > 7. Ich bin der Meinung, dass du wenige Leute kennst.
-> 8. Schade, dass er nicht hier ist.
+> 8. Schade, dass er nicht da ist.
 > 9. Ich zweifle daran, dass dein Freund normal ist.
 > 10. Ich bin überzeugt davon, dass er nicht hier ist.
 > 11. Bist du einverstanden damit, dass wir lieber ins Kino gehen?
 > 12. Wer ist einverstanden damit, dass wir lieber hier bleiben?
-> 13. Ich bin nicht überzeugt davon, ob sie die Richtige ist.
+> 13. Ich bin nicht davon nicht überzeugt, ob sie die Richtige ist.
 
 ---
 ## Siehe auch
