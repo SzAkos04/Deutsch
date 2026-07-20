@@ -14,70 +14,15 @@ tags:
 
 ## Feladatok
 
-- [ ] 
+- [ ] [[Vorgangspassiv]] 1 (*Peter macht die Hausaufgaben*...)
 
-> [!info] Feladat
-> ****
-> 1. 
+- [ ] [[Vorgangspassiv]] 2 (Lefordítjuk a szövegeket...)
 
-%%.%%
+- [ ] [[Vorgangspassiv]] 3 (*Peter macht die Hausaufgaben...)
 
-> [!success]- Megoldás
-> 1. 
+- [ ] [[Vorgangspassiv]] 4 (Segítettek az öreg embernek...)
 
-%%.%%
-
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
-
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
-
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
-
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
+- [ ] [[Vorgangspassiv]] 5 (Az orvos megmérte a lázamat)
 
 - [ ] 
 
