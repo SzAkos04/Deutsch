@@ -12,6 +12,7 @@
     "Kontext": "multitext",
     "Niveau": "text",
     "Frist": "date",
-    "Buchseite": "multitext"
+    "Buchseite": "multitext",
+    "Thema": "multitext"
   }
 }

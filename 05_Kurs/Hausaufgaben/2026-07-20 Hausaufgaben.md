@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [x] 
+- [ ] 
 
 > [!info] Feladat
 > ****
@@ -27,7 +27,72 @@ tags:
 
 %%.%%
 
-- [x] 
+- [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] 
 
 > [!info] Feladat
 > ****
