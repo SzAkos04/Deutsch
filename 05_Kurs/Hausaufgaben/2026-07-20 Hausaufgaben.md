@@ -22,7 +22,37 @@ tags:
 
 - [ ] [[Vorgangspassiv]] 4 (Segítettek az öreg embernek...)
 
-- [ ] [[Vorgangspassiv]] 5 (Az orvos megmérte a lázamat)
+- [ ] [[Vorgangspassiv]] 5 (Az orvos megmérte a lázamat...)
+
+- [ ] [[Vorgangspassiv]] 6 (A szobát rendbe kell tenni...)
+
+- [ ] [[Vorgangspassiv]] 7 (A dolgozatát nem lehetett elolvasni...)
+
+- [ ] [[Vorgangspassiv]] Összefoglaló felaatok
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
+
+- [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
 
 - [ ] 
 

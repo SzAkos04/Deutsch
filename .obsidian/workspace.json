@@ -38,7 +38,8 @@
               "title": "2026-07-20 Hausaufgaben"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b94a9ded7d3954d6",
@@ -100,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,13 +296,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "df47ab5300f80fcd",
+  "active": "34d003c7ab664e38",
   "lastOpenFiles": [
-    "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-07-20.md",
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "01_Grammatik/Vorgangspassiv.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
     "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
     "01_Grammatik/Konjunktionen (Wortstellung).md",
