@@ -144,7 +144,7 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> **a)** Budapest wird von vielen Ausländern besucht. Wann werden die Geschäfte geöffnet? Der Kellner wird von Peter gerufen. Eine Tablette soll/muss pro Tag genommen werden. Von wem wird der Lehrer informiert/benachrichtigt? Von wem wird das Buch kopiert? Ihre Wohnung wird von einem Ingenieur entworfen. Die Klassenarbeit wird jetzt von uns korrigiert. Von wem wurde die Wohnung eingerichtet?  Von wem ist die Wohnung eingerichtet worden?  Von wem wurde der Text übersetzt? Es wurde viel getanzt. Es wurde geklopft. Am Abend wurde gesungen. Die Briefe können jetzt nicht abgeholt werden. Wie wird der 15. März in Ungarn gefeiert?
 %%.%%
 
 ---

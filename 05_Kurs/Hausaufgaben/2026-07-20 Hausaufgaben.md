@@ -28,7 +28,7 @@ tags:
 
 - [ ] [[Vorgangspassiv]] 7 (A dolgozatát nem lehetett elolvasni...)
 
-- [ ] [[Vorgangspassiv]] Összefoglaló felaatok
+- [ ] [[Vorgangspassiv]] Összefoglaló feladatok (**b)**)
 
 > [!info] Feladat
 > ****
