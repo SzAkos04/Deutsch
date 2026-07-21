@@ -14,23 +14,28 @@ tags:
 
 ## Feladatok
 
-- [ ] [[Vorgangspassiv]] 1 (*Peter macht die Hausaufgaben*...)
+- [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 5
 
-- [ ] [[Vorgangspassiv]] 2 (Lefordítjuk a szövegeket...)
+> [!quizlet]- Quizlet
+> <iframe src="https://quizlet.com/1195727507/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
-- [ ] [[Vorgangspassiv]] 3 (*Peter macht die Hausaufgaben...)
+- [ ] **Gyakorlat:** [[Vorgangspassiv]] 1 (*Peter macht die Hausaufgaben*...)
 
-- [ ] [[Vorgangspassiv]] 4 (Segítettek az öreg embernek...)
+- [ ] **Gyakorlat:** [[Vorgangspassiv]] 2 (Lefordítjuk a szövegeket...)
 
-- [ ] [[Vorgangspassiv]] 5 (Az orvos megmérte a lázamat...)
+- [ ] **Gyakorlat:** [[Vorgangspassiv]] 3 (*Peter macht die Hausaufgaben...)
 
-- [ ] [[Vorgangspassiv]] 6 (A szobát rendbe kell tenni...)
+- [ ] **Gyakorlat:** [[Vorgangspassiv]] 4 (Segítettek az öreg embernek...)
 
-- [ ] [[Vorgangspassiv]] 7 (A dolgozatát nem lehetett elolvasni...)
+- [ ] **Gyakorlat:** [[Vorgangspassiv]] 5 (Az orvos megmérte a lázamat...)
 
-- [ ] [[Vorgangspassiv]] Összefoglaló feladatok (**b)**)
+- [ ] **Gyakorlat:** [[Vorgangspassiv]] 6 (A szobát rendbe kell tenni...)
 
-- [ ] [[Menschen B1.pdf]] S. 30 / 5 **b)** \*
+- [ ] **Gyakorlat:** [[Vorgangspassiv]] 7 (A dolgozatát nem lehetett elolvasni...)
+
+- [ ] **Gyakorlat:** [[Vorgangspassiv]] Összefoglaló feladatok (**b)**)
+
+- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 30 / 5 **b)** \*
 
 > [!info] Feladat
 > ****

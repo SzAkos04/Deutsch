@@ -14,7 +14,10 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 4
+- [x] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 4
+
+> [!quizlet]- Quizlet
+> <iframe src="https://quizlet.com/1195446156/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 - [x] **Gyakorlat:** [[Konjunktionen (Wortstellung)]] 1
 
