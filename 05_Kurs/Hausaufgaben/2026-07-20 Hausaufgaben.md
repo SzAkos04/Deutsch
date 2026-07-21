@@ -19,11 +19,11 @@ tags:
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1195727507/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
-- [ ] **Gyakorlat:** [[Vorgangspassiv]] 1 (*Peter macht die Hausaufgaben*...)
+- [x] **Gyakorlat:** [[Vorgangspassiv]] 1 (*Peter macht die Hausaufgaben*...)
 
-- [ ] **Gyakorlat:** [[Vorgangspassiv]] 2 (Lefordítjuk a szövegeket...)
+- [x] **Gyakorlat:** [[Vorgangspassiv]] 2 (Lefordítjuk a szövegeket...)
 
-- [ ] **Gyakorlat:** [[Vorgangspassiv]] 3 (*Peter macht die Hausaufgaben...)
+- [x] **Gyakorlat:** [[Vorgangspassiv]] 3 (*1. Er wusch den Wagen*...)
 
 - [ ] **Gyakorlat:** [[Vorgangspassiv]] 4 (Segítettek az öreg embernek...)
 

@@ -128,65 +128,111 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > 10. Es wird in einem anderen Zimmer getanzt.
 > 11. Die Familie wird von der Polizei informiert.
 > 12. Die Tür wird vom Gast geöffnet.
-> 13. Das Gebäude wird von einer GmbH geba
+> 13. Das Gebäude wird von einer GmbH gebaut.
+> 14. Die Rechnungen werden von mir bezahlt.
+> 15. Die Klassenarbeiten werden von den Lehrerin ausgeteilt.
+> 16. Die Kinder werden vom Vater belobt.
 
 %%.%%
 > [!question]- Feladat 3 (Präteritum) – Írd át passzív Präteritumba!
-> Sie löste die Aufgabe. / Man aß Gemüsesuppe. / Wir bestellten Spiegeleier. / Der Kellner trank eine Tasse Kaffee. / Man diktierte einen Brief. / Der Verkäufer verkaufte eine Mappe. / Er wusch den Wagen. / Der Professor bastelte ein Schiff. / Sie schrieb einen Satz. / Man tanzte viel. / Man sah einen guten Film. / Sie schaltete die Lampe aus.
+> 1. Sie löste die Aufgabe.
+> 2. Man aß Gemüsesuppe.
+> 3. Wir bestellten Spiegeleier.
+> 4. Der Kellner trank eine Tasse Kaffee.
+> 5. Man diktierte einen Brief.
+> 6. Der Verkäufer verkaufte eine Mappe.
+> 7. Er wusch den Wagen.
+> 8. Der Professor bastelte ein Schiff.
+> 9. Sie schrieb einen Satz.
+> 10. Man tanzte viel.
+> 11. Man sah einen guten Film.
+> 12. Sie schaltete die Lampe aus.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
+> 1. Die Aufgabe wurde von ihr gelöst.
+> 2. Gemüsesuppe wurde gegessen.
+> 3. Spiegeleier wurden von uns bestellt.
+> 4. Eine Tasse Kaffee wurde vom Kellner getrunken.
+> 5. Ein Brief wurde diktiert.
+> 6. Eine Mappe wurde vom Verkäufer verkauft.
+> 7. Der Wagen wurde von ihm gewaschen.
+> 8. Ein Schiff wurde vom Professor gebastelt.
+> 9. Ein Satz wird von ihr geschrieben.
+> 10. Es wurde viel getanzt.
+> 11. Ein guter Film wurde gesehen.
+> 12. Die Lampe wurde von ihr ausgeschaltet.
 
+%%.%%
 > [!question]- Feladat 4 (Präteritum) – Fordítsd le passzív Präteritumba!
-> A dalt gyerekek énekelték. / Az eladó kinyitotta az üzletet. / A betegek nem vették be a tablettát. / Péter vette meg a lemezeimet. / Kopogtattak. / Anya nem húzta fel az órát. / A várat a szél lerombolta. / Segítettek az öreg embereknek. / Az irodában sokat beszéltek. / A beteget meggyógyitotta az orvos. / Apa megjavitotta az órát. / A barátnőm átolvasta a könyvemet. / Józsi nem teritette meg az asztalt. / A falakat még nem festették be.
+> 1. A dalt gyerekek énekelték.
+> 2. Az eladó kinyitotta az üzletet.
+> 3. A betegek nem vették be a tablettát.
+> 4. Péter vette meg a lemezeimet.
+> 5. Kopogtattak.
+> 6. Anya nem húzta fel az órát.
+> 7. A várat a szél lerombolta.
+> 8. Segítettek az öreg embereknek.
+> 9. Az irodában sokat beszéltek.
+> 10. A beteget meggyógyította az orvos.
+> 11. Apa megjavította az órát.
+> 12. A barátnőm átolvasta a könyvemet.
+> 13. Józsi nem terítette meg az asztalt.
+> 14. A falakat még nem festették be.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
+> 1. Das Lied wurde von den Kindern gesungen.
+> 2. Das Geschäft wurde vom Verkäufer geöffnet.
+> 3. Die Tabletten wurden von den Kranken nicht eingenommen.
+> 4. Meine Platten wurden von Peter gekauft.
+> 5. Es wurde geklopft.
+> 6. Die Uhr wurde von der Mutti nicht aufgezogen.
+> 7. Die Burg wurde durch den Wind zerstört.
+> 8. Es wurde den Alten geholfen.
+> 9. 
 
+%%.%%
 > [!question]- Feladat 5 (Perfekt) – Fordítsd le!
 > Az ajándékokat megvették már. / A szállodában beszéltek idegen nyelveket. / Most kapták el a tolvajt. / Ki hívta fel apukádat? / Sokat beszéltek a filmről. / Mikor rendelték az árukat? / Minden könyvet eladtak. / Az orvos megmérte a lázamat. / Meghívtak minket szülinapra. / A tanárnő nem javította ki a dolgozatokat. / 9 órakor ébresztettek. / A beteget megoperálták. / A pincér kinyitotta az üveget. / A mondatokat már lefordították.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
 
+%%.%%
 > [!question]- Feladat 6 (Präsens + Modalverb) – Fordítsd le!
 > Az almát nem szabad megenni. / Az ablakot ki kell nyitni. / A leveleket el kell küldeni. / Az öregeknek segíteni kell. / A levest már meg lehet enni. / A gyerekek nem ehetik meg a sütit. / Ezt az ügyet el kell intézni. / A beteget meg lehet operálni. / A szobát rendbe kell tenni. / Itt nem szabad parkolni. / A könyveket ki lehet kölcsönözni. / Ezt a motort még meg lehet javítani. / A házakat ki lehet bérelni. / Meg kell látogatni őt. / A táviratot fel kell adni. / A nagyszülőket gyakran kell meglátogatni.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
 
+%%.%%
 > [!question]- Feladat 7 (Präteritum + Modalverb) – Fordítsd le!
 > Az ablakot nem lehetett kinyitni. / A ház előtt nem volt szabad parkolni. / A gyertyát meg lehetett gyújtani. / A húst meg kellett sózni. / A dolgozatát nem lehetett elolvasni. / Az ebédlőben nem lehetett dohányozni. / A házat be lehetett rendezni. / A lábost el kellett mosni.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
 
+%%.%%
 > [!question]- Feladat 8 (Perfekt + Modalverb, kettős Infinitiv) – Fordítsd le!
 > Meg kellett javítani a rádiót. / A vendégeknek sütit kellett sütni. / Nem volt szabad dohányozni. / Meg kellett inni a tejet. / A lámpát le kellett oltani. / A lámpát ki kellett cserélni. / Az órát fel kellett húzni. / A növényeket meg kellett locsolni. / Azt akarta, hogy szeresse a közönség. / A beteget nem lehetett megoperálni.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
 
+%%.%%
 > [!question]- Feladat 9 (Futur I) – Fordítsd le!
 > A levest meg fogja kóstolni a szakács. / A könyvről sokat fognak beszélni. / Gratulálni fognak neki születésnapjára. / A leveleidre nem fognak válaszolni. / Az orvos meg fogja vizsgálni a beteget. / A kutyát is meg fogják operálni. / A helyet a törzsvendégek fogják lefoglalni. / A színházban sokat fognak dohányozni. / Ki fogja ezt megrendelni?
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
 
+%%.%%
 > [!question]- Összefoglaló mondatok
 > **a)** Sok külföldi látogatja Budapestet. Mikor nyitják az áruházakat. Péter hívja a pincért. Naponta egy tablettát kell bevenni. Ki értesíti a tanárt? Ki fénymásolja le a könyvet? Egy mérnök tervezi meg a lakásukat. A dolgozatot most mi javítjuk ki. Ki rendezte be a lakást? Ki fordította le a szöveget? Sokat táncoltak. Kopogtak. Este énekeltek. A leveleket most nem lehet elhozni. Hogyan ünneplik Magyarországon március 15-ét?
 >
@@ -198,6 +244,7 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 %%.%%
 > [!success]- Megoldás
 > **a)** Budapest wird von vielen Ausländern besucht. Wann werden die Geschäfte geöffnet? Der Kellner wird von Peter gerufen. Eine Tablette soll/muss pro Tag genommen werden. Von wem wird der Lehrer informiert/benachrichtigt? Von wem wird das Buch kopiert? Ihre Wohnung wird von einem Ingenieur entworfen. Die Klassenarbeit wird jetzt von uns korrigiert. Von wem wurde die Wohnung eingerichtet?  Von wem ist die Wohnung eingerichtet worden?  Von wem wurde der Text übersetzt? Es wurde viel getanzt. Es wurde geklopft. Am Abend wurde gesungen. Die Briefe können jetzt nicht abgeholt werden. Wie wird der 15. März in Ungarn gefeiert?
+
 %%.%%
 
 ---
