@@ -29,7 +29,7 @@ tags:
 
 - [x] **Gyakorlat:** [[Vorgangspassiv]] 5 (Az orvos megmérte a lázamat...)
 
-- [ ] **Gyakorlat:** [[Vorgangspassiv]] 6 (A szobát rendbe kell tenni...)
+- [x] **Gyakorlat:** [[Vorgangspassiv]] 6 (A szobát rendbe kell tenni...)
 
 - [ ] **Gyakorlat:** [[Vorgangspassiv]] 7 (A dolgozatát nem lehetett elolvasni...)
 

@@ -254,18 +254,42 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > [!success]- Megoldás
 > 1. Der Apfel darf nicht gegessen werden.
 > 2. Das Fenster muss geöffnet werden.
-> 3. Die Briefe muss geschickt werden.
-> 4. Die Alten muss geholfen werden.
-> 5. Die Suppe kann gegessen werden.
-> 6. Die Küche 
+> 3. Die Briefe müssen geschickt werden.
+> 4. Es muss den Alten geholfen werden.
+> 5. Die Suppe kann schon gegessen werden.
+> 6. Der Kuchen kann von den Kindern nicht gegessen werden.
+> 7. Die Angelegenheit muss erledigt werden.
+> 8. Der Kranke kann operiert werden.
+> 9. Das Zimmer muss aufgeräumt werden.
+> 10. Es darf hier nicht geparkt werden.
+> 11. Die Bücher können ausgeliehen werden.
+> 12. Dieser Motor kann noch repariert werden.
+> 13. Die Häuser können gemietet werden.
+> 14. Er muss besucht werden.
+> 15. Das Telegramm muss geschickt werden.
+> 16. Die Großeltern müssen oft besucht werden.
 
 %%.%%
 > [!question]- Feladat 7 (Präteritum + Modalverb) – Fordítsd le!
-> Az ablakot nem lehetett kinyitni. / A ház előtt nem volt szabad parkolni. / A gyertyát meg lehetett gyújtani. / A húst meg kellett sózni. / A dolgozatát nem lehetett elolvasni. / Az ebédlőben nem lehetett dohányozni. / A házat be lehetett rendezni. / A lábost el kellett mosni.
+> 1. Az ablakot nem lehetett kinyitni.
+> 2. A ház előtt nem volt szabad parkolni.
+> 3. A gyertyát meg lehetett gyújtani.
+> 4. A húst meg kellett sózni.
+> 5. A dolgozatát nem lehetett elolvasni.
+> 6. Az ebédlőben nem lehetett dohányozni.
+> 7. A házat be lehetett rendezni.
+> 8. A lábost el kellett mosni.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Das Fenster konnte nicht geöffnet werden.
+> 2. Es durfte vor dem Haus nicht geparkt werden.
+> 3. Die Kerze konnte angezündet werden.
+> 4. Das Fleisch musste gesalzt werden.
+> 5. Seine Klassenarbeit konnte nicht gelesen werden.
+> 6. Es durfte in der Mittagspause nicht geraucht werden.
+> 7. Das Haus konnte eingerichtet werden.
+> 8. Der Topf musste abgewaschen werden.
 
 %%.%%
 > [!question]- Feladat 8 (Perfekt + Modalverb, kettős Infinitiv) – Fordítsd le!
