@@ -293,19 +293,53 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 
 %%.%%
 > [!question]- Feladat 8 (Perfekt + Modalverb, kettős Infinitiv) – Fordítsd le!
-> Meg kellett javítani a rádiót. / A vendégeknek sütit kellett sütni. / Nem volt szabad dohányozni. / Meg kellett inni a tejet. / A lámpát le kellett oltani. / A lámpát ki kellett cserélni. / Az órát fel kellett húzni. / A növényeket meg kellett locsolni. / Azt akarta, hogy szeresse a közönség. / A beteget nem lehetett megoperálni.
+> 1. Meg kellett javítani a rádiót.
+> 2. A vendégeknek sütit kellett sütni.
+> 3. Nem volt szabad dohányozni.
+> 4. Meg kellett inni a tejet.
+> 5. A lámpát le kellett oltani.
+> 6. A lámpát ki kellett cserélni.
+> 7. Az órát fel kellett húzni.
+> 8. A növényeket meg kellett locsolni.
+> 9. Azt akarta, hogy szeresse a közönség.
+> 10. A beteget nem lehetett megoperálni.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Das Radio hat repariert werden müssen.
+> 2. Der Kuchen hat von den Gästen gebacken werden müssen.
+> 3. Es hat nicht geraucht werden dürfen.
+> 4. Die Milch hat getrunken werden müssen.
+> 5. Die Lampe hat ausgeschaltet werden müssen.
+> 6. Die Lampe hat ausgetauscht werden müssen.
+> 7. Die Uhr hat aufgezogen werden müssen.
+> 8. Die Pflanzen haben gegossen werden müssen.
+> 9. Er wollte, vom Publikum geliebt werden.
+> 10. Der Patient hat nicht operiert werden können.
 
 %%.%%
 > [!question]- Feladat 9 (Futur I) – Fordítsd le!
-> A levest meg fogja kóstolni a szakács. / A könyvről sokat fognak beszélni. / Gratulálni fognak neki születésnapjára. / A leveleidre nem fognak válaszolni. / Az orvos meg fogja vizsgálni a beteget. / A kutyát is meg fogják operálni. / A helyet a törzsvendégek fogják lefoglalni. / A színházban sokat fognak dohányozni. / Ki fogja ezt megrendelni?
+> 1. A levest meg fogja kóstolni a szakács.
+> 2. A könyvről sokat fognak beszélni.
+> 3. Gratulálni fognak neki születésnapjára.
+> 4. A leveleidre nem fognak válaszolni.
+> 5. Az orvos meg fogja vizsgálni a beteget.
+> 6. A kutyát is meg fogják operálni.
+> 7. A helyet a törzsvendégek fogják lefoglalni.
+> 8. A színházban sokat fognak dohányozni.
+> 9. Ki fogja ezt megrendelni?
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Die Suppe wird vom Koch verkostet werden.
+> 2. Es wird viel über das Buch gesprochen werden.
+> 3. Es wird ihm zum Geburtstag gratuliert werden.
+> 4. Es wird auf deine Briefe nicht geantwortet werden.
+> 5. Der Patient wird vom Arzt besucht werden.
+> 6. Der Hund wird auch operiert werden.
+> 7. Der Platz wird vom Stammgästen reserviert werden.
+> 8. Es wird im Theater viel geraucht werden.
+> 9. Von wem wird es bestellt werden?
 
 %%.%%
 > [!question]- Összefoglaló mondatok
@@ -319,6 +353,8 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 %%.%%
 > [!success]- Megoldás
 > **a)** Budapest wird von vielen Ausländern besucht. Wann werden die Geschäfte geöffnet? Der Kellner wird von Peter gerufen. Eine Tablette soll/muss pro Tag genommen werden. Von wem wird der Lehrer informiert/benachrichtigt? Von wem wird das Buch kopiert? Ihre Wohnung wird von einem Ingenieur entworfen. Die Klassenarbeit wird jetzt von uns korrigiert. Von wem wurde die Wohnung eingerichtet?  Von wem ist die Wohnung eingerichtet worden?  Von wem wurde der Text übersetzt? Es wurde viel getanzt. Es wurde geklopft. Am Abend wurde gesungen. Die Briefe können jetzt nicht abgeholt werden. Wie wird der 15. März in Ungarn gefeiert?
+> 
+> **b)** Ich weiß, dass ich von Johann 
 
 %%.%%
 

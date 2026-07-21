@@ -31,7 +31,7 @@ tags:
 
 - [x] **Gyakorlat:** [[Vorgangspassiv]] 6 (A szobát rendbe kell tenni...)
 
-- [ ] **Gyakorlat:** [[Vorgangspassiv]] 7 (A dolgozatát nem lehetett elolvasni...)
+- [x] **Gyakorlat:** [[Vorgangspassiv]] 7 (A dolgozatát nem lehetett elolvasni...)
 
 - [ ] **Gyakorlat:** [[Vorgangspassiv]] Összefoglaló feladatok (**b)**)
 
