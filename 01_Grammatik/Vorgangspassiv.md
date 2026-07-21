@@ -80,30 +80,57 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 
 %%.%%
 > [!success]- Megoldás
-> 1. Die Suppe wird von meiner Mutti gekocht.
+> 1. Die Suppe wird von Mutti gekocht.
 > 2. Das Auto wird von meinem Vater repariert.
 > 3. Die Fehler werden von der Lehrerin korrigiert.
-> 4. Ein Kuchen wird von der Oma gebacken.
-> 5. Die Hausaufgaben werden von Peter gemacht.
-> 6. Der Angestellte wird vom Chef angerufen.
-> 7. Die Bilder werden von meinem Bruder an die Wand gehängt.
-> 8. Die neuen Autos werden durch die Roboter repariert.
+> 4. Ein Kuchen wird von Oma gebacken.
+> 5. Die Ratten werden durch den Gift getötet.
+> 6. Das Haus wird durch den Wind zerstört.
+> 7. Das Glas wird durch den Kunststoff ersetzt.
+> 8. Die neuen Autos werden von den Robotern repariert.
 > 9. Die Ratten werden durch den Gift getötet.
 > 10. Das Haus wird durch den Wind zerstört.
 > 11. Das Glas wird durch den Kunststoff ersetzt.
 > 12. Der Salat wird von den Kindern gewaschen.
 > 13. Mein Rock wird von meiner Mutti gebügelt.
 > 14. Viele Motorräder werden vom Verkäufer verkauft.
-%%.%%
 
+%%.%%
 > [!question]- Feladat 2 (Präsens) – Fordítsd le!
-> A szerelő megjavítja az autót. / A barátom ír egy levelet. / A gép kilukasztja a jegyet. / Németországban németül beszélnek. / A kutyát kiküldik a házból. / Nagypapa megszereli a rádiót. / A munkások befestik a falakat. / A betegeket az ápolónő szolgálja ki. / Lefordítjuk a szöveget. / A másik szobában táncolnak. / A rendőrség értesíti a családot. / A vendég kinyitja az ajtót. / Az épületet egy KFT építi. / A számlákat én fizetem. / A tanárnő kiosztja a dolgozatokat. / Az apuka megdicséri a gyerekeket.
+> 1. A szerelő megjavítja az autót.
+> 2. A barátom ír egy levelet.
+> 3. A gép kilukasztja a jegyet.
+> 4. Németországban németül beszélnek.
+> 5. A kutyát kiküldik a házból.
+> 6. Nagypapa megszereli a rádiót.
+> 7. A munkások befestik a falakat.
+> 8. A betegeket az ápolónő szolgálja ki.
+> 9. Lefordítjuk a szöveget.
+> 10. A másik szobában táncolnak.
+> 11. A rendőrség értesíti a családot.
+> 12. A vendég kinyitja az ajtót.
+> 13. Az épületet egy KFT építi.
+> 14. A számlákat én fizetem.
+> 15. A tanárnő kiosztja a dolgozatokat.
+> 16. Az apuka megdicséri a gyerekeket.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
+> 1. Das Auto wird repariert vom Mechaniker.
+> 2. Eine Brief wird von meinem Freund geschrieben.
+> 3. Das Ticket wird entwertet durch die Machine.
+> 4. Es wird in Deutschland Deutsch gesprochen.
+> 5. Der Hund wird aus dem Haus geschickt.
+> 6. Das Radio wird vom Opa repariert.
+> 7. Die Wände werden von den Arbeitern gestrichen.
+> 8. Die Kranken wird von der Krankenschwester bedient.
+> 9. Der Text wird von uns übersetzt.
+> 10. Es wird in einem anderen Zimmer getanzt.
+> 11. Die Familie wird von der Polizei informiert.
+> 12. Die Tür wird vom Gast geöffnet.
+> 13. Das Gebäude wird von einer GmbH geba
 
+%%.%%
 > [!question]- Feladat 3 (Präteritum) – Írd át passzív Präteritumba!
 > Sie löste die Aufgabe. / Man aß Gemüsesuppe. / Wir bestellten Spiegeleier. / Der Kellner trank eine Tasse Kaffee. / Man diktierte einen Brief. / Der Verkäufer verkaufte eine Mappe. / Er wusch den Wagen. / Der Professor bastelte ein Schiff. / Sie schrieb einen Satz. / Man tanzte viel. / Man sah einen guten Film. / Sie schaltete die Lampe aus.
 
