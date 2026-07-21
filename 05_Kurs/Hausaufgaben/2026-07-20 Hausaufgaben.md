@@ -25,9 +25,9 @@ tags:
 
 - [x] **Gyakorlat:** [[Vorgangspassiv]] 3 (*1. Er wusch den Wagen*...)
 
-- [ ] **Gyakorlat:** [[Vorgangspassiv]] 4 (Segítettek az öreg embernek...)
+- [x] **Gyakorlat:** [[Vorgangspassiv]] 4 (Segítettek az öreg embernek...)
 
-- [ ] **Gyakorlat:** [[Vorgangspassiv]] 5 (Az orvos megmérte a lázamat...)
+- [x] **Gyakorlat:** [[Vorgangspassiv]] 5 (Az orvos megmérte a lázamat...)
 
 - [ ] **Gyakorlat:** [[Vorgangspassiv]] 6 (A szobát rendbe kell tenni...)
 

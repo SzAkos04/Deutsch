@@ -190,23 +190,74 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > 6. Die Uhr wurde von der Mutti nicht aufgezogen.
 > 7. Die Burg wurde durch den Wind zerstört.
 > 8. Es wurde den Alten geholfen.
-> 9. 
+> 9. Es wurde im Büro viel gesprochen.
+> 10. Der Verletzte wurde vom Arzt geheilt.
+> 11. Die Uhr wurde vom Vater repariert.
+> 12. Mein Buch wurde von meiner Freundin durchgelesen.
+> 13. Der Tisch wurde von Józsi nicht gedeckt.
+> 14. Die Wände wurde nicht gestrichen.
 
 %%.%%
 > [!question]- Feladat 5 (Perfekt) – Fordítsd le!
-> Az ajándékokat megvették már. / A szállodában beszéltek idegen nyelveket. / Most kapták el a tolvajt. / Ki hívta fel apukádat? / Sokat beszéltek a filmről. / Mikor rendelték az árukat? / Minden könyvet eladtak. / Az orvos megmérte a lázamat. / Meghívtak minket szülinapra. / A tanárnő nem javította ki a dolgozatokat. / 9 órakor ébresztettek. / A beteget megoperálták. / A pincér kinyitotta az üveget. / A mondatokat már lefordították.
+> 1. Az ajándékokat megvették már.
+> 2. A szállodában beszéltek idegen nyelveket.
+> 3. Most kapták el a tolvajt.
+> 4. Ki hívta fel apukádat?
+> 5. Sokat beszéltek a filmről.
+> 6. Mikor rendelték az árukat?
+> 7. Minden könyvet eladtak.
+> 8. Az orvos megmérte a lázamat.
+> 9. Meghívtak minket szülinapra.
+> 10. A tanárnő nem javította ki a dolgozatokat.
+> 11. 9 órakor ébresztettek.
+> 12. A beteget megoperálták.
+> 13. A pincér kinyitotta az üveget.
+> 14. A mondatokat már lefordították.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Die Geschenke sind gekauft worden.
+> 2. Fremdsprachen sind im Hotel gesprochen worden.
+> 3. Der Dieb ist jetzt erwischt worden.
+> 4. Von wem ist dein Vater angerufen worden.
+> 5. Es ist über den Film viel gesprochen worden.
+> 6. Wann sind die Waren bestellt worden.
+> 7. Alle Bücher sind verkauft worden.
+> 8. Mein Fieber ist vom Arzt gemessen worden.
+> 9. Wir sind zum Geburtstagsparty eingeladen worden.
+> 10. Die Klassenarbeiten sind von der Lehrerin nicht korrigiert worden.
+> 11. Ich bin um 9 Uhr aufgewacht worden.
+> 12. Der Kranke ist operiert worden.
+> 13. Die Flasche ist vom Kellner geöffnet worden.
+> 14. Die Sätze sind übersetzt worden.
 
 %%.%%
 > [!question]- Feladat 6 (Präsens + Modalverb) – Fordítsd le!
-> Az almát nem szabad megenni. / Az ablakot ki kell nyitni. / A leveleket el kell küldeni. / Az öregeknek segíteni kell. / A levest már meg lehet enni. / A gyerekek nem ehetik meg a sütit. / Ezt az ügyet el kell intézni. / A beteget meg lehet operálni. / A szobát rendbe kell tenni. / Itt nem szabad parkolni. / A könyveket ki lehet kölcsönözni. / Ezt a motort még meg lehet javítani. / A házakat ki lehet bérelni. / Meg kell látogatni őt. / A táviratot fel kell adni. / A nagyszülőket gyakran kell meglátogatni.
+> 1. Az almát nem szabad megenni.
+> 2. Az ablakot ki kell nyitni.
+> 3. A leveleket el kell küldeni.
+> 4. Az öregeknek segíteni kell.
+> 5. A levest már meg lehet enni.
+> 6. A gyerekek nem ehetik meg a sütit.
+> 7. Ezt az ügyet el kell intézni.
+> 8. A beteget meg lehet operálni.
+> 9. A szobát rendbe kell tenni.
+> 10. Itt nem szabad parkolni.
+> 11. A könyveket ki lehet kölcsönözni.
+> 12. Ezt a motort még meg lehet javítani.
+> 13. A házakat ki lehet bérelni.
+> 14. Meg kell látogatni őt.
+> 15. A táviratot fel kell adni.
+> 16. A nagyszülőket gyakran kell meglátogatni.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Der Apfel darf nicht gegessen werden.
+> 2. Das Fenster muss geöffnet werden.
+> 3. Die Briefe muss geschickt werden.
+> 4. Die Alten muss geholfen werden.
+> 5. Die Suppe kann gegessen werden.
+> 6. Die Küche 
 
 %%.%%
 > [!question]- Feladat 7 (Präteritum + Modalverb) – Fordítsd le!
