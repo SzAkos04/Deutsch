@@ -63,11 +63,37 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 ## Feladatok
 
 > [!question]- Feladat 1 (Präsens) – Alakítsd át az aktív mondatokat passzív mondatokká!
-> Mutti kocht die Suppe. / Mein Vater repariert das Auto. / Die Lehrerin korrigiert die Fehler. / Die Oma bäckt einen Kuchen. / Peter macht die Hausaufgaben. / Der Chef ruft den Angestellten an. / Mein Bruder hängt die Bilder an die Wand. / Die Roboter reparieren die neuen Autos. / Der Gift tötet die Ratten. / Der Wind zerstört das Haus. / Der Kunststoff ersetzt das Glas. / Die Kinder waschen den Salat. / Mutti bügelt meinen Rock. / Der Verkäufer verkauft viele Motorräder.
+> 1. Mutti kocht die Suppe.
+> 2. Mein Vater repariert das Auto.
+> 3. Die Lehrerin korrigiert die Fehler.
+> 4. Die Oma bäckt einen Kuchen.
+> 5. Peter macht die Hausaufgaben.
+> 6. Der Chef ruft den Angestellten an.
+> 7. Mein Bruder hängt die Bilder an die Wand.
+> 8. Die Roboter reparieren die neuen Autos.
+> 9. Der Gift tötet die Ratten.
+> 10. Der Wind zerstört das Haus.
+> 11. Der Kunststoff ersetzt das Glas.
+> 12. Die Kinder waschen den Salat.
+> 13. Mutti bügelt meinen Rock.
+> 14. Der Verkäufer verkauft viele Motorräder.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Die Suppe wird von meiner Mutti gekocht.
+> 2. Das Auto wird von meinem Vater repariert.
+> 3. Die Fehler werden von der Lehrerin korrigiert.
+> 4. Ein Kuchen wird von der Oma gebacken.
+> 5. Die Hausaufgaben werden von Peter gemacht.
+> 6. Der Angestellte wird vom Chef angerufen.
+> 7. Die Bilder werden von meinem Bruder an die Wand gehängt.
+> 8. Die neuen Autos werden durch die Roboter repariert.
+> 9. Die Ratten werden durch den Gift getötet.
+> 10. Das Haus wird durch den Wind zerstört.
+> 11. Das Glas wird durch den Kunststoff ersetzt.
+> 12. Der Salat wird von den Kindern gewaschen.
+> 13. Mein Rock wird von meiner Mutti gebügelt.
+> 14. Viele Motorräder werden vom Verkäufer verkauft.
 %%.%%
 
 > [!question]- Feladat 2 (Präsens) – Fordítsd le!
