@@ -3,7 +3,7 @@ Titel: 2026-07-16 Hausaufgaben
 Kurs: "[[Német haladó félintenzív]]"
 Datum: 2026-07-16
 Frist: 2026-07-20
-Status: folyamatban
+Status: kész
 tags:
   - Hausaufgabe
 ---

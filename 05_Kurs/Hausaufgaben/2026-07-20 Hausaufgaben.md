@@ -30,18 +30,7 @@ tags:
 
 - [ ] [[Vorgangspassiv]] Összefoglaló feladatok (**b)**)
 
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
-
-- [ ] 
+- [ ] [[Menschen B1.pdf]] S. 30 / 5 **b)** \*
 
 > [!info] Feladat
 > ****
@@ -54,31 +43,6 @@ tags:
 
 %%.%%
 
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
-
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
 ## Megjegyzések
 
 > [!INFO]
