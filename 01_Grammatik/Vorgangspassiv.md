@@ -354,7 +354,7 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > [!success]- Megoldás
 > **a)** Budapest wird von vielen Ausländern besucht. Wann werden die Geschäfte geöffnet? Der Kellner wird von Peter gerufen. Eine Tablette soll/muss pro Tag genommen werden. Von wem wird der Lehrer informiert/benachrichtigt? Von wem wird das Buch kopiert? Ihre Wohnung wird von einem Ingenieur entworfen. Die Klassenarbeit wird jetzt von uns korrigiert. Von wem wurde die Wohnung eingerichtet?  Von wem ist die Wohnung eingerichtet worden?  Von wem wurde der Text übersetzt? Es wurde viel getanzt. Es wurde geklopft. Am Abend wurde gesungen. Die Briefe können jetzt nicht abgeholt werden. Wie wird der 15. März in Ungarn gefeiert?
 > 
-> **b)** Ich weiß, dass ich von Johann 
+> **b)** Ich weiß, dass ich von Johann zum Bahnhof begleitet werde. Ich gehe davon aus, dass unser Haus schon gebaut wurde. Der Mechaniker sieht, dass seine Arbeit überprüft werden muss. Wir wissen, dass die Vorstellung von unserer Freundin geöffnet wird. Wie viel Trinkgeld wird hier dem Kellner gegeben? Ich weiß es nicht, ob es nach 
 
 %%.%%
 
