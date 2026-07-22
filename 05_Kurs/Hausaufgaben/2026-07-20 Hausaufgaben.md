@@ -33,7 +33,7 @@ tags:
 
 - [x] **Gyakorlat:** [[Vorgangspassiv]] 7 (A dolgozatát nem lehetett elolvasni...)
 
-- [ ] **Gyakorlat:** [[Vorgangspassiv]] Összefoglaló feladatok (**b)**)
+- [x] **Gyakorlat:** [[Vorgangspassiv]] Összefoglaló feladatok (**b)**)
 
 - [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 30 / 5 **b)** \*
 
