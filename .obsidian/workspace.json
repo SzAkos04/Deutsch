@@ -39,6 +39,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ee989bfbea222ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47739c36799ff1f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,10 +253,11 @@
   },
   "active": "d2c3f2830a5128bf",
   "lastOpenFiles": [
+    "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
     "01_Grammatik/Konjunktionen (Wortstellung).md",
     "01_Grammatik/Vorgangspassiv.md",
     "01_Grammatik/Grammatik MOC.md",
-    "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-07-20.md",
     "01_Grammatik/Plusquamperfekt.md",
     "01_Grammatik/Konjunktiv II.md",
@@ -246,7 +266,6 @@
     "05_Kurs/Materialen/Stunden/20260720/GMT20260720-160237_Recording.cc.vtt",
     "05_Kurs/Materialen/Stunden/20260720/GMT20260720-160237_RecordingnewChat.txt",
     "05_Kurs/Materialen/Stunden/20260720",
-    "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Zu + Infinitiv (Grundlagen).md",
     "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
@@ -267,7 +286,6 @@
     "04_Lieder/Mayberg - Spiegelbild.md",
     "04_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
     "04_Lieder/AnnenMayKantereit - Barfuß am Klavier.md",
-    "04_Lieder/AnnenMayKantereit - Vielleicht Vielleicht.md",
     "05_Kurs/Materialen/Stunden/20260716/GMT20260716-160300_Recording_1686x768.mp4",
     "05_Kurs/Materialen/Stunden/20260716/GMT20260716-160300_Recording.mp4",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
