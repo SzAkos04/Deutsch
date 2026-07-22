@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -246,8 +245,13 @@
   },
   "active": "d2c3f2830a5128bf",
   "lastOpenFiles": [
-    "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Hausaufgaben/2026-07-23 Hausaufgaben.md",
+    "05_Kurs/Materialen/Extra/Maklari-tamas-nemet-nyelvtani-abc.pdf",
+    "05_Kurs/Unterricht/2026-07-23.md",
+    "05_Kurs/Materialen/Stunden/20260723",
+    "05_Kurs/Materialen/Stunden/Untitled.md",
     "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
+    "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Konjunktionen (Wortstellung).md",
     "01_Grammatik/Vorgangspassiv.md",
     "01_Grammatik/Grammatik MOC.md",
@@ -276,11 +280,6 @@
     "MOC.md",
     "_Vorlagen/Grammatik.md",
     "04_Lieder/Rammstein - Deutschland.md",
-    "04_Lieder/Mayberg - Spiegelbild.md",
-    "04_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
-    "04_Lieder/AnnenMayKantereit - Barfuß am Klavier.md",
-    "05_Kurs/Materialen/Stunden/20260716/GMT20260716-160300_Recording_1686x768.mp4",
-    "05_Kurs/Materialen/Stunden/20260716/GMT20260716-160300_Recording.mp4",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
