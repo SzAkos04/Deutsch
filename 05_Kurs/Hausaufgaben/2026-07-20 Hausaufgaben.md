@@ -43,7 +43,7 @@ tags:
 %%.%%
 
 > [!success]- Megoldás
-> Ich reklamierte zuletzt, als meine Partnerin eine Kleidung bei Vinted bestellte. Als die Kleidung kam an, bekam sie kein Öffnungscode, deshalb rief ich den Foxpost-Kundenservice an. Nur ein KI-Assistant antwortete. Er half bei nichts. Dann fragte er mich, ob ich mit einer echten Person sprechen möchte. Ich antwortete Ja, danach hörte ich immer wieder eine Ansage mit Musik im Hintergrund darüber, wie sie mir helfen möchten. Immer noch antwortete niemand. Dann musste ich eine Nachricht an Vinted schreiben, und sie dann lösten unser Problem.
+> Ich reklamierte zuletzt, als meine Partnerin eine Kleidung bei Vinted bestellte. Als die Kleidung ankam, bekam sie kein Öffnungscode, deshalb rief ich den Foxpost-Kundenservice an. Nur ein KI-Assistant antwortete. Er half bei nichts. Dann fragte er mich, ob ich mit einer echten Person sprechen möchte. Ich antwortete Ja, danach hörte ich immer wieder eine Ansage mit Musik im Hintergrund darüber, wie sie mir helfen möchten. Immer noch antwortete niemand. Dann musste ich eine Nachricht an Vinted schreiben, und sie dann lösten unser Problem.
 
 %%.%%
 
