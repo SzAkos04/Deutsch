@@ -35,7 +35,7 @@ tags:
 
 - [x] **Gyakorlat:** [[Vorgangspassiv]] Összefoglaló feladatok (**b)**)
 
-- [ ] **Szorgalmi:** [[Menschen B1.pdf]] S. 30 / 5 **b)** \*
+- [x] **Szorgalmi:** [[Menschen B1.pdf]] S. 30 / 5 **b)** \*
 
 > [!info] Feladat
 > **Was haben Sie zuletzt reklamiert? Erzählet Sie.**
