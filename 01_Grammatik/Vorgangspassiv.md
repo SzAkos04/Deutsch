@@ -84,10 +84,10 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > 2. Das Auto wird von meinem Vater repariert.
 > 3. Die Fehler werden von der Lehrerin korrigiert.
 > 4. Ein Kuchen wird von Oma gebacken.
-> 5. Die Ratten werden durch den Gift getötet.
-> 6. Das Haus wird durch den Wind zerstört.
-> 7. Das Glas wird durch den Kunststoff ersetzt.
-> 8. Die neuen Autos werden von den Robotern repariert.
+> 5. 
+> 6. 
+> 7. 
+> 8. 
 > 9. Die Ratten werden durch den Gift getötet.
 > 10. Das Haus wird durch den Wind zerstört.
 > 11. Das Glas wird durch den Kunststoff ersetzt.
@@ -128,9 +128,9 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > 10. Es wird in einem anderen Zimmer getanzt.
 > 11. Die Familie wird von der Polizei informiert.
 > 12. Die Tür wird vom Gast geöffnet.
-> 13. Das Gebäude wird von einer GmbH gebaut.
+> 13. Das Gebäude wird durch eine GmbH gebaut.
 > 14. Die Rechnungen werden von mir bezahlt.
-> 15. Die Klassenarbeiten werden von den Lehrerin ausgeteilt.
+> 15. Die Klassenarbeiten werden von der Lehrerin ausgeteilt.
 > 16. Die Kinder werden vom Vater belobt.
 
 %%.%%
@@ -158,7 +158,7 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > 6. Eine Mappe wurde vom Verkäufer verkauft.
 > 7. Der Wagen wurde von ihm gewaschen.
 > 8. Ein Schiff wurde vom Professor gebastelt.
-> 9. Ein Satz wird von ihr geschrieben.
+> 9. Ein Satz wurde von ihr geschrieben.
 > 10. Es wurde viel getanzt.
 > 11. Ein guter Film wurde gesehen.
 > 12. Die Lampe wurde von ihr ausgeschaltet.
@@ -195,7 +195,7 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > 11. Die Uhr wurde vom Vater repariert.
 > 12. Mein Buch wurde von meiner Freundin durchgelesen.
 > 13. Der Tisch wurde von Józsi nicht gedeckt.
-> 14. Die Wände wurde nicht gestrichen.
+> 14. Die Wände wurde noch nicht gestrichen.
 
 %%.%%
 > [!question]- Feladat 5 (Perfekt) – Fordítsd le!
@@ -224,12 +224,12 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > 6. Wann sind die Waren bestellt worden.
 > 7. Alle Bücher sind verkauft worden.
 > 8. Mein Fieber ist vom Arzt gemessen worden.
-> 9. Wir sind zum Geburtstagsparty eingeladen worden.
+> 9. Wir sind zum Geburtstag eingeladen worden.
 > 10. Die Klassenarbeiten sind von der Lehrerin nicht korrigiert worden.
-> 11. Ich bin um 9 Uhr aufgewacht worden.
+> 11. Ich bin um 9 Uhr aufgeweckt worden.
 > 12. Der Kranke ist operiert worden.
 > 13. Die Flasche ist vom Kellner geöffnet worden.
-> 14. Die Sätze sind übersetzt worden.
+> 14. Die Sätze sind bereits/schon übersetzt worden.
 
 %%.%%
 > [!question]- Feladat 6 (Präsens + Modalverb) – Fordítsd le!
@@ -287,7 +287,7 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > 3. Die Kerze konnte angezündet werden.
 > 4. Das Fleisch musste gesalzt werden.
 > 5. Seine Klassenarbeit konnte nicht gelesen werden.
-> 6. Es durfte in der Mittagspause nicht geraucht werden.
+> 6. Es durfte im Esszimmer nicht geraucht werden.
 > 7. Das Haus konnte eingerichtet werden.
 > 8. Der Topf musste abgewaschen werden.
 
@@ -354,7 +354,7 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 > [!success]- Megoldás
 > **a)** Budapest wird von vielen Ausländern besucht. Wann werden die Geschäfte geöffnet? Der Kellner wird von Peter gerufen. Eine Tablette soll/muss pro Tag genommen werden. Von wem wird der Lehrer informiert/benachrichtigt? Von wem wird das Buch kopiert? Ihre Wohnung wird von einem Ingenieur entworfen. Die Klassenarbeit wird jetzt von uns korrigiert. Von wem wurde die Wohnung eingerichtet?  Von wem ist die Wohnung eingerichtet worden?  Von wem wurde der Text übersetzt? Es wurde viel getanzt. Es wurde geklopft. Am Abend wurde gesungen. Die Briefe können jetzt nicht abgeholt werden. Wie wird der 15. März in Ungarn gefeiert?
 > 
-> **b)** Ich weiß, dass ich von Johann zum Bahnhof begleitet werde. Ich gehe davon aus, dass unser Haus schon gebaut wurde. Der Mechaniker sieht, dass seine Arbeit überprüft werden muss. Wir wissen, dass die Vorstellung von unserem Freund eröffnet wird. Wie viel Trinkgeld wird hier dem Kellner gegeben? Ich weiß nicht, ob es nach 5 Uhr auf dem Platz geparkt werden darf. Hast du gehört, dass eine Gulaschparty vom Kellner empfohlen wurde? Von wem werden die Getränke bestellt werden?
+> **b)** Ich weiß, dass ich von Johann zum Bahnhof begleitet werde. Ich nehme an, dass unser Haus schon gebaut wurde. Der Mechaniker sieht, dass seine Arbeit überprüft werden muss. Wir wissen, dass die Vorstellung von unserem Freund eröffnet wird. Wie viel Trinkgeld wird hier dem Kellner gegeben? Ich weiß nicht, ob es nach 5 Uhr auf dem Platz noch geparkt werden darf. Hast du gehört, dass eine Gulaschparty vom Kellner empfohlen wurde? Von wem werden die Getränke bestellt werden?
 
 %%.%%
 
