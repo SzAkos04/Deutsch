@@ -11,15 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "MOC"
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
             }
           }
         ]
@@ -174,8 +171,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -217,9 +214,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
-    "MOC.md",
     "05_Kurs/Unterricht/2026-07-23.md",
+    "MOC.md",
+    "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
     "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
     "05_Kurs/Hausaufgaben/2026-07-23 Hausaufgaben.md",
     "05_Kurs/Német haladó félintenzív.md",
