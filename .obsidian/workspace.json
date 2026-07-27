@@ -23,24 +23,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "e947b377b9f3c9e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1166bb383052c1c6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05_Kurs/Materialen/Extra/Vorgangspassiv-H.A.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorgangspassiv-H.A"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
