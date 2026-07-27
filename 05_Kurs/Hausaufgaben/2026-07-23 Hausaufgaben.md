@@ -56,18 +56,6 @@ tags:
 
 %%.%%
 
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
 ## Megjegyzések
 
 > [!INFO]
