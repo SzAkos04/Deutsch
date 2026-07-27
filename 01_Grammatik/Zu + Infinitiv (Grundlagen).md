@@ -24,7 +24,7 @@ tags: [Grammatik]
 *Es ist schön, Deutsch zu lernen.*
 
 **b) Igék, melyek zu + Infinitivet vonzanak** – Az összes ilyen német ige, kivéve azokat, amelyek után sima Infinitivet alkalmazunk (módbeli segédigék, lassen, gehen, kommen, fahren, spüren, lernen, lehren, hören, sehen – z.B.: *Ich kann schwimmen.*, zu nélkül)
-hoffen, wünschen, sich freuen, meinen, bitten, beginnen, probieren, auf|hören, raten
+hoffen, wünschen, sich freuen, meinen, bitten, beginnen (anfangen), probieren (versuchen), auf|hören, raten, (és szinonímák)
 *Sie begann plötzlich über ihr Leben zu sprechen.*
 
 **c) Személytelen kifejezések**
