@@ -63,61 +63,164 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 ## Feladatok
 
 > [!question]- Feladat 1 – Alakítsd át a dass-os mondatokat zu + Infinitivesekre.
-> Peter glaubt, dass er schön ist. / Ildi hofft darauf, dass sie den Zug erreicht. / Wir hoffen, dass wir noch eine Kinokarte bekommen. / Er denkt daran, dass er mich übermorgen besucht. / Glaubst du, dass du dein Geld in meiner Tasche findest? / Er meint, dass er die Prüfung besteht. / Picur hofft, dass er größer wird. / Wir vergessen nicht, dass wir euch morgen besuchen. / Meine Freundin meint, dass sie immer Recht hat. / Anna verspricht mir immer, dass sie mich besucht.
+> 1. Peter glaubt, dass er schön ist.
+> 2. Ildi hofft darauf, dass sie den Zug erreicht.
+> 3. Wir hoffen, dass wir noch eine Kinokarte bekommen.
+> 4. Er denkt daran, dass er mich übermorgen besucht.
+> 5. Glaubst du, dass du dein Geld in meiner Tasche findest?
+> 6. Er meint, dass er die Prüfung besteht.
+> 7. Picur hofft, dass er größer wird.
+> 8. Wir vergessen nicht, dass wir euch morgen besuchen.
+> 9. Meine Freundin meint, dass sie immer Recht hat.
+> 10. Anna verspricht mir immer, dass sie mich besucht.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Peter glaubt, schön zu sein. 
+> 2. Ildi hofft darauf, den Zug zu erreichen. 
+> 3. Wir hoffen, noch eine Kinokarte zu bekommen. 
+> 4. Er denkt daran, mich übermorgen zu besuchen. 
+> 5. Glaubst du, dein Geld in meiner Tasche zu finden?
+> 6. Er meint, die Prüfung zu bestehen. 
+> 7. Picur hofft, größer zu werden. 
+> 8. Wir vergessen nicht, euch morgen zu besuchen. 
+> 9. Meine Freundin meint, immer Recht zu haben .
+> 10. Anna verspricht mir immer, mich zu besuchen.
+
 %%.%%
 
 > [!question]- Feladat 2 – Válaszd ki, mely mondatokból lehet zu + Infinitivet csinálni!
-> Wir hoffen darauf, dass dein Freund kommt. Ich verspreche dir, dass mein Bruder dass Auto repariert. Sie hoffen, dass sie die Aufgabe rechtzeitig beenden. Peter meint, dass er sich auf der Party ein hübsches Mädchen findet. Meine Schwester glaubt, dass ich fürs Wochenende nach Sopron fahre. Der Ingenieur freut sich, dass seine Urgroßeltern noch am Leben sind. Vati erwartet, dass ich die Prüfung bestehe. Alle Studenten wünschen, dass sie eine gute Note bekommen. Anna hofft, dass ich sie bald heirate. Der Angeklagte leugnet, dass er meine Geldbörse bei sich hat.
+> 1. Wir hoffen darauf, dass dein Freund kommt.
+> 2. Ich verspreche dir, dass mein Bruder dass Auto repariert.
+> 3. Sie hoffen, dass sie die Aufgabe rechtzeitig beenden.
+> 4. Peter meint, dass er sich auf der Party ein hübsches Mädchen findet.
+> 5. Meine Schwester glaubt, dass ich fürs Wochenende nach Sopron fahre.
+> 6. Der Ingenieur freut sich, dass seine Urgroßeltern noch am Leben sind.
+> 7. Vati erwartet, dass ich die Prüfung bestehe.
+> 8. Alle Studenten wünschen, dass sie eine gute Note bekommen.
+> 9. Anna hofft, dass ich sie bald heirate.
+> 10. Der Angeklagte leugnet, dass er meine Geldbörse bei sich hat.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 3 – Fordítsd le zu+Infinitivvel
-> Arra kértek minket, hogy hozzuk el a könyveket a könyvtárból. / Az orvos megtiltotta a betegnek, hogy sétáljon a parkban. / Megkértem a barátomat, hogy hozzon nekem egy kiló almát. / Arra kért, hogy foglaljak helyet. / Megkérjük Önt, hogy adja át a helyét nekünk. / Azt tanácsolta nekem, hogy tanuljak az egyetemen. / Arra kértek minket, hogy teritsük meg az asztalt.
+> 1. Arra kértek minket, hogy hozzuk el a könyveket a könyvtárból.
+> 2. Az orvos megtiltotta a betegnek, hogy sétáljon a parkban.
+> 3. Megkértem a barátomat, hogy hozzon nekem egy kiló almát.
+> 4. Arra kért, hogy foglaljak helyet.
+> 5. Megkérjük Önt, hogy adja át a helyét nekünk.
+> 6. Azt tanácsolta nekem, hogy tanuljak az egyetemen.
+> 7. Arra kértek minket, hogy teritsük meg az asztalt.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wir werden darum gebeten, die Bücher aus der Bibliothek abzuholen.
+> 2. Der Arzt hat dem Patient verboten, im Park zu spazieren.
+> 3. Ich habe meinen Freund gebeten, mir ein Kilo Äpfel zu bringen.
+> 4. Er hat mich gebeten, Platz zu nehmen.
+> 5. Wir bitten Sie, Ihnen Platz uns zu überlassen.
+
 %%.%%
 
 > [!question]- Feladat 4 – Fordítsd le a mondatokat zu + Infinitivvel! (Használd a III. pont kifejezéseit.)
-> Nehéz új gyakorlatokat megoldani. / Itt szabad fürödni. / Unalmas vele beszélgetni. / Szívesen fekszem a homokban. / Remélem, hogy megkapom a jegyeket. / Megpróbáltam csendben ülni. / Reméli, hogy időben hazaér. / Nehéz vele beszélni. / Szívesen eszek a kertünkben. / Művészet ilyen házikat írni. / Még nem fejezzük be a munkát. / Érdekes itt élni. / Könnyű ezt a feladatot megoldani. / Nincs időm autót mosni. / Mindig sikerül megoldania a feladatot. / Nem sikerül megelőznöm azt a kocsit. / Nincs kedvem veled menni. / Csak most kezdett el dolgozni. / Megpróbálok beszélni vele. / Nincs kedve velünk jönni. / Nincs kedvetek focizni? / Örül, hogy újra otthon van.
+> 1. Nehéz új gyakorlatokat megoldani.
+> 2. Itt szabad fürödni.
+> 3. Unalmas vele beszélgetni.
+> 4. Szívesen fekszem a homokban.
+> 5. Remélem, hogy megkapom a jegyeket.
+> 6. Megpróbáltam csendben ülni.
+> 7. Reméli, hogy időben hazaér.
+> 8. Nehéz vele beszélni.
+> 9. Szívesen eszek a kertünkben.
+> 10. Művészet ilyen házikat írni.
+> 11. Még nem fejezzük be a munkát.
+> 12. Érdekes itt élni.
+> 13. Könnyű ezt a feladatot megoldani.
+> 14. Nincs időm autót mosni.
+> 15. Mindig sikerül megoldania a feladatot.
+> 16. Nem sikerül megelőznöm azt a kocsit.
+> 17. Nincs kedvem veled menni.
+> 18. Csak most kezdett el dolgozni.
+> 19. Megpróbálok beszélni vele.
+> 20. Nincs kedve velünk jönni.
+> 21. Nincs kedvetek focizni?
+> 22. Örül, hogy újra otthon van.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 5 – Alakítsd át a mondatokat zu + Infinitives mondatokká!
-> Ich glaube, dass ich morgen die Prüfung bestehen kann. / Ich habe vor, dass ich alles abwasche. / Jörg erinnert sich daran, dass er dieses Auto schon mal gesehen hat. / Der Angeklagte leugnete, dass er das Auto gesehen hat. / Sie behauptet, dass sie das Geld verloren hat. / Er hofft, dass er sein Haus noch heute verkauft. / Wir freuen uns darüber, dass wir jetzt in die Alpen fahren können. / Er hat vor, dass er auch meine Geschwister zur Party einlädt.
+> 1. Ich glaube, dass ich morgen die Prüfung bestehen kann.
+> 2. Ich habe vor, dass ich alles abwasche.
+> 3. Jörg erinnert sich daran, dass er dieses Auto schon mal gesehen hat.
+> 4. Der Angeklagte leugnete, dass er das Auto gesehen hat.
+> 5. Sie behauptet, dass sie das Geld verloren hat.
+> 6. Er hofft, dass er sein Haus noch heute verkauft.
+> 7. Wir freuen uns darüber, dass wir jetzt in die Alpen fahren können.
+> 8. Er hat vor, dass er auch meine Geschwister zur Party einlädt.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 6 – A következő igékkel fordítsd le a mondatokat, a megfelelő zu + Infinitives szerkezetet használva. Figyelj a múlt időre!
 > *pflegen* – szokni valamit csinálni, *keinen Bock haben* – nincs kedve, *beabsichtigen* – szándékozik, *vor|haben* – tervezni, *bereuen* – megbánni, *versprechen* – megígérni
 >
-> 8-kor szoktunk felkelni. Azt tervezi, hogy elutazik a Balatonra. Megígértétek, hogy ebéd előtt hazaérkeztek. Megbánta, hogy velem jött. Nem állt szándékában visszajönni. Nem volt kedvem bevásárolni. Megbántam, hogy részt vettem a kiránduláson. Délután sétálni szoktunk menni. Megbántad, hogy elvetted feleségül? A szüleim nem szoktak uszodába menni. Nem volt kedve meglátogatni minket. Azt tervezik, hogy elköltöznek otthonról. Megígérted, hogy naponta kétszer felhívsz. Nem szoktam éhgyomorra alkoholt inni. Nincs kedvem most házi feladatot írni.
+> 1. 8-kor szoktunk felkelni.
+> 2. Azt tervezi, hogy elutazik a Balatonra.
+> 3. Megígértétek, hogy ebéd előtt hazaérkeztek.
+> 4. Megbánta, hogy velem jött.
+> 5. Nem állt szándékában visszajönni.
+> 6. Nem volt kedvem bevásárolni.
+> 7. Megbántam, hogy részt vettem a kiránduláson.
+> 8. Délután sétálni szoktunk menni.
+> 9. Megbántad, hogy elvetted feleségül?
+> 10. A szüleim nem szoktak uszodába menni.
+> 11. Nem volt kedve meglátogatni minket.
+> 12. Azt tervezik, hogy elköltöznek otthonról.
+> 13. Megígérted, hogy naponta kétszer felhívsz.
+> 14. Nem szoktam éhgyomorra alkoholt inni.
+> 15. Nincs kedvem most házi feladatot írni.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 7 – Zu + Infinitiv vagy sima Infinitiv? Fordítsd le a mondatokat!
-> Arra kérnek, hogy hívjam fel ma. / Az orvos járni tanítja a beteget. / Béla csináltat magának egy cipőt. / Arra kér minket, hogy álljunk fel. / Remélem, hogy tudok segíteni neked. / A barátjával megy vásárolni. / Elmegyünk sétálni a Margitszigetre? / Arra kérjük őket, hogy hozzanak tollat. / Remélem, hogy jövőre újra látom. / Segítesz nekik becsomagolni? / Jöttök holnap úszni? / Látod, hogy jön a buszunk? / Hallom, hogy eszel… / Azt tanácsolom, hogy tanulj. / Hallom, hogy jön a vonat. / Érzem, hogy jön a vihar. / A kocsiban énekelni kezdett. / A kocsi hirtelen megállt.
+> 1. Arra kérnek, hogy hívjam fel ma.
+> 2. Az orvos járni tanítja a beteget.
+> 3. Béla csináltat magának egy cipőt.
+> 4. Arra kér minket, hogy álljunk fel.
+> 5. Remélem, hogy tudok segíteni neked.
+> 6. A barátjával megy vásárolni.
+> 7. Elmegyünk sétálni a Margitszigetre?
+> 8. Arra kérjük őket, hogy hozzanak tollat.
+> 9. Remélem, hogy jövőre újra látom.
+> 10. Segítesz nekik becsomagolni?
+> 11. Jöttök holnap úszni?
+> 12. Látod, hogy jön a buszunk?
+> 13. Hallom, hogy eszel…
+> 14. Azt tanácsolom, hogy tanulj.
+> 15. Hallom, hogy jön a vonat.
+> 16. Érzem, hogy jön a vihar.
+> 17. A kocsiban énekelni kezdett.
+> 18. A kocsi hirtelen megállt.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 ## Gyakorló feladatok
@@ -135,6 +238,7 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 9 – Kösd össze a mondatokat! Melyik 4 mondatból lehet zu + Inf. képezni?

@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
+                "file": "01_Grammatik/Zu + Infinitiv (Grundlagen).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Zu + Infinitiv (Grundlagen)"
+            }
+          },
+          {
+            "id": "a2b9ce430ad6c305",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
             }
           }
         ]
@@ -218,9 +230,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05_Kurs/Hausaufgaben/2026-07-27 Hausaufgaben.md",
+    "05_Kurs/Unterricht/2026-07-27.md",
+    "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Zu + Infinitiv (Grundlagen).md",
     "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
+    "05_Kurs/Unterricht/2026-07-23.md",
+    "05_Kurs/Unterricht/2026-07-20.md",
     "05_Kurs/Hausaufgaben/2026-07-23 Hausaufgaben.md",
+    "MOC.md",
     "05_Kurs/Materialen/Extra/Vorgangspassiv-H.A.pdf",
     "05_Kurs/Materialen/Extra/am-Telefon.pdf",
     "05_Kurs/Materialen/Extra/~$-Telefon.docx",
@@ -230,12 +248,8 @@
     "05_Kurs/Materialen/Extra/~$jektivdeklination.docx",
     "05_Kurs/Materialen/Extra/Nem-lehet-Passivot-kepezni.pdf",
     "05_Kurs/Materialen/Extra/~$m-lehet-Passivot-kepezni.docx",
-    "05_Kurs/Materialen/Extra/Verben-mit-unregelmäßiger-Konjugation-JP.pdf",
     "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
-    "05_Kurs/Unterricht/2026-07-23.md",
     "01_Grammatik/Vorgangspassiv.md",
-    "05_Kurs/Unterricht/2026-07-20.md",
-    "MOC.md",
     "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
     "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Materialen/Stunden/Untitled.md",
@@ -251,8 +265,6 @@
     "_Vorlagen/Unterricht Vorlage.md",
     "01_Grammatik/Partizipien.md",
     "01_Grammatik/Nominalisierte Adjektive.md",
-    "_Vorlagen/Grammatik.md",
-    "04_Lieder/Rammstein - Deutschland.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
