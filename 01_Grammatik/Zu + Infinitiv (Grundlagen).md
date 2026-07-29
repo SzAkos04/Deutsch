@@ -119,10 +119,12 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 %%.%%
 > [!success]- Megoldás
 > 1. Wir werden darum gebeten, die Bücher aus der Bibliothek abzuholen.
-> 2. Der Arzt hat dem Patient verboten, im Park zu spazieren.
+> 2. Der Arzt hat dem Patienten verboten, im Park zu spazieren.
 > 3. Ich habe meinen Freund gebeten, mir ein Kilo Äpfel zu bringen.
 > 4. Er hat mich gebeten, Platz zu nehmen.
-> 5. Wir bitten Sie, Ihnen Platz uns zu überlassen.
+> 5. Wir bitten Sie, uns den Platz zu überlassen.
+> 6. Er hat mir empfohlen, an der Universität zu studieren.
+> 7. Wir wurden darum gebeten, den Tisch zu decken.
 
 %%.%%
 
@@ -152,7 +154,28 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Es ist schwer/schwierig neue Aufgaben zu lösen.
+> 2. Es ist erlaubt, hier zu baden.
+> 3. Es ist langweilig, mit ihm zu sprechen.
+> 4. Es macht mir Spaß, im Sand zu liegen.
+> 5. Ich hoffe, die Noten zu bekommen.
+> 6. Ich versuchte, ruhig/still zu sitzen.
+> 7. Sie hofft, rechtzeitig nach Hause zu kommen.
+> 8. Es ist schwer, mit ihm zu sprechen.
+> 9. Es macht mir Spaß, in unserem Garten zu essen.
+> 10. Es ist eine Kunst, solche Hausaufgaben zu schreiben.
+> 11. Es gelingt uns nicht, die Arbeit zu beenden. **HF**
+> 12. Es ist interessant, hier zu leben.
+> 13. Es ist leicht, diese Aufgabe zu lösen.
+> 14. Ich habe keine Zeit, das Auto zu waschen.
+> 15. Es gelingt ihm immer, die Aufgabe zu lösen.
+> 16. Es gelingt mir nicht, jenes Auto zu überholen.
+> 17. Ich habe keinen Bock, mit dir zu gehen.
+> 18. Er hat erst begonnen, zu arbeiten.
+> 19. Ich versuche, mit ihm zu sprechen.
+> 20. Er hat keinen Bock, mit uns zu kommen.
+> 21. Habt ihr Bock Fußball zu spielen?
+> 22. Er freut sich, wieder zu Hause zu sein.
 
 %%.%%
 
@@ -168,7 +191,14 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Ich glaube, morgen die Prüfung bestehen zu können.
+> 2. Ich habe vor, alles abzuwaschen.
+> 3. Jörg erinnert sich daran, dieses Auto schon mal gesehen zu haben.
+> 4. Der Angeklagte leugnete, das Auto gesehen zu haben. **HF**
+> 5. Sie behauptet, das Geld verloren zu haben.
+> 6. Er hofft, sein Haus noch heute zu verkaufen.
+> 7. Wir freuen uns darüber, jetzt in die Alpen fahren zu können.
+> 8. Er hat vor, auch meine Geschwister zur Party einzuladen.
 
 %%.%%
 
@@ -193,7 +223,21 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wir pflegen, um 8 Uhr aufzustehen.
+> 2. Er habt vor, an den Plattensee zu fahren.
+> 3. Ihr habt versprochen, vor dem Mittagessen zu Hause anzukommen.
+> 4. Er bereute, mit mir gekommen zu sein.
+> 5. Sie hat nicht beabsichtigt, zurückzukommen.
+> 6. Ich hatte keinen Bock, einzukaufen.
+> 7. Ich bereute, am Ausflug teilgenommen zu haben.
+> 8. Wir pflegen nachmittags spazieren zu gehen.
+> 9. Hast du bereut, sie geheiratet zu haben?
+> 10. Meine Eltern pflegen nicht ins Schwimmbad zu gehen.
+> 11. Er hatte keine Lust/keinen Bock, uns zu besuchen.
+> 12. Sie haben vor, von zu Hause wegzuziehen.
+> 13. Du hast mir versprochen, mich zweimal pro Tag anzurufen.
+> 14. Ich pflege keinen Alkohol auf nüchternen Magen zu trinken.
+> 15. Ich habe keine Lust, Hausaufgaben zu schreiben.
 
 %%.%%
 
@@ -219,7 +263,15 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Sie bitten mich, ihn heute anzurufen.
+> 2. Der Arzt lehrt den Kranken gehen.
+> 3. Bela lässt sich ein paar Schuhe machen.
+> 4. Er bittet uns, aufzustehen.
+> 5. Ich hoffe, dir helfen zu können.
+> 6. Er geht mit seinem Freund einkaufen.
+> 7. Geher wir auf der Margareteninsel spazieren.
+> 8. Wir bitten sie, einen Stift mitzubringen.
+> 9. Ich hoffe, sie nächstes Jahr wiederzusehen.
 
 %%.%%
 

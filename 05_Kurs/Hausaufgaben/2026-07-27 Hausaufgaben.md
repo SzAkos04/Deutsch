@@ -14,7 +14,13 @@ tags:
 
 ## Feladatok
 
-- [ ] [[Zu + Infinitiv (Grundlagen)]] 3
+- [x] [[Zu + Infinitiv (Grundlagen)]] 3
+
+- [x] [[Zu + Infinitiv (Grundlagen)]] 4 (Érdekes itt élni…)
+
+- [x] [[Zu + Infinitiv (Grundlagen)]] 5 (*Sie behauptet, dass…*)
+
+- [ ] [[Zu + Infinitiv (Grundlagen)]] 7 (Segítesz nekik becsomagolni...)
 
 - [ ] 
 
@@ -28,7 +34,6 @@ tags:
 > 1. 
 
 %%.%%
-
 - [ ] 
 
 > [!info] Feladat
@@ -41,7 +46,18 @@ tags:
 > 1. 
 
 %%.%%
+- [ ] 
 
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
 - [ ] 
 
 > [!info] Feladat
