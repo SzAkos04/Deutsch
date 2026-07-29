@@ -20,9 +20,9 @@ tags:
 
 - [x] [[Zu + Infinitiv (Grundlagen)]] 5 (*Sie behauptet, dass…*)
 
-- [ ] [[Zu + Infinitiv (Grundlagen)]] 7 (Segítesz nekik becsomagolni...)
+- [x] [[Zu + Infinitiv (Grundlagen)]] 7 (Segítesz nekik becsomagolni...)
 
-- [ ] 
+- [ ] [[]]
 
 > [!info] Feladat
 > ****

@@ -269,9 +269,18 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 > 4. Er bittet uns, aufzustehen.
 > 5. Ich hoffe, dir helfen zu können.
 > 6. Er geht mit seinem Freund einkaufen.
-> 7. Geher wir auf der Margareteninsel spazieren.
+> 7. Gehen wir auf die Margareteninsel spazieren.
 > 8. Wir bitten sie, einen Stift mitzubringen.
-> 9. Ich hoffe, sie nächstes Jahr wiederzusehen.
+> 9. Ich hoffe, sie nächstes Jahr wiederzusehen. **HF**
+> 10. Hilfst du ihnen dabei, einzupacken?
+> 11. Kommt ihr morgen schwimmen?
+> 12. Siehst du, dass unser Bus kommt?
+> 13. Ich höre, dass du isst.
+> 14. Ich empfehle dir, zu lernen.
+> 15. Ich höre, dass der Zug kommt.
+> 16. Ich fühle, dass der Sturm kommt.
+> 17. Er begann im Wagen zu singen.
+> 18. Der Wagen hielt plötzlich an.
 
 %%.%%
 
@@ -289,7 +298,12 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> - Mein Geschäftsfreund hat mich gebeten, nach London zu fahren.
+> - Mein Freund hat es mir erlaubt, mit seinem Wagen zu fahren.
+> - Er hat mich aufgefordert, ihn zu besuchen.
+> - Das Reisebüro hat mir dazu geraten, im Urlaub an die Nordsee zu fahren.
+> - Das Finanzamt hat mich dazu gezwungen so viel Steuern zu zahlen.
+> - Mein Nachbar hat mich dazu aufgefordert, das Radio leiser zu stellen.
 
 %%.%%
 
@@ -314,7 +328,15 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> - 1b … aufstehen zu müssen
+> - 2e eredeti
+> - 3h eredeti
+> - 4a … heute noch zu bringen
+> - 5g … dich endlich wiederzusehen
+> - 6d eredeti
+> - 7f …
+> - 8c …
+
 %%.%%
 
 ---
