@@ -61,11 +61,11 @@ tags:
 
 > [!success]- Megoldás
 > 1. Morgen beginne ich jeden Tag zu laufen.
-> 2. Ich möchte nicht jeden Tag zu kuchen.
+> 2. Ich möchte nicht jeden Tag zu kochen.
 > 3. Ich siehe, dass er kommt.
 > 4. Ich lasse ihn nicht allein gehen.
-> 5. Er kommt, um uns zu besuchen.
-> 6. Ich hoffe, meine Tasche nicht zu verlassen.
+> 5. Er kommt uns besuchen.
+> 6. Ich hoffe, meine Tasche nicht verloren zu haben.
 > 7. Ich habe vor, meine Eltern sonntags zu besuchen.
 > 8. Es ist nicht möglich, immer perfekt zu sein.
 > 9. Er bittet mich, ihm zu helfen.

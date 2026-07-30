@@ -118,7 +118,7 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 
 %%.%%
 > [!success]- Megoldás
-> 1. Wir werden darum gebeten, die Bücher aus der Bibliothek abzuholen.
+> 1. Wir wurden darum gebeten, die Bücher aus der Bibliothek abzuholen.
 > 2. Der Arzt hat dem Patienten verboten, im Park zu spazieren.
 > 3. Ich habe meinen Freund gebeten, mir ein Kilo Äpfel zu bringen.
 > 4. Er hat mich gebeten, Platz zu nehmen.
@@ -171,10 +171,10 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 > 15. Es gelingt ihm immer, die Aufgabe zu lösen.
 > 16. Es gelingt mir nicht, jenes Auto zu überholen.
 > 17. Ich habe keinen Bock, mit dir zu gehen.
-> 18. Er hat erst begonnen, zu arbeiten.
+> 18. Er hat gerade erst begonnen, zu arbeiten.
 > 19. Ich versuche, mit ihm zu sprechen.
 > 20. Er hat keinen Bock, mit uns zu kommen.
-> 21. Habt ihr Bock Fußball zu spielen?
+> 21. Habt ihr keinen Bock, Fußball zu spielen?
 > 22. Er freut sich, wieder zu Hause zu sein.
 
 %%.%%
@@ -280,7 +280,7 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 > 15. Ich höre, dass der Zug kommt.
 > 16. Ich fühle, dass der Sturm kommt.
 > 17. Er begann im Wagen zu singen.
-> 18. Der Wagen hielt plötzlich an.
+> 18. Das Auto blieb plötzlich stehen.
 
 %%.%%
 
