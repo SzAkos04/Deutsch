@@ -69,7 +69,7 @@ tags:
 > 7. Ich habe vor, meine Eltern sonntags zu besuchen.
 > 8. Es ist nicht möglich, immer perfekt zu sein.
 > 9. Er bittet mich, ihm zu helfen.
-> 10. 
+> 10. Er verbietet ihm, jeden Tag Pizza zu essen.
 > 11. Ich höre das Kind im Bett weinen.
 > 12. Lisa beginnt Deutsch zu lernen.
 > 13. Meine Eltern lassen mich nicht in die Disko gehen.
@@ -77,6 +77,20 @@ tags:
 > 15. Maria hat vor, den Führerschein zu machen.
 > 16. Paul möchte besser Guitar spielen.
 > 17. Anna hat vor, am Wochenende zu verreisen.
+> 18. Max versucht, seine Aufgaben zu erledigen. 
+> 19. Ich kann mir gut vorstellen, ein Handwerk zu erlernen.
+> 20. Ich kann mich nicht daran gewöhnen , früh ins Bett zu gehen.
+> 21. Für mich ist es schwierig, Deutsch zu lernen.
+> 22. Ich spüre, dass es regnen wird.
+> 23. Ich hoffe, den Zug zu erreichen. 
+> 24. Ich bitte Sie, mir zu helfen. 
+> 25. Er hat plötzlich angefangen, D. zu sprechen. 
+> 26. Es gelingt mir nicht, das zu lernen.   Ich schaffe es nicht
+> 27. Kommst du mit uns spielen?
+> 28. Darf ich Sie bitten, meinen Brief hereinzubringen.
+> 29. Er möchte von zu Hause wegziehen.
+> 30. Er ist sehr glücklich, dort zu wohnen.
+> 31. Er möchte ein Haus bauen.
 
 %%.%%
 ## Megjegyzések
