@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Kurs/Német haladó félintenzív.md",
+                "file": "05_Kurs/Unterricht/2026-08-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Német haladó félintenzív"
+              "title": "2026-08-03"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Kurs/Német haladó félintenzív.md",
+                "file": "05_Kurs/Unterricht/2026-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Német haladó félintenzív"
+              "title": "Backlinks for 2026-08-03"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Kurs/Német haladó félintenzív.md",
+                "file": "05_Kurs/Unterricht/2026-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Német haladó félintenzív"
+              "title": "Outgoing links from 2026-08-03"
             }
           },
           {
@@ -228,15 +228,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "49a5f8c85340df93",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Materialen/Stunden/20260730/GMT20260730-160344_Recording_1686x768.mp4",
     "05_Kurs/Materialen/Stunden/20260730/GMT20260730-160344_Recording.mp4",
     "05_Kurs/Materialen/Stunden/20260730/GMT20260730-160344_Recording.cc.vtt",
     "05_Kurs/Materialen/Stunden/20260803",
     "05_Kurs/Materialen/Stunden/20260730",
     "05_Kurs/Materialen/Stunden/Untitled.md",
-    "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Unterricht/2026-08-03.md",
     "04_Lieder/Rammstein - Deutschland.md",
     "03_Vokabeln/Verben/weinen.md",
@@ -261,7 +261,6 @@
     "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
     "05_Kurs/Hausaufgaben/2026-07-23 Hausaufgaben.md",
     "05_Kurs/Materialen/Extra/Vorgangspassiv-H.A.pdf",
-    "05_Kurs/Materialen/Extra/am-Telefon.pdf",
     "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
     "01_Grammatik/Vorgangspassiv.md",
     "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
