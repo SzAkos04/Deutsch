@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "05_Kurs/Unterricht/2026-08-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-03"
             }
           },
           {
@@ -104,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "05_Kurs/Unterricht/2026-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks for 2026-08-03"
             }
           },
           {
@@ -123,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Eingang/Regelmäßige Verben (Schwache Verben).md",
+                "file": "05_Kurs/Unterricht/2026-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Regelmäßige Verben (Schwache Verben)"
+              "title": "Outgoing links from 2026-08-03"
             }
           },
           {
@@ -181,12 +186,12 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -225,9 +230,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04_Lieder/Rammstein - Deutschland.md",
+    "03_Vokabeln/Verben/weinen.md",
+    "04_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
+    "05_Kurs/Német haladó félintenzív.md",
+    "01_Grammatik/Grammatik MOC.md",
+    "_Vorlagen/Grammatik Vorlage.md",
+    "_Vorlagen/Kurs Vorlage.md",
+    "05_Kurs/Unterricht/2026-07-16.md",
     "05_Kurs/Unterricht/2026-08-03.md",
     "05_Kurs/Hausaufgaben/2026-08-03 Hausaufgaben.md",
-    "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Unterricht/2026-07-30.md",
     "05_Kurs/Unterricht/2026-07-27.md",
     "05_Kurs/Unterricht/2026-07-20.md",
@@ -253,14 +265,7 @@
     "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
     "05_Kurs/Materialen/Stunden/Untitled.md",
     "01_Grammatik/Konjunktionen (Wortstellung).md",
-    "01_Grammatik/Grammatik MOC.md",
     "01_Grammatik/Plusquamperfekt.md",
-    "01_Grammatik/Konjunktiv II.md",
-    "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
-    "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
-    "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
-    "01_Grammatik/Verbtabellen.md",
-    "05_Kurs/Unterricht/2026-07-16.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
