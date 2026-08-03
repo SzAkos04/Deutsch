@@ -34,7 +34,8 @@
               "title": "Menschen B1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Grammatik/Adjektivdeklination.md",
+                "file": "05_Kurs/Materialen/Menschen B1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Adjektivdeklination"
+              "title": "Backlinks for Menschen B1"
             }
           },
           {
@@ -128,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Grammatik/Adjektivdeklination.md",
+                "file": "05_Kurs/Materialen/Menschen B1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Adjektivdeklination"
+              "title": "Outgoing links from Menschen B1"
             }
           },
           {
@@ -228,8 +229,9 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2094fdc7960a1270",
   "lastOpenFiles": [
+    "01_Grammatik/Adjektivdeklination.md",
     "05_Kurs/Unterricht/2026-08-03.md",
     "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Materialen/Stunden/20260730/GMT20260730-160344_Recording_1686x768.mp4",
