@@ -11,15 +11,22 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2094fdc7960a1270",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "MOC"
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
             }
           }
         ]
@@ -218,18 +225,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05_Kurs/Unterricht/2026-08-03.md",
+    "05_Kurs/Hausaufgaben/2026-08-03 Hausaufgaben.md",
+    "05_Kurs/Német haladó félintenzív.md",
+    "05_Kurs/Unterricht/2026-07-30.md",
+    "05_Kurs/Unterricht/2026-07-27.md",
+    "05_Kurs/Unterricht/2026-07-20.md",
+    "05_Kurs/Unterricht/2026-07-23.md",
+    "05_Kurs/Hausaufgaben/2026-07-30 Hausaufgaben.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Hausaufgaben/2026-07-27 Hausaufgaben.md",
+    "MOC.md",
     "01_Grammatik/Zu + Infinitiv (Grundlagen).md",
     "05_Kurs/Materialen/Extra/Zu-Infinitiv.pdf",
     "05_Kurs/Materialen/Extra/~$-Infinitiv.docx",
     "05_Kurs/Materialen/Extra/Zu-Infinitiv.docx",
-    "05_Kurs/Unterricht/2026-07-27.md",
     "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
-    "05_Kurs/Unterricht/2026-07-23.md",
-    "05_Kurs/Unterricht/2026-07-20.md",
     "05_Kurs/Hausaufgaben/2026-07-23 Hausaufgaben.md",
-    "MOC.md",
     "05_Kurs/Materialen/Extra/Vorgangspassiv-H.A.pdf",
     "05_Kurs/Materialen/Extra/am-Telefon.pdf",
     "05_Kurs/Materialen/Extra/~$-Telefon.docx",
@@ -239,7 +251,6 @@
     "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
     "01_Grammatik/Vorgangspassiv.md",
     "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
-    "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Materialen/Stunden/Untitled.md",
     "01_Grammatik/Konjunktionen (Wortstellung).md",
     "01_Grammatik/Grammatik MOC.md",
@@ -250,9 +261,6 @@
     "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
     "01_Grammatik/Verbtabellen.md",
     "05_Kurs/Unterricht/2026-07-16.md",
-    "_Vorlagen/Unterricht Vorlage.md",
-    "01_Grammatik/Partizipien.md",
-    "01_Grammatik/Nominalisierte Adjektive.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
