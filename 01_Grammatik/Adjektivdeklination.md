@@ -146,18 +146,38 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 
 %%.%%
 > [!success]- Megoldás
-> 1. den rocken Mann
-> 2. das Kind des guten Vater
-> 3. jenem schlanken Mann
+> 1. den dicken Mann
+> 2. das Kind des guten Vaters
+> 3. jenen schlanken Männern
 > 4. diesen neuen Schrank
-> 5. den ruhen stillen Hund
+> 5. den ruhigen, stillen Hund
 > 6. das Ende der interessanten Geschichte
-> 7. 
+> 7. jene gute Musik
+> 8. das heiße Wasser
+> 9. alle interessanten Menschen
+> 10. den blaue Kuli
+> 11. allen Kindern
+> 12. das Rad dieses roten Fahrrads
+> 13. jener jungen Frau
+> 14. jedem starken Mann
 
 %%.%%
 
 > [!question]- Feladat 4 (Gyenge ragozás) – Fordítsd le prepozícióval!
-> a kedves embereknél / az idős nagymamához / ehhez a szép nőhöz / az ideges kutya mellett / a kék lámpába / a magas asztalra / minden izgalmas óra után / minden szép üzletben / a két szép könyv közé / azzal az ideges, érdekes szomszéddal / a fiatal tanártól / a szép új vázába / a kellemes ebédhez / ezért az érdekes ötletért
+> 1. a kedves embereknél
+> 2. az idős nagymamához
+> 3. ehhez a szép nőhöz
+> 4. az ideges kutya mellett
+> 5. a kék lámpába
+> 6. a magas asztalra
+> 7. minden izgalmas óra után
+> 8. minden szép üzletben
+> 9. a két szép könyv közé
+> 10. azzal az ideges, érdekes szomszéddal
+> 11. a fiatal tanártól
+> 12. a szép új vázába
+> 13. a kellemes ebédhez
+> 14. ezért az érdekes ötletért
 
 %%.%%
 > [!success]- Megoldás
