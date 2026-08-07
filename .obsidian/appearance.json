@@ -1,8 +1,9 @@
 {
   "cssTheme": "Cupertino",
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "system",
   "enabledCssSnippets": [
     "quizlet-callout"
-  ]
+  ],
+  "translucency": true
 }

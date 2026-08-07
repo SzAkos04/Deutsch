@@ -59,15 +59,43 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 ## Feladatok
 
 > [!question]- Feladat 1 (Erős ragozás) – Fordítsd le!
-> jó ember / drága ruha / néhány kis tollat / kevés zöld nyulat / olcsó nadrágot / jó reggelt / néhány könyv / három érdekes napot / magas, nagy házak ablakai / sok kövér nő / kedves Kati / öreg ház / több gyereknek / magas szülők alacsony gyerekei
+> 1. jó ember
+> 2. néhány kis tollat
+> 3. olcsó nadrágot
+> 4. néhány könyv
+> 5. magas, nagy házak ablakai
+> 6. kedves Kati
+> 7. több gyereknek
+> 8. drága ruha **HF**
+> 9. kevés zöld nyulat
+> 10. jó reggelt
+> 11. három érdekes napot
+> 12. sok kövér nő
+> 13. öreg ház
+> 14. magas szülők alacsony gyerekei
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. guter Mann
+> 2. einige kleine Kulis
+> 3. billige Hose
+> 4. einige Bücher
+> 5. die Fenster von hohen, großen Häusern
+> 6. liebe Kati
+> 7. mehreren Kinder
+> 8. teuere Kleidung
+> 9. weniges, grünes Kaninchen
+> 10. guten Morgen
+> 11. drei interessanten Tag
+> 12. viele dicke Frauen
+> 13. altes Haus
+> 14. kleine Kinder von großen Eltern
+
 %%.%%
 
 > [!question]- Feladat 2 (Erős ragozás) – Fordítsd le prepozícióval!
-> világos szobában / drága kocsiból / alacsony falra / fiatal, ideges emberek fejében / jó barátoknál / beteg emberektől / boldog nagymamához / kövér kutya mellett / sok férfihoz / zöld fától / magas emberek fejére / fekete macska előtt / gyors kocsi elé / néhány embertől
+> 1. világos szobában
+> 2. drága kocsiból / alacsony falra / fiatal, ideges emberek fejében / jó barátoknál / beteg emberektől / boldog nagymamához / kövér kutya mellett / sok férfihoz / zöld fától / magas emberek fejére / fekete macska előtt / gyors kocsi elé / néhány embertől
 
 %%.%%
 > [!success]- Megoldás
