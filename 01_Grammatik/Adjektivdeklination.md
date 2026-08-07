@@ -95,19 +95,65 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 
 > [!question]- Feladat 2 (Erős ragozás) – Fordítsd le prepozícióval!
 > 1. világos szobában
-> 2. drága kocsiból / alacsony falra / fiatal, ideges emberek fejében / jó barátoknál / beteg emberektől / boldog nagymamához / kövér kutya mellett / sok férfihoz / zöld fától / magas emberek fejére / fekete macska előtt / gyors kocsi elé / néhány embertől
+> 2. alacsony falra
+> 3. jó barátoknál
+> 4. boldog nagymamához
+> 5. sok férfihoz
+> 6. magas emberek fejére
+> 7. gyors kocsi elé
+> 8. drága kocsiból **HF**
+> 9. fiatal, ideges emberek fejében
+> 10. beteg emberektől
+> 11. kövér kutya mellett
+> 12. zöld fától
+> 13. fekete macska előtt
+> 14. néhány embertől
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. in hellem Zimmer
+> 2. auf niedrige Wand
+> 3. bei guten Freunden
+> 4. zu glücklicher Großmutti
+> 5. zu vielen Männern
+> 6. auf den Kopf von großen Menschen
+> 7. vor schnellem Wagen
+> 8. aus teurem Wagen
+> 9. im Kopf von jungen, nervösen Menschen
+> 10. von kranken Menschen
+> 11. neben dickem Hund
+> 12. von grünem Baum
+> 13. vor schwarzer Katze
+> 14. von einigen Menschen
+
 %%.%%
 
 > [!question]- Feladat 3 (Gyenge ragozás) – Forditsd le!
-> a kövér férfit / a jó apa gyereke / azoknak a sovány férfiaknak / ezt az új szekrényt / a nyugodt csöndes kutyát / az érdekes történet vége / azt a jó zenét / a forró vizet / minden érdekes embert / a kék tollat / minden gyereknek / ennek a piros kerékpárnak a kereke / annak a fiatal asszonynak / minden erős férfinek
+> 1. a kövér férfit
+> 2. a jó apa gyereke
+> 3. azoknak a sovány férfiaknak
+> 4. ezt az új szekrényt
+> 5. a nyugodt csöndes kutyát
+> 6. az érdekes történet vége
+> 7. azt a jó zenét
+> 8. a forró vizet **HF**
+> 9. minden érdekes embert
+> 10. a kék tollat
+> 11. minden gyereknek
+> 12. ennek a piros kerékpárnak a kereke
+> 13. annak a fiatal asszonynak
+> 14. minden erős férfinek
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. den rocken Mann
+> 2. das Kind des guten Vater
+> 3. jenem schlanken Mann
+> 4. diesen neuen Schrank
+> 5. den ruhen stillen Hund
+> 6. das Ende der interessanten Geschichte
+> 7. 
+
 %%.%%
 
 > [!question]- Feladat 4 (Gyenge ragozás) – Fordítsd le prepozícióval!
