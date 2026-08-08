@@ -271,8 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,7 +286,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e512c9f8f807312e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "01_Grammatik/Adjektivdeklination.md",

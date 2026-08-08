@@ -326,7 +326,8 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 10. **Der besorgte** Ehemann hat **hinter der abgeschlossenen Tür** **im warmen Zimmer** gegessen.
 > 11. Er hat **schlechte** Nachrichten erwartet.
 > 12. Er kommt **mit seinem kranken Bein** nicht mit ins Kino.
-> 13. Heute bekommen **der ausgezeichneten** Schu
+> 13. Heute bekommen **der ausgezeichneten** Schüler **eine große** Belohnung.
+> 14. 
 
 %%.%%
 
