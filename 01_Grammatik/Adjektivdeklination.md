@@ -171,7 +171,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 5. a kék lámpába
 > 6. a magas asztalra
 > 7. minden izgalmas óra után
-> 8. minden szép üzletben
+> 8. minden szép üzletben **HF**
 > 9. a két szép könyv közé
 > 10. azzal az ideges, érdekes szomszéddal
 > 11. a fiatal tanártól
@@ -181,15 +181,49 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. bei den lieben Menschen
+> 2. zu der alten Großmutter
+> 3. zu dieser schönen Frau
+> 4. neben dem nervösen Hund
+> 5. in die blaue Lampe
+> 6. auf den hohen Tisch
+> 7. nach jeder interessanten Stunde
+> 8. in jedem schönen Geschäft
+> 9. zwischen die zwei schönen Bücher
+> 10. mit jenem nervösen, interessanten Nachbar
+> 11. vom jungen Lehrer
+> 12. in die schöne, neue Vase
+> 13. für das bequeme Mittagessen
+> 14. für diese interessante Idee
+
 %%.%%
 
 > [!question]- Feladat 5 (Vegyes ragozás) – Fordítsd le!
-> egy kövér férfit / a nagy asztalunkat / egy sovány nőnek / egy beteg macska / egy udvarias eladó / a drága könyve / a széles, hosszú utcátok / a szigorú tanárotok / egy drága lámpát / az új kocsimat / egy szép hónapot / egy szorgalmas tanulónak / kedves, kis gyerekünknek / egy új nadrágot se
+> 1. egy kövér férfit
+> 2. a nagy asztalunkat
+> 3. egy sovány nőnek
+> 4. egy beteg macska
+> 5. egy udvarias eladó
+> 6. a drága könyve
+> 7. a széles, hosszú utcátok
+> 8. a szigorú tanárotok **HF**
+> 9. egy drága lámpát
+> 10. az új kocsimat
+> 11. egy szép hónapot
+> 12. egy szorgalmas tanulónak
+> 13. kedves, kis gyerekünknek
+> 14. egy új nadrágot se
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. einen dicken Mann
+> 2. unseren großen Tisch
+> 3. einer schlanken Frau
+> 4. eine kranke Katze
+> 5. ein höflicher Verkäufer
+> 6. sein teures Buch
+> 7. euer 
+
 %%.%%
 
 > [!question]- Feladat 6 (Vegyes ragozás) – Fordítsd le prepozícióval!
@@ -198,6 +232,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 7 – Fordítsd le mindhárom melléknévragozást használva!
@@ -206,6 +241,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 ---
