@@ -222,25 +222,111 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 4. eine kranke Katze
 > 5. ein höflicher Verkäufer
 > 6. sein teures Buch
-> 7. euer 
+> 7. eure weite, lange Straße
+> 8. euer strenger Lehrer
+> 9. eine teure Lampe
+> 10. meinen neuen Wagen
+> 11. einen schönen Monat
+> 12. einem fleißigen Schüler
+> 13. unserem lieben, kleinen Kind
+> 14. eine neue Hose ???
 
 %%.%%
 
 > [!question]- Feladat 6 (Vegyes ragozás) – Fordítsd le prepozícióval!
-> egy új házba / egy zöld parkhoz / idős barátjánál / egy kövér nővel / egy rossz lámpa mellett / egy sovány, magas macskánál / egy izgalmas film után / a széles utcánkban / egy érdekes barátnál / egy kék és egy zöld kocsi között / egy magas asztal elé / egy kövér kutyához / egy gyors, piros autóval / egy hosszú éjszaka előtt
+> 1. egy új házba
+> 2. egy zöld parkhoz
+> 3. idős barátjánál
+> 4. egy kövér nővel
+> 5. egy rossz lámpa mellett
+> 6. egy sovány, magas macskánál
+> 7. egy izgalmas film után
+> 8. a széles utcánkban **HF**
+> 9. egy érdekes barátnál
+> 10. egy kék és egy zöld kocsi között
+> 11. egy magas asztal elé
+> 12. egy kövér kutyához
+> 13. egy gyors, piros autóval
+> 14. egy hosszú éjszaka előtt
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. in ein neues Haus
+> 2. zu einem grünen Park
+> 3. bei seinem alten Freund
+> 4. mit einer dicken Frau
+> 5. neben einer schlechten Lampe
+> 6. bei einer schlanken, großen Katze
+> 7. nach einem interessanten Film
+> 8. in unserer weiten Straße
+> 9. bei einem interessanten Freund
+> 10. zwischen einem blauen und einem grünen Wagen
+> 11. vor einen hohen Tisch
+> 12. zu einem dicken Hund
+> 13. mit einem schnellen, roten Auto
+> 14. vor einer langen Nacht
 
 %%.%%
 
 > [!question]- Feladat 7 – Fordítsd le mindhárom melléknévragozást használva!
-> ……………………………… (türelmetlen) Menschen warten nicht gern. Wir sind mit ……………………………… (a kész házunkkal) zufrieden. Am Eingang hat uns……………………………… (egy barátságos) Pförtner begrüßt. Ich esse auch ……………………………… (hideg) Speisen und ……………………………… (friss) Salate sehr gern. ……………………………… (az idős) Menschen hören nicht gern ……………………………… (hangos) Musik. ……………………………… (kövér) Frauen möchten immer abnehmen. ……………………………… (a régi barátnőm) macht gerade ……………………………… (egy sikeres) Schlankheitskur. ……………………………… (a hosszú szoknyája) ist nicht mehr modern. ……………………………… (ebben a borzasztó éjszakában) hat ……………………………… (egy erős) Wind geweht. ……………………………… (az aggódó) Ehemann hat ……………………………… (a zárt ajtó mögött) ……………………………… (a meleg szobában) gesessen. Er hat ……………………………… (rossz) Nachrichten erwartet. Er kommt ……………………………… (a beteg lábával) nicht mit ins Kino. Heute bekommen ……………………………… (a kiváló) Schüler ……………………………… (egy nagy) Belohnung. Herr Schult möchte ……………………………… (egy hideg) Bier trinken, aber ……………………………… (a kedves felesége) bringt ihm immer ……………………………… (meleg) Bier. ……………………………… (sok fiatal) Mädchen möchten ……………………………… (szőke) Haar haben. ……………………………… (az elmúlt év tavaszán) haben wir ……………………………… (sok érdekes) Museen besucht. ……………………………… (a szép) Bilder haben ……………………………… (fehér) Wänden gehangen. Ich habe Peter ……………………………… (egy másik színház előtt) gesehen. ……………………………… (a kellemes) Abend ist viel zu schnell vergangen. ……………………………… (az elmúlt héten) habe ich nicht gearbeitet. Was erwartest du ……………………………… (ettől a szigorú tanárnőtől)? ……………………………… (sok fiatal és idős) Leute möchten ……………………………… (egy szép nyugodt) Stadt leben. Das ist ……………………………… (egy jó) Idee. Wir wohnen ……………………………… (egy nagy családi házban). Jürgen repariert ……………………………… (az új biciklijét). Gertrude schreibt immer ……………………………… (hosszú) Briefe ……………………………… (a kedves) Verwandten. Ich kenne ……………………………… (az új kollégánkat) noch nicht. Sind ……………………………… (a német) Gäste schon angekommen? Fährt er immer ……………………………… (a sógora gyors kocsijával)? Hier ist ……………………………… (egy kis) Geschenk ……………………………… (a kedves húgom számára). Gefällt euch ……………………………… (a szép nagy otthonotok)? ……………………………… (szabad napokon) machen wir oft ……………………………… (az egész családunkkal) ……………………………… (hosszú) Ausflüge ……………………………… (a magas hegyekbe). Mir gefällt ……………………………… (a barátságos lakásuk). ……………………………… (néhány régi füzet) habe ich noch ……………………………… (a barna táskámban). ……………………………… (az angol család nagy házában) wohnen vier ………………………………(német) Familien und ……………………………… (egy magyar) Frau. Dort geht Hans ……………………………… (a második feleségével) spazieren. Der Wagen gehört ……………………………… (a fiatal) Kollegen. Ich habe ……………………………… (a kedves leveledet) erst gestern bekommen. Ist ………………………………(a német barátnőtök) schon einmal ……………………………… (a szép Balatonnál) gewesen? Hast du ……………………………… (a kedves barátainkat) schon angerufen? Petra zeigt uns ……………………………… (az új könyveit). Wohin hast du ……………………………… (a fekete pulóveremet) gelegt?
+> 1. ……………………………… (türelmetlen) Menschen warten nicht gern.
+> 2. Wir sind mit ……………………………… (a kész házunkkal) zufrieden.
+> 3. Am Eingang hat uns……………………………… (egy barátságos) Pförtner begrüßt.
+> 4. Ich esse auch ……………………………… (hideg) Speisen und ……………………………… (friss) Salate sehr gern.
+> 5. ……………………………… (az idős) Menschen hören nicht gern ……………………………… (hangos) Musik.
+> 6. ……………………………… (kövér) Frauen möchten immer abnehmen.
+> 7. ……………………………… (a régi barátnőm) macht gerade ……………………………… (egy sikeres) Schlankheitskur.
+> 8. ……………………………… (a hosszú szoknyája) ist nicht mehr modern.
+> 9. ……………………………… (ebben a borzasztó éjszakában) hat ……………………………… (egy erős) Wind geweht.
+> 10. ……………………………… (az aggódó) Ehemann hat ……………………………… (a zárt ajtó mögött) ……………………………… (a meleg szobában) gesessen.
+> 11. Er hat ……………………………… (rossz) Nachrichten erwartet.
+> 12. Er kommt ……………………………… (a beteg lábával) nicht mit ins Kino.
+> 13. Heute bekommen ……………………………… (a kiváló) Schüler ……………………………… (egy nagy) Belohnung.
+> 14. Herr Schult möchte ……………………………… (egy hideg) Bier trinken, aber ……………………………… (a kedves felesége) bringt ihm immer ……………………………… (meleg) Bier.
+> 15. ……………………………… (sok fiatal) Mädchen möchten ……………………………… (szőke) Haar haben.
+> 16. ……………………………… (az elmúlt év tavaszán) haben wir ……………………………… (sok érdekes) Museen besucht.
+> 17. ……………………………… (a szép) Bilder haben ……………………………… (fehér) Wänden gehangen.
+> 18. Ich habe Peter ……………………………… (egy másik színház előtt) gesehen.
+> 19. ……………………………… (a kellemes) Abend ist viel zu schnell vergangen.
+> 20. ……………………………… (az elmúlt héten) habe ich nicht gearbeitet.
+> 21. Was erwartest du ……………………………… (ettől a szigorú tanárnőtől)? **HF**
+> 22. ……………………………… (sok fiatal és idős) Leute möchten ……………………………… (egy szép nyugodt) Stadt leben.
+> 23. Das ist ……………………………… (egy jó) Idee.
+> 24. Wir wohnen ……………………………… (egy nagy családi házban).
+> 25. Jürgen repariert ……………………………… (az új biciklijét).
+> 26. Gertrude schreibt immer ……………………………… (hosszú) Briefe ……………………………… (a kedves) Verwandten.
+> 27. Ich kenne ……………………………… (az új kollégánkat) noch nicht.
+> 28. Sind ……………………………… (a német) Gäste schon angekommen?
+> 29. Fährt er immer ……………………………… (a sógora gyors kocsijával)?
+> 30. Hier ist ……………………………… (egy kis) Geschenk ……………………………… (a kedves húgom számára).
+> 31. Gefällt euch ……………………………… (a szép nagy otthonotok)?
+> 32. ……………………………… (szabad napokon) machen wir oft ……………………………… (az egész családunkkal) ……………………………… (hosszú) Ausflüge ……………………………… (a magas hegyekbe).
+> 33. Mir gefällt ……………………………… (a barátságos lakásuk).
+> 34. ……………………………… (néhány régi füzet) habe ich noch ……………………………… (a barna táskámban).
+> 35. ……………………………… (az angol család nagy házában) wohnen vier ………………………………(német) Familien und ……………………………… (egy magyar) Frau.
+> 36. Dort geht Hans ……………………………… (a második feleségével) spazieren.
+> 37. Der Wagen gehört ……………………………… (a fiatal) Kollegen.
+> 38. Ich habe ……………………………… (a kedves leveledet) erst gestern bekommen.
+> 39. Ist ………………………………(a német barátnőtök) schon einmal ……………………………… (a szép Balatonnál) gewesen?
+> 40. Hast du ……………………………… (a kedves barátainkat) schon angerufen?
+> 41. Petra zeigt uns ……………………………… (az új könyveit).
+> 42. Wohin hast du ……………………………… (a fekete pulóveremet) gelegt?
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. **Ungeduldige** Menschen warten nicht gern.
+> 2. Wir sind mit **unserem fertigen Haus** zufrieden.
+> 3. Am Eingang hat uns **ein freundlicher** Pförtner begrüßt.
+> 4. Ich esse auch **kalte** Speisen und **frische** Salate sehr gern.
+> 5. **Die alte** Menschen hören nicht gern **laute** Musik.
+> 6. **Dicke** Frauen möchten immer abnehmen.
+> 7. Meine alte Freundin macht gerade **eine erfolgreiche** Schlankheitskur.
+> 8. **Ihr langer Rock** ist nicht mehr modern.
+> 9. **In diese schreckliche Nicht** hat **ein starker** Wind geweht.
+> 10. **Der besorgte** Ehemann hat **hinter der abgeschlossenen Tür** **im warmen Zimmer** gegessen.
+> 11. Er hat **schlechte** Nachrichten erwartet.
+> 12. Er kommt **mit seinem kranken Bein** nicht mit ins Kino.
+> 13. Heute bekommen **der ausgezeichneten** Schu
 
 %%.%%
 
