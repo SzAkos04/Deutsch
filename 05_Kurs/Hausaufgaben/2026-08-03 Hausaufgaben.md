@@ -16,7 +16,7 @@ tags:
 
 - [ ] **Szavak:** Lektion 9
 
-- [ ] [[Adjektivdeklination]] 1-7
+- [x] [[Adjektivdeklination]] 1-7
 
 ## Megjegyzések
 
