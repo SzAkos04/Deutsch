@@ -318,16 +318,31 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 2. Wir sind mit **unserem fertigen Haus** zufrieden.
 > 3. Am Eingang hat uns **ein freundlicher** Pförtner begrüßt.
 > 4. Ich esse auch **kalte** Speisen und **frische** Salate sehr gern.
-> 5. **Die alte** Menschen hören nicht gern **laute** Musik.
+> 5. **Die alten** Menschen hören nicht gern **laute** Musik.
 > 6. **Dicke** Frauen möchten immer abnehmen.
 > 7. Meine alte Freundin macht gerade **eine erfolgreiche** Schlankheitskur.
 > 8. **Ihr langer Rock** ist nicht mehr modern.
-> 9. **In diese schreckliche Nicht** hat **ein starker** Wind geweht.
+> 9. **In dieser schrecklichen Nacht** hat **ein starker** Wind geweht.
 > 10. **Der besorgte** Ehemann hat **hinter der abgeschlossenen Tür** **im warmen Zimmer** gegessen.
 > 11. Er hat **schlechte** Nachrichten erwartet.
 > 12. Er kommt **mit seinem kranken Bein** nicht mit ins Kino.
-> 13. Heute bekommen **der ausgezeichneten** Schüler **eine große** Belohnung.
-> 14. 
+> 13. Heute bekommen **die ausgezeichneten** Schüler **eine große** Belohnung.
+> 14. Herr Schult möchte **ein kaltes** Bier trinken, aber **seine liebe Frau** bringt ihm immer **warmes** Bier.
+> 15. **Viele junge** Mädchen möchten **blondes** Haar haben.
+> 16. **Im Frühling des letzten Jahres** haben wir **viele interessante** Museen besucht.
+> 17. **Die schönen** Bilder haben **weißen** Wänden gehangen.
+> 18. Ich habe Peter **vor einem anderen Theater** gesehen.
+> 19. **Der gemütliche** Abend ist viel zu schnell vergangen.
+> 20. **Letzte Woche** habe ich nicht gearbeitet.
+> 21. Was erwartest du **von dieser strengen Lehrerin**?
+> 22. **Viele junge und alte** Leute möchten **in einer schönen, ruhigen** Stadt leben.
+> 23. Das ist **eine gute** Idee.
+> 24. Wir wohnen **in einem großen Familienhaus**.
+> 25. Jürgen repariert **sein neues Fahrrad**.
+> 26. Gertrude schreibt immer **lange** Briefe **den lieben** Verwandten.
+> 27. Ich kenne **unser neuer Kollege** noch nicht.
+> 28. Sind **die deutschen** Gäste schon angekommen?
+> 29. Fährt er immer **mit sein 
 
 %%.%%
 
