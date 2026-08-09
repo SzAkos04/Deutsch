@@ -330,7 +330,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 14. Herr Schult möchte **ein kaltes** Bier trinken, aber **seine liebe Frau** bringt ihm immer **warmes** Bier.
 > 15. **Viele junge** Mädchen möchten **blondes** Haar haben.
 > 16. **Im Frühling des letzten Jahres** haben wir **viele interessante** Museen besucht.
-> 17. **Die schönen** Bilder haben **weißen** Wänden gehangen.
+> 17. **Die schönen** Bilder haben **an weißen** Wänden gehangen.
 > 18. Ich habe Peter **vor einem anderen Theater** gesehen.
 > 19. **Der gemütliche** Abend ist viel zu schnell vergangen.
 > 20. **Letzte Woche** habe ich nicht gearbeitet.
@@ -340,9 +340,22 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 24. Wir wohnen **in einem großen Familienhaus**.
 > 25. Jürgen repariert **sein neues Fahrrad**.
 > 26. Gertrude schreibt immer **lange** Briefe **den lieben** Verwandten.
-> 27. Ich kenne **unser neuer Kollege** noch nicht.
+> 27. Ich kenne **unseren neuen Kollegen** noch nicht.
 > 28. Sind **die deutschen** Gäste schon angekommen?
-> 29. Fährt er immer **mit sein 
+> 29. Fährt er immer **mit dem schnellen Wagen seines Schwagers**?
+> 30. Hier ist **ein kleines** Geschenk **für meine liebe Schwester**.
+> 31. Gefällt euch **euer schönes, großes Heim**?
+> 32. **An freien Tagen** machen wir oft **mit unserer ganzen Familie** **lange** Ausflüge **in die hohen Berge**.
+> 33. Mir gefällt **ihre freundliche Wohnung**.
+> 34. **Einige alte Hefte** habe ich noch **in meiner braunen Tasche**.
+> 35. **Im großen Haus der englischen Familie** wohnen vier **deutsche** Familien und **eine ungarische** Frau.
+> 36. Dort geht Hans **mit seiner zweiten Frau** spazieren.
+> 37. Der Wagen gehört **den jungen** Kollegen.
+> 38. Ich habe **deinen lieben Brief** erst gestern bekommen.
+> 39. Ist **eure deutsche Freundin** schon einmal **am schönen Plattensee** gewesen?
+> 40. Hast du **unsere lieben Freunde** schon angerufen?
+> 41. Petra zeigt uns **ihre neuen Bücher**.
+> 42. Wohin hast du **meinen schwarzen Pullover** gelegt?
 
 %%.%%
 
