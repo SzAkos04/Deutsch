@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "01_Grammatik/Konjunktiv II.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Konjunktiv II"
+            }
+          },
+          {
+            "id": "0e8f9d916f5cbaaa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +234,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -262,11 +275,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0e8f9d916f5cbaaa",
   "lastOpenFiles": [
+    "01_Grammatik/Konjunktiv II.md",
+    "01_Grammatik/Grammatik MOC.md",
+    "MOC.md",
     "05_Kurs/Hausaufgaben/2026-08-03 Hausaufgaben.md",
     "01_Grammatik/Adjektivdeklination.md",
-    "MOC.md",
     "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "05_Kurs/Unterricht/2026-08-03.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
@@ -280,7 +295,6 @@
     "04_Lieder/Rammstein - Deutschland.md",
     "03_Vokabeln/Verben/weinen.md",
     "04_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
-    "01_Grammatik/Grammatik MOC.md",
     "_Vorlagen/Grammatik Vorlage.md",
     "_Vorlagen/Kurs Vorlage.md",
     "05_Kurs/Unterricht/2026-07-16.md",
