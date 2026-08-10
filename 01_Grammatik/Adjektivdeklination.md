@@ -83,10 +83,10 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 5. die Fenster von hohen, großen Häusern
 > 6. liebe Kati
 > 7. mehreren Kinder
-> 8. teuere Kleidung
-> 9. weniges, grünes Kaninchen
+> 8. teure Kleidung
+> 9. wenige, grüne Kaninchen
 > 10. guten Morgen
-> 11. drei interessanten Tag
+> 11. drei interessante Tage
 > 12. viele dicke Frauen
 > 13. altes Haus
 > 14. kleine Kinder von großen Eltern
@@ -119,7 +119,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 6. auf den Kopf von großen Menschen
 > 7. vor schnellem Wagen
 > 8. aus teurem Wagen
-> 9. im Kopf von jungen, nervösen Menschen
+> 9. in Köpfen von jungen, nervösen Menschen
 > 10. von kranken Menschen
 > 11. neben dickem Hund
 > 12. von grünem Baum
@@ -155,7 +155,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 7. jene gute Musik
 > 8. das heiße Wasser
 > 9. alle interessanten Menschen
-> 10. den blaue Kuli
+> 10. den blauen Kuli
 > 11. allen Kindern
 > 12. das Rad dieses roten Fahrrads
 > 13. jener jungen Frau
@@ -189,11 +189,11 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 6. auf den hohen Tisch
 > 7. nach jeder interessanten Stunde
 > 8. in jedem schönen Geschäft
-> 9. zwischen die zwei schönen Bücher
-> 10. mit jenem nervösen, interessanten Nachbar
+> 9. zwischen die beiden schönen Bücher
+> 10. mit jenem nervösen, interessanten Nachbarn
 > 11. vom jungen Lehrer
 > 12. in die schöne, neue Vase
-> 13. für das bequeme Mittagessen
+> 13. zum gemütlichen Mittagessen
 > 14. für diese interessante Idee
 
 %%.%%
@@ -228,8 +228,8 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 10. meinen neuen Wagen
 > 11. einen schönen Monat
 > 12. einem fleißigen Schüler
-> 13. unserem lieben, kleinen Kind
-> 14. eine neue Hose ???
+> 13. unserem netten, kleinen Kind
+> 14. keine neue Hose
 
 %%.%%
 
@@ -258,7 +258,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 5. neben einer schlechten Lampe
 > 6. bei einer schlanken, großen Katze
 > 7. nach einem interessanten Film
-> 8. in unserer weiten Straße
+> 8. in unserer breiten Straße
 > 9. bei einem interessanten Freund
 > 10. zwischen einem blauen und einem grünen Wagen
 > 11. vor einen hohen Tisch
@@ -339,7 +339,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 > 23. Das ist **eine gute** Idee.
 > 24. Wir wohnen **in einem großen Familienhaus**.
 > 25. Jürgen repariert **sein neues Fahrrad**.
-> 26. Gertrude schreibt immer **lange** Briefe **den lieben** Verwandten.
+> 26. Gertrude schreibt immer **lange** Briefe **den netten** Verwandten.
 > 27. Ich kenne **unseren neuen Kollegen** noch nicht.
 > 28. Sind **die deutschen** Gäste schon angekommen?
 > 29. Fährt er immer **mit dem schnellen Wagen seines Schwagers**?
