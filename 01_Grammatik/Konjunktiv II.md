@@ -175,7 +175,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 2. Ha meg tudnám oldani ezt a feladatot, én lennék Einstein.
 > 3. Ha meg tudnátok szerelni az autómat, azzal mehetnénk a Balatonra.
 > 4. Ha az ex-barátnőmről akarna beszélni, keresném a kijáratot.
-> 5. Ha akarnék németül tanulni, én lennék a legjobb.
+> 5. Ha akarnék németül tanulni, én lennék a legjobb. **HF**
 > 6. Ha el akarnád érni, el tudnád érni őt.
 > 7. Ha megütné a macskámat, két napig a kórházban feküdne.
 
@@ -183,21 +183,35 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > [!success]- Megoldás
 > 1. Wenn ich jetzt aufstehen müsste, könnte ich nicht bis zur Tür gehen.
 > 2. Wenn ich diese Aufgabe lösen könnte, wäre ich Einstein.
-> 3. Wenn ihr mein Auto 
+> 3. Wenn ihr mein Auto reparieren könntet, könnten wir damit an den Plattensee fahren.
+> 4. Wenn er über meine Ex-Freundin sprechen wollte, würde ich den Ausgang suchen.
 
 %%.%%
 
 > [!question]- Feladat 6 (Múlt idő) – Fordítsd le!
-> Segített volna. / Aludtál volna? / Mi történt volna akkor? / Vettek volna egy könyvet. / Maradtam volna még.
+> 1. Segített volna.
+> 2. Aludtál volna?
+> 3. Mi történt volna akkor?
+> 4. Vettek volna egy könyvet.
+> 5. Maradtam volna még.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Er hätte geholfen.
+> 2. Hättest du geschlafen?
+> 3. Was wäre dann passiert?
+> 4. Sie hätten ein Buch gekauft.
+> 5. Ich wäre noch geblieben.
 
 %%.%%
 
-> [!question]- Feladat 7 (Múlt idő) – Fordítsd le a mondatokat!
-> Ha nem jött volna túl későn a barátod, elértük volna a vonatot. / Ha időben reggeliztél volna, veled mentem volna. / Ha udvarias lettél volna hozzá, meghívott volna minket a partira. / Ha szeretted volna a macskámat, nem ültél volna rá. / Ha eljöttél volna hozzánk, együtt hallgattuk volna a zenét. / Ha jól felöltöztél volna, nem fáztál volna meg.
+> [!question]- Feladat 7 (Múlt idő) – Fordítsd le a mondatokat! **HF**
+> 1. Ha nem jött volna túl későn a barátod, elértük volna a vonatot.
+> 2. Ha időben reggeliztél volna, veled mentem volna.
+> 3. Ha udvarias lettél volna hozzá, meghívott volna minket a partira.
+> 4. Ha szeretted volna a macskámat, nem ültél volna rá.
+> 5. Ha eljöttél volna hozzánk, együtt hallgattuk volna a zenét.
+> 6. Ha jól felöltöztél volna, nem fáztál volna meg.
 
 %%.%%
 > [!success]- Megoldás
@@ -208,49 +222,72 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > [!question]- Feladat 8 – Tedd át feltételes jelenből feltételes múltba!
 > *Wenn das Buch interessant wäre, würde ich es lesen.* → *Wenn das Buch interessant gewesen wäre, hätte ich es gelesen.*
 >
-> - Wenn du uns besuchtest, würden wir dir Kuchen geben.
-> - Wenn ich genug Zeit hätte, ginge ich oft ins Theater.
-> - Wenn dein Freund an der Reise teilnähme, würde ich nicht mitkommen.
-> - Wenn die Brücke schon fertig wäre, würden wir sie benutzen.
-> - Wenn Józsi mehr lernen würde, würde er nur gute Noten bekommen.
+> 1. Wenn du uns besuchtest, würden wir dir Kuchen geben.
+> 2. Wenn ich genug Zeit hätte, ginge ich oft ins Theater.
+> 3. Wenn dein Freund an der Reise teilnähme, würde ich nicht mitkommen.
+> 4. Wenn die Brücke schon fertig wäre, würden wir sie benutzen.
+> 5. Wenn Józsi mehr lernen würde, würde er nur gute Noten bekommen.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wenn du uns besucht hättest, hätten wir dir Kuchen gegeben.
+> 2. Wenn ich genug Zeit gehabt hätte, wäre ich oft ins Theater gegangen.
+> 3. Wenn dein Freund an der Reise teilgenommen hätte, wäre ich nicht mitgekommen.
+> 4. Wenn die Brücke schon fertig gewesen wäre, hätten wir sie benutzt.
+> 5. Wenn Józsi mehr gelernt hätte, hätte er nur gute Noten bekommen.
 
 %%.%%
 
 > [!question]- Feladat 9 (Módbeli segédigék, múlt idő) – Fordítsd le a mondatokat!
-> El kellett volna mennetek a boltba. / Fel kellett volna hívnom Pistát. / Meg tudta volna javítani a motort. / Meg akartam volna írni a levelet. / Meg akart volna hívni minket. / Nem kellett volna neki virágot venned. / El tudtátok volna hozni a gyereket. / Nem kellett volna elveszítenie a címet.
+> 1. El kellett volna mennetek a boltba.
+> 2. Fel kellett volna hívnom Pistát.
+> 3. Meg tudta volna javítani a motort.
+> 4. Meg akartam volna írni a levelet.
+> 5. Meg akart volna hívni minket.
+> 6. Nem kellett volna neki virágot venned.
+> 7. El tudtátok volna hozni a gyereket. **HF**
+> 8. Nem kellett volna elveszítenie a címet.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Ihr hättet ins Geschäft gehen müssen.
+> 2. Ich hätte Pista anrufen müssen.
+> 3. Er hätte das Motorrad reparieren können.
+> 4. Ich hätte den Brief schreiben wollen.
+> 5. Er hätte uns einladen wollen.
+> 6. Du hättest ihr keine Blumen kaufen müssen.
 
 %%.%%
 
 > [!question]- Feladat 10 (KATI szórendben) – Fordítsd le a mondatokat!
-> Azt mondta nekem, hogy nem akart volna velünk jönni. / Tudom, hogy nem akart volna magának házat vásárolni. / A nagymamád azt mondta, hogy nem szabadott volna jégkrémet enned. / Senki se tudja, hogy mennyi pénzért akarta volna eladni az autóját. / Évi hallotta, hogy még a legjobb tanuló se tudta volna megoldani a feladatot.
+> 1. Azt mondta nekem, hogy nem akart volna velünk jönni.
+> 2. Tudom, hogy nem akart volna magának házat vásárolni.
+> 3. A nagymamád azt mondta, hogy nem szabadott volna jégkrémet enned.
+> 4. Senki se tudja, hogy mennyi pénzért akarta volna eladni az autóját. **HF**
+> 5. Évi hallotta, hogy még a legjobb tanuló se tudta volna megoldani a feladatot.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Er hat mir gesagt, dass er nicht mit uns hätte kommen wollen.
+> 2. Ich weiß, dass er sich kein Haus hätte kaufen wollen.
+> 3. Deine Großmutti hat gesagt, dass du kein Eis hättest essen dürfen.
 
 %%.%%
 
 > [!question]- Feladat 11 (als ob / als wenn / als) – Fordítsd le a mondatokat a feltételes mód jelen és múlt idejének használatával!
-> - Olyan hideg volt az idő, mintha tél lett volna.
-> - Béla úgy tesz, mintha semmit se tudna.
-> - Józsi olyan arcot vágott, mintha én loptam volna el a pénzét.
-> - A szomszédom olyan pazarló volt, mintha milliomos lett volna.
-> - A tanuló úgy tesz, mintha nem értené a tanárját.
-> - Bözsi úgy tesz, mintha nem látna a megállóban.
-> - Olyan gyorsan futott a WC-re, mintha kergették volna.
-> - A vendégek úgy ették a szendvicset, mintha két hete semmit se ettek volna.
+> 1. Olyan hideg volt az idő, mintha tél lett volna.
+> 2. Béla úgy tesz, mintha semmit se tudna.
+> 3. Józsi olyan arcot vágott, mintha én loptam volna el a pénzét.
+> 4. A szomszédom olyan pazarló volt, mintha milliomos lett volna.
+> 5. A tanuló úgy tesz, mintha nem értené a tanárját.
+> 6. Bözsi úgy tesz, mintha nem látna a megállóban.
+> 7. Olyan gyorsan futott a WC-re, mintha kergették volna.
+> 8. A vendégek úgy ették a szendvicset, mintha két hete semmit se ettek volna.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Das Wetter war so kalt, als ob es Winter gewesen wäre.
+> 2. Béla tut so, als ob er nichts geweißt
 
 %%.%%
 
