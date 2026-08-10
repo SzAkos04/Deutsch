@@ -287,48 +287,72 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > 1. Das Wetter war so kalt, als ob es Winter gewesen wäre.
-> 2. Béla tut so, als ob er nichts geweißt
+> 2. Béla tut so, als ob er nichts wüsste.
+> 3. Józsi machte ein Gesicht, als ob ich sein Geld gestohlen hätte.
+> 4. Mein Nachbar war so verschwenderisch, als ob er Millionär gewesen wäre.
+> 5. Der Schüler tut so, als ob er seinen Lehrer nicht verstehen würde.
+> 6. Bözsi tut so, als ob sie mich an der Haltestelle nicht sehen würde.
+> 7. Er läuft zur Toilette so schnell, als ob er gejagt worden wäre.
+> 8. Die Gäste haben die Sandwichs so schnell gegessen, als ob sie seit 2 Woche nichts gegessen hätten.
 
 %%.%%
 
-> [!question]- Feladat 12 – Irj als ob mondatokat a zárójelben megadott szavakkal!
-> - Der Angler tat so, (er/ einen großen Fisch an der Leine haben)
-> - Der Lehrer sprach so laut (seine Schüler / alle schwerhörig sein)
-> - Unser Nachbar tut so, (Haus und Garten / ihm gehören)
-> - Der Junge hat die Fensterscheibe eingeschlagen, aber er tut so, (er/ ganz unschuldig sein)
-> - Gisela sprang von ihrem Stuhl auf, (sie, von einer Tarantel gestochen worden sein)
-> - Der Rennfahrer saß so ruhig hinter dem Steuer seines Rennwagens, (er / eine Spazierfahrt machen)
-> - Der Hund kam auf mich zugerannt, (er / mich in Stücke reißen wollen)
-> - Das Mädchen fuhr auf ihren Skiern so geschickt den Berg hinunter, (sie / das schon tausendmal geübt haben)
+> [!question]- Feladat 12 – Irj als ob mondatokat a zárójelben megadott szavakkal! **HF**
+> 1. Der Angler tat so, (er/ einen großen Fisch an der Leine haben)
+> 2. Der Lehrer sprach so laut (seine Schüler / alle schwerhörig sein)
+> 3. Unser Nachbar tut so, (Haus und Garten / ihm gehören)
+> 4. Der Junge hat die Fensterscheibe eingeschlagen, aber er tut so, (er/ ganz unschuldig sein)
+> 5. Gisela sprang von ihrem Stuhl auf, (sie, von einer Tarantel gestochen worden sein)
+> 6. Der Rennfahrer saß so ruhig hinter dem Steuer seines Rennwagens, (er / eine Spazierfahrt machen)
+> 7. Der Hund kam auf mich zugerannt, (er / mich in Stücke reißen wollen)
+> 8. Das Mädchen fuhr auf ihren Skiern so geschickt den Berg hinunter, (sie / das schon tausendmal geübt haben)
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Der Angler tat so, als ob er einen großen Fisch an der Leine gehabt hätte.
 
 %%.%%
 
 > [!question]- Feladat 13 (Bárcsak-mondatok) – Forditsd le a mondatokat a jelen és a múlt időt használva!
-> Bárcsak szép lennék! / Bárcsak jönne már! / Bárcsak több pénzem lenne! / Bárcsak tudnám, hogy hol van! / Bárcsak haza tudnánk menni! / Bárcsak meg tudtam volna oldani a feladatot! / Bárcsak kevesebbet ivott volna! / Bárcsak korábban haza mentem volna! / Bárcsak lett volna ideje! / Bárcsak külföldre utaznánk!
+> 1. Bárcsak szép lennék!
+> 2. Bárcsak jönne már!
+> 3. Bárcsak több pénzem lenne!
+> 4. Bárcsak tudnám, hogy hol van!
+> 5. Bárcsak haza tudnánk menni!
+> 6. Bárcsak meg tudtam volna oldani a feladatot!
+> 7. Bárcsak kevesebbet ivott volna!
+> 8. Bárcsak korábban haza mentem volna!
+> 9. Bárcsak lett volna ideje!
+> 10. Bárcsak külföldre utaznánk!
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wenn ich nur schön wäre!
+> 2. Wenn er nur kommen würde!
+> 3. Wenn ich nur mehr Geld hätte!
+> 4. Wenn ich nur wüsste, wo er ist!
+> 5. Wenn wir nur nach Hause gehen könnten.
+> 6. Wenn ich doch die Aufgabe hätte lösen können.
+> 7. Wenn er doch weniger getrunken hätte.
+> 8. Wenn ich doch früher nach Hause gegangen wäre.
+> 9. Wen er doch Zeit gehabt hätte.
+> 10. Wenn wir doch ins Ausland fahren würden!
 
 %%.%%
 
-> [!question]- Feladat 14 – Irj óhajtó mondatokat! Figyelj az igeidőre!
+> [!question]- Feladat 14 – Irj óhajtó mondatokat! Figyelj az igeidőre! **HF**
 > *Ich kann nicht zu der Ausstellung kommen* – *Wenn ich doch zu der Austellung kommen könnte!*
 >
-> - Du hast mich nicht besucht, als du hier warst.
-> - Er ist bei diesem Wetter auf eine Bergtour gegangen.
-> - Er ist nicht hier geblieben.
-> - Ich wurde nicht informiert.
-> - Ich darf nicht schneller fahren.
-> - Ich werde von der Polizei angehalten.
-> - Wir müssen noch weit fahren. (nicht mehr so weit)
-> - Er schenkte der Stadt ein ganzes Vermögen.
-> - Mein Bruder war nicht auf der Party.
-> - Er hatte keine Zeit zu kommen.
+> 1. Du hast mich nicht besucht, als du hier warst.
+> 2. Er ist bei diesem Wetter auf eine Bergtour gegangen.
+> 3. Er ist nicht hier geblieben.
+> 4. Ich wurde nicht informiert.
+> 5. Ich darf nicht schneller fahren.
+> 6. Ich werde von der Polizei angehalten.
+> 7. Wir müssen noch weit fahren. (nicht mehr so weit)
+> 8. Er schenkte der Stadt ein ganzes Vermögen.
+> 9. Mein Bruder war nicht auf der Party.
+> 10. Er hatte keine Zeit zu kommen.
 
 %%.%%
 > [!success]- Megoldás

@@ -14,18 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
+- [ ] [[Konjunktiv II]] 1-10
 
 - [ ] 
 
