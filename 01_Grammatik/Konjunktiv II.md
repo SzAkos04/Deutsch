@@ -9,9 +9,6 @@ tags: [Grammatik]
 # `=this.Thema`
 **Kategorie:** `=this.Kategorie` | **Niveau:** `=this.Niveau` | **Quelle:** `=this.Quelle`
 
-> [!warning] Gyenge pont
-> Módbeli segédigék Präteritum vs. Konjunktiv II alakja (pl. *durfte* vs. *dürfte*, *musste* vs. *müsste*) — ez a jegyzet a te leggyengébb pontod, érdemes kártyázni [[Verbtabellen]]-ből.
-
 ## I. Jelen idő
 
 ### A. würde + Infinitiv
@@ -99,33 +96,55 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 ## Feladatok
 
 > [!question]- Feladat 1 – Fordítsd le a mondatokat!
-> Ha kapnék egy kocsit apától, külföldre utaznék. / Ha vennél nekem csokit, nagyon örülnék neki. / Ha kérnénk őt, segítene nekünk. / Ha kevesebbet innál, jobban látnád az utat. / Ha most mennél a boltba, semmit se kapnál. / Ha repülővel utaznék Londonba, sok időt spórolnék meg. / Ha kedvesebb lennél hozzá, kapnál egy tollat. / Elmennék a boltba, ha adnál egy kis pénzt. / Felmásznék a fára, ha nem lennék ilyen lusta. / Megvásárolnák a házunkat, ha nem lenne ilyen drága. / Kellemesebb lenne a beszélgetés, ha nem állnál a lábamon. / Elvenném feleségül, ha gazdag lenne. / Felhívnám Ágit, ha lenne telefonom.
+> 1. Ha kapnék egy kocsit apától, külföldre utaznék.
+> 2. Ha vennél nekem csokit, nagyon örülnék neki.
+> 3. Ha kérnénk őt, segítene nekünk.
+> 4. Ha kevesebbet innál, jobban látnád az utat.
+> 5. Ha most mennél a boltba, semmit se kapnál.
+> 6. Ha repülővel utaznék Londonba, sok időt spórolnék meg.
+> 7. Ha kedvesebb lennél hozzá, kapnál egy tollat.
+> 8. Elmennék a boltba, ha adnál egy kis pénzt.
+> 9. Felmásznék a fára, ha nem lennék ilyen lusta.
+> 10. Megvásárolnák a házunkat, ha nem lenne ilyen drága. **HF**
+> 11. Kellemesebb lenne a beszélgetés, ha nem állnál a lábamon.
+> 12. Elvenném feleségül, ha gazdag lenne.
+> 13. Felhívnám Ágit, ha lenne telefonom.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 2 – Mondd a példa alapján!
 > *Wenn du schnell genug bist, erreichst du den Bus.* → *Wenn du schnell genug wärest, würdest du den Bus erreichen.*
 >
-> - Wenn er früh genug einkauft, bekommt er noch Milch.
-> - Wenn die Schüler wenig lernen, bekommen sie schlechte Noten.
-> - Wenn sie mich verlässt, bleibe ich wirklich allein.
-> - Wenn mir meine Frau bei der Arbeit hilft, bin ich früher fertig.
-> - Wenn das Wetter schön bleibt, machen wir einen Ausflug.
+> 1. Wenn er früh genug einkauft, bekommt er noch Milch.
+> 2. Wenn die Schüler wenig lernen, bekommen sie schlechte Noten.
+> 3. Wenn sie mich verlässt, bleibe ich wirklich allein.
+> 4. Wenn mir meine Frau bei der Arbeit hilft, bin ich früher fertig.
+> 5. Wenn das Wetter schön bleibt, machen wir einen Ausflug.
+
+%%.%%
+> [!success]- Megoldás
+> 1. Wenn er früh genug einkaufte, würde er noch Milch bekommen.
+> 2. Wenn die Schüler wenig lernten, würden sie schlechte Noten bekommen.
+> 3. Wenn sie mich verließe, würde ich wirklich allein bleiben.
+> 4. Wenn mir meine Frau bei der Arbeit helfen würde, wäre ich früher fertig.
+> 5. Wenn das Wetter schön bliebe, würden wir einen Ausflug machen.
+
+%%.%%
+
+> [!question]- Feladat 3 – Sein vagy haben? Fordítsd le! **HF**
+> 1. Ha lenne elég pénzem, nem dolgoznék itt.
+> 2. Ha lenne egy jó ötlete, elmondaná nekünk.
+> 3. Boldog lennék, ha holnap meglátogatna minket.
+> 4. Ha lenne egy háza, biztos eladná.
+> 5. Nem késnénk le a vonatot, ha gyorsabb lennél.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
-%%.%%
 
-> [!question]- Feladat 3 – Sein vagy haben? Fordítsd le!
-> Ha lenne elég pénzem, nem dolgoznék itt. / Ha lenne egy jó ötlete, elmondaná nekünk. / Boldog lennék, ha holnap meglátogatna minket. / Ha lenne egy háza, biztos eladná. / Nem késnénk le a vonatot, ha gyorsabb lennél.
-
-%%.%%
-> [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
 %%.%%
 
 > [!question]- Feladat 4 – Fordítsd le a megadott kifejezésekkel!
@@ -134,31 +153,38 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > *Wenn ich wüsste,* – Ha tudnám….
 > *Selbst wenn er …. wäre…* – Még ha…. volna is,….
 >
-> - Ha a helyedben lennék, meglátogatnám őt.
-> - Ha kiderülne, hogy ő lopta el a kocsit, felhívnám a rendőrséget.
-> - Ha tudnám miért tette ezt, most jobban érezném magam.
-> - Még ha a legszebb lány is lenne a városban, nem venném el.
-> - Ha a helyedben lennék, elutaznék a nagynénémhez. Ha tudná, hol lakik, felkeresné.
-> - Még ha könyörögne, akkor sem árulnám el a titkot.
-> - Ha a helyedben lennék, még a következő gyakorlatot is megcsinálnám.
+> 1. Ha a helyedben lennék, meglátogatnám őt.
+> 2. Ha kiderülne, hogy ő lopta el a kocsit, felhívnám a rendőrséget.
+> 3. Ha tudnám miért tette ezt, most jobban érezném magam.
+> 4. Még ha a legszebb lány is lenne a városban, nem venném el.
+> 5. Ha a helyedben lennék, elutaznék a nagynénémhez. Ha tudná, hol lakik, felkeresné. **HF**
+> 6. Még ha könyörögne, akkor sem árulnám el a titkot.
+> 7. Ha a helyedben lennék, még a következő gyakorlatot is megcsinálnám.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wenn ich an deiner Stelle wäre, würde ich sie besuchen.
+> 2. Wenn es sich herausstellte, dass sie das Auto gestohlen hat, würde ich die Polizei anrufen.
+> 3. Wenn ich wüsste, warum er das getan hat, würde ich mich jetzt besser fühlen.
+> 4. Selbst wenn sie das schönste Mädchen in der Stadt wäre, würde ich sie nicht heiraten.
+
 %%.%%
 
 > [!question]- Feladat 5 – Alkoss módbeli segédigével feltételes mondatokat.
-> - Ha most fel kellene kelnem, nem tudnék az ajtóig menni.
-> - Ha meg tudnám oldani ezt a feladatot, én lennék Einstein.
-> - Ha meg tudnátok szerelni az autómat, azzal mehetnénk a Balatonra.
-> - Ha az ex-barátnőmről akarna beszélni, keresném a kijáratot.
-> - Ha akarnék németül tanulni, én lennék a legjobb.
-> - Ha el akarnád érni, el tudnád érni őt.
-> - Ha megütné a macskámat, két napig a kórházban feküdne.
+> 1. Ha most fel kellene kelnem, nem tudnék az ajtóig menni.
+> 2. Ha meg tudnám oldani ezt a feladatot, én lennék Einstein.
+> 3. Ha meg tudnátok szerelni az autómat, azzal mehetnénk a Balatonra.
+> 4. Ha az ex-barátnőmről akarna beszélni, keresném a kijáratot.
+> 5. Ha akarnék németül tanulni, én lennék a legjobb.
+> 6. Ha el akarnád érni, el tudnád érni őt.
+> 7. Ha megütné a macskámat, két napig a kórházban feküdne.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wenn ich jetzt aufstehen müsste, könnte ich nicht bis zur Tür gehen.
+> 2. Wenn ich diese Aufgabe lösen könnte, wäre ich Einstein.
+> 3. Wenn ihr mein Auto 
+
 %%.%%
 
 > [!question]- Feladat 6 (Múlt idő) – Fordítsd le!
@@ -167,6 +193,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 7 (Múlt idő) – Fordítsd le a mondatokat!
@@ -175,6 +202,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 8 – Tedd át feltételes jelenből feltételes múltba!
@@ -189,6 +217,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 9 (Módbeli segédigék, múlt idő) – Fordítsd le a mondatokat!
@@ -197,6 +226,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 10 (KATI szórendben) – Fordítsd le a mondatokat!
@@ -205,6 +235,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 11 (als ob / als wenn / als) – Fordítsd le a mondatokat a feltételes mód jelen és múlt idejének használatával!
@@ -220,6 +251,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 12 – Irj als ob mondatokat a zárójelben megadott szavakkal!
@@ -235,6 +267,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 13 (Bárcsak-mondatok) – Forditsd le a mondatokat a jelen és a múlt időt használva!
@@ -243,6 +276,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 14 – Irj óhajtó mondatokat! Figyelj az igeidőre!
@@ -262,6 +296,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 ---
