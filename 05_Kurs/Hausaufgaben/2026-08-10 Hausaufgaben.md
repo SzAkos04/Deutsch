@@ -3,7 +3,7 @@ Titel: 2026-08-10 Hausaufgaben
 Kurs: "[[Német haladó félintenzív]]"
 Datum: 2026-08-10
 Frist: 2026-08-13
-Status: nincs elkezdve
+Status: folyamatban
 tags:
   - Hausaufgabe
 ---
@@ -14,20 +14,10 @@ tags:
 
 ## Feladatok
 
+- [ ] **Szavak:** Lektion 10
+
 - [ ] [[Konjunktiv II]] 1-10
 
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
 ## Megjegyzések
 
 > [!INFO]
@@ -37,6 +27,6 @@ tags:
 
 ## Siehe auch
 
-- [[]]
+- [[2026-08-10]]
 
 #Hausaufgabe

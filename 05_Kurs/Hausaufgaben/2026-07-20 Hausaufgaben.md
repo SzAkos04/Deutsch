@@ -3,7 +3,7 @@ Titel: 2026-07-20 Hausaufgaben
 Kurs: "[[Német haladó félintenzív]]"
 Datum: 2026-07-20
 Frist: 2026-07-23
-Status: folyamatban
+Status: kész
 tags:
   - Hausaufgabe
 ---
@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 5
+- [x] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 5
 
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1195727507/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
