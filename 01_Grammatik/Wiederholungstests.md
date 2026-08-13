@@ -73,7 +73,7 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 6. Aus diesem Stoff **kann** kein Anzug **genäht werden**. **a)**
 > 7. **Darf** der Fernseher **eingeschaltet werden**? **b)**
 > 8. Die Ausgestellten Gegenstände **dürfen** nicht **berührt werden**. **d)**
-> 9. **Dieser Roman wurde noch nicht vergefilmt.** **a)** ???
+> 9. **Dieser Roman ist noch nicht verfilmt worden.** **c)**
 > 10. Die Ausstellung wird **von Herrn Schön eröffnet**. **d)**
 
 %%.%%
@@ -180,41 +180,60 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 4. Frau Radlerwitz macht es keinen Spaß, gern Rad zu fahren.
 > 5. Alfons hat keine Zeit, das Fahrrad zu reparieren.
 > 6. Wir freuen uns, übermorgen für 3 Wochen nach Spanien zu fliegen.
-> 7. 
+> 7. Er hat mir angeboten, seinen Lamborghini für 3000 Euro kaufen zu können.
 
 %%.%%
 
 > [!question]- 3. Alkoss passzív mondatokat!
-> - Man darf hier nicht fotografieren.
-> - Man muss die Häuser renovieren.
-> - Man konnte die Aufgabe nicht lösen.
-> - Man half ihnen nicht.
-> - Man muss das Auto reparieren.
-> - Er hat den Stuhl selbst reparieren müssen.
-> - Ihr müsst noch die schmutzige Wäsche waschen.
-> - Die starken Männer mussten die kaputten Tische in den Keller bringen.
-> - Die fleißige Sekretärin muss die lange Reise des Chefs gut vorbereiten.
+> 1. Man darf hier nicht fotografieren.
+> 2. Man muss die Häuser renovieren.
+> 3. Man konnte die Aufgabe nicht lösen.
+> 4. Man half ihnen nicht.
+> 5. Man muss das Auto reparieren.
+> 6. Er hat den Stuhl selbst reparieren müssen.
+> 7. Ihr müsst noch die schmutzige Wäsche waschen.
+> 8. Die starken Männer mussten die kaputten Tische in den Keller bringen.
+> 9. Die fleißige Sekretärin muss die lange Reise des Chefs gut vorbereiten.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Es darf hier nicht fotografieren werden.
+> 2. Die Häuser müssen renovieren werden.
+> 3. Die Aufgabe konnte nicht gelöst werden.
+> 4. Es wurde ihnen nicht geholfen.
+> 5. Das Auto muss reparieren werden.
+> 6. Der Stuhl musste von ihm selbst repariert werden.
+> 7. Die schmutzige Wäsche muss von euch noch gewaschen werden.
+> 8. Die kaputten Tische mussten von den starken Männern in den Keller gebracht werden.
+> 9. Die lange Reise des Chefs muss von der fleißigen Sekretärin gut vorbereitet werden.
+
 %%.%%
 
 > [!question]- 4. Fordítsd le a mondatokat!
-> - Amíg a boltban voltál, keresett valaki telefonon.
-> - Amíg te a Balatonban fürödtél, én napoztam.
-> - Mialatt a pincér megteríti az asztalokat, a szakács elkészíti az ebédet.
-> - Amíg a gyerekek alszanak, az anya rendet rak a lakásban.
-> - Amíg nálunk laksz, alkalmazkodnod kell hozzánk.
-> - Míg elkezdődik az óra, gyorsan átismételhetem a házit.
-> - Mialatt szabadságon voltunk, a barátaink használhatták a lakásunkat.
-> - János reméli, hogy semmit sem felejtett el.
-> - Örülünk, hogy elutaztunk a konferenciára, mert sok érdekeset hallottunk.
-> - Miért kellett tegnap sürgősen Bécsbe utaznotok?
+> 1. Amíg a boltban voltál, keresett valaki telefonon.
+> 2. Amíg te a Balatonban fürödtél, én napoztam.
+> 3. Mialatt a pincér megteríti az asztalokat, a szakács elkészíti az ebédet.
+> 4. Amíg a gyerekek alszanak, az anya rendet rak a lakásban.
+> 5. Amíg nálunk laksz, alkalmazkodnod kell hozzánk.
+> 6. Míg elkezdődik az óra, gyorsan átismételhetem a házit.
+> 7. Mialatt szabadságon voltunk, a barátaink használhatták a lakásunkat.
+> 8. János reméli, hogy semmit sem felejtett el.
+> 9. Örülünk, hogy elutaztunk a konferenciára, mert sok érdekeset hallottunk.
+> 10. Miért kellett tegnap sürgősen Bécsbe utaznotok?
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Während du im Geschäft warst, hat dich jemand angerufen.
+> 2. Während du im Plattensee geschwommen bist, liege ich in der Sonne.
+> 3. Während der Kellner den Tisch deckt, macht der Chef das Mittagessen.
+> 4. Während die Kinder schlafen, räumt die Mutter die Wohnung auf.
+> 5. Während du mit uns wohnst, muss du dich an uns anpassen.
+> 6. Bis der Stunde beginnt, lese ich die Hausaufgabe durch.
+> 7. Während wir ..., benutzen unsere Freunde unsere Wohnung.
+> 8. János hofft, nichts zu vergessen.
+> 9. Wir freuen uns, dass wir zur Konferenz gereist sind, weil wir viel interessant gehört haben.
+> 10. Warum müsst ihr gestern ... in Wien fahren?
+
 %%.%%
 
 ## Test II.
