@@ -242,10 +242,10 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > [!success]- Megoldás
 > 1. Wenn dein Freund nicht zu spät angekommen wäre, hätten wir den Zug erreicht.
 > 2. Wenn du rechtzeitig gefrühstückt hättest, wäre ich mit dir gegangen.
-> 3. Wenn du höflich mit ihm gewesen wärst, hätte er uns zu der Party eingeladen.
-> 4. Wenn du meine Katze geliebt hätte, hättest du nicht auf ihr gesessen.
-> 5. Wenn du zu uns gekommen hättest, hätten wir zusammen der Musik zuhören.
-> 6. Wenn du dich gut anziehen hättest, hättest du dich nicht erkälten.
+> 3. Wenn du höflich zu ihm gewesen wärst, hätte er uns zu der Party eingeladen.
+> 4. Wenn du meine Katze geliebt hättest, hättest du dich nicht auf ihr gesetzt.
+> 5. Wenn du zu uns gekommen wärest, hätten wir zusammen der Musik zugehört.
+> 6. Wenn du dich gut angezogen hättest, hättest du dich nicht erkältet.
 
 %%.%%
 
@@ -286,8 +286,8 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 4. Ich hätte den Brief schreiben wollen.
 > 5. Er hätte uns einladen wollen.
 > 6. Du hättest ihr keine Blumen kaufen müssen.
-> 7. Ihr hättet das Kind abholen können.
-> 8. Er hätte den Titel nicht ... müssen.
+> 7. Ihr hättet das Kind abholen können. **HF**
+> 8. Er hätte den Titel nicht verlieren dürfen.
 
 %%.%%
 
@@ -303,8 +303,8 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 1. Er hat mir gesagt, dass er nicht mit uns hätte kommen wollen.
 > 2. Ich weiß, dass er sich kein Haus hätte kaufen wollen.
 > 3. Deine Großmutti hat gesagt, dass du kein Eis hättest essen dürfen.
-> 4. Niemand weiß, wie viel Geld er seinen Wagen hätte verkaufen wollen.
-> 5. Évi hat gehört, dass schon der beste Schüler die Aufgabe nicht hätte lösen können.
+> 4. Niemand weiß, für wie viel Geld er seinen Wagen hätte verkaufen wollen. **HF**
+> 5. Évi hat gehört, dass selbst der beste Schüler die Aufgabe nicht hätte lösen können.
 
 %%.%%
 
@@ -344,13 +344,13 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > 1. Der Angler tat so, als ob er einen großen Fisch an der Leine gehabt hätte.
-> 2. Der Lehrer sprach so laut, als ob seine Schüler alle schwerhörig gewesen wären.
-> 3. Unser Nachbar tut so, als ob das Haus und der Garten ihm gehört hätten.
-> 4. Der Junge hat die Fensterscheibe eingeschlagen, aber er tut so, als ob er ganz unschuldig gewesen wäre.
-> 5. Gisella sprang von ihrem Stuhl auf, als ob sie von einer Tarantel gestochen worden gewesen wäre.
+> 2. Der Lehrer sprach so laut, als ob alle seine Schüler schwerhörig gewesen wären.
+> 3. Unser Nachbar tut so, als ob das Haus und der Garten ihm gehörten.
+> 4. Der Junge hat die Fensterscheibe eingeschlagen, aber er tut so, als ob er ganz unschuldig wäre.
+> 5. Gisela sprang von ihrem Stuhl auf, als ob sie von einer Tarantel gestochen worden wäre.
 > 6. Der Rennfahrer saß so ruhig hinter dem Steuer seines Rennwagens, als ob er eine Spazierfahrt gemacht hätte.
 > 7. Der Hund kam auf mich zugerannt, als ob er mich in Stücke hätte reißen wollen.
-> 8. Das Mädchen fuhr auf ihnen Skiern so geschickt den Berg hinunter, als ob sie das schon tausendmal geübt gehabt hätte.
+> 8. Das Mädchen fuhr auf ihren Skiern so geschickt den Berg hinunter, als ob sie das schon tausendmal geübt hätte.
 
 %%.%%
 
@@ -397,7 +397,16 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wenn du mich nur besucht hättest, als du hier warst.
+> 2. Wenn er nur/doch/bloß bei diesem Wetter auf keine Bergtour gegangen wäre.
+> 3. Wenn er doch hier geblieben wäre.
+> 4. Wenn ich doch informiert worden wäre.
+> 5. Wenn ich nur schneller fahren dürfte.
+> 6. Wenn ich nur nicht von der Polizei angehalten würde.
+> 7. Wenn wir nur nicht mehr so weit fahren müssten.
+> 8. Wenn er nur der Stadt ein ganzes Vermögen geschenkt hätte.
+> 9. Wenn mein Bruder nur auf der PArty gewesen wäre.
+> 10. Hätte er doch Zeit gehabt zu kommen!
 
 %%.%%
 
