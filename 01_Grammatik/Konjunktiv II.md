@@ -112,6 +112,19 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 
 %%.%%
 > [!success]- Megoldás
+> 1. Wenn ich von meinem Vater einen Wagen bekäme, würde ich ins Ausland fahren.
+> 2. Wenn du mir einen Wagen kauftest, würde ich mich sehr freuen.
+> 3. Wenn wir ihn böten, würde er uns helfen.
+> 4. Wenn du weniger tränkest, würdest du die Straße besser sehen.
+> 5. Wenn du jetzt ins Geschäft gingest, würdest du nichts bekommen.
+> 6. Wenn ich mit dem Flug in London führe, würde ich viele Zeit aufsparen.
+> 7. Wenn du ihm freundlicher wärest, würdest du ein Kuli bekommen.
+> 8. Ich ginge ins Geschäft, wenn du ein wenig Geld geben würdest.
+> 9. Ich würde auf dem Baum klettern, wenn ich nicht so faul wäre.
+> 10. Unser Haus würde verkauft werden, wenn es nicht so teuer wäre. **HF**
+> 11. Diese Rede wäre gemütlicher, wenn du nicht auf meine Füße stehen würdest.
+> 12. Ich würde sie heiraten, wenn sie reich wäre.
+> 13. Ich würde Ági anrufen, wenn ich ein Handy hätte.
 
 %%.%%
 
@@ -143,7 +156,11 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wenn ich Geld hätte, würde ich nicht hier arbeiten.
+> 2. Wenn er eine gute Idee hätte, würde er uns verraten.
+> 3. Ich wäre glücklich, wenn er morgen uns besuchen würde.
+> 4. Wenn er ein Haus hätte, würde er es sicher verkaufen.
+> 5. Wir würden den Zug nicht verpassen, wenn du schneller wärest.
 
 %%.%%
 
@@ -157,9 +174,10 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 2. Ha kiderülne, hogy ő lopta el a kocsit, felhívnám a rendőrséget.
 > 3. Ha tudnám miért tette ezt, most jobban érezném magam.
 > 4. Még ha a legszebb lány is lenne a városban, nem venném el.
-> 5. Ha a helyedben lennék, elutaznék a nagynénémhez. Ha tudná, hol lakik, felkeresné. **HF**
-> 6. Még ha könyörögne, akkor sem árulnám el a titkot.
-> 7. Ha a helyedben lennék, még a következő gyakorlatot is megcsinálnám.
+> 5. Ha a helyedben lennék, elutaznék a nagynénémhez.
+> 6. Ha tudná, hol lakik, felkeresné. **HF**
+> 7. Még ha könyörögne, akkor sem árulnám el a titkot.
+> 8. Ha a helyedben lennék, még a következő gyakorlatot is megcsinálnám.
 
 %%.%%
 > [!success]- Megoldás
@@ -167,6 +185,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 2. Wenn es sich herausstellte, dass sie das Auto gestohlen hat, würde ich die Polizei anrufen.
 > 3. Wenn ich wüsste, warum er das getan hat, würde ich mich jetzt besser fühlen.
 > 4. Selbst wenn sie das schönste Mädchen in der Stadt wäre, würde ich sie nicht heiraten.
+> 5. Wenn ich an deiner Stelle wäre, 
 
 %%.%%
 
