@@ -113,7 +113,7 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 7. Der Kranke hofft, von seiner Krankheit durch eine Kur **geheilt zu werden**. **b)**
 > 8. Es wird gebeten, im Konferenzsaal nicht **zu rauchen**. **a)**
 > 9. Das Kind hat den Spinat nicht **essen wollen**. **d)**
-> 10. Der Biologe behauptete, in Asien viele interessante Schmetterlinge **gesehen zu haben**. **b)**
+> 10. Der Biologe behauptete, in Asien viele interessante Schmetterlinge **gesehen zu haben**. **b)** c
 
 %%.%%
 
@@ -180,7 +180,7 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 4. Frau Radlerwitz macht es keinen Spaß, gern Rad zu fahren.
 > 5. Alfons hat keine Zeit, das Fahrrad zu reparieren.
 > 6. Wir freuen uns, übermorgen für 3 Wochen nach Spanien zu fliegen.
-> 7. Er hat mir angeboten, seinen Lamborghini für 3000 Euro kaufen zu können.
+> 7. Er hat mir angeboten, seinen Lamborghini für 3000 Euro zu kaufen.
 
 %%.%%
 
@@ -197,12 +197,12 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> 1. Es darf hier nicht fotografieren werden.
-> 2. Die Häuser müssen renovieren werden.
+> 1. Es darf hier nicht fotografiert werden.
+> 2. Die Häuser müssen renoviert werden.
 > 3. Die Aufgabe konnte nicht gelöst werden.
 > 4. Es wurde ihnen nicht geholfen.
-> 5. Das Auto muss reparieren werden.
-> 6. Der Stuhl musste von ihm selbst repariert werden.
+> 5. Das Auto muss repariert werden.
+> 6. Der Stuhl hat selbst von ihm repariert werden müssen.
 > 7. Die schmutzige Wäsche muss von euch noch gewaschen werden.
 > 8. Die kaputten Tische mussten von den starken Männern in den Keller gebracht werden.
 > 9. Die lange Reise des Chefs muss von der fleißigen Sekretärin gut vorbereitet werden.
@@ -224,15 +224,15 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 %%.%%
 > [!success]- Megoldás
 > 1. Während du im Geschäft warst, hat dich jemand angerufen.
-> 2. Während du im Plattensee geschwommen bist, liege ich in der Sonne.
+> 2. Während du im Plattensee gebadet hast, nahm ich ein Sonnenbad.
 > 3. Während der Kellner den Tisch deckt, macht der Chef das Mittagessen.
 > 4. Während die Kinder schlafen, räumt die Mutter die Wohnung auf.
-> 5. Während du mit uns wohnst, muss du dich an uns anpassen.
-> 6. Bis der Stunde beginnt, lese ich die Hausaufgabe durch.
-> 7. Während wir ..., benutzen unsere Freunde unsere Wohnung.
-> 8. János hofft, nichts zu vergessen.
-> 9. Wir freuen uns, dass wir zur Konferenz gereist sind, weil wir viel interessant gehört haben.
-> 10. Warum müsst ihr gestern ... in Wien fahren?
+> 5. Während du bei uns wohnst, muss du dich an uns anpassen.
+> 6. Bis der Unterricht beginnt, kann ich schnell die Hausaufgabe wiederholen.
+> 7. Während wir im Urlaub waren, konnten unsere Freunde unsere Wohnung benutzen.
+> 8. János hofft, nichts vergessen zu haben.
+> 9. Wir freuen uns, dass wir an die Konferenz gereist sind, weil wir viel Interessantes gehört haben.
+> 10. Warum musstet ihr gestern dringend nach Wien fahren?
 
 %%.%%
 

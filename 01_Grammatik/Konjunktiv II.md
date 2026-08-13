@@ -122,7 +122,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 8. Ich ginge ins Geschäft, wenn du ein wenig Geld geben würdest.
 > 9. Ich würde auf dem Baum klettern, wenn ich nicht so faul wäre.
 > 10. Unser Haus würde verkauft werden, wenn es nicht so teuer wäre. **HF**
-> 11. Diese Rede wäre gemütlicher, wenn du nicht auf meine Füße stehen würdest.
+> 11. Dieses Gespräch wäre gemütlicher, wenn du nicht auf meinen Füßen stehen würdest.
 > 12. Ich würde sie heiraten, wenn sie reich wäre.
 > 13. Ich würde Ági anrufen, wenn ich ein Handy hätte.
 
@@ -156,8 +156,8 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 
 %%.%%
 > [!success]- Megoldás
-> 1. Wenn ich Geld hätte, würde ich nicht hier arbeiten.
-> 2. Wenn er eine gute Idee hätte, würde er uns verraten.
+> 1. Wenn ich genug Geld hätte, würde ich nicht hier arbeiten.
+> 2. Wenn er eine gute Idee hätte, würde er uns sagen.
 > 3. Ich wäre glücklich, wenn er morgen uns besuchen würde.
 > 4. Wenn er ein Haus hätte, würde er es sicher verkaufen.
 > 5. Wir würden den Zug nicht verpassen, wenn du schneller wärest.
@@ -187,8 +187,8 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 4. Selbst wenn sie das schönste Mädchen in der Stadt wäre, würde ich sie nicht heiraten.
 > 5. Wenn ich an deiner Stelle wäre, würde ich zu meiner Tante fahren. **HF**
 > 6. Wenn er wüsste, wo er wohnt, würde er ihn aufsuchen.
-> 7. Selbst wenn er ...
-> 8. Wenn ich an deiner Stelle wäre, würde ich die nächste Übung machen. 
+> 7. Selbst wenn er mich anflehte, würde ich ihm das Geheimnis nicht verraten.
+> 8. Wenn ich an deiner Stelle wäre, würde ich auch die nächste Übung machen. 
 
 %%.%%
 
@@ -208,8 +208,8 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 3. Wenn ihr mein Auto reparieren könntet, könnten wir damit an den Plattensee fahren.
 > 4. Wenn er über meine Ex-Freundin sprechen wollte, würde ich den Ausgang suchen.
 > 5. Wenn ich Deutsch lernen wollte, wäre ich der Beste. **HF**
-> 6. Wenn du ihm aufholen wollte, könnte du ihm aufholen.
-> 7. Wenn er meine Katze schlagen würde, legte er für zwei Tage im Krankenhaus.
+> 6. Wenn du ihn erreichen wolltest, könntest du ihm erreichen.
+> 7. Wenn er meine Katze schlagen würde, legte er für zwei Tage im Krankenhaus liegen.
 
 %%.%%
 
@@ -241,7 +241,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > 1. Wenn dein Freund nicht zu spät angekommen wäre, hätten wir den Zug erreicht.
-> 2. Wenn du rechtzeitig gefrühstückt hätte, wäre ich mit dir gegangen.
+> 2. Wenn du rechtzeitig gefrühstückt hättest, wäre ich mit dir gegangen.
 > 3. Wenn du höflich mit ihm gewesen wärst, hätte er uns zu der Party eingeladen.
 > 4. Wenn du meine Katze geliebt hätte, hättest du nicht auf ihr gesessen.
 > 5. Wenn du zu uns gekommen hättest, hätten wir zusammen der Musik zuhören.
