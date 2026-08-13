@@ -1,6 +1,6 @@
 ---
 Titel: <% tp.file.title %>
-Kurs:
+Kurs: "[[Német haladó félintenzív]]"
 Datum: <% tp.date.now("YYYY-MM-DD") %>
 Thema:
 Buchseite:
@@ -18,43 +18,20 @@ tags:
 
 ## Grammatik
 
-- 
+- (nincs új nyelvtan)
 
 ## Órai feladatok
 
 - [ ] 
 
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
-
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
 ## Neue Wörter
 
-- []()
+- [Lektion ]()
 
 ---
 
 ## Siehe auch
 
-- [[]]
+- [[<% tp.date.now("YYYY-MM-DD") %> Hausaufgaben]]
 
 #Unterricht

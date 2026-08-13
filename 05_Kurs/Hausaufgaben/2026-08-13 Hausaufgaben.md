@@ -1,8 +1,8 @@
 ---
-Titel: <% tp.file.title %>
+Titel: 2026-08-13 Hausaufgaben
 Kurs: "[[Német haladó félintenzív]]"
-Datum: <% tp.date.now("YYYY-MM-DD") %>
-Frist: <% tp.date.now("YYYY-MM-DD", 3) %>
+Datum: 2026-08-13
+Frist: 2026-08-17
 Status: nincs elkezdve
 tags:
   - Hausaufgabe
@@ -14,10 +14,31 @@ tags:
 
 ## Feladatok
 
-- [ ] [[<% tp.date.now("YYYY-MM-DD") %>#Neue Wörter|Lektion]] szavak megtanulása
+- [ ] 
+
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
 
 - [ ] 
 
+> [!info] Feladat
+> ****
+> 1. 
+
+%%.%%
+
+> [!success]- Megoldás
+> 1. 
+
+%%.%%
 ## Megjegyzések
 
 > [!INFO]
@@ -27,6 +48,6 @@ tags:
 
 ## Siehe auch
 
-- [[<% tp.date.now("YYYY-MM-DD") %>]]
+- [[2026-08-13]]
 
 #Hausaufgabe
