@@ -243,7 +243,9 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 1. Wenn dein Freund nicht zu spät angekommen wäre, hätten wir den Zug erreicht.
 > 2. Wenn du rechtzeitig gefrühstückt hätte, wäre ich mit dir gegangen.
 > 3. Wenn du höflich mit ihm gewesen wärst, hätte er uns zu der Party eingeladen.
-> 4. Wenn du meine Katze geliebt hätte, 
+> 4. Wenn du meine Katze geliebt hätte, hättest du nicht auf ihr gesessen.
+> 5. Wenn du zu uns gekommen hättest, hätten wir zusammen der Musik zuhören.
+> 6. Wenn du dich gut anziehen hättest, hättest du dich nicht erkälten.
 
 %%.%%
 
@@ -284,6 +286,8 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 4. Ich hätte den Brief schreiben wollen.
 > 5. Er hätte uns einladen wollen.
 > 6. Du hättest ihr keine Blumen kaufen müssen.
+> 7. Ihr hättet das Kind abholen können.
+> 8. Er hätte den Titel nicht ... müssen.
 
 %%.%%
 
@@ -299,6 +303,8 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 1. Er hat mir gesagt, dass er nicht mit uns hätte kommen wollen.
 > 2. Ich weiß, dass er sich kein Haus hätte kaufen wollen.
 > 3. Deine Großmutti hat gesagt, dass du kein Eis hättest essen dürfen.
+> 4. Niemand weiß, wie viel Geld er seinen Wagen hätte verkaufen wollen.
+> 5. Évi hat gehört, dass schon der beste Schüler die Aufgabe nicht hätte lösen können.
 
 %%.%%
 
@@ -338,6 +344,13 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 %%.%%
 > [!success]- Megoldás
 > 1. Der Angler tat so, als ob er einen großen Fisch an der Leine gehabt hätte.
+> 2. Der Lehrer sprach so laut, als ob seine Schüler alle schwerhörig gewesen wären.
+> 3. Unser Nachbar tut so, als ob das Haus und der Garten ihm gehört hätten.
+> 4. Der Junge hat die Fensterscheibe eingeschlagen, aber er tut so, als ob er ganz unschuldig gewesen wäre.
+> 5. Gisella sprang von ihrem Stuhl auf, als ob sie von einer Tarantel gestochen worden gewesen wäre.
+> 6. Der Rennfahrer saß so ruhig hinter dem Steuer seines Rennwagens, als ob er eine Spazierfahrt gemacht hätte.
+> 7. Der Hund kam auf mich zugerannt, als ob er mich in Stücke hätte reißen wollen.
+> 8. Das Mädchen fuhr auf ihnen Skiern so geschickt den Berg hinunter, als ob sie das schon tausendmal geübt gehabt hätte.
 
 %%.%%
 

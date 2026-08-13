@@ -65,7 +65,9 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs — lásd [[Vorgangspassiv]] elméletét az önellenőrzéshez.)*
+> 1. Der Schweinebraten **wird** mit viel Knoblauch **zubereitet**. **b)**
+> 2. Der abgelaufene Reisepass **muss verlängert werden**. **c)**
+> 3. Der Kaffee **wird** im Mikrowellenherd **gewärmt können**
 %%.%%
 
 ## 3. Zu + Infinitiv (Válaszd ki a helyes megoldást!)
