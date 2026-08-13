@@ -174,8 +174,8 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 2. Ha kiderülne, hogy ő lopta el a kocsit, felhívnám a rendőrséget.
 > 3. Ha tudnám miért tette ezt, most jobban érezném magam.
 > 4. Még ha a legszebb lány is lenne a városban, nem venném el.
-> 5. Ha a helyedben lennék, elutaznék a nagynénémhez.
-> 6. Ha tudná, hol lakik, felkeresné. **HF**
+> 5. Ha a helyedben lennék, elutaznék a nagynénémhez. **HF**
+> 6. Ha tudná, hol lakik, felkeresné.
 > 7. Még ha könyörögne, akkor sem árulnám el a titkot.
 > 8. Ha a helyedben lennék, még a következő gyakorlatot is megcsinálnám.
 
@@ -185,7 +185,10 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 2. Wenn es sich herausstellte, dass sie das Auto gestohlen hat, würde ich die Polizei anrufen.
 > 3. Wenn ich wüsste, warum er das getan hat, würde ich mich jetzt besser fühlen.
 > 4. Selbst wenn sie das schönste Mädchen in der Stadt wäre, würde ich sie nicht heiraten.
-> 5. Wenn ich an deiner Stelle wäre, 
+> 5. Wenn ich an deiner Stelle wäre, würde ich zu meiner Tante fahren. **HF**
+> 6. Wenn er wüsste, wo er wohnt, würde er ihn aufsuchen.
+> 7. Selbst wenn er ...
+> 8. Wenn ich an deiner Stelle wäre, würde ich die nächste Übung machen. 
 
 %%.%%
 
@@ -204,6 +207,9 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 > 2. Wenn ich diese Aufgabe lösen könnte, wäre ich Einstein.
 > 3. Wenn ihr mein Auto reparieren könntet, könnten wir damit an den Plattensee fahren.
 > 4. Wenn er über meine Ex-Freundin sprechen wollte, würde ich den Ausgang suchen.
+> 5. Wenn ich Deutsch lernen wollte, wäre ich der Beste. **HF**
+> 6. Wenn du ihm aufholen wollte, könnte du ihm aufholen.
+> 7. Wenn er meine Katze schlagen würde, legte er für zwei Tage im Krankenhaus.
 
 %%.%%
 
@@ -234,7 +240,10 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wenn dein Freund nicht zu spät angekommen wäre, hätten wir den Zug erreicht.
+> 2. Wenn du rechtzeitig gefrühstückt hätte, wäre ich mit dir gegangen.
+> 3. Wenn du höflich mit ihm gewesen wärst, hätte er uns zu der Party eingeladen.
+> 4. Wenn du meine Katze geliebt hätte, 
 
 %%.%%
 
