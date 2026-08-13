@@ -67,7 +67,15 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > [!success]- Megoldás
 > 1. Der Schweinebraten **wird** mit viel Knoblauch **zubereitet**. **b)**
 > 2. Der abgelaufene Reisepass **muss verlängert werden**. **c)**
-> 3. Der Kaffee **wird** im Mikrowellenherd **gewärmt können**
+> 3. Der Kaffee **hat** im Mikrowellenherd **aufgewärmt werden können**. **b)**
+> 4. Die Stadtmauer **wurde** im 12. Jahrhundert **gebaut**. **b)**
+> 5. **Bist** du zur Party **eingeladen worden**? **a)**
+> 6. Aus diesem Stoff **kann** kein Anzug **genäht werden**. **a)**
+> 7. **Darf** der Fernseher **eingeschaltet werden**? **b)**
+> 8. Die Ausgestellten Gegenstände **dürfen** nicht **berührt werden**. **d)**
+> 9. **Dieser Roman wurde noch nicht vergefilmt.** **a)** ???
+> 10. Die Ausstellung wird **von Herrn Schön eröffnet**. **d)**
+
 %%.%%
 
 ## 3. Zu + Infinitiv (Válaszd ki a helyes megoldást!)
@@ -96,7 +104,17 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs — lásd [[Zu + Infinitiv (Grundlagen)]] elméletét az önellenőrzéshez.)*
+> 1. Ich verbiete euch, mich vor 8 Uhr **zu stören**. **b)**
+> 2. Die Verkäuferin glaubt, nicht unhöflich **gewesen zu sein**. **c)**
+> 3. Es ist verboten, den Elefanten im Zoo **zu füttern**. **d)**
+> 4. Der Beamte freut sich **versetzt zu haben**. **b)**
+> 5. Er schämte sich, **gelogen zu haben**. **b)**
+> 6. Der junge Automechaniker glaubt, alle Autos **reparieren zu können**. **a)**
+> 7. Der Kranke hofft, von seiner Krankheit durch eine Kur **geheilt zu werden**. **b)**
+> 8. Es wird gebeten, im Konferenzsaal nicht **zu rauchen**. **a)**
+> 9. Das Kind hat den Spinat nicht **essen wollen**. **d)**
+> 10. Der Biologe behauptete, in Asien viele interessante Schmetterlinge **gesehen zu haben**. **b)**
+
 %%.%%
 
 ## 4. Ohne/anstatt/scheinen zu + Inf (Válaszd ki a helyes megoldást!)
@@ -131,28 +149,39 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 ## Test I.
 
 > [!question]- 1. Kösd össze a mondatokat a „weil" kötőszóval!
-> - Stefan Heine hat nur sehr wenig Geld. Er ist schon seit 3 Jahren arbeitslos.
-> - Torsten muss morgen sehr früh aufstehen. Sein Zug fährt schon um 5:15 Uhr ab.
-> - Franks Fahrrad wurde gestohlen. Deshalb muss er jetzt zu Fuß zur Uni gehen.
-> - Bruno hat keine Zeit Fußball zu spielen, denn er muss sich auf einen Test vorbereiten.
+> 1. Stefan Heine hat nur sehr wenig Geld. Er ist schon seit 3 Jahren arbeitslos.
+> 2. Torsten muss morgen sehr früh aufstehen. Sein Zug fährt schon um 5:15 Uhr ab.
+> 3. Franks Fahrrad wurde gestohlen. Deshalb muss er jetzt zu Fuß zur Uni gehen.
+> 4. Bruno hat keine Zeit Fußball zu spielen, denn er muss sich auf einen Test vorbereiten.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Stefan Heine hat nur sehr wenig Geld, weil er schon seit 3 Jahren arbeitslos ist.
+> 2. Torsten muss morgen sehr früh aufstehen, weil sein Zug schon um 5:15 Uhr abfährt.
+> 3. Frank muss jetzt zu Fuß zur Uni gehen, weil sein Fahrrad gestohlen wurde.
+> 4. Bruno hat keine Zeit Fußball zu spielen, weil er sich auf einen Test vorbereiten muss.
+
 %%.%%
 
 > [!question]- 2. Alkoss Infinitiv mondatokat!
-> - In der Wohnung darf man keine Hunde halten. Das ist verboten.
-> - Der Vorgesetzte will seine Mitarbeiter dazu zwingen, dass sie täglich Überstunden leisten.
-> - Herr Spöker könnte vielleicht seinen Arbeitsplatz verlieren. Davor hat er Angst.
-> - Frau Radlerwitz fährt nicht gern Rad. Das macht ihr keinen Spaß.
-> - Alfons repariert das Fahrrad nicht. Dafür hat er keine Zeit.
-> - Übermorgen fliegen wir für 3 Wochen nach Spanien. Darauf freuen wir uns.
-> - Ich kann seinen Lamborghini für 3000 Euro kaufen. Das hat er mir angeboten.
+> 1. In der Wohnung darf man keine Hunde halten. Das ist verboten.
+> 2. Der Vorgesetzte will seine Mitarbeiter dazu zwingen, dass sie täglich Überstunden leisten.
+> 3. Herr Spöker könnte vielleicht seinen Arbeitsplatz verlieren. Davor hat er Angst.
+> 4. Frau Radlerwitz fährt nicht gern Rad. Das macht ihr keinen Spaß.
+> 5. Alfons repariert das Fahrrad nicht. Dafür hat er keine Zeit.
+> 6. Übermorgen fliegen wir für 3 Wochen nach Spanien. Darauf freuen wir uns.
+> 7. Ich kann seinen Lamborghini für 3000 Euro kaufen. Das hat er mir angeboten.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Es ist verboten, in der Wohnung Hunde zu halten.
+> 2. Der Vorgesetzte will seine Mitarbeiter zwingen, täglich Überstunden zu leisten.
+> 3. Herr Spöker hat Angst, vielleicht seinen Arbeitsplatz zu verlieren.
+> 4. Frau Radlerwitz macht es keinen Spaß, gern Rad zu fahren.
+> 5. Alfons hat keine Zeit, das Fahrrad zu reparieren.
+> 6. Wir freuen uns, übermorgen für 3 Wochen nach Spanien zu fliegen.
+> 7. 
+
 %%.%%
 
 > [!question]- 3. Alkoss passzív mondatokat!
