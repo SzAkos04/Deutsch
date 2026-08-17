@@ -56,12 +56,15 @@
             "id": "63789df599b673cd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+                "file": "05_Kurs/Materialen/Extra/HALADÓ NÉMET 50. ÓRÁS TESZT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Menschen B1"
+              "icon": "lucide-file",
+              "title": "HALADÓ NÉMET 50. ÓRÁS TESZT"
             }
           }
         ],
@@ -306,8 +309,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "49a5f8c85340df93",
+  "active": "63789df599b673cd",
   "lastOpenFiles": [
+    "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Materialen/Extra/HALADÓ NÉMET 50. ÓRÁS TESZT.md",
     "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording_1686x768.mp4",
     "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording.mp4",
     "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording.cc.vtt",
@@ -318,7 +323,6 @@
     "05_Kurs/Materialen/Stunden/20260810/GMT20260810-160513_RecordingnewChat.txt",
     "05_Kurs/Materialen/Stunden/20260803/GMT20260803-160630_Recording_1686x768.mp4",
     "05_Kurs/Materialen/Stunden/20260803/GMT20260803-160630_Recording.mp4",
-    "05_Kurs/Materialen/Stunden/20260803/GMT20260803-160630_Recording.cc.vtt",
     "01_Grammatik/Konjunktiv II.md",
     "01_Grammatik/Wiederholungstests.md",
     "01_Grammatik/Vorgangspassiv.md",
@@ -343,7 +347,6 @@
     "05_Kurs/Unterricht/2026-07-09.md",
     "05_Kurs/Unterricht/2026-07-06.md",
     "01_Grammatik/Adjektivdeklination.md",
-    "01_Grammatik/Grammatik MOC.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
