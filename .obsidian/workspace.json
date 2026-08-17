@@ -282,8 +282,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
@@ -306,8 +306,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "63789df599b673cd",
+  "active": "49a5f8c85340df93",
   "lastOpenFiles": [
+    "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording_1686x768.mp4",
+    "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording.mp4",
+    "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording.cc.vtt",
+    "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_RecordingnewChat.txt",
     "05_Kurs/Materialen/Stunden/20260810/GMT20260810-160513_Recording_1686x768.mp4",
     "05_Kurs/Materialen/Stunden/20260810/GMT20260810-160513_Recording.mp4",
     "05_Kurs/Materialen/Stunden/20260810/GMT20260810-160513_Recording.cc.vtt",
@@ -315,12 +319,8 @@
     "05_Kurs/Materialen/Stunden/20260803/GMT20260803-160630_Recording_1686x768.mp4",
     "05_Kurs/Materialen/Stunden/20260803/GMT20260803-160630_Recording.mp4",
     "05_Kurs/Materialen/Stunden/20260803/GMT20260803-160630_Recording.cc.vtt",
-    "05_Kurs/Materialen/Stunden/20260803/GMT20260803-160630_RecordingnewChat.txt",
     "01_Grammatik/Konjunktiv II.md",
     "01_Grammatik/Wiederholungstests.md",
-    "05_Kurs/Materialen/Stunden/20260813",
-    "05_Kurs/Materialen/Stunden/untitled folder",
-    "05_Kurs/Materialen/Stunden/20260810",
     "01_Grammatik/Vorgangspassiv.md",
     "_Vorlagen/Hausaufgabe Vorlage.md",
     "_Vorlagen/Unterricht Vorlage.md",
