@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Kurs/Unterricht/2026-08-31.md",
+                "file": "05_Kurs/Hausaufgaben/2026-08-31 Hausaufgaben.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-31"
+              "title": "2026-08-31 Hausaufgaben"
+            }
+          },
+          {
+            "id": "82d1509857865cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Grammatik/Relativsatz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Relativsatz"
             }
           },
           {
@@ -34,7 +49,8 @@
               "title": "Menschen B1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,16 +250,17 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "82d1509857865cca",
   "lastOpenFiles": [
-    "05_Kurs/Unterricht/2026-08-24.md",
+    "05_Kurs/Hausaufgaben/2026-08-31 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-08-31.md",
+    "05_Kurs/Unterricht/2026-08-24.md",
+    "05_Kurs/Unterricht/2026-08-17.md",
+    "05_Kurs/Unterricht/2026-08-13.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "MOC.md",
     "05_Kurs/Unterricht/2026-09-02.md",
-    "05_Kurs/Unterricht/2026-08-17.md",
     "05_Kurs/Unterricht/2026-07-20.md",
-    "05_Kurs/Unterricht/2026-08-13.md",
     "05_Kurs/Unterricht/2026-08-10.md",
     "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording_1686x768.mp4",
     "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording.mp4",

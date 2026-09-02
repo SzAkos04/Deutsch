@@ -46,7 +46,7 @@ Ha a vonatkozó névmáshoz egy prepozíció is társul, akkor a prepozíció me
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
 %%.%%
 
-> [!question]- Feladat 2 – Használd a megfelelő vonatkozó névmást!
+> [!question]- Feladat 2 – Használd a megfelelő vonatkozó névmást! **HF**
 > In unserem Vorzimmer steht ein alter Schrank, ………….. noch mein Opa gekauft hat. Sie spricht eben über ein Hochhaus, ………….. 100 Stockwerke hat. Jetzt kommt dein Freund, ………….. Kinder so böse waren. Neben uns wohnen jene Leute, ………….. Kinder in unserer Schule lernen. Dort steigen jene Schüler in den Bus ein, ………….. die Lehrerin immer nur gute Noten gab. Mein Cousin hat ein altes Motorrad, …………..Motor kaputtgegangen ist. Das Segelflugzeug ist ein Flugzeug, ………….. ohne Motor fliegen kann. Ich habe eine Katze, ………….. immer nur essen will. Wo sind die Gäste, ………….. Mäntel noch im Vorzimmer hängen? Weißt du was über die Frau, ………….. Kinder jetzt in Kanada arbeiten?
 
 %%.%%
@@ -70,7 +70,7 @@ Ha a vonatkozó névmáshoz egy prepozíció is társul, akkor a prepozíció me
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
 %%.%%
 
-> [!question]- Feladat 5 – Pótold a hiányzó prepozíciót és vonatkozó névmást!
+> [!question]- Feladat 5 – Pótold a hiányzó prepozíciót és vonatkozó névmást! **HF**
 > Das Geschäft, ………………. ich jeden Tag einkaufe, ist heute geschlossen. Kennst du den Film, ………………. man so viel spricht? Das Bett, ………………. ich 20 Jahre lang geschlafen habe, verkaufe ich. Die Tasse, ………………. der Gast trank, ist zerbrochen. Wie geht es deinem Freund, ………………. du Urlaub gemacht hast? Die Stadt, ……………….Straßen wir spazieren, ist uralt. Meine Verwandten, ………………. ich oft denke, wohnen jetzt in den USA. Wo wohnt die Dame, ………………. wir so lange gewartet haben. Das ist ein Schneckenhaus, ………………. eine Schnecke wohnte. Der Schlüssel, ………………. Hilfe ich die Tür öffnete, gehört eigentlich meinem Nachbarn.
 
 %%.%%
@@ -89,7 +89,7 @@ Ha a vonatkozó névmáshoz egy prepozíció is társul, akkor a prepozíció me
 > - Seine Bücher habe ich auf deinem Tisch liegen sehen.
 > - Du hast mir neulich schon mal von ihm erzählt.
 >
-> **Hier ist die Uhr, …!**
+> **Hier ist die Uhr, …!** **HF**
 > - Ich habe sie so lange gesucht.
 > - Du hast sie mir geschenkt.
 > - Ich bin damit versehentlich ins Wasser gegangen.
@@ -97,7 +97,7 @@ Ha a vonatkozó névmáshoz egy prepozíció is társul, akkor a prepozíció me
 > - Du hast so davon geschwärmt.
 > - Ich bin damit beim Uhrmacher gewesen.
 >
-> **Das Buch, …, gehört mir.**
+> **Das Buch, …, gehört mir.** **HF**
 > - Es hat einen blauen Einband.
 > - Du liest darin.
 > - Du hast davon gesprochen.
