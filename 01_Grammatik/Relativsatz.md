@@ -39,43 +39,106 @@ Ha a vonatkozó névmáshoz egy prepozíció is társul, akkor a prepozíció me
 ## Feladatok
 
 > [!question]- Feladat 1 – Forditsd le mind a négy esetet használva!
-> Ismered a férfit, aki nyáron kabátot hord? / Nálatok vannak a gyerekek, akiknek csokoládét adtam? / A környéken laknak azok a rokonaim, akiknek a szülei Kanadában élnek. / Emlékszel még a lányra, aki mellettünk lakott? / Hol vannak a vázák, amelyeket ide állítottam? / Azt a kerékpárt adtam oda neki, amelyiknek a kereke lukas. / Azokról a városokról beszélt, amelyeket ti is láttatok. / A főnök várja a titkárnőt, akinek mindig diktál. / Ismerek egy lányt, aki napjában kétszer borotválkozik.
+> 1. Ismered a férfit, aki nyáron kabátot hord?
+> 2. Nálatok vannak a gyerekek, akiknek csokoládét adtam?
+> 3. A környéken laknak azok a rokonaim, akiknek a szülei Kanadában élnek.
+> 4. Emlékszel még a lányra, aki mellettünk lakott?
+> 5. Hol vannak a vázák, amelyeket ide állítottam?
+> 6. Azt a kerékpárt adtam oda neki, amelyiknek a kereke lukas.
+> 7. Azokról a városokról beszélt, amelyeket ti is láttatok.
+> 8. A főnök várja a titkárnőt, akinek mindig diktál.
+> 9. Ismerek egy lányt, aki napjában kétszer borotválkozik.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Kennst du den Mann, der am Sommer einen Mantel trägt?
+> 2. Sind die Kinder bei dir, denen ich Schokolade gegeben habe.
+> 3. In der Gegend wohnt meine Verwandten, deren Eltern in Kanada wohnen.
+> 4. Erinnerst du dich an das Mädchen, die neben uns wohnt?
+> 5. Wo sind die Vasen, die ich hier stellte.
+> 6. Ich habe das Fahrrad ihm gegeben, dessen Rad platten ist.
+> 7. Er hat über die Städte gesprochen, die ihr gesehen habt.
+> 8. Der Chef wartet auf die Sekretärin, der er immer diktiert.
+> 9. Ich kenne ein Mädchen, die zweimal täglich sich rasiert.
+
 %%.%%
 
 > [!question]- Feladat 2 – Használd a megfelelő vonatkozó névmást! **HF**
-> In unserem Vorzimmer steht ein alter Schrank, ………….. noch mein Opa gekauft hat. Sie spricht eben über ein Hochhaus, ………….. 100 Stockwerke hat. Jetzt kommt dein Freund, ………….. Kinder so böse waren. Neben uns wohnen jene Leute, ………….. Kinder in unserer Schule lernen. Dort steigen jene Schüler in den Bus ein, ………….. die Lehrerin immer nur gute Noten gab. Mein Cousin hat ein altes Motorrad, …………..Motor kaputtgegangen ist. Das Segelflugzeug ist ein Flugzeug, ………….. ohne Motor fliegen kann. Ich habe eine Katze, ………….. immer nur essen will. Wo sind die Gäste, ………….. Mäntel noch im Vorzimmer hängen? Weißt du was über die Frau, ………….. Kinder jetzt in Kanada arbeiten?
+> 1. In unserem Vorzimmer steht ein alter Schrank, ………….. noch mein Opa gekauft hat.
+> 2. Sie spricht eben über ein Hochhaus, ………….. 100 Stockwerke hat.
+> 3. Jetzt kommt dein Freund, ………….. Kinder so böse waren.
+> 4. Neben uns wohnen jene Leute, ………….. Kinder in unserer Schule lernen.
+> 5. Dort steigen jene Schüler in den Bus ein, ………….. die Lehrerin immer nur gute Noten gab.
+> 6. Mein Cousin hat ein altes Motorrad, …………..Motor kaputtgegangen ist.
+> 7. Das Segelflugzeug ist ein Flugzeug, ………….. ohne Motor fliegen kann.
+> 8. Ich habe eine Katze, ………….. immer nur essen will.
+> 9. Wo sind die Gäste, ………….. Mäntel noch im Vorzimmer hängen?
+> 10. Weißt du was über die Frau, ………….. Kinder jetzt in Kanada arbeiten?
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. In unserem Vorzimmer steht ein alter Schrank, **den** noch mein Opa gekauft hat.
+> 2. Sie spricht eben über ein Hochhaus, **das** 100 Stockwerke hat.
+> 3. Jetzt kommt dein Freund, **dessen** Kinder so böse waren.
+> 4. Neben uns wohnen jene Leute, **deren** Kinder in unsere Schule lernen.
+> 5. Dort steigen jene Schüler in den Bus ein, **denen** die Lehrerin immer nur gute Noten gab.
+> 6. Mein Cousin hat ein altes Motorrad, **dessen** Motor kaputtgegangen ist.
+> 7. Das Segelflugzeug ist ein Flugzeug, **das** ohne Motor fliegen kann.
+> 8. Ich habe eine Katze, **die** immer nur essen will.
+> 9. Wo sind die Gäste, **deren** Mäntel noch im Vorzimmer hängen?
+> 10. Weißt du was über die Frau, **deren** Kinder jetzt in Kanada arbeiten?
+
 %%.%%
 
 > [!question]- Feladat 3 (prepozícióval) – Fordítsd le a mondatokat!
-> Látod már a buszt, amire várunk? / Ismered a házat, amely előtt a kocsim áll? / Az utca, amelybe az a kocsi befordul, nagyon régi. / A kert, amelyben olyan sokat dolgoztam, már nagyon szép. / A lány, akivel most beszéltél, a húgom. / A felhőkarcoló, amely előtt a kocsid parkol, a nagyapámé. / A férfi, akiről olyan sokat hallani, mellettünk lakik. / A téma, amiről most mindenki beszél, nagyon unalmas. / A lány, akire mindig gondolok, hozzámegy Bélához.
+> 1. Látod már a buszt, amire várunk?
+> 2. Ismered a házat, amely előtt a kocsim áll?
+> 3. Az utca, amelybe az a kocsi befordul, nagyon régi.
+> 4. A kert, amelyben olyan sokat dolgoztam, már nagyon szép.
+> 5. A lány, akivel most beszéltél, a húgom.
+> 6. A felhőkarcoló, amely előtt a kocsid parkol, a nagyapámé.
+> 7. A férfi, akiről olyan sokat hallani, mellettünk lakik.
+> 8. A téma, amiről most mindenki beszél, nagyon unalmas.
+> 9. A lány, akire mindig gondolok, hozzámegy Bélához.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 4 (Genitiv + prepozíció) – Fordítsd le a mondatokat!
-> A nő, akinek a gyerekeire várok, a közelben lakik. / Az autó, amelynek a kerekével játszottál, a szakadékba zuhant. / A nagymama, akinek a protézisével játszottál, holnap jön haza. / Az utazási iroda, amelynek az utazásán részt vettünk, egyre gazdagabb. / A tanárnő, akinek a férjéhez megyünk, megbetegedett. / A kávéfőző, amelybe a hörcsögeidet raktad, tönkrement. / A kocsit, amelynek a kereke alatt fekszik a sapkája, megpróbálja eltolni. / A zenész, akinek a hegedűjében egy egér cincog, ma nem tud aludni.
+> 1. A nő, akinek a gyerekeire várok, a közelben lakik.
+> 2. Az autó, amelynek a kerekével játszottál, a szakadékba zuhant.
+> 3. A nagymama, akinek a protézisével játszottál, holnap jön haza.
+> 4. Az utazási iroda, amelynek az utazásán részt vettünk, egyre gazdagabb.
+> 5. A tanárnő, akinek a férjéhez megyünk, megbetegedett.
+> 6. A kávéfőző, amelybe a hörcsögeidet raktad, tönkrement.
+> 7. A kocsit, amelynek a kereke alatt fekszik a sapkája, megpróbálja eltolni.
+> 8. A zenész, akinek a hegedűjében egy egér cincog, ma nem tud aludni.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 5 – Pótold a hiányzó prepozíciót és vonatkozó névmást! **HF**
-> Das Geschäft, ………………. ich jeden Tag einkaufe, ist heute geschlossen. Kennst du den Film, ………………. man so viel spricht? Das Bett, ………………. ich 20 Jahre lang geschlafen habe, verkaufe ich. Die Tasse, ………………. der Gast trank, ist zerbrochen. Wie geht es deinem Freund, ………………. du Urlaub gemacht hast? Die Stadt, ……………….Straßen wir spazieren, ist uralt. Meine Verwandten, ………………. ich oft denke, wohnen jetzt in den USA. Wo wohnt die Dame, ………………. wir so lange gewartet haben. Das ist ein Schneckenhaus, ………………. eine Schnecke wohnte. Der Schlüssel, ………………. Hilfe ich die Tür öffnete, gehört eigentlich meinem Nachbarn.
+> 1. Das Geschäft, ………………. ich jeden Tag einkaufe, ist heute geschlossen.
+> 2. Kennst du den Film, ………………. man so viel spricht?
+> 3. Das Bett, ………………. ich 20 Jahre lang geschlafen habe, verkaufe ich.
+> 4. Die Tasse, ………………. der Gast trank, ist zerbrochen.
+> 5. Wie geht es deinem Freund, ………………. du Urlaub gemacht hast?
+> 6. Die Stadt, ……………….Straßen wir spazieren, ist uralt.
+> 7. Meine Verwandten, ………………. ich oft denke, wohnen jetzt in den USA.
+> 8. Wo wohnt die Dame, ………………. wir so lange gewartet haben.
+> 9. Das ist ein Schneckenhaus, ………………. eine Schnecke wohnte.
+> 10. Der Schlüssel, ………………. Hilfe ich die Tür öffnete, gehört eigentlich meinem Nachbarn.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 6 – Kösd össze a mondatokat vonatkozó névmással!
