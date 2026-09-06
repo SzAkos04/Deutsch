@@ -262,7 +262,9 @@ Ahelyett, hogy
 > [!success]- Megoldás
 > 1. Meine Schwiegermutter ärgert mich immer, anstatt zu helfen.
 > 2. Er hat ihm lange Briefe geschrieben, anstatt ihm angerufen.
-> 3. Wir fliegen 
+> 3. Wir fliegen zu ihnen nach Kanada, anstatt dass sie hierher kommen.
+> 4. Sie wartet auf Arbeitslosengeld, anstatt Job zu suchen.
+> 5. Er geht mit Gizi ins Kino, anstatt 
 
 %%.%%
 
