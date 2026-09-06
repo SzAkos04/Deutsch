@@ -264,16 +264,29 @@ Ahelyett, hogy
 > 2. Er hat ihm lange Briefe geschrieben, anstatt ihm angerufen.
 > 3. Wir fliegen zu ihnen nach Kanada, anstatt dass sie hierher kommen.
 > 4. Sie wartet auf Arbeitslosengeld, anstatt Job zu suchen.
-> 5. Er geht mit Gizi ins Kino, anstatt 
+> 5. Er geht mit Gizi ins Kino, anstatt mit mir ins Theater zu gehen.
 
 %%.%%
 
 > [!question]- Feladat 9 (um zu / damit) – Fordítsd le a mondatokat az um zu + Infinitiv és damit + KATI szórendes szerkezeteket használva!
-> Németországba utazok, hogy gyakoroljam a nyelvet. / Gyorsan futunk, hogy elérjük a villamost. / Segítünk a nagyinak, hogy egészséges maradjon. / Az orvos megoperálja a macskámat, hogy sokáig éljen. / Odaadom a fésűmet, hogy fésülködj meg. / Adott nekem egy pofont, hogy jól érezzem magam. / Eljött hozzám, hogy segítsen nekem. / Elmosogatok, hogy anya örüljön. / Felhúzom az órát, hogy nehogy elkéss. / Odaadja a telefonszámát, hogy holnap felhívjam.
+> 1. Németországba utazok, hogy gyakoroljam a nyelvet.
+> 2. Gyorsan futunk, hogy elérjük a villamost.
+> 3. Segítünk a nagyinak, hogy egészséges maradjon.
+> 4. Az orvos megoperálja a macskámat, hogy sokáig éljen.
+> 5. Odaadom a fésűmet, hogy fésülködj meg.
+> 6. Adott nekem egy pofont, hogy jól érezzem magam.
+> 7. Eljött hozzám, hogy segítsen nekem.
+> 8. Elmosogatok, hogy anya örüljön.
+> 9. Felhúzom az órát, hogy nehogy elkéss.
+> 10. Odaadja a telefonszámát, hogy holnap felhívjam.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Ich fahre nach Deutschland, um die Sprache zu üben.
+> 2. Wir laufen schnell, um die Straßenbahn zu erreichen.
+> 3. Wir helfen Oma, damit sie gesund bleibt.
+> 4. 
+
 %%.%%
 
 > [!question]- Feladat 10 – um…zu vagy damit
