@@ -120,7 +120,11 @@ Ahelyett, hogy
 > 3. Am Sonntag braucht ihr nicht so früh aufzustehen.
 > 4. Ihr braucht euch nicht so warm anzuziehen.
 > 5. Das brauchst du ihm nicht zweimal zu sagen...
-> 6. Wahrscheinlich brauche ich nicht zweimal zu sagen, dass ihr auch eingeladen seid.
+> 6. Wahrscheinlich brauche ich euch nicht zweimal zu sagen, dass ihr auch eingeladen seid.
+> 7. Deshalb brauchst du nicht gleich zu weinen.
+> 8. Das brauchst du dir nicht zu merken, das ist nicht so wichtig.
+> 9. Wahrscheinlich brauche ich euch nicht zu sagen, dass ihr im Sommer nicht zur Schule gehen müsst.
+> 10. Heute kaufe ich alles ein, deshalb braucht meine Frau morgen nichts zu besorgen.
 
 %%.%%
 
