@@ -285,28 +285,45 @@ Ahelyett, hogy
 > 1. Ich fahre nach Deutschland, um die Sprache zu üben.
 > 2. Wir laufen schnell, um die Straßenbahn zu erreichen.
 > 3. Wir helfen Oma, damit sie gesund bleibt.
-> 4. 
+> 4. Der Arzt operiert meine Katze, damit sie lange lebt.
+> 5. Ich gebe dich meinen Kamm, damit du dich kämmst.
+> 6. Er hat mir eine Ohrfeige gegeben, damit ich mir gut fühlte.
+> 7. Er ist zu mir gekommen, um mich zu helfen.
+> 8. Ich spüle ab, damit sich Mutti freut.
+> 9. Ich stelle den Wecker, damit du dich nicht verspätest.
+> 10. Er gibt mir seine Telefonnummer, damit ich ihn morgen anrufe.
 
 %%.%%
 
 > [!question]- Feladat 10 – um…zu vagy damit
-> Ich habe die Anzeigen in der Zeitung studiert. Ich wollte eine schöne Wohnung finden.
-> Ich bin in die Stadt gefahren. Ich wollte eine Adresse erfragen.
-> Ich beeilte mich. Niemand sollte mir zuvorkommen.
-> Wir haben die Wohnung genau vermessen. Die Möbel sollen später auch hineinpassen.
-> Ich habe viele kleine Sachen mit dem eigenen Wagen transportiert. Ich wollte Umzugskosten sparen.
+> 1. Ich habe die Anzeigen in der Zeitung studiert. Ich wollte eine schöne Wohnung finden.
+> 2. Ich bin in die Stadt gefahren. Ich wollte eine Adresse erfragen.
+> 3. Ich beeilte mich. Niemand sollte mir zuvorkommen.
+> 4. Wir haben die Wohnung genau vermessen. Die Möbel sollen später auch hineinpassen.
+> 5. Ich habe viele kleine Sachen mit dem eigenen Wagen transportiert. Ich wollte Umzugskosten sparen.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Ich habe die Anzeigen in der Zeitung studiert, um eine schöne Wohnung zu finden.
+> 2. Ich bin in die Stadt gefahren, um eine Adresse zu erfragen.
+> 3. Ich beeilte mich, damit mir niemand zuvorkam.
+> 4. Wir haben die Wohnung genau vermessen, damit die Möbel später auch hineinpassen.
+> 5. Ich habe viele kleine Sachen mit dem eigenen Wagen transportiert, um Umzugskosten zu sparen.
+
 %%.%%
 
 > [!question]- Feladat 11 (módbeli segédigével) – Fordítsd le a mondatokat!
-> A testvérem segít nekem, hogy meg tudjam írni a házit. / Sokat alszik, hogy holnap jól tudjon vezetni. / Hogy gyorsabban tudjon futni, mindig keveset eszik. / Becsukom az ajtót, hogy ne tudjon kimenni a kutya. / Megjavítom a kocsiját, hogy meg tudja nyerni a versenyt. / Inkább taxival megyek a repülőtérre, hogy el tudjam érni a repülőt.
+> 1. A testvérem segít nekem, hogy meg tudjam írni a házit.
+> 2. Sokat alszik, hogy holnap jól tudjon vezetni.
+> 3. Hogy gyorsabban tudjon futni, mindig keveset eszik.
+> 4. Becsukom az ajtót, hogy ne tudjon kimenni a kutya.
+> 5. Megjavítom a kocsiját, hogy meg tudja nyerni a versenyt.
+> 6. Inkább taxival megyek a repülőtérre, hogy el tudjam érni a repülőt.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Mein Schwester 
+
 %%.%%
 
 > [!question]- Feladat 12 – um…zu, ohne…zu, anstatt…zu
