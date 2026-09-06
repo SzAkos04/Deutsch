@@ -129,19 +129,53 @@ Ahelyett, hogy
 %%.%%
 
 > [!question]- Feladat 3 (haben zu) – Fordítsd le a mondatokat!
-> Még ma meg kell csinálnod a házidat. / Írnunk kell egy levelezőlapot. / A mérnöknek meg kell terveznie a házat. / Anyát fel kell hívnod 2-kor. / Ki kell takarítanod a szobát. / Be kell fizetnem a pénzt. / A péknek friss kenyeret kell sütnie. / Az orvosnak meg kell gyógyítania a beteget. / Be kell pakolnunk a bőröndbe. / Két levelet kell írnom. / Fel kell húznom az órát. / Fel kell adnia a csomagot.
+> 1. Még ma meg kell csinálnod a házidat.
+> 2. Írnunk kell egy levelezőlapot.
+> 3. A mérnöknek meg kell terveznie a házat.
+> 4. Anyát fel kell hívnod 2-kor.
+> 5. Ki kell takarítanod a szobát.
+> 6. Be kell fizetnem a pénzt.
+> 7. A péknek friss kenyeret kell sütnie.
+> 8. Az orvosnak meg kell gyógyítania a beteget.
+> 9. Be kell pakolnunk a bőröndbe.
+> 10. Két levelet kell írnom.
+> 11. Fel kell húznom az órát.
+> 12. Fel kell adnia a csomagot.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Du hast noch heute deine Hausaufgabe zu machen.
+> 2. Wir haben eine Postkarte schreiben.
+> 3. Der Ingenieur hat das Haus zu entwerfen.
+> 4. Du hast Mutti um 2 Uhr anzurufen.
+> 5. Du hast dein Zimmer aufzuräumen.
+> 6. Ich habe das Geld zu bezahlen.
+> 7. Der Bäcker hat frisches Brot zu backen.
+> 8. Der Arzt hat der Patient zu heilen.
+> 9. Wir haben in den Koffer zu packen.
+> 10. Ich habe zwei Briefe zu schreiben.
+> 11. Ich habe die Uhr aufzuziehen.
+> 12. Er hat den Pack aufzugeben.
+
 %%.%%
 
 > [!question]- Feladat 4 (sein zu) – Fejezz ki lehetőséget és szükségszerűséget a sein zu + Infinitivvel.
-> Ezt a levelet még ma meg kell írni. / Ez alig hihető. / Ez a szabály könnyen megtanulható. / Ezt a virágot gyakran kell locsolni. / Ezt a könyvet egyszerűen nem lehet elolvasni. / Ez a vers lefordíthatatlan. / A magatartása nem magyarázható. / Az almát alaposan meg kell mosni. / A munkát még ezen a héten be kell fejezni. / Az írásod alig olvasható.
+> 1. Ezt a levelet még ma meg kell írni.
+> 2. Ez alig hihető.
+> 3. Ez a szabály könnyen megtanulható.
+> 4. Ezt a virágot gyakran kell locsolni.
+> 5. Ezt a könyvet egyszerűen nem lehet elolvasni.
+> 6. Ez a vers lefordíthatatlan.
+> 7. A magatartása nem magyarázható.
+> 8. Az almát alaposan meg kell mosni.
+> 9. A munkát még ezen a héten be kell fejezni.
+> 10. Az írásod alig olvasható.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Dieser Brief ist noch heute zu schreiben.
+> 2. Das ist kaum glaublich.
+
 %%.%%
 
 > [!question]- Feladat 5 – Haben vagy sein zu + Infinitiv?
