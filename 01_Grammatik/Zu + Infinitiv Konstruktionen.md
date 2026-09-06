@@ -174,32 +174,80 @@ Ahelyett, hogy
 %%.%%
 > [!success]- Megoldás
 > 1. Dieser Brief ist noch heute zu schreiben.
-> 2. Das ist kaum glaublich.
+> 2. Das ist kaum zu glauben.
+> 3. Diese Regel ist leicht zu lernen.
+> 4. Diese Blume oft zu gießen.
+> 5. Dieses Buch ist einfach nicht zu lesen.
+> 6. Dieses Gedicht ist nicht zu übersetzen.
+> 7. Sein Verhalten ist nicht zu erklären.
+> 8. Der Apfel ist gründlich zu waschen.
+> 9. Die Arbeit ist noch diese Woche zu beenden.
+> 10. Dein Schreiben ist kaum zu lesen.
 
 %%.%%
 
 > [!question]- Feladat 5 – Haben vagy sein zu + Infinitiv?
-> A szőlőt alaposan meg kell mosni. / A szőlőt alaposan meg kell mosnom. / Ki kell nyitnom az ablakot. / Az ablakot ki kell nyitni. / Meg kell szerelnem a kocsit. / A kocsit meg kell szerelni. / Fel kell adnom a levelet. / A levelet fel kell adni.
+> 1. A szőlőt alaposan meg kell mosni.
+> 2. A szőlőt alaposan meg kell mosnom.
+> 3. Ki kell nyitnom az ablakot.
+> 4. Az ablakot ki kell nyitni.
+> 5. Meg kell szerelnem a kocsit.
+> 6. A kocsit meg kell szerelni.
+> 7. Fel kell adnom a levelet.
+> 8. A levelet fel kell adni.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Die Traube ist gründlich zu waschen.
+> 2. Ich habe die Traube gründlich zu waschen.
+> 3. Ich habe das Fenster zu öffnen.
+> 4. Das Fenster ist zu öffnen.
+> 5. Ich habe das Auto zu reparieren.
+> 6. Das Auto ist zu reparieren.
+> 7. Ich habe den Brief aufzugeben.
+> 8. Der Brief ist aufzugeben.
+
 %%.%%
 
 > [!question]- Feladat 6 (ohne dass / ohne zu) – Fordítsd le a mondatokat ohne dass-t, vagy ohne zu + Infinitiv-et használva.
-> Belép a szobámba anélkül, hogy kopogna. / Könyveket olvas, anélkül, hogy megértené őket. / Adok neki egy puszit anélkül, hogy megengedné. / Elmegyek a házuk előtt anélkül, hogy észrevenne. / Eljönnek hozzám anélkül, hogy megengedném nekik. / Mindig pontosan érkezem anélkül, hogy lenne karórám. / Megnézi a képeimet anélkül, hogy közben mondana valamit. / Az irodába megy anélkül, hogy elköszönne tőlem.
+> 1. Belép a szobámba anélkül, hogy kopogna.
+> 2. Könyveket olvas, anélkül, hogy megértené őket.
+> 3. Adok neki egy puszit anélkül, hogy megengedné.
+> 4. Elmegyek a házuk előtt anélkül, hogy észrevenne.
+> 5. Eljönnek hozzám anélkül, hogy megengedném nekik.
+> 6. Mindig pontosan érkezem anélkül, hogy lenne karórám.
+> 7. Megnézi a képeimet anélkül, hogy közben mondana valamit.
+> 8. Az irodába megy anélkül, hogy elköszönne tőlem.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Er betritt mein Zimmer, ohne zu klopfen.
+> 2. Er liest Bücher, ohne sie zu verstehen.
+> 3. Ich gebe ihr einen Kuss, ohne dass sie es erlaubt.
+> 4. Ich gehe an ihrem Haus vorbei, ohne dass er mich bemerkt.
+> 5. Sie kommt zu mir, ohne dass ich ihnen erlaube.
+> 6. Ich komme immer pünktlich an, ohne dass ich eine Armbanduhr habe.
+> 7. Er schaut meine Bilder, ohne etwas zu sagen.
+> 8. Er geht ins Kino, ohne sich von mir zu verabschieden.
+
 %%.%%
 
 > [!question]- Feladat 7 (múlt idő, Infinitiv Perfekt) – Fejezz ki előidejűséget Infinitiv Perfekttel!
-> Béla megint kapott egy ötöst anélkül, hogy tanult volna. / A kollégám fizetésemelést kap anélkül, hogy részt vett volna a munkában. / Tudott venni egy új házat anélkül, hogy a régit eladta volna. / Visszavitt néhány könyvet a könyvtárba anélkül, hogy elolvasta volna. / Felvettem az ingemet anélkül, hogy a feleségem kivasalta volna. / A barátom letette a nyelvvizsgát anélkül, hogy tanult volna.
+> 1. Béla megint kapott egy ötöst anélkül, hogy tanult volna.
+> 2. A kollégám fizetésemelést kap anélkül, hogy részt vett volna a munkában.
+> 3. Tudott venni egy új házat anélkül, hogy a régit eladta volna.
+> 4. Visszavitt néhány könyvet a könyvtárba anélkül, hogy elolvasta volna.
+> 5. Felvettem az ingemet anélkül, hogy a feleségem kivasalta volna.
+> 6. A barátom letette a nyelvvizsgát anélkül, hogy tanult volna.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Bela bekam wieder eine Fünf, ohne gelernt zu haben.
+> 2. Mein Kollege bekam eine Gehaltsaufbesserung, ohne an der Arbeit teilgenommen zu haben.
+> 3. Er konnte ein neues Haus kaufen, ohne das alte verkauft zu haben.
+> 4. Er brachte ein paar Bücher in die Bibliothek zurück, ohne sie gelesen zu haben.
+> 5. Ich zog mein Hemd an, ohne dass meine Frau ausgebügelt .
+
 %%.%%
 
 > [!question]- Feladat 8 (anstatt dass / anstatt zu) – Fordítsd le a mondatokat anstatt dass-t, vagy anstatt zu + Infinitiv-et használva.
