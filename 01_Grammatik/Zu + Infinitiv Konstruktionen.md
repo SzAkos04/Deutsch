@@ -322,25 +322,31 @@ Ahelyett, hogy
 
 %%.%%
 > [!success]- Megoldás
-> 1. Mein Schwester 
+> 1. Meine Schwester hilft mir, damit ich meine Hausaufgabe schreiben kann.
+> 2. Er schläft viel, um morgen gut fahren zu können.
+> 3. Er isst immer weniger, um schneller laufen zu können.
+> 4. Ich schließe die Tür, damit der Hund nicht rausgehen kann.
+> 5. Ich repariere seinen Wagen, damit er das Rennen gewinnen kann.
+> 6. Ich fahre lieber mit dem Taxi zum Flughafen, um das Flugzeug zu erwischen.
 
 %%.%%
 
 > [!question]- Feladat 12 – um…zu, ohne…zu, anstatt…zu
-> Drei Bankräuber überfielen eine Bank. Sie wollten schnell reich werden.
-> Sie zählten das Geld nicht. Sie packten es in zwei Aktentaschen.
-> Die Bankräuber wechselten zweimal das Auto. Sie wollten schnell unerkannt verschwinden.
-> Sie nahmen nicht die beiden Taschen mit. Sie ließen eine Tasche im ersten Wagen liegen.
-> Sie kamen nicht noch einmal zurück. Die vergesslichen Gangster rasten mit dem zweiten Auto davon.
-> Sie fuhren zum Flughafen. Sie wollten nach Amerika entkommen.
-> Sie zahlten nicht mit einem Scheck. Sie kauften die Flugtickets mit dem gestohlenen Geld.
-> Sie wollten in der Großstadt untertauchen. Sie verließen in Buenos Aires das Flugzeug, wurden aber sofort verhaftet.
-> Sie ließen sich festnehmen. Sie leisteten keinen Widerstand.
-> Sie wurden nach Deutschland zurückgeflogen. Sie sollten vor Gericht gestellt werden.
+> 1. Drei Bankräuber überfielen eine Bank. Sie wollten schnell reich werden.
+> 2. Sie zählten das Geld nicht. Sie packten es in zwei Aktentaschen.
+> 3. Die Bankräuber wechselten zweimal das Auto. Sie wollten schnell unerkannt verschwinden.
+> 4. Sie nahmen nicht die beiden Taschen mit. Sie ließen eine Tasche im ersten Wagen liegen.
+> 5. Sie kamen nicht noch einmal zurück. Die vergesslichen Gangster rasten mit dem zweiten Auto davon.
+> 6. Sie fuhren zum Flughafen. Sie wollten nach Amerika entkommen.
+> 7. Sie zahlten nicht mit einem Scheck. Sie kauften die Flugtickets mit dem gestohlenen Geld.
+> 8. Sie wollten in der Großstadt untertauchen. Sie verließen in Buenos Aires das Flugzeug, wurden aber sofort verhaftet.
+> 9. Sie ließen sich festnehmen. Sie leisteten keinen Widerstand.
+> 10. Sie wurden nach Deutschland zurückgeflogen. Sie sollten vor Gericht gestellt werden.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 ---
