@@ -19,7 +19,7 @@ tags: [Grammatik]
 Többnyire tagadó mondatokban alkalmazzuk, jelentése „enyhébb" mint a *müssen*-é vagy a *sollen*-é.
 *Davor brauchst du keine Angst zu haben.* – Nem kell neked attól félned.
 
-### III. Haben zu + Infinitiv – szükségességet fejez ki (kell, sollen/müssen helyett)
+### III. haben zu + Infinitiv – szükségességet fejez ki (kell, sollen/müssen helyett)
 A *haben zu + Infinitiv*-nél ismerem a cselekvés végrehajtóját (aktív).
 *Er muss mein Auto noch heute reparieren.* = *Er hat mein Auto noch heute zu reparieren.*
 
@@ -28,7 +28,7 @@ A *haben zu + Infinitiv*-vel ellentétben itt nem ismerem a cselekvés végrehaj
 *Das Auto ist nicht mehr zu reparieren.* – Az autót már nem lehet megjavítani.
 *Diese Angelegenheit ist noch heute zu erledigen.* – Ezt az ügyet még ma el kell intézni.
 
-### V. Ohne dass és ohne zu + Infinitiv
+### V. ohne dass és ohne zu + Infinitiv
 Anélkül, hogy…
 - **ohne zu** – azonos alanyoknál
 - **ohne dass** + KATI – különböző alanyoknál, vagy azonos alanyoknál
@@ -63,19 +63,65 @@ Ahelyett, hogy
 ## Feladatok
 
 > [!question]- Feladat 1 (scheinen zu) – Fordítsd le a mondatokat!
-> Úgy tűnik, hogy ma se jön a barátod. / Úgy tűnt, hogy Klári nem érzi jól magát. / Úgy tűnik, hogy hétfőn nem voltak otthon. / Úgy tűnik, hogy tegnap mindent megettek. / A barátod fáradtnak tűnik. / Úgy tűnik, túl sokat ivott. / Úgy tűnik, hogy már felépítették a házat. / Úgy tűnik, hogy eltörted a lábad. / Úgy tűnik, nem fél a kígyótól. / Úgy tűnik, sokat eszik a barátod. / Úgy tűnik tegnap megint hazudott. / Úgy tűnik nem adták el a kocsijukat. / Úgy tűnik, még nem javította meg az órámat. / A feleséged szomorúnak tűnik. / Ez a hal frissnek tűnik. / Úgy tűnik, hogy tegnap mindent megettek.
+> 1. Úgy tűnik, hogy ma se jön a barátod.
+> 2. Úgy tűnt, hogy Klári nem érzi jól magát.
+> 3. Úgy tűnik, hogy hétfőn nem voltak otthon.
+> 4. Úgy tűnik, hogy tegnap mindent megettek.
+> 5. A barátod fáradtnak tűnik.
+> 6. Úgy tűnik, túl sokat ivott.
+> 7. Úgy tűnik, hogy már felépítették a házat.
+> 8. Úgy tűnik, hogy eltörted a lábad.
+> 9. Úgy tűnik, nem fél a kígyótól.
+> 10. Úgy tűnik, sokat eszik a barátod.
+> 11. Úgy tűnik tegnap megint hazudott.
+> 12. Úgy tűnik nem adták el a kocsijukat.
+> 13. Úgy tűnik, még nem javította meg az órámat.
+> 14. A feleséged szomorúnak tűnik.
+> 15. Ez a hal frissnek tűnik.
+> 16. Úgy tűnik, hogy tegnap mindent megettek.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Dein Freund scheint heute nicht zu kommen.
+> 2. Klari scheint nicht so gut angefühlt zu haben.
+> 3. Sie scheinen am Montag nicht zu Hause gewesen zu sein.
+> 4. Sie scheint gestern alles gegessen zu haben.
+> 5. Dein Freund scheint müde zu sein.
+> 6. Er scheint zu viel getrunken zu haben.
+> 7. Das Haus scheint schon gebaut worden zu sein.
+> 8. Du scheinst dich dein Bein gebrochen zu haben.
+> 9. Er scheint vor Schlagen keine Angst zu haben.
+> 10. Dein Freund scheint viel zu essen.
+> 11. Er scheint gestern wieder gelogen zu haben.
+> 12. Sie scheinen sein Auto nicht verkauft zu haben.
+> 13. Er scheint meine Uhr schon nicht repariert zu haben.
+> 14. Deine Frau scheint traurig zu sein.
+> 15. Dieser Fisch scheint frisch zu sein.
+> 16. Sie scheinen gestern alles gegessen zu haben.
+
 %%.%%
 
 > [!question]- Feladat 2 (brauchen zu) – Fordítsd le a mondatokat!
-> Nem kell emiatt idegeskedned! / Nem kell ezt úgy a szívedre venned! / Vasárnap nem kell olyan korán felkelnetek. / Nem kell olyan melegen felöltözködnötök. / Azt nem kell neki kétszer mondanod… / Valószínűleg nem kell mondanom, hogy ti is meg vagytok hívva. / Ezért nem kell mindjárt sírnod. / Ezt nem kell megjegyezned, ez nem olyan fontos. / Valószínűleg nem kell mondanom, hogy nem kell jönnötök nyáron iskolába. / Ma mindent bevásárolok, így a feleségemnek holnap semmit se kell beszereznie.
+> 1. Nem kell emiatt idegeskedned!
+> 2. Nem kell ezt úgy a szívedre venned!
+> 3. Vasárnap nem kell olyan korán felkelnetek.
+> 4. Nem kell olyan melegen felöltözködnötök.
+> 5. Azt nem kell neki kétszer mondanod…
+> 6. Valószínűleg nem kell mondanom, hogy ti is meg vagytok hívva.
+> 7. Ezért nem kell mindjárt sírnod.
+> 8. Ezt nem kell megjegyezned, ez nem olyan fontos.
+> 9. Valószínűleg nem kell mondanom, hogy nem kell jönnötök nyáron iskolába.
+> 10. Ma mindent bevásárolok, így a feleségemnek holnap semmit se kell beszereznie.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Du brauchst dich darüber nicht zu ärgern.
+> 2. Du brauchst dir das nicht zu Herzen zu nehmen.
+> 3. Am Sonntag braucht ihr nicht so früh aufzustehen.
+> 4. Ihr braucht euch nicht so warm anzuziehen.
+> 5. Das brauchst du ihm nicht zweimal zu sagen...
+> 6. Wahrscheinlich brauche ich nicht zweimal zu sagen, dass ihr auch eingeladen seid.
+
 %%.%%
 
 > [!question]- Feladat 3 (haben zu) – Fordítsd le a mondatokat!

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
+                "file": "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Zu + Infinitiv Konstruktionen"
             }
           }
         ]
@@ -206,8 +206,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -232,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,13 +250,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_Kurs/Materialen/Menschen B1.pdf",
-    "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
     "05_Kurs/Hausaufgaben/2026-09-03 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-09-03.md",
+    "MOC.md",
+    "05_Kurs/Materialen/Menschen B1.pdf",
+    "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
     "01_Grammatik/Relativsatz.md",
     "05_Kurs/Unterricht/2026-08-31.md",
-    "MOC.md",
     "05_Kurs/Hausaufgaben/2026-08-31 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-08-24.md",
     "05_Kurs/Unterricht/2026-08-17.md",
