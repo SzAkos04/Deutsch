@@ -246,16 +246,24 @@ Ahelyett, hogy
 > 2. Mein Kollege bekam eine Gehaltsaufbesserung, ohne an der Arbeit teilgenommen zu haben.
 > 3. Er konnte ein neues Haus kaufen, ohne das alte verkauft zu haben.
 > 4. Er brachte ein paar Bücher in die Bibliothek zurück, ohne sie gelesen zu haben.
-> 5. Ich zog mein Hemd an, ohne dass meine Frau ausgebügelt .
+> 5. Ich zog mein Hemd an, ohne dass meine Frau ausgebügelt hatte.
+> 6. Mein Freund legte die Sprachprüfung ab, ohne gelernt zu haben.
 
 %%.%%
 
 > [!question]- Feladat 8 (anstatt dass / anstatt zu) – Fordítsd le a mondatokat anstatt dass-t, vagy anstatt zu + Infinitiv-et használva.
-> Az anyósom mindig idegesít ahelyett, hogy segítene. / Hosszú leveleket ír neki ahelyett, hogy felhívná őt. / Mi repülünk hozzájuk Kanadába ahelyett, hogy ők jönnének ide. / A munkanélküli segélyre vár ahelyett, hogy munkát keresne. / Mozival megy Gizivel ahelyett, hogy velem eljönne a színházba.
+> 1. Az anyósom mindig idegesít ahelyett, hogy segítene.
+> 2. Hosszú leveleket ír neki ahelyett, hogy felhívná őt.
+> 3. Mi repülünk hozzájuk Kanadába ahelyett, hogy ők jönnének ide.
+> 4. A munkanélküli segélyre vár ahelyett, hogy munkát keresne.
+> 5. Moziba megy Gizivel ahelyett, hogy velem eljönne a színházba.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Meine Schwiegermutter ärgert mich immer, anstatt zu helfen.
+> 2. Er hat ihm lange Briefe geschrieben, anstatt ihm angerufen.
+> 3. Wir fliegen 
+
 %%.%%
 
 > [!question]- Feladat 9 (um zu / damit) – Fordítsd le a mondatokat az um zu + Infinitiv és damit + KATI szórendes szerkezeteket használva!
