@@ -120,7 +120,7 @@ Lehetőség/szükségszerűség – andó, -endő, ható, -hető
 > 24. die Liste der bestellten Produkte
 > 25. die gegossenen Pflanzen
 > 26. geschlossene Türen
-> 27. die steigende Arbeitsloskeit
+> 27. die steigende Arbeitslosigkeit
 
 %%.%%
 
