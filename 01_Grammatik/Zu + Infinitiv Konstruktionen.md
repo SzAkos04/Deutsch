@@ -94,7 +94,8 @@ Ahelyett, hogy
 > 10. Dein Freund scheint viel zu essen.
 > 11. Er scheint gestern wieder gelogen zu haben.
 > 12. Sie scheinen sein Auto nicht verkauft zu haben.
-> 13. Er scheint meine Uhr schon nicht repariert zu haben.
+>     Ihr Auto scheint nicht verkauft worden zu sein.
+> 13. Er scheint meine Uhr noch nicht repariert zu haben.
 > 14. Deine Frau scheint traurig zu sein.
 > 15. Dieser Fisch scheint frisch zu sein.
 > 16. Sie scheinen gestern alles gegessen zu haben.
@@ -123,7 +124,7 @@ Ahelyett, hogy
 > 6. Wahrscheinlich brauche ich euch nicht zweimal zu sagen, dass ihr auch eingeladen seid.
 > 7. Deshalb brauchst du nicht gleich zu weinen.
 > 8. Das brauchst du dir nicht zu merken, das ist nicht so wichtig.
-> 9. Wahrscheinlich brauche ich euch nicht zu sagen, dass ihr im Sommer nicht zur Schule gehen müsst.
+> 9. Wahrscheinlich brauche ich euch nicht zu sagen, dass ihr im Sommer nicht zur Schule kommen müsst.
 > 10. Heute kaufe ich alles ein, deshalb braucht meine Frau morgen nichts zu besorgen.
 
 %%.%%
@@ -151,11 +152,11 @@ Ahelyett, hogy
 > 5. Du hast dein Zimmer aufzuräumen.
 > 6. Ich habe das Geld zu bezahlen.
 > 7. Der Bäcker hat frisches Brot zu backen.
-> 8. Der Arzt hat der Patient zu heilen.
-> 9. Wir haben in den Koffer zu packen.
+> 8. Der Arzt hat den Patient zu heilen.
+> 9. Wir haben den Koffer zu packen.
 > 10. Ich habe zwei Briefe zu schreiben.
 > 11. Ich habe die Uhr aufzuziehen.
-> 12. Er hat den Pack aufzugeben.
+> 12. Er hat das Paket aufzugeben.
 
 %%.%%
 
@@ -182,7 +183,7 @@ Ahelyett, hogy
 > 7. Sein Verhalten ist nicht zu erklären.
 > 8. Der Apfel ist gründlich zu waschen.
 > 9. Die Arbeit ist noch diese Woche zu beenden.
-> 10. Dein Schreiben ist kaum zu lesen.
+> 10. Dein Schrift ist kaum zu lesen.
 
 %%.%%
 
@@ -227,8 +228,8 @@ Ahelyett, hogy
 > 4. Ich gehe an ihrem Haus vorbei, ohne dass er mich bemerkt.
 > 5. Sie kommt zu mir, ohne dass ich ihnen erlaube.
 > 6. Ich komme immer pünktlich an, ohne dass ich eine Armbanduhr habe.
-> 7. Er schaut meine Bilder, ohne etwas zu sagen.
-> 8. Er geht ins Kino, ohne sich von mir zu verabschieden.
+> 7. Er schaut meine Bilder an, ohne etwas zu sagen.
+> 8. Er geht ins Büro, ohne sich von mir zu verabschieden.
 
 %%.%%
 
@@ -306,7 +307,7 @@ Ahelyett, hogy
 > [!success]- Megoldás
 > 1. Ich habe die Anzeigen in der Zeitung studiert, um eine schöne Wohnung zu finden.
 > 2. Ich bin in die Stadt gefahren, um eine Adresse zu erfragen.
-> 3. Ich beeilte mich, damit mir niemand zuvorkam.
+> 3. Ich beeilte mich, damit mir niemand zuvorkommen.
 > 4. Wir haben die Wohnung genau vermessen, damit die Möbel später auch hineinpassen.
 > 5. Ich habe viele kleine Sachen mit dem eigenen Wagen transportiert, um Umzugskosten zu sparen.
 
