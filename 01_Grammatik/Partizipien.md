@@ -64,11 +64,64 @@ Lehetőség/szükségszerűség – andó, -endő, ható, -hető
 %%.%%
 
 > [!question]- Feladat 4 – Fordítsd le mindhárom melléknévi igenevet használva!
-> az elolvasott könyv / az író gyerek / egy feladandó hirdetés / egy képzett orvostól / a kicsomagolt ajándékban / az ülő lány fölött / egy kitakarított iroda / az értesítendő rendőrség / a kitöltendő nyomtatványon / egy berendezett szoba / az elénekelt dal szövege / egy várakozó utas mellett / egy megterített asztalon / a kiadó szoba / egy felépült ház sarkán / egy síró gyerek / a dolgozó asszony / egy éneklő csapat / a futó sportolóról / a virágzó növény / a megtalált kincsekből / egy állólámpa alatt / egy alvó kutya mögött / a megrendelt áruk listája / a megöntözött növények / zárt ajtók / a növekvő munkanélküliség
+> 1. az elolvasott könyv
+> 2. az író gyerek
+> 3. egy feladandó hirdetés
+> 4. egy képzett orvostól
+> 5. a kicsomagolt ajándékban
+> 6. az ülő lány fölött
+> 7. egy kitakarított iroda
+> 8. az értesítendő rendőrség
+> 9. a kitöltendő nyomtatványon
+> 10. egy berendezett szoba
+> 11. az elénekelt dal szövege
+> 12. egy várakozó utas mellett
+> 13. egy megterített asztalon
+> 14. a kiadó szoba
+> 15. egy felépült ház sarkán
+> 16. egy síró gyerek
+> 17. a dolgozó asszony
+> 18. egy éneklő csapat
+> 19. a futó sportolóról
+> 20. a virágzó növény
+> 21. a megtalált kincsekből
+> 22. egy állólámpa alatt
+> 23. egy alvó kutya mögött
+> 24. a megrendelt áruk listája
+> 25. a megöntözött növények
+> 26. zárt ajtók
+> 27. a növekvő munkanélküliség
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. das gelesene Buch
+> 2. das schreibende Kind
+> 3. ein aufzugebende Anzeige
+> 4. von einem gebildeten Arzt
+> 5. im ausgepackten Geschenk
+> 6. über dem sitzenden Mädchen
+> 7. ein aufgeräumtes Büro
+> 8. die zu benachrichtigende Polizei
+> 9. auf dem auszufüllenden Formular
+> 10. ein möbliertes Zimmer
+> 11. der Text des gesungenen Liedes
+> 12. neben einem wartenden Fahrgast
+> 13. auf einem aufgedeckten Tisch
+> 14. das vermietende Zimmer
+> 15. an der Ecke eines gebauten Hauses
+> 16. ein weinendes Kind
+> 17. die arbeitende Frau
+> 18. ein singendes Team
+> 19. von dem laufenden Sportler
+> 20. die blühende Pflanze
+> 21. aus den gefundenen Schätzen
+> 22. unter einer stehenden Lampe
+> 23. hinter einem schlafenden Hund
+> 24. die Liste der bestellten Produkte
+> 25. die gegossenen Pflanzen
+> 26. geschlossene Türen
+> 27. die steigende Arbeitsloskeit
+
 %%.%%
 
 ---
