@@ -11,12 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+                "file": "MOC.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Menschen B1"
+              "icon": "lucide-file",
+              "title": "MOC"
             }
           }
         ]
@@ -158,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Kurs/Materialen/Menschen B1.pdf",
+                "file": "MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,9 +169,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "f75fb38cd953d285",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -206,10 +219,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Partizipien.md",
     "05_Kurs/Unterricht/2026-09-07.md",
     "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
-    "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Materialen/Extra/vonzatos-igek.pdf",
     "MOC.md",
     "05_Kurs/Hausaufgaben/2026-09-03 Hausaufgaben.md",
@@ -241,7 +254,6 @@
     "01_Grammatik/Zu + Infinitiv (Grundlagen).md",
     "05_Kurs/Hausaufgaben/2026-08-10 Hausaufgaben.md",
     "05_Kurs/Hausaufgaben/2026-07-27 Hausaufgaben.md",
-    "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
