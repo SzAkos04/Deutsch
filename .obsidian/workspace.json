@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Kurs/Unterricht/2026-09-14.md",
-                "mode": "source",
+                "file": "MOC.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-14"
-            }
-          },
-          {
-            "id": "f157068f9ec5555f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05_Kurs/Materialen/Menschen B1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Menschen B1"
+              "title": "MOC"
             }
           }
         ]
@@ -187,8 +175,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -230,8 +218,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Unterricht/2026-09-14.md",
+    "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Partizipien.md",
     "05_Kurs/Materialen/Extra/Menschen_B1.1_Kursbuch_Transkriptionen_Lektion_1–12.pdf",
     "05_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",
