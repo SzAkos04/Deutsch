@@ -13,13 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "05_Kurs/Unterricht/2026-09-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-14"
+            }
+          },
+          {
+            "id": "e3ed88ae924530f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Grammatik/Partizipien.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Partizipien"
+            }
+          },
+          {
+            "id": "f157068f9ec5555f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
             }
           }
         ]
@@ -218,17 +245,27 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05_Kurs/Német haladó félintenzív.md",
-    "MOC.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Materialen/Menschen-B1-arbeitsbuch.pdf",
     "01_Grammatik/Partizipien.md",
+    "05_Kurs/Unterricht/2026-09-14.md",
     "05_Kurs/Unterricht/2026-09-07.md",
-    "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
-    "05_Kurs/Materialen/Extra/vonzatos-igek.pdf",
-    "05_Kurs/Hausaufgaben/2026-09-03 Hausaufgaben.md",
+    "05_Kurs/Materialen/Stunden/20260907/GMT20260907-160305_Recording_1686x768.mp4",
+    "05_Kurs/Materialen/Stunden/20260907/GMT20260907-160305_Recording.mp4",
+    "05_Kurs/Materialen/Stunden/20260907/GMT20260907-160305_Recording.cc.vtt",
+    "05_Kurs/Materialen/Stunden/20260907/GMT20260907-160305_RecordingnewChat.txt",
+    "05_Kurs/Materialen/Stunden/20260903/GMT20260903-160419_Recording_1686x768.mp4",
+    "05_Kurs/Materialen/Stunden/20260903/GMT20260903-160419_Recording.mp4",
+    "05_Kurs/Materialen/Stunden/20260903/GMT20260903-160419_Recording.cc.vtt",
+    "05_Kurs/Materialen/Stunden/20260903/GMT20260903-160419_RecordingnewChat.txt",
+    "05_Kurs/Materialen/Stunden/20260914",
     "05_Kurs/Unterricht/2026-09-03.md",
-    "01_Grammatik/Relativsatz.md",
     "05_Kurs/Unterricht/2026-08-31.md",
+    "MOC.md",
+    "05_Kurs/Német haladó félintenzív.md",
+    "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
+    "05_Kurs/Hausaufgaben/2026-09-03 Hausaufgaben.md",
+    "01_Grammatik/Relativsatz.md",
     "05_Kurs/Hausaufgaben/2026-08-31 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-08-24.md",
     "05_Kurs/Unterricht/2026-08-17.md",
@@ -236,14 +273,6 @@
     "05_Kurs/Unterricht/2026-09-02.md",
     "05_Kurs/Unterricht/2026-07-20.md",
     "05_Kurs/Unterricht/2026-08-10.md",
-    "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording_1686x768.mp4",
-    "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording.mp4",
-    "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_Recording.cc.vtt",
-    "05_Kurs/Materialen/Stunden/20260813/GMT20260813-160242_RecordingnewChat.txt",
-    "05_Kurs/Materialen/Stunden/20260810/GMT20260810-160513_Recording_1686x768.mp4",
-    "05_Kurs/Materialen/Stunden/20260810/GMT20260810-160513_Recording.mp4",
-    "05_Kurs/Materialen/Stunden/20260810/GMT20260810-160513_Recording.cc.vtt",
-    "05_Kurs/Materialen/Stunden/20260810/GMT20260810-160513_RecordingnewChat.txt",
     "01_Grammatik/Konjunktiv II.md",
     "01_Grammatik/Wiederholungstests.md",
     "01_Grammatik/Vorgangspassiv.md",
@@ -252,7 +281,6 @@
     "05_Kurs/Hausaufgaben/2026-08-13 Hausaufgaben.md",
     "01_Grammatik/Zu + Infinitiv (Grundlagen).md",
     "05_Kurs/Hausaufgaben/2026-08-10 Hausaufgaben.md",
-    "05_Kurs/Hausaufgaben/2026-07-27 Hausaufgaben.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",

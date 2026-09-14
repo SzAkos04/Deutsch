@@ -40,27 +40,44 @@ Lehetőség/szükségszerűség – andó, -endő, ható, -hető
 ## Feladatok
 
 > [!question]- Feladat 1 (folyamatos melléknévi igenév) – Forditsd le a mondatokat!
-> A barátnőm sétálva olvas. / A köhögő férfi itt lakik. / Józsi énekelve cigarettázik. / Játszva dolgozik. / Az olvasó nőnek 3 gyereke van. / A nevető lány tetszik nekem.
+> 1. A barátnőm sétálva olvas.
+> 2. A köhögő férfi itt lakik.
+> 3. Józsi énekelve cigarettázik.
+> 4. Játszva dolgozik.
+> 5. Az olvasó nőnek 3 gyereke van.
+> 6. A nevető lány tetszik nekem.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 2 (befejezett melléknévi igenév) – Fordítsd le a mondatokat!
-> Az asztal meg van terítve. / Az ellopott kerékpár az enyém. / Az elolvasott könyv ott van. / A poharak el vannak mosogatva. / Az elhozott vendégek a buszon vannak. / A kép ki van állítva.
+> 1. Az asztal meg van terítve.
+> 2. Az ellopott kerékpár az enyém.
+> 3. Az elolvasott könyv ott van.
+> 4. A poharak el vannak mosogatva.
+> 5. Az elhozott vendégek a buszon vannak.
+> 6. A kép ki van állítva.
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 3 (beálló melléknévi igenév) – Fordítsd le!
-> egy megjavítandó rádió / a megtanulandó szavak / egy elolvasandó könyv / a megoldandó feladatok / egy megírandó levél
+> 1. egy megjavítandó rádió
+> 2. a megtanulandó szavak
+> 3. egy elolvasandó könyv
+> 4. a megoldandó feladatok
+> 5. egy megírandó levél
 
 %%.%%
 > [!success]- Megoldás
 > *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
 %%.%%
 
 > [!question]- Feladat 4 – Fordítsd le mindhárom melléknévi igenevet használva!
