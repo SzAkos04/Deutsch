@@ -161,7 +161,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,8 +175,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -219,12 +218,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05_Kurs/Német haladó félintenzív.md",
+    "MOC.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Partizipien.md",
     "05_Kurs/Unterricht/2026-09-07.md",
     "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
     "05_Kurs/Materialen/Extra/vonzatos-igek.pdf",
-    "MOC.md",
     "05_Kurs/Hausaufgaben/2026-09-03 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-09-03.md",
     "01_Grammatik/Relativsatz.md",
@@ -249,7 +249,6 @@
     "01_Grammatik/Vorgangspassiv.md",
     "_Vorlagen/Hausaufgabe Vorlage.md",
     "_Vorlagen/Unterricht Vorlage.md",
-    "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Hausaufgaben/2026-08-13 Hausaufgaben.md",
     "01_Grammatik/Zu + Infinitiv (Grundlagen).md",
     "05_Kurs/Hausaufgaben/2026-08-10 Hausaufgaben.md",
