@@ -38,6 +38,13 @@ tags: [Grammatik]
 > 12. az egyik lámpa
 > 13. az egyik ház
 > 14. az egyik labda
+> 15. az egyik tanárnő
+> 16. az egyik hiba
+> 17. az egyik ruha
+> 18. az egyik óvoda
+> 19. az egyik mikrosütő
+> 20. az egyik tanuló
+> 21. az egyik kerékpár
 
 %%.%%
 
@@ -50,32 +57,43 @@ tags: [Grammatik]
 > 6. einer der Hunde
 > 7. eines der Kinder
 > 8. einer der Tische
-> 9. 
+> 9. eines der Museen
+> 10. einer der Staubsauger
+> 11. eine der Krankenschwestern
+> 12. eine der Lampen
+> 13. eines der Häuser
+> 14. einer der Bälle
+> 15. eine der Lehrerinnen
+> 16. einer der Fehler
+> 17. eines der Kleider
+> 18. einer der Kindergärten
+> 19. eine der Mikrowellen
+> 20. einer der Schüler
+> 21. eines der Fahrräder
 
 %%.%%
 
 > [!question]- Feladat 2 – Mondd a példa alapján!
 > *Einem der Kinder gebe ich das.* – Az egyik gyereknek adom azt.
 >
-> 1. az egyik tanárnő
-> 2. az egyik hiba
-> 3. az egyik ruha
-> 4. az egyik óvoda
-> 5. az egyik mikrosütő
-> 6. az egyik tanuló
-> 7. az egyik kerékpár
-> 8. Az egyik széket megvesszük holnap.
-> 9. Az egyik regényt megvásárolom.
-> 10. Az egyik tolvajt már elkapták.
-> 11. Az egyik vendéget sörrel kínáljuk.
-> 12. Az egyik süteményt megette?
-> 13. Az egyik kerékpárt megszerelik.
-> 14. Az egyik nőé ez a táska.
+> 1. Az egyik széket megvesszük holnap.
+> 2. Az egyik regényt megvásárolom.
+> 3. Az egyik tolvajt már elkapták.
+> 4. Az egyik vendéget sörrel kínáljuk.
+> 5. Az egyik süteményt megette?
+> 6. Az egyik kerékpárt megszerelik.
+> 7. Az egyik nőé ez a táska.
 
 %%.%%
 
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wir kaufen morgen einen der Stühle.
+> 2. Ich kaufe einen der Romane.
+> 3. Einer der Diebe wurde schon gefasst.
+> 4. Wir bieten einem der Gäste ein Bier an.
+> 5. Hat er einen der Kuchen gegessen?
+> 6. Eines der Fahrräder wird repariert.
+> 7. Diese Tasche gehört einer der Frauen.
 
 %%.%%
 
@@ -92,7 +110,10 @@ tags: [Grammatik]
 %%.%%
 
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wir spielen gegen eine der besten Mannschaften.
+> 2. Ich gehe zu einem meiner Cousins.
+> 3. Sie hat in einem der teuersten Hotels gewohnt.
+> 4. 
 
 %%.%%
 
