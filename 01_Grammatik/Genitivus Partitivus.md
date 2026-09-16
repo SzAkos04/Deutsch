@@ -112,8 +112,10 @@ tags: [Grammatik]
 > [!success]- Megoldás
 > 1. Wir spielen gegen eine der besten Mannschaften.
 > 2. Ich gehe zu einem meiner Cousins.
-> 3. Sie hat in einem der teuersten Hotels gewohnt.
-> 4. 
+> 3. Sie haben in einem der teuersten Hotels gewohnt.
+> 4. Er ist mit einem der bequemesten Autos angekommen.
+> 5. Wir warten auf einen unserer Freunde.
+> 6. Über einen meiner Kollegen wurde eine Geschichte erzählt.
 
 %%.%%
 
@@ -146,4 +148,13 @@ tags: [Grammatik]
 > 6. Egyik barátnőd se szimpatikus nekem.
 > 7. Egyik barátom se egészen normális.
 
-%%.
+%%.%%
+
+> [!success]- Megoldás
+> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+
+%%.%%
+
+---
+## Siehe auch
+- [[Grammatik MOC]]
