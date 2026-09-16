@@ -175,8 +175,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -216,8 +216,9 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f75fb38cd953d285",
   "lastOpenFiles": [
+    "MOC.md",
     "05_Kurs/Unterricht/2026-09-14.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Partizipien.md",
@@ -233,7 +234,6 @@
     "05_Kurs/Materialen/Stunden/20260903/GMT20260903-160419_Recording.mp4",
     "05_Kurs/Unterricht/2026-09-03.md",
     "05_Kurs/Unterricht/2026-08-31.md",
-    "MOC.md",
     "05_Kurs/Német haladó félintenzív.md",
     "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
     "05_Kurs/Hausaufgaben/2026-09-03 Hausaufgaben.md",
