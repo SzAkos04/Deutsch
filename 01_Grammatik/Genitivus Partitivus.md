@@ -134,9 +134,12 @@ tags: [Grammatik]
 
 > [!success]- Megoldás
 > 1. Ich rufe eine meiner Freundinnen an.
-> 2. Ich bringe eines meiner Bücher mit.
-> 3. Eines seiner Kulis haben hier geblieben.
-> 4. Sie kauft für ein seiner Kinder etwas.
+> 2. Ich nehme eines meiner Bücher mit.
+> 3. Einer seiner Kulis ist hier geblieben.
+> 4. Sie kauft einem seiner Kinder etwas.
+> 5. Ich brauche eines deiner Kleider.
+> 6. Wurde das Auto eines deiner Freunde gestohlen?
+> 7. Einer seiner Kollegen hat Kopfschmerzen.
 
 %%.%%
 
