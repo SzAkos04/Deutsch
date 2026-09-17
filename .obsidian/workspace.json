@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
+                "file": "01_Grammatik/Genitivus Partitivus.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Genitivus Partitivus"
             }
           }
         ]
@@ -175,8 +175,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -218,6 +218,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05_Kurs/Materialen/Stunden/20270917",
+    "05_Kurs/Materialen/Stunden/untitled folder",
+    "05_Kurs/Materialen/Stunden/20260914/GMT20260914-160313_Recording_1686x768.mp4",
+    "05_Kurs/Materialen/Stunden/20260914/GMT20260914-160313_Recording.mp4",
+    "05_Kurs/Materialen/Stunden/20260914/GMT20260914-160313_Recording.cc.vtt",
+    "05_Kurs/Materialen/Stunden/20260914/GMT20260914-160313_RecordingnewChat.txt",
+    "MOC.md",
     "01_Grammatik/Genitivus Partitivus.md",
     "01_Grammatik/Perfekt.md",
     "01_Grammatik/Adjektivdeklination.md",
@@ -225,18 +232,12 @@
     "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "01_Grammatik/Grammatik MOC.md",
     "05_Kurs/Unterricht/2026-09-14.md",
-    "MOC.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Partizipien.md",
     "05_Kurs/Materialen/Extra/Menschen_B1.1_Kursbuch_Transkriptionen_Lektion_1–12.pdf",
     "05_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",
     "05_Kurs/Materialen/Menschen-B1-arbeitsbuch.pdf",
     "05_Kurs/Unterricht/2026-09-07.md",
-    "05_Kurs/Materialen/Stunden/20260907/GMT20260907-160305_Recording_1686x768.mp4",
-    "05_Kurs/Materialen/Stunden/20260907/GMT20260907-160305_Recording.mp4",
-    "05_Kurs/Materialen/Stunden/20260907/GMT20260907-160305_Recording.cc.vtt",
-    "05_Kurs/Materialen/Stunden/20260907/GMT20260907-160305_RecordingnewChat.txt",
-    "05_Kurs/Materialen/Stunden/20260903/GMT20260903-160419_Recording_1686x768.mp4",
     "05_Kurs/Unterricht/2026-09-03.md",
     "05_Kurs/Unterricht/2026-08-31.md",
     "05_Kurs/Német haladó félintenzív.md",
@@ -253,7 +254,6 @@
     "01_Grammatik/Konjunktiv II.md",
     "01_Grammatik/Wiederholungstests.md",
     "01_Grammatik/Vorgangspassiv.md",
-    "_Vorlagen/Hausaufgabe Vorlage.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",

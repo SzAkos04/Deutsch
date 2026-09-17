@@ -133,7 +133,9 @@ tags: [Grammatik]
 %%.%%
 
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Ich rufe eine meiner Freundinnen an.
+> 2. Ich bringe eines meiner Bücher mit.
+> 3. Eines seiner Kulis haben 
 
 %%.%%
 
