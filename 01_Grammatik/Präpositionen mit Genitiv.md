@@ -76,27 +76,32 @@ tags: [Grammatik]
 %%.%%
 
 > [!question]- Feladat 2 – Fordítsd le a mondatokat!
-> - A part mentén sok étterem található.
-> - A nagy vihar következtében sok baleset volt a főváros utcáin.
-> - A legújabb statisztikák szerint a házasságok fele válással végződik.
-> - A rossz jegyei ellenére megkapta év végén a számítógépet.
-> - A második világháború alatt sok ember életét vesztette.
-> - Szótár segítségével minden szöveget könnyen le lehet fordítani.
+> 1. A part mentén sok étterem található.
+> 2. A nagy vihar következtében sok baleset volt a főváros utcáin.
+> 3. A legújabb statisztikák szerint a házasságok fele válással végződik.
+> 4. A rossz jegyei ellenére megkapta év végén a számítógépet.
+> 5. A második világháború alatt sok ember életét vesztette.
+> 6. Szótár segítségével minden szöveget könnyen le lehet fordítani.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Entlang des Ufers gibt es viele Restaurants.
+> 2. Wegen des Sturms gab es viele Unfälle auf den Straßen der Hauptstadt.
+> 3. Laut der neuesten Statistiken endet die Hälfte der Ehen mit Scheidung.
+> 4. Trotz seiner schlechten Noten hat er am Ende des Jahres den Computer bekommen.
+> 5. Während des Zweiten Weltkriegs viele haben Menschen ihr Leben verloren.
+> 6. Mithilfe eines Wörterbuchs kann man jeden Text einfach übersetzen.
 
 %%.%%
 
-> [!question]- Feladat 3 – Fejezd be a mondatokat!
-> - Mithilfe der Kamera ….
-> - Wegen seines Benehmens…
-> - Trotz des niedrigen Preises…
-> - Entlang der Straße…
-> - Infolge des Unfalls…
-> - Während der Sommerferien…
-> - Außerhalb der Stadt…
+> [!question]- Feladat 3 – Fejezd be a mondatokat! **HF\***
+> 1. Mithilfe der Kamera ….
+> 2. Wegen seines Benehmens…
+> 3. Trotz des niedrigen Preises…
+> 4. Entlang der Straße…
+> 5. Infolge des Unfalls…
+> 6. Während der Sommerferien…
+> 7. Außerhalb der Stadt…
 
 %%.%%
 > [!success]- Megoldás
