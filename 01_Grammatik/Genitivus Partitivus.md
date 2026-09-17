@@ -135,7 +135,8 @@ tags: [Grammatik]
 > [!success]- Megoldás
 > 1. Ich rufe eine meiner Freundinnen an.
 > 2. Ich bringe eines meiner Bücher mit.
-> 3. Eines seiner Kulis haben 
+> 3. Eines seiner Kulis haben hier geblieben.
+> 4. Sie kauft für ein seiner Kinder etwas.
 
 %%.%%
 
