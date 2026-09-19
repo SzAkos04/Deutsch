@@ -190,8 +190,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -232,12 +232,12 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ac1548dc73630edc",
   "lastOpenFiles": [
+    "MOC.md",
     "05_Kurs/Unterricht/2026-09-17.md",
     "05_Kurs/Unterricht/2026-07-09.md",
     "05_Kurs/Hausaufgaben/2026-09-17 Hausaufgaben.md",
-    "MOC.md",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Partizipien.md",
     "05_Kurs/Unterricht/2026-09-14.md",
