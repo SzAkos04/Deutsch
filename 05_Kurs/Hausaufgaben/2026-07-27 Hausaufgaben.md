@@ -14,11 +14,11 @@ tags:
 
 ## Feladatok
 
-- [x] [[2026-07-27#Neue Wörter|Lektion 7]] szavak megtanulása
+- [x] **Szavak:** [[2026-07-30#Neue Wörter|Lektion 7]] szavak megtanulása
 
-- [x] [[Zu + Infinitiv (Grundlagen)]]
+- [x] **Nyelvtan:** [[Zu + Infinitiv (Grundlagen)]]
 
-- [x] [[Zu-Infinitiv.pdf]]
+- [x] **Gyakorlás:** [[Zu-Infinitiv.pdf]]
 
 > [!info]- Feladat
 > 1. Holnap elkezdek minden nap futni.

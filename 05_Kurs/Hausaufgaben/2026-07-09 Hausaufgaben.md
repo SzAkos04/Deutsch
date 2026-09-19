@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [x] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 2
+- [x] **Szavak:** [[2026-07-13#Neue Wörter|Lektion 2]]
 
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1193997655/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
@@ -24,12 +24,14 @@ tags:
 > [!info]- Feladat
 > Ragozd végig: ..., schlafen, heben, liegen
 
+%%.%%
+
 > [!success]- Megoldás
 > 1. ich schlief, du schliefst, er/sie/es schlief, wir schliefen, ihr schlieft, sie/Sie schliefen
 > 2. ich hob, du hobst, er/sie/es hob, wir hoben, ihr hobt, sie/Sie hoben
 > 3. ich lag, du lagst, er/sie/es lag, wir lagen, ihr lagt, sie/Sie lagen
 
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 1 (*Wir ... ihnen Wasser (bringen)*...)
+%%.%%
 
 > [!info]- Feladat
 > **Tedd Präteritumba és ragozd el helyesen a zárójelben lévő igéket!**
@@ -41,6 +43,8 @@ tags:
 > 5. Wir ... nur Limonade und Mineralwasser (trinken).
 > 6. Heute ... ich zu viel.
 
+%%.%%
+
 > [!success]- Megoldás
 > 1. Wir **brachten** ihnen Wasser.
 > 2. Wann **arbeitetet** ihr bei Benz.
@@ -49,7 +53,7 @@ tags:
 > 5. Wir **tranken** nur Limonade und Mineralwasser.
 > 6. Heute ??? ich zu viel.
 
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 2 (*Wem ... ihr das ... (schreiben)*...)
+- [x] **Gyakorlat:** [[Perfekt]]
 
 > [!info]- Feladat
 > **Pótold a hiányzó igéket az ige Perfekt alakjával!**
@@ -66,6 +70,8 @@ tags:
 > 10. Wir ... in einem Restaurant ... (essen).
 > 11. Sie (ők) ... Wein ... (trinken) und Obstsalat ... (essen).
 
+%%.%%
+
 > [!success]- Megoldás
 > 1. Wem **habt** ihr das **geschrieben**?
 > 2. **Seid** ihr nach Hause **gelaufen**?
@@ -79,7 +85,7 @@ tags:
 > 10. Wir **haben** in einem Restaurant **gegessen**.
 > 11. Sie (ők) **haben** Wein **getrunken** und Obstsalat **gegessen**.
 
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 3 (jobb oszlop)
+%%.%%
 
 > [!info]- Feladat
 > **Fordítsd le az elváló igekötős igéket perfektben!**
@@ -93,6 +99,8 @@ tags:
 > 7. Mindent bevásároltam a testvéremmel.
 > 8. Már 4 óra előtt felkeltek.
 
+%%.%%
+
 > [!success]- Megoldás
 > 1. Wann seid ihr aufgestanden?
 > 2. Gestern haben wir alles eingekauft.
@@ -103,7 +111,7 @@ tags:
 > 7. Ich habe mit meinem Bruder / meiner Schwester alles eingekauft.
 > 8. Sie sind vor 4 Uhr aufgestanden.
 
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 4 (jobb oszlop)
+%%.%%
 
 > [!info]- Feladat
 > **Kettős Infinitiv vagy nem? Fordítsd le a mondatokat Perfektben!**
@@ -113,13 +121,15 @@ tags:
 > 3. Hallottam zongorázni a barátodat.
 > 4. Hova mentél sétálni.
 
+%%.%%
+
 > [!success]- Megoldás
 > 1. Er hat gestern nicht kommen wollen.
 > 2. Habt ihr ihn pfeifen hören?
 > 3. Ich habe deinen Freund Klavier spielen hören.
 > 4. Wohin bist du spazieren gegangen?
 
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 8 / 6
+%%.%%
 
 > [!info]- Feladat
 > **Tedd át a mondatokat Perfekt E/1-be**
@@ -137,6 +147,8 @@ tags:
 > 11. Er kam 45 Minuten zu spät in der Firma an, entschuldigte sich beim Chef und beruhigte die Sekretärin.
 > 12. Er schlief dann noch eine halbe Stunde am Schreibtisch.
 
+%%.%%
+
 > [!success]- Megoldás
 > 1. Ich bin zu spät aufgewacht, bin sofort aus dem Bett gesprungen, habe dabei die Bettdecke zerrissen und das Wasserglas vom Nachttisch geworfen.
 > 2. Das hat mich schon sehr ärgerlich gemacht.
@@ -151,7 +163,7 @@ tags:
 > 11. Ich bin 45 Minuten zu spät in der Firma angekommen, habe mich beim Chef entschuldigt und die Sekretärin beruhigt.
 > 12. Ich habe dann noch eine halbe Stunde am Schreibtisch geschlafen.
 
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 9 / 1 (utolsó 2)
+- [x] **Gyakorlat:** [[Plusquamperfekt]]
 
 > [!info]- Feladat
 > **Fejezz ki múltbeli előidejűséget az igeidők egyeztetésével!**
@@ -159,6 +171,8 @@ tags:
 > ...
 > 1. Sobald der Zug ... (an|kommen), ... (dürfen) wir einsteigen.
 > 2. Sobald ich ... (auf|stehen), ... (müssen) ich lernen. 
+
+%%.%%
 
 > [!success]- Megoldás
 > 1. Sobald der Zug angekommen war, durften wir einsteigen.
@@ -169,8 +183,7 @@ tags:
 >    Sobald ich aufgestanden bin, muss ich lernen.
 >    Sobald ich aufgestanden bin, werde ich lernen müssen.
 
-
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 10 / 3
+%%.%%
 
 > [!info]- Feladat
 > **Fordítsd le a mondatokat!**
@@ -186,6 +199,8 @@ tags:
 > 7. Miután ebédeltek, bementek az irodába.
 > 8. Miután ebédelnek, elmennek az irodába.
 > 9. Miután megebédeltek, el fognak menni az irodába.
+
+%%.%%
 
 > [!success]- Megoldás
 > 1. Nachdem ich eingekauft hatte, aß ich eine Schokolade.
@@ -209,15 +224,12 @@ tags:
 > 4. Miután hazaértem, felhívtam a barátomat.
 > 5. Miután hazaérek/hazaértem, felhívom a barátomat.
 > 6. Miután hazaértem, fel fogom hívni a barátomat.
-> 
 > 7. Miután elolvastam a könyvet, visszaadtam a könyvtárnak.
 > 8. Miután elolvasom/elolvastam a könyvet, visszaadom a könyvtárnak.
 > 9. Miután elolvastam a könyvet, vissza fogom adni a könyvtárnak.
-> 
 > 10. Miután befejeztem a munkát, hazamentem.
 > 11. Miután befejezem/befejeztem a munkát, hazamegyek.
 > 12. Miután befejeztem a munkát, haza fogok menni.
-> 
 > 13. Miután megittam a teát, lefeküdtem aludni.
 > 14. Miután megiszom/megittam a teát, lefekszem aludni.
 > 15. Miután megittam a teát, le fogok feküdni aludni.
@@ -225,6 +237,8 @@ tags:
 > 16. Miután kitakarítottam a szobát, pihentem egy kicsit.
 > 17. Miután kitakarítom a szobát, pihenek egy kicsit.
 > 18. Miután kitakarítottam a szobát, pihenni fogok egy kicsit.
+
+%%.%%
 
 > [!success]- Megoldás
 > 19. Nachdem ich aufgestanden war, trank ich den Kaffee.
@@ -251,7 +265,7 @@ tags:
 > 35. Nachdem ich das Zimmer aufgeräumt habe, ruhe ich mich ein bisschen aus.
 > 36. Nachdem ich das Zimmer aufgeräumt habe, werde ich mich ein bisschen ausruhen.
 
-- [x] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag* schreiben
+- [x] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag*
 
 > [!success]- Megoldás
 > Am Abend von meinem ersten Tag war ich nervös. Aber der Tag ist mir in guter Erinnerung geblieben. Gleich am Morgen verschlief ich und kam zu spät. Weil ich zu spät ankam, hatte ich keine Zeit, mich umzuziehen, also ging ich in der Kleidung zur Arbeit, in der ich geschlafen hatte. Zuerst schien die Chefin nett zu sein. Sie half mir bei dem Aufräumen. Ich musste die Tickets der Leute überprüfen. Besonders gut gefiel mir das Betriebsklima. Es war ein bisschen langweilig, aber es lohnte sich für 2000 Forint pro Stunde. Ich machte das bis 14:30 Uhr, danach ging ich nach Hause.

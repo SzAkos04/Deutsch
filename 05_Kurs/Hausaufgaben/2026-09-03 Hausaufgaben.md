@@ -14,9 +14,9 @@ tags:
 
 ## Feladatok
 
-- [x] [[2026-09-03#Neue Wörter|Lektion 14]] szavak megtanulása
+- [x] **Szavak:** [[2026-09-07#Neue Wörter|Lektion 14]] szavak megtanulása
 
-- [x] [[Zu + Infinitiv Konstruktionen]]
+- [x] **Nyelvtan:** [[Zu + Infinitiv Konstruktionen]]
 
 ## Megjegyzések
 

@@ -14,9 +14,9 @@ tags:
 
 ## Feladatok
 
-- [x] [[2026-07-23#Neue Wörter|Lektion 6]] szavak megtanulása
+- [x] [[2026-07-27#Neue Wörter|Lektion 6]] szavak megtanulása
 
-- [ ] [[Vorgangspassiv-H.A.pdf]]
+- [ ] **Gyakorlás:** [[Vorgangspassiv-H.A.pdf]]
 
 > [!info] Feladat
 > **Vorgangspassiv!**

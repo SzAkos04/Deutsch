@@ -14,9 +14,9 @@ tags:
 
 ## Feladatok
 
-- [ ] [[2026-09-17#Neue Wörter|Lektion 15]] szavak megtanulása
+- [ ] **Szavak:** [[2026-09-14#Neue Wörter|Lektion 15]] szavak megtanulása
 
-- [x] [[Partizipien]]
+- [x] **Nyelvtan:** [[Partizipien]]
 
 ## Megjegyzések
 

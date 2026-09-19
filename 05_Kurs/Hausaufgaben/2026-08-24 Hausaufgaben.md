@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] [[2026-08-24#Neue Wörter|Lektion 12]] szavak megtanulása
+- [ ] **Szavak:** [[2026-08-31#Neue Wörter|Lektion 12]] szavak megtanulása
 
 ## Megjegyzések
 

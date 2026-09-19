@@ -14,9 +14,9 @@ tags:
 
 ## Feladatok
 
-- [x] [[2026-08-31#Neue Wörter|Lektion 13]] szavak megtanulása
+- [x] **Szavak:** [[2026-09-03#Neue Wörter|Lektion 13]] szavak megtanulása
 
-- [ ] [[Relativsatz]]
+- [ ] **Nyelvtan:** [[Relativsatz]]
 
 ## Megjegyzések
 

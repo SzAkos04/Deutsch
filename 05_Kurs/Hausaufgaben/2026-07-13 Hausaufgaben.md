@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [x] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 3
+- [x] **Szavak:** [[2026-07-16#Neue Wörter|Lektion 3]]
 
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1194933884/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>

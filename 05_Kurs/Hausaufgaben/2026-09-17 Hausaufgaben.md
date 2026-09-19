@@ -14,9 +14,11 @@ tags:
 
 ## Feladatok
 
-- [ ] [[2026-09-17#Neue Wörter|Lektion 17]] szavak megtanulása
+- [ ] **Szavak:** [[2026-09-21#Neue Wörter|Lektion 17]] szavak megtanulása
 
-- [ ] [[Dömők_Szilvia_-_Gyakorló_Német_Nyelvtan.pdf]] S. 143
+- [ ] **Nyelvtan:** [[Präpositionen mit Genitiv]]
+
+- [ ] **Gyakorlás:** [[Dömők_Szilvia_-_Gyakorló_Német_Nyelvtan.pdf]] S. 143
 
 ## Megjegyzések
 
