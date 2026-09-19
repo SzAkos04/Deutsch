@@ -14,17 +14,13 @@ tags:
 
 ## Feladatok
 
-- [x] [[Zu + Infinitiv (Grundlagen)]] 3
+- [x] [[2026-07-27#Neue Wörter|Lektion 7]] szavak megtanulása
 
-- [x] [[Zu + Infinitiv (Grundlagen)]] 4 (Érdekes itt élni…)
+- [x] [[Zu + Infinitiv (Grundlagen)]]
 
-- [x] [[Zu + Infinitiv (Grundlagen)]] 5 (*Sie behauptet, dass…*)
+- [x] [[Zu-Infinitiv.pdf]]
 
-- [x] [[Zu + Infinitiv (Grundlagen)]] 7 (Segítesz nekik becsomagolni...)
-
-- [ ] [[Zu-Infinitiv.pdf]]
-
-> [!info] Feladat
+> [!info]- Feladat
 > 1. Holnap elkezdek minden nap futni.
 > 2. Nem akarok minden nap főzni. 
 > 3. Látom, hogy jön.

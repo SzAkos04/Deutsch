@@ -13,13 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
+                "file": "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "2026-07-09 Hausaufgaben"
+            }
+          },
+          {
+            "id": "9df66e41e9fb8934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Grammatik/Grammatik MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Grammatik MOC"
+            }
+          },
+          {
+            "id": "8862551e81a9f501",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/nemet_halado_segedlet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "nemet_halado_segedlet"
             }
           }
         ]
@@ -232,44 +259,43 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "ac1548dc73630edc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "MOC.md",
-    "05_Kurs/Unterricht/2026-09-17.md",
-    "05_Kurs/Unterricht/2026-07-09.md",
-    "05_Kurs/Hausaufgaben/2026-09-17 Hausaufgaben.md",
-    "05_Kurs/Materialen/Menschen B1.pdf",
-    "01_Grammatik/Partizipien.md",
-    "05_Kurs/Unterricht/2026-09-14.md",
+    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
+    "01_Grammatik/Grammatik MOC.md",
     "05_Kurs/Materialen/Extra/Dömők_Szilvia_-_Gyakorló_Német_Nyelvtan.pdf",
-    "01_Grammatik/Präpositionen mit Genitiv.md",
-    "05_Kurs/Unterricht/2026-08-03.md",
-    "05_Kurs/Unterricht/2026-08-13.md",
+    "05_Kurs/Unterricht/2026-08-24.md",
+    "05_Kurs/Hausaufgaben/2026-07-09 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-07-20 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-07-16 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-07-23 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-07-27 Hausaufgaben.md",
+    "01_Grammatik/Konjunktionen (Wortstellung).md",
+    "05_Kurs/Hausaufgaben/2026-08-03 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-07-30 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-09-07.md",
-    "01_Grammatik/Genitivus Partitivus.md",
-    "05_Kurs/Materialen/Extra/Gen.-Part..pdf",
-    "05_Kurs/Hausaufgaben/2026-09-07 Hausaufgaben.md",
+    "05_Kurs/Unterricht/2026-08-13.md",
+    "05_Kurs/Hausaufgaben/2026-08-10 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-08-13 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-08-24 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-08-17 Hausaufgaben.md",
+    "05_Kurs/Hausaufgaben/2026-08-31 Hausaufgaben.md",
     "05_Kurs/Hausaufgaben/2026-09-03 Hausaufgaben.md",
-    "05_Kurs/Hausaufgaben/2026-09-14 Hausaufgaben.md",
-    "05_Kurs/Unterricht/2026-09-03.md",
+    "05_Kurs/Unterricht/2026-08-17.md",
+    "05_Kurs/Unterricht/2026-09-19.md",
     "05_Kurs/Unterricht/2026-08-31.md",
+    "05_Kurs/Unterricht/2026-08-03.md",
+    "05_Kurs/Hausaufgaben/2026-09-07 Hausaufgaben.md",
+    "05_Kurs/Materialen/Menschen B1.pdf",
+    "05_Kurs/Materialen/Extra/Gen.-Part..pdf",
     "05_Kurs/Materialen/Stunden/20270917",
     "05_Kurs/Materialen/Stunden/untitled folder",
     "05_Kurs/Materialen/Stunden/20260914/GMT20260914-160313_Recording_1686x768.mp4",
     "05_Kurs/Materialen/Stunden/20260914/GMT20260914-160313_Recording.mp4",
     "05_Kurs/Materialen/Stunden/20260914/GMT20260914-160313_Recording.cc.vtt",
     "05_Kurs/Materialen/Stunden/20260914/GMT20260914-160313_RecordingnewChat.txt",
-    "01_Grammatik/Perfekt.md",
-    "01_Grammatik/Adjektivdeklination.md",
-    "05_Kurs/Unterricht/2026-07-06.md",
-    "05_Kurs/Materialen/nemet_halado_segedlet.pdf",
-    "01_Grammatik/Grammatik MOC.md",
-    "05_Kurs/Német haladó félintenzív.md",
-    "01_Grammatik/Zu + Infinitiv Konstruktionen.md",
-    "01_Grammatik/Relativsatz.md",
-    "05_Kurs/Hausaufgaben/2026-08-31 Hausaufgaben.md",
-    "05_Kurs/Unterricht/2026-08-24.md",
-    "05_Kurs/Unterricht/2026-08-17.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",

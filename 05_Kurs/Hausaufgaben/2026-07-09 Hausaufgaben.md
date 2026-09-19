@@ -19,9 +19,9 @@ tags:
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1193997655/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 5 / B (*schlafen*...)
+- [x] **Gyakorlat:** [[Präteritum]]
 
-> [!info] Feladat
+> [!info]- Feladat
 > Ragozd végig: ..., schlafen, heben, liegen
 
 > [!success]- Megoldás
@@ -31,7 +31,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 1 (*Wir ... ihnen Wasser (bringen)*...)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **Tedd Präteritumba és ragozd el helyesen a zárójelben lévő igéket!**
 > 
 > 1. Wir ... ihnen Wasser (bringen).
@@ -51,7 +51,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 2 (*Wem ... ihr das ... (schreiben)*...)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **Pótold a hiányzó igéket az ige Perfekt alakjával!**
 > 
 > 1. Wem ... ihr das ... (schreiben)?
@@ -81,7 +81,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 3 (jobb oszlop)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **Fordítsd le az elváló igekötős igéket perfektben!**
 > 
 > 1. Mikor keltetek fel?
@@ -105,7 +105,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 7 / 4 (jobb oszlop)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **Kettős Infinitiv vagy nem? Fordítsd le a mondatokat Perfektben!**
 > 
 > 1. Nem akart jönni tegnap.
@@ -121,7 +121,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 8 / 6
 
-> [!info] Feladat
+> [!info]- Feladat
 > **Tedd át a mondatokat Perfekt E/1-be**
 > 
 > 1. Er wachte zu spät auf, sprang sofort aus dem Bett, zerriss dabei die Bettdecke und warf das Wasserglas vom Nachttisch.
@@ -153,7 +153,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 9 / 1 (utolsó 2)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **Fejezz ki múltbeli előidejűséget az igeidők egyeztetésével!**
 > 
 > ...
@@ -172,7 +172,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 10 / 3
 
-> [!info] Feladat
+> [!info]- Feladat
 > **Fordítsd le a mondatokat!**
 > 
 > 1. Miután bevásároltam, ettem egy csokit.
@@ -202,11 +202,10 @@ tags:
 
 - [x] **Szorgalmi:** extra mondatok
 
-> [!info] Feladat
+> [!info]- Feladat
 > 1. Miután felkeltem, megittam a kávét.
 > 2. Miután felkelek/felkeltem, megiszom a kávét.
 > 3. Miután felkeltem, meg fogom inni a kávét.
-> 
 > 4. Miután hazaértem, felhívtam a barátomat.
 > 5. Miután hazaérek/hazaértem, felhívom a barátomat.
 > 6. Miután hazaértem, fel fogom hívni a barátomat.
@@ -228,29 +227,29 @@ tags:
 > 18. Miután kitakarítottam a szobát, pihenni fogok egy kicsit.
 
 > [!success]- Megoldás
-> 1. Nachdem ich aufgestanden war, trank ich den Kaffee.
-> 2. Nachdem ich aufgestanden bin, trinke ich den Kaffee.
-> 3. Nachdem ich aufgestanden bin, werde ich den Kaffee trinken.
+> 19. Nachdem ich aufgestanden war, trank ich den Kaffee.
+> 20. Nachdem ich aufgestanden bin, trinke ich den Kaffee.
+> 21. Nachdem ich aufgestanden bin, werde ich den Kaffee trinken.
 > 
-> 4. Nachdem ich zu Hause angekommen war, rief ich meinen Freund an.
-> 5. Nachdem ich zu Hause angekommen bin, rufe ich meinen Freund an.
-> 6. Nachdem ich zu Hause angekommen bin, werde ich meinen Freund anrufen.
+> 22. Nachdem ich zu Hause angekommen war, rief ich meinen Freund an.
+> 23. Nachdem ich zu Hause angekommen bin, rufe ich meinen Freund an.
+> 24. Nachdem ich zu Hause angekommen bin, werde ich meinen Freund anrufen.
 > 
-> 7. Nachdem ich das Buch gelesen hatte, gab ich es der Bibliothek zurück.
-> 8. Nachdem ich das Buch gelesen habe, gebe ich es der Bibliothek zurück.
-> 9. Nachdem ich das Buch gelesen habe, werde ich es der Bibliothek zurückgeben.
+> 25. Nachdem ich das Buch gelesen hatte, gab ich es der Bibliothek zurück.
+> 26. Nachdem ich das Buch gelesen habe, gebe ich es der Bibliothek zurück.
+> 27. Nachdem ich das Buch gelesen habe, werde ich es der Bibliothek zurückgeben.
 > 
-> 10. Nachdem ich die Arbeit beendet hatte, ging ich nach Hause.
-> 11. Nachdem ich die Arbeit beendet habe, gehe ich nach Hause.
-> 12. Nachdem ich die Arbeit beendet habe, werde ich nach Hause gehen.
+> 28. Nachdem ich die Arbeit beendet hatte, ging ich nach Hause.
+> 29. Nachdem ich die Arbeit beendet habe, gehe ich nach Hause.
+> 30. Nachdem ich die Arbeit beendet habe, werde ich nach Hause gehen.
 > 
-> 13. Nachdem ich den Tee getrunken hatte, ging ich ins Bett.
-> 14. Nachdem ich den Tee getrunken habe, gehe ich ins Bett.
-> 15. Nachdem ich den Tee getrunken habe, werde ich ins Bett gehen.
+> 31. Nachdem ich den Tee getrunken hatte, ging ich ins Bett.
+> 32. Nachdem ich den Tee getrunken habe, gehe ich ins Bett.
+> 33. Nachdem ich den Tee getrunken habe, werde ich ins Bett gehen.
 > 
-> 16. Nachdem ich das Zimmer aufgeräumt hatte, ruhte ich mich ein bisschen aus.
-> 17. Nachdem ich das Zimmer aufgeräumt habe, ruhe ich mich ein bisschen aus.
-> 18. Nachdem ich das Zimmer aufgeräumt habe, werde ich mich ein bisschen ausruhen.
+> 34. Nachdem ich das Zimmer aufgeräumt hatte, ruhte ich mich ein bisschen aus.
+> 35. Nachdem ich das Zimmer aufgeräumt habe, ruhe ich mich ein bisschen aus.
+> 36. Nachdem ich das Zimmer aufgeräumt habe, werde ich mich ein bisschen ausruhen.
 
 - [x] **Szorgalmi:** [[Menschen B1.pdf]] S. 19 / 3 alapján *Mein erster Arbeitstag* schreiben
 

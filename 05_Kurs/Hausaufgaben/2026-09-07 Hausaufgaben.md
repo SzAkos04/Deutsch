@@ -14,9 +14,9 @@ tags:
 
 ## Feladatok
 
-- [ ] [[2026-09-17#Neue Wörter|Lektion]] szavak megtanulása
+- [ ] [[2026-09-17#Neue Wörter|Lektion 15]] szavak megtanulása
 
-- [ ] 
+- [x] [[Partizipien]]
 
 ## Megjegyzések
 
@@ -27,6 +27,6 @@ tags:
 
 ## Siehe auch
 
-- [[2026-09-17]]
+- [[2026-09-07]]
 
 #Hausaufgabe

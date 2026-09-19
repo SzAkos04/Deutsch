@@ -23,34 +23,8 @@ tags:
 
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1193553214/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
-- [x] **Fordítás:** [[nemet_halado_segedlet.pdf]] S. 3 / 1 (*Az összes rokonom*...)
 
-> [!success]- Megoldás
-> az összes rokonom - alle meine Verwandten
-> az önkéntesek - die Freiwilligen
-> nagyothallók részére - für Schwerhörige
-> egy egyévesnek - einem Einjährigen
-> az egyévesek - die Einjährigen
-> sok fiatalnál - bei vielen Jugendlichen
-> egy fiatalt - einen Jugendlichen
-> a fiatalok helyzete - die Situation der Jugendlichen
-> egy szerelmes férfi - ein Verliebter
-> egy németet - einen Deutschen
-
-- [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 4 / 2
-
-> [!success]- Megoldás
-> 1. Im Urlaub habe ich zum ersten Mal mit einem Deutsch**en** auf Deutsch gesprochen.
-> 2. Diese Veranstaltung dürfen Kinder nur in Begleitung eines Erwachsen**en** besuchen.
-> 3. Bei dem Unfall wurde eine Frau verletzt. Die Verletzt**e** wurde sofort in ein Krankenhaus eingeliefert.
-> 4. Für Alleinerziehend**e** ist es nicht immer einfach, ihren Alltag zu organisieren.
-> 5. Die neuen Regeln gelten für alle Angestellt**en**.
-> 6. An dem Treffen haben auch ein Deutsch**er** und ein Franzose teilgenommen.
-> 7. In diesem Kurs lernen Jugendliche gemeinsam mit Erwachsen**en** Deutsch.
-> 8. Zu ihrem Geburtstag hat sie viele Bekannt**e** eingeladen.
-> 9. Der Zug hatte eine so große Verspätung, dass die Wartend**en** die Geduld verloren.
-> 10. Er kannte die Frau zwar nicht, aber er hatte große Lust, die Unbekannt**en** kennenzulernen.
-> 11. Sie hat ihren Geburtstag mit Freunden und Bekannt**en** gefeiert.
+- [x] **Nyelvtan:** [[Nominalisierte Adjektive]]
 
 - [x] **Fogalmazás:** [[Menschen B1.pdf]] S. 13 / 6
 

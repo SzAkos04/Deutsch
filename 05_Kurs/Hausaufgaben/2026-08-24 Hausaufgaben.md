@@ -1,8 +1,8 @@
 ---
-Titel: 2026-09-17 Hausaufgaben
+Titel: 2026-08-24 Hausaufgaben
 Kurs: "[[Német haladó félintenzív]]"
-Datum: 2026-09-17
-Frist: 2026-09-21
+Datum: 2026-09-19
+Frist: 2026-09-22
 Status: nincs elkezdve
 tags:
   - Hausaufgabe
@@ -14,9 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] [[2026-09-17#Neue Wörter|Lektion 17]] szavak megtanulása
-
-- [ ] [[Dömők_Szilvia_-_Gyakorló_Német_Nyelvtan.pdf]] S. 143
+- [ ] [[2026-08-24#Neue Wörter|Lektion 12]] szavak megtanulása
 
 ## Megjegyzések
 
@@ -27,6 +25,6 @@ tags:
 
 ## Siehe auch
 
-- [[2026-09-17]]
+- [[2026-09-19]]
 
 #Hausaufgabe

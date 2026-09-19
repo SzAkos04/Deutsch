@@ -14,31 +14,8 @@ tags:
 
 ## Feladatok
 
-- [ ] 
+- [x] [[2026-08-31#Neue Wörter|Lektion 11]] szavak megtanulása
 
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
-
-- [ ] 
-
-> [!info] Feladat
-> ****
-> 1. 
-
-%%.%%
-
-> [!success]- Megoldás
-> 1. 
-
-%%.%%
 ## Megjegyzések
 
 > [!INFO]

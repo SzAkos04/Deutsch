@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** Lektion 9
+- [x] [[2026-08-03#Neue Wörter|Lektion 9]] szavak megtanulása
 
 - [x] [[Adjektivdeklination]] 1-7
 

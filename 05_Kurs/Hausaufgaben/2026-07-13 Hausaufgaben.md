@@ -14,14 +14,14 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 3
+- [x] **Szavak:** [[nemet_halado_szoszedet.pdf]] Lektion 3
 
 > [!quizlet]- Quizlet
 > <iframe src="https://quizlet.com/1194933884/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 11 / 1 (jobb oszlop)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **1. Fordítsd le!**
 > 1. Amíg jól keresett, sokat költött.
 > 2. Amíg apa dolgozik, a gyerekek nálunk játszanak.
@@ -40,7 +40,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 12-13 / 2 (Amíg ivott egy sört...)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **2. Solange vagy bis**
 > 1. Amíg ivott egy sört, elment a vonata.
 > 2. Sok idő telt el, mire elindult a vonat.
@@ -55,7 +55,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 13 / 1 (jobb oszlop)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **1. Fordítsd le!**
 > 1. Amikor megérkezett, senki se volt otthon.
 > 2. Amikor megszületett, már három foga volt.
@@ -74,7 +74,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 14 / 1 (III) (jobb oszlop)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **1. Wenn vagy als?**
 > 1. Er hatte ein paar Glas Bier getrunken.
 >    Er wurde immer sehr laut.
@@ -96,7 +96,7 @@ tags:
 
 - [x] **Gyakorlat:** [[nemet_halado_segedlet.pdf]] S. 14 / 1 (IV) (Mindent bepakolt a táskájába...)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **1. Forditsd le!**
 > 1. Mindent bepakolt a táskájába, mielőtt elhagyta a céget.
 > 2. Mielőtt hazamész, oltsd el a lámpát.
@@ -111,7 +111,7 @@ tags:
 
 - [x] **Gyakorlat:** [[Menschen B1.pdf]] S. 21 / 3 c)
 
-> [!info] Feladat
+> [!info]- Feladat
 > **3. Ein Interview**
 > **c) Was ist richtig? Lesen und hören Sie den Text und kreuzen Sie an.**
 > Hilfe finden Sie auch im Bildlexikon.

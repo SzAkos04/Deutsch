@@ -14,9 +14,9 @@ tags:
 
 ## Feladatok
 
-- [ ] [[2026-09-17#Neue Wörter|Lektion 16]] szavak megtanulása
+- [x] [[2026-09-17#Neue Wörter|Lektion 16]] szavak megtanulása
 
-- [ ] 
+- [x] [[Genitivus Partitivus]]
 
 ## Megjegyzések
 

@@ -14,6 +14,8 @@ tags:
 
 ## Feladatok
 
+- [x] [[2026-07-30#Neue Wörter|Lektion 8]] szavak megtanulása
+
 - [x] [[Menschen B1.pdf]] S. 45 / 1 durchlesen
 
 ## Megjegyzések

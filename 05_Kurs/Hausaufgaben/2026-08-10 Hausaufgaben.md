@@ -14,9 +14,9 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** Lektion 10
+- [x] [[2026-08-10#Neue Wörter|Lektion 10]] szavak megtanulása
 
-- [ ] [[Konjunktiv II]] 1-10
+- [x] [[Konjunktiv II]] 1-10
 
 ## Megjegyzések
 
