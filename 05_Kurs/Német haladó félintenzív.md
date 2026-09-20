@@ -22,7 +22,7 @@ tags:
 
 ```dataview
 TABLE Datum, Thema
-FROM #Unterricht
+FROM "05_Kurs/Unterricht"
 WHERE Kurs = this.file.link
 SORT Datum DESC
 ```
@@ -31,7 +31,7 @@ SORT Datum DESC
 
 ```dataview
 TABLE Datum, Frist, Status
-FROM #Hausaufgabe
+FROM "05_Kurs/Hausaufgaben"
 WHERE Kurs = this.file.link
 SORT Frist DESC
 ```
