@@ -10,7 +10,6 @@ tags:
 
 # 2. Kommunikation
 
-- [[E-Mail schreiben]]
 
 ---
 
