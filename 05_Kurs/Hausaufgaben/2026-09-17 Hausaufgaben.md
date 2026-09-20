@@ -26,7 +26,7 @@ tags:
 > 3. ………………………… des Desserts möchten wir Obstsalat bestellen.
 > 4. ………………………… des schlechten Wetters gehen wir heute spazieren.
 > 5. ………………………… seiner Verletzung durfte Paul nicht Ski fahren.
-> 6. ………………………… des Arbeitszimmer brauchen wir eine Garage.
+> 6. ………………………… des Arbeitszimmers brauchen wir eine Garage.
 > 7. ………………………… ihres Willens musste sie zum Arzt gehen.
 > 8. ………………………… seiner starken Schmerzen ging er zum Zahnarzt.
 > 9. Die Schüler dürfen ………………………… der Pause im Klassenzimmer essen und trinken.
@@ -40,11 +40,11 @@ tags:
 > 3. **Anstatt** des Desserts möchten wir Obstsalat bestellen.
 > 4. **Trotz** des schlechten Wetters gehen wir heute spazieren.
 > 5. **Wegen** seiner Verletzung durfte Paul nicht Ski fahren.
-> 6. **Unweit** des Arbeitszimmer brauchen wir eine Garage.
+> 6. **Unweit** des Arbeitszimmers brauchen wir eine Garage.
 > 7. **Trotz** ihres Willens musste sie zum Arzt gehen.
 > 8. **Wegen** seiner starken Schmerzen ging er zum Zahnarzt.
 > 9. Die Schüler dürfen **während** der Pause im Klassenzimmer essen und trinken.
-> 10. ………………………… des schlechten Wetters war es uns nicht kalt, da wir uns warm angezogen haben.
+> 10. **Trotz** des schlechten Wetters war es uns nicht kalt, da wir uns warm angezogen haben.
 
 %%.%%
 
@@ -69,6 +69,20 @@ tags:
 %%.%%
 
 > [!success]- Megoldás
+> 2. Reise in Afrika - keine Fotos gemacht haben
+>    **Während der Reise in Afrika habe ich keine Fotos gemacht.**
+> 3. das Gewitter - spazieren gehen
+>    **Trotz des Gewitters gehen wir spazieren.**
+> 4. das Gesetz - in den Haltestellen nicht rauchen dürfen
+>    **Laut des Gesetz darf man nicht in den Haltestellen rauchen.**
+> 5. Krankheit der Schauspieler - die Vorstellung fällt aus
+>    **Infolge der Krankheit der Schauspieler fällt die Vorstellung aus.**
+> 6. Gemüsesuppe - Obstsuppe bestellen
+>    **Anstatt der Gemüsesuppe bestellen wir Obstsuppe.**
+> 7. schwerer Unfall - nicht gehen können
+>    **Wegen des schweren Unfalls kann er nicht gehen.**
+> 8. eine Woche - mit der Renovierung der Wohnung fertig sein
+>    **Innerhalb einer Woche sind wir mit der Renovierung der Wohnung fertig.**
 
 %%.%%
 
@@ -87,6 +101,15 @@ tags:
 %%.%%
 
 > [!success]- Megoldás
+> 2. **Trotz** aller Bemühungen hat das neue Theaterstück keinen Erfolg.
+> 3. **Trotz der** schlechten Noten möchte er studieren.
+> 4. **Während der** heiß**en** Tage muss man viel trinken.
+> 5. **Trotz seines** Beinbruch**es** will er zu Fuß zur Schule gehen.
+> 6. **Während des** Flug**s** darf man nicht rauchen.
+> 7. **Anstatt** Claudia habe ich Lena angerufen.
+> 8. Der neue Industriepack liegt **außerhalb** der Stadt.
+> 9. **Anstatt des** Kino**s** sind sie in ein Konzert gegangen.
+> 10. **Innerhalb** einer Stunde werden wir die Grenze erreichen.
 
 ## Megjegyzések
 
