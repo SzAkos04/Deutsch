@@ -14,7 +14,10 @@ tags:
 
 ## Feladatok
 
-- [x] **Szavak:** [[2026-09-03#Neue Wörter|Lektion 13]] szavak megtanulása
+- [x] **Szavak:** [[2026-09-03#Neue Wörter|Lektion 13]]
+
+> [!quizlet]-
+> <iframe src="https://quizlet.com/1204427267/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 - [ ] **Nyelvtan:** [[Relativsatz]]
 

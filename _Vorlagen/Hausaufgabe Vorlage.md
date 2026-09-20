@@ -14,7 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] [[<% tp.date.now("YYYY-MM-DD") %>#Neue Wörter|Lektion]] szavak megtanulása
+- [ ] **Szavak:** [[<% tp.date.now("YYYY-MM-DD") %>#Neue Wörter|Lektion]]
 
 - [ ] 
 

@@ -14,11 +14,14 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[2026-09-21#Neue Wörter|Lektion 17]] szavak megtanulása
+- [ ] **Szavak:** [[2026-09-21#Neue Wörter|Lektion 17]]
+
+> [!quizlet]-
+> <iframe src="https://quizlet.com/1211000573/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 - [x] **Nyelvtan:** [[Präpositionen mit Genitiv]]
 
-- [ ] **Gyakorlás:** [[Dömők_Szilvia_-_Gyakorló_Német_Nyelvtan.pdf]] S. 143
+- [x] **Gyakorlás:** [[Dömők_Szilvia_-_Gyakorló_Német_Nyelvtan.pdf]] S. 143
 
 > [!question]- Feladat 1 - Ergänze die Sätze.
 > 1. In manchen Ländern ist es unhöflich ………………………… das Essens zu sprechen.

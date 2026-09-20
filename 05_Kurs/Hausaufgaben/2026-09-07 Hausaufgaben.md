@@ -14,7 +14,10 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[2026-09-14#Neue Wörter|Lektion 15]] szavak megtanulása
+- [ ] **Szavak:** [[2026-09-14#Neue Wörter|Lektion 15]]
+
+> [!quizlet]-
+> <iframe src="https://quizlet.com/1205909069/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 - [x] **Nyelvtan:** [[Partizipien]]
 

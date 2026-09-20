@@ -14,7 +14,10 @@ tags:
 
 ## Feladatok
 
-- [x] [[2026-07-27#Neue Wörter|Lektion 6]] szavak megtanulása
+- [x] **Szavak:** [[2026-07-27#Neue Wörter|Lektion 6]]
+
+> [!quizlet]-
+> <iframe src="https://quizlet.com/1196703314/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 - [ ] **Gyakorlás:** [[Vorgangspassiv-H.A.pdf]]
 
