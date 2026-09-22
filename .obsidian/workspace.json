@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MOC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -198,9 +198,19 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "2316ebfd68a58911",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -239,10 +249,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MOC.md",
     "02_Kommunikation/TÁRSALGÁSI SZITUÁCIÓK, KÉPLEÍRÁSOK ÉS HALLGATÁS UTÁNI SZÖVEGÉRTÉS NÉMETÜL/TEIL 1 - Konversation.md",
     "02_Kommunikation/E-Mail schreiben.md",
     "02_Kommunikation/TÁRSALGÁSI SZITUÁCIÓK, KÉPLEÍRÁSOK ÉS HALLGATÁS UTÁNI SZÖVEGÉRTÉS NÉMETÜL",
-    "MOC.md",
     "05_Kurs/Német haladó félintenzív.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Hausaufgaben/2026-07-13 Hausaufgaben.md",
