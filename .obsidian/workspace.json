@@ -11,12 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf"
+                "file": "05_Kurs/Unterricht/2026-09-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24"
+              "icon": "lucide-file",
+              "title": "2026-09-22"
             }
           }
         ]
@@ -158,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",
+                "file": "05_Kurs/Unterricht/2026-09-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,9 +169,21 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "9bccc26b49f3ebbd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05_Kurs/Materialen/Menschen B1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -208,11 +223,11 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "05_Kurs/Materialen/Menschen B1.pdf",
-    "05_Kurs/Hausaufgaben/2026-09-22 Hausaufgaben.md",
-    "05_Kurs/Unterricht/2026-09-24.md",
-    "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "05_Kurs/Unterricht/2026-09-22.md",
+    "05_Kurs/Unterricht/2026-09-24.md",
     "05_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",
+    "05_Kurs/Hausaufgaben/2026-09-22 Hausaufgaben.md",
+    "05_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "MOC.md",
     "05_Kurs/Hausaufgaben/2026-09-17 Hausaufgaben.md",
     "05_Kurs/Unterricht/2026-09-17.md",
