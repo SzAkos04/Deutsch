@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc3c6c1047c38485",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
+              "type": "markdown",
+              "state": {
+                "file": "03_Vokabeln/Verben/lächeln.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "lächeln"
             }
           }
         ]
@@ -77,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -157,7 +161,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,9 +168,24 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5a8eac784a203b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -205,9 +223,14 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "cc3c6c1047c38485",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03_Vokabeln/Verben/erledigen (L16).md",
+    "03_Vokabeln/Verben/erledigen (L3).md",
+    "03_Vokabeln/Verben/fehlen.md",
+    "03_Vokabeln/Verben/fehlen (L14).md",
     "MOC.md",
+    "03_Vokabeln/Verben/pfeffern.md",
     "03_Vokabeln/Wörterbuch.md",
     "03_Vokabeln/Adjektive/allgemein.md",
     "03_Vokabeln/Adjektive/ärgerlich.md",
@@ -228,11 +251,6 @@
     "03_Vokabeln/Verben/nutzen.md",
     "03_Vokabeln/Verben/steuern.md",
     "03_Vokabeln/Verben/schwitzen.md",
-    "03_Vokabeln/Verben/auffordern.md",
-    "03_Vokabeln/Verben/vorstellen.md",
-    "03_Vokabeln/Verben/verabschieden.md",
-    "03_Vokabeln/Verben/melden.md",
-    "03_Vokabeln/Verben/verursachen.md",
     "03_Vokabeln/Redewendungen",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",
