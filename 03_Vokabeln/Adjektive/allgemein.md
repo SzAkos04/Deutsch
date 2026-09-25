@@ -6,7 +6,7 @@ Bedeutung: általános
 Komparativ: allgemeiner
 Superlativ: allgemeinsten
 Quelle:
-  - "[[Német haladó félintenzív]]"
+  - "[[Német haladó félintenzív]] – Lektion 15"
 aliases:
 ---
 

@@ -8,22 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Vokabeln/Wörterbuch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wörterbuch"
-            }
-          },
-          {
-            "id": "5f4267077341e2ab",
+            "id": "cc3c6c1047c38485",
             "type": "leaf",
             "state": {
               "type": "spaced-repetition-tab-view",
@@ -32,8 +17,7 @@
               "title": "Spaced Repetition"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -203,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5078125
+    "width": 379.5078125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +205,13 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "5f4267077341e2ab",
+  "active": "cc3c6c1047c38485",
   "lastOpenFiles": [
-    "03_Vokabeln/Adjektive/allgemein.md",
-    "05_Kurs/Német haladó félintenzív.md",
+    "MOC.md",
     "03_Vokabeln/Wörterbuch.md",
+    "03_Vokabeln/Adjektive/allgemein.md",
+    "03_Vokabeln/Adjektive/ärgerlich.md",
+    "05_Kurs/Német haladó félintenzív.md",
     "03_Vokabeln/Verben/entschließen.md",
     "03_Vokabeln/Verben/lächeln.md",
     "03_Vokabeln/Verben/betreuen.md",
@@ -245,8 +233,6 @@
     "03_Vokabeln/Verben/verabschieden.md",
     "03_Vokabeln/Verben/melden.md",
     "03_Vokabeln/Verben/verursachen.md",
-    "03_Vokabeln/Verben/übernehmen (L3).md",
-    "03_Vokabeln/Verben/entwickeln.md",
     "03_Vokabeln/Redewendungen",
     "05_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",

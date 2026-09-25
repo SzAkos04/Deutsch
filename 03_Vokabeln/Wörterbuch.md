@@ -2,7 +2,7 @@
 > - [[#Adjektive|Adjektive]]
 > - [[#Adverben|Adverben]]
 > - [[#Konjunktionen|Konjunktionen]]
-> - [[#Pronomen|Pronomen]]
+> - [[#Redewendungen|Redewendungen]]
 > - [[#Substantive|Substantive]]
 > - [[#Verben|Verben]]
 
@@ -69,14 +69,14 @@ SORT file.name ASC
 
 ---
 
-## Pronomen
+## Redewendungen
 
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Pronomen",
+	file.link AS "Redewendung",
 	Bedeutung AS "Bedeutung",
 	Quelle AS "Quelle"
-FROM "03_Vokabeln/Pronomen"
+FROM "03_Vokabeln/Redewendungen"
 WHERE Bedeutung != null
 SORT file.name ASC
 ```
