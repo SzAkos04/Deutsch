@@ -2,41 +2,39 @@
 Wort: einstellen
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - gemischt
   - trennbar
-Niveau: B1
-Bedeutung: felvenni (munkára)
+Niveau: B2
+Bedeutung: szüneteltet, beállít
 Präteritum: stellte ein
 Partizip_II: eingestellt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 15"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **stelle ein**   |
-| du               | **stellst ein** |
-| er / sie / es    | **stellt ein**  |
-| wir              | **einstellen**  |
-| ihr              | **stellt ein**  |
-| sie / Sie        | **einstellen**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[sich bewerben]]
-- [[entlassen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

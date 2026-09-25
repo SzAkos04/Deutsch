@@ -5,38 +5,36 @@ Verbtyp:
   - stark
   - trennbar
 Niveau: A2
-Bedeutung: elaludni
+Bedeutung: elalszik
 Präteritum: schlief ein
 Partizip_II: eingeschlafen
-Hilfsverb:
-  - ist
-Quelle:
-aliases:
+Hilfsverb: ist
+Quelle: "[[Német haladó félintenzív]] – Lektion 1"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **schlafe ein**   |
-| du               | **schläfst ein** |
-| er / sie / es    | **schläft ein**  |
-| wir              | **einschlafen**  |
-| ihr              | **schläft ein**  |
-| sie / Sie        | **einschlafen**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[sich ausruhen]]
-- [[aufwachen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

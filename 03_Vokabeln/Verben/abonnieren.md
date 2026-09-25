@@ -4,40 +4,37 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: B1
-Bedeutung: feliratkozni, előfizetni
+Niveau: A2
+Bedeutung: előfizetni
 Präteritum: abonnierte
 Partizip_II: abonniert
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 4"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **abonniere**   |
-| du               | **abonnierst** |
-| er / sie / es    | **abonniert**  |
-| wir              | **abonnieren**  |
-| ihr              | **abonniert**  |
-| sie / Sie        | **abonnieren**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[folgen]]
-- [[kündigen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-26,3,250-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

@@ -5,39 +5,36 @@ Verbtyp:
   - stark
   - untrennbar
 Niveau: B1
-Bedeutung: nyerni, megnyerni
+Bedeutung: nyerni
 Präteritum: gewann
 Partizip_II: gewonnen
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 11"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **gewinne**   |
-| du               | **gewinnst** |
-| er / sie / es    | **gewinnt**  |
-| wir              | **gewinnen**  |
-| ihr              | **gewinnt**  |
-| sie / Sie        | **gewinnen**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[verlieren]]
-- [[siegen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-26,3,250-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

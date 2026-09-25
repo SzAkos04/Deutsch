@@ -1,28 +1,34 @@
 ---
 Wort: klug
 Wortart: Adjektiv
-Niveau: B1
-Bedeutung: okos, értelmes
-Komparativ: klüger
-Superlativ: klügsten
-Quelle:
-aliases:
+Niveau: A2
+Bedeutung: okos
+Komparativ: kluger
+Superlativ: klugsten
+Quelle: "[[Német haladó félintenzív]] – Lektion 1"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
-> 
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
+
 ## Siehe auch
-- [[intelligent]]
-- [[begabt]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-09,4,270-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

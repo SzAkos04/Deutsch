@@ -1,13 +1,10 @@
 ---
 Wort: drüben
-Wortart:
-  - Adverb
-  - Lokaladverb
-Niveau: B1
-Bedeutung: odaát, amott, a túloldalon
-Quelle:
-  - "[[Kanonenfieber - Verscharrt und Ungerühmt]]"
-aliases:
+Wortart: Adverb
+Niveau: B2
+Bedeutung: odaát
+Quelle: "[[Német haladó félintenzív]] – Lektion 17"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -15,7 +12,6 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 > [!INFO]
-> 
 > 
 
 ---
@@ -27,6 +23,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`
-<!--SR:!2026-07-04,1,130-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

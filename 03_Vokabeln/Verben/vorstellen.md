@@ -2,41 +2,39 @@
 Wort: vorstellen
 Wortart: Verb
 Verbtyp:
-  - schwach
-  - trennbar
+  - gemischt
+  - untrennbar
 Niveau: A2
-Bedeutung: bemutatni, bemutatkozni
-Präteritum: stellte vor
-Partizip_II: vorgestellt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Bedeutung: bemutatkozik
+Präteritum: stellte sich vor
+Partizip_II: sich vorgestellt
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **stelle vor**   |
-| du               | **stellst vor** |
-| er / sie / es    | **stellt vor**  |
-| wir              | **vorstellen**  |
-| ihr              | **stellt vor**  |
-| sie / Sie        | **vorstellen**  |
-
 > [!INFO]
-> 
+> reflexív ige (sich)
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[begrüßen]]
-- [[kennenlernen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

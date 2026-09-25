@@ -2,20 +2,15 @@
 Wort: reden
 Wortart: Verb
 Verbtyp:
-  - schwach
-Niveau: A2
-Bedeutung: beszélni, beszélgetni
+  - gemischt
+  - untrennbar
+Niveau: B2
+Bedeutung: beszélget
 Präteritum: redete
 Partizip_II: geredet
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
-  - rede
-  - redest
-  - redet
-  - redete
-  - geredet
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 13"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -23,20 +18,12 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
-
-| Personalpronomen | Verb       |
-| ---------------- | ---------- |
-| ich              | **rede**   |
-| du               | **redest** |
-| er / sie / es    | **redet**  |
-| wir              | **reden**  |
-| ihr              | **redet**  |
-| sie / Sie        | **reden**  |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
@@ -48,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-05,1,190-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

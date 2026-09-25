@@ -2,56 +2,39 @@
 Wort: zuhören
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - gemischt
   - trennbar
-Niveau: A2
-Bedeutung: hallgatni
+Niveau: B2
+Bedeutung: meghallgat, odafigyel valakire
 Präteritum: hörte zu
 Partizip_II: zugehört
-Hilfsverb:
-  - hat
-Quelle: "[[Mayberg - Spiegelbild]]"
-aliases:
-  - zuhöre
-  - höre zu
-  - zuhörst
-  - hörst zu
-  - zuhört
-  - hört zu
-  - zuhörte
-  - hörte zu
-  - zugehört
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 14"
+aliases: 
 ---
 
-# zuhören
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "hallgatni"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Infinitiv     | Präteritum   | Partizip II      |
-| ------------- | ------------ | ---------------- |
-| **zu\|hören** | **hörte zu** | hat **zugehört** |
-
-| Personalpronomen | Verb         |
-| ---------------- | ------------ |
-| ich              | **höre zu**  |
-| du               | **hörst zu** |
-| er / sie / es    | **hört zu**  |
-| wir              | **hören zu** |
-| ihr              | **hört zu**  |
-| sie / Sie        | **hören zu** |
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
-> **trennbare Verb:** zu|hören
+> vonzat: +D
+>
+> **Verbtyp:** `=this.Verbtyp`
 
 ---
 
 ## Siehe auch
 
-- [[zuhören]]
+- 
 
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-06,1,210-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

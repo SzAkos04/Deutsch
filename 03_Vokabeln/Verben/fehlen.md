@@ -3,53 +3,38 @@ Wort: fehlen
 Wortart: Verb
 Verbtyp:
   - schwach
+  - untrennbar
 Niveau: A2
-Bedeutung: hiányozni, hiányolni, elvéteni
+Bedeutung: hiányozni valahonnan
 Präteritum: fehlte
 Partizip_II: gefehlt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
-  - fehle
-  - fehlst
-  - fehlt
-  - fehlte
-  - gefehlt
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 3"
+aliases: 
 ---
 
-# fehlen
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "hiányozni, hiányolni"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Infinitiv  | Präteritum | Partizip II     |
-| ---------- | ---------- | --------------- |
-| **fehlen** | **fehlte** | hat **gefehlt** |
-
-| Personalpronomen | Verb       |
-| ---------------- | ---------- |
-| ich              | **fehle**  |
-| du               | **fehlst** |
-| er / sie / es    | **fehlt**  |
-| wir              | **fehlen** |
-| ihr              | **fehlt**  |
-| sie / Sie        | **fehlen** |
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
 
 ## Siehe auch
 
-- [[Fehler]]
-- [[verfehlen]]
-- [[vermissen]]
+- 
 
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-05,1,230-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

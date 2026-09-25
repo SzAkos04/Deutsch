@@ -4,14 +4,13 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
-Niveau: B2
-Bedeutung: képviselni
+Niveau: B1
+Bedeutung: helyettesít, képvisel
 Präteritum: vertrat
 Partizip_II: vertreten
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 12"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -19,30 +18,23 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                                         |
-| ---------------- | -------------------------------------------- |
-| ich              | **vertrete** |
-| du               | **vertrittst** |
-| er / sie / es    | **vertritt** |
-| wir              | **vertreten** |
-| ihr              | **vertretet** |
-| sie / Sie        | **vertreten** |
-
 > [!INFO]
+> 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
 
 ## Siehe auch
 
-- [[Partei]]
-- [[Politik]]
+- 
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, \
-`=this.Hilfsverb` `=this.Partizip_II`
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

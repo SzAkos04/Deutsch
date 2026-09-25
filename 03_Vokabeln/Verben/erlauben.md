@@ -3,15 +3,14 @@ Wort: erlauben
 Wortart: Verb
 Verbtyp:
   - schwach
-  - trennbar
+  - untrennbar
 Niveau: B1
 Bedeutung: megengedni
-Präteritum: laubte er
-Partizip_II: ergelaubt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Präteritum: erlaubte
+Partizip_II: erlaubt
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 7"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -19,30 +18,23 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                                         |
-| ---------------- | -------------------------------------------- |
-| ich              | **laube er** |
-| du               | **laubst er** |
-| er / sie / es    | **laubt er** |
-| wir              | **lauben er** |
-| ihr              | **laubt er** |
-| sie / Sie        | **lauben er** |
-
 > [!INFO]
+> 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
 
 ## Siehe auch
 
-- [[verbieten]]
-- [[Gesetz]]
+- 
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, \
-`=this.Hilfsverb` `=this.Partizip_II`
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

@@ -4,21 +4,13 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
-Niveau: B2
-Bedeutung: átvesz, elvállal, magára vállal
+Niveau: A2
+Bedeutung: átvesz
 Präteritum: übernahm
 Partizip_II: übernommen
-Hilfsverb:
-  - hat
-Quelle:
-  - "[[Deutschland]]"
-aliases:
-  - übernehme
-  - übernimmst
-  - übernimmt
-  - übernehmt
-  - übernahm
-  - übernommen
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -26,22 +18,13 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
-
-| Personalpronomen | Verb           |
-| ---------------- | -------------- |
-| ich              | **übernehme**  |
-| du               | **übernimmst** |
-| er / sie / es    | **übernimmt**  |
-| wir              | **übernehmen** |
-| ihr              | **übernehmt**  |
-| sie / Sie        | **übernehmen** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
-> **_sich übernehmen_**: túlerőlteti magát (túl sokat vállal)
 
 ---
 
@@ -52,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-24,0,230-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

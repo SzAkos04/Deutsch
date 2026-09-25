@@ -4,40 +4,37 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: B1
-Bedeutung: foglalkoztatni, foglalkozni vmivel
-Präteritum: beschäftigte
-Partizip_II: beschäftigt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Niveau: A2
+Bedeutung: foglalkozik vmivel
+Präteritum: beschäftigte sich
+Partizip_II: sich beschäftigt
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **beschäftige**   |
-| du               | **beschäftigst** |
-| er / sie / es    | **beschäftigt**  |
-| wir              | **beschäftigen**  |
-| ihr              | **beschäftigt**  |
-| sie / Sie        | **beschäftigen**  |
-
 > [!INFO]
-> 
+> reflexív ige (sich); vonzat: mit +D
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[arbeiten]]
-- [[einstellen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-24,0,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

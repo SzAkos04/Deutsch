@@ -4,39 +4,37 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: A2
-Bedeutung: ünnepelni, bulizni
+Niveau: B1
+Bedeutung: ünnepel
 Präteritum: feierte
 Partizip_II: gefeiert
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 12"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **feiere**   |
-| du               | **feierst** |
-| er / sie / es    | **feiert**  |
-| wir              | **feiern**  |
-| ihr              | **feiert**  |
-| sie / Sie        | **feiern**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[einladen]]
-- [[organisieren]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

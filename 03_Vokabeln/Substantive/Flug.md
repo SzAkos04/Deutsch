@@ -1,28 +1,36 @@
 ---
 Wort: Flug
 Wortart: Substantiv
-Niveau: A2
+Niveau: B2
 Genus: der
 Plural: -̈e
-Bedeutung: repülőjárat, repülés
-Quelle:
-aliases:
-  - Flüge
+Bedeutung: járat
+Quelle: "[[Német haladó félintenzív]] – Lektion 13"
+aliases: 
 ---
+
 # `=this.Genus` `=this.Wort`, `=this.Plural`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Artikel                                         | Substantiv                                   | Plural                                         |
-| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
-| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")` | `=choice(this.Genus = "der", this.Plural, "")` |
+| ----------------------------------------------- | --------------------------------------------- | ----------------------------------------------- |
+| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")`  | `=choice(this.Genus = "der", this.Plural, "")`  |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")`  | `=choice(this.Genus = "die", this.Plural, "")`  |
+| <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")`  | `=choice(this.Genus = "das", this.Plural, "")`  |
 
 > [!INFO]
+> 
 
 ---
+
 ## Siehe auch
-- [[Flugzeug]]
-- [[fliegen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
-<!--SR:!2026-06-02,0,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

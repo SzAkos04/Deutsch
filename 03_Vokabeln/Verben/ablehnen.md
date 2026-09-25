@@ -2,41 +2,39 @@
 Wort: ablehnen
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - gemischt
   - trennbar
-Niveau: B1
-Bedeutung: visszautasítani, elutasítani
+Niveau: A2
+Bedeutung: elutasítani
 Präteritum: lehnte ab
 Partizip_II: abgelehnt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 6"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **lehne ab**   |
-| du               | **lehnst ab** |
-| er / sie / es    | **lehnt ab**  |
-| wir              | **ablehnen**  |
-| ihr              | **lehnt ab**  |
-| sie / Sie        | **ablehnen**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[genehmigen]]
-- [[akzeptieren]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

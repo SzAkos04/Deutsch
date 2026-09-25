@@ -4,40 +4,37 @@ Wortart: Verb
 Verbtyp:
   - stark
   - untrennbar
-Niveau: B1
-Bedeutung: átmenni (vizsgán), kiállni
+Niveau: A2
+Bedeutung: áll vmiből
 Präteritum: bestand
 Partizip_II: bestanden
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **bestehe**   |
-| du               | **bestehst** |
-| er / sie / es    | **besteht**  |
-| wir              | **bestehen**  |
-| ihr              | **besteht**  |
-| sie / Sie        | **bestehen**  |
-
 > [!INFO]
-> 
+> vonzat: aus +D
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[prüfen]]
-- [[durchfallen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-05,1,210-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

@@ -1,27 +1,34 @@
 ---
 Wort: zuverlässig
 Wortart: Adjektiv
-Niveau: B2
+Niveau: A2
 Bedeutung: megbízható
 Komparativ: zuverlässiger
 Superlativ: zuverlässigsten
-Quelle:
-aliases:
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
+
 ## Siehe auch
-- [[stabil]]
-- [[vertrauen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-10,1,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

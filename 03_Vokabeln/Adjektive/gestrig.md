@@ -1,17 +1,12 @@
 ---
 Wort: gestrig
 Wortart: Adjektiv
-Niveau: B2
+Niveau: B1
 Bedeutung: tegnapi
-Komparativ:
-Superlativ:
-Quelle:
-aliases:
-  - gestriger
-  - gestrige
-  - gestriges
-  - gestrigen
-  - gestrigem
+Komparativ: gestriger
+Superlativ: gestrigsten
+Quelle: "[[Német haladó félintenzív]] – Lektion 12"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -19,23 +14,21 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
-> **Absolutadjektiv:** nem fokozható
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
 
 ## Siehe auch
 
-- [[gestern]]
-- [[heutig]]
-- [[morgig]]
+- 
 
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-16,41,290-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

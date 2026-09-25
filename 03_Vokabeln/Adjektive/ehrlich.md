@@ -1,18 +1,12 @@
 ---
 Wort: ehrlich
 Wortart: Adjektiv
-Niveau: A2
+Niveau: B1
 Bedeutung: őszinte
 Komparativ: ehrlicher
 Superlativ: ehrlichsten
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
-aliases:
-  - ehrlicher
-  - ehrliche
-  - ehrliches
-  - ehrlichen
-  - ehrlichsten
-  - ehrlichem
+Quelle: "[[Német haladó félintenzív]] – Lektion 8"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -20,8 +14,11 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
+
+> [!INFO]
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
 
@@ -32,6 +29,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-05,1,170-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

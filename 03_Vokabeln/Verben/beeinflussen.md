@@ -4,14 +4,13 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: B2
-Bedeutung: befolyásolni
-Präteritum: einflusste be
-Partizip_II: begeeinflusst
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Niveau: A2
+Bedeutung: befolyásol
+Präteritum: beeinflusste
+Partizip_II: beeinflusst
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 1"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -19,30 +18,23 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                                         |
-| ---------------- | -------------------------------------------- |
-| ich              | **einflusse be** |
-| du               | **einflusst be** |
-| er / sie / es    | **einflusst be** |
-| wir              | **einflussen be** |
-| ihr              | **einflusst be** |
-| sie / Sie        | **einflussen be** |
-
 > [!INFO]
+> 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
 
 ## Siehe auch
 
-- [[Politik]]
-- [[Meinungsfreiheit]]
+- 
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, \
-`=this.Hilfsverb` `=this.Partizip_II`
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

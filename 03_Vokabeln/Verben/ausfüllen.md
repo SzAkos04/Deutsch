@@ -2,42 +2,39 @@
 Wort: ausfüllen
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - gemischt
   - trennbar
-Niveau: A2
-Bedeutung: kitölteni (űrlapot)
+Niveau: B2
+Bedeutung: kitölt
 Präteritum: füllte aus
 Partizip_II: ausgefüllt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 14"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **fülle aus**   |
-| du               | **füllst aus** |
-| er / sie / es    | **füllt aus**  |
-| wir              | **ausfüllen**  |
-| ihr              | **füllt aus**  |
-| sie / Sie        | **ausfüllen**  |
-
 > [!INFO]
-> 
+> vonzat: +Akk
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[schreiben]]
-- [[notieren]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-05,1,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

@@ -1,27 +1,34 @@
 ---
 Wort: teamfähig
 Wortart: Adjektiv
-Niveau: B2
-Bedeutung: csapatmunkára képes
+Niveau: B1
+Bedeutung: csapatjátékos
 Komparativ: teamfähiger
 Superlativ: teamfähigsten
-Quelle:
-aliases:
+Quelle: "[[Német haladó félintenzív]] – Lektion 8"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
+
 ## Siehe auch
-- [[kooperativ]]
-- [[kommunikativ]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-16,1,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

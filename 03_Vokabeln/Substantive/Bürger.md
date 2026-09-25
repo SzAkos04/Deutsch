@@ -1,33 +1,36 @@
 ---
 Wort: Bürger
 Wortart: Substantiv
-Niveau: B1
+Niveau: A2
 Genus: der
-Plural: 
+Plural: -
 Bedeutung: polgár
-Quelle:
-aliases:
+Quelle: "[[Német haladó félintenzív]] – Lektion 3"
+aliases: 
 ---
 
-# der Bürger, 
+# `=this.Genus` `=this.Wort`, `=this.Plural`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Artikel | Substantiv | Plural |
-| ------- | ---------- | ------ |
-| <mark style="background: #ADCCFFA6;">der</mark> | `=this.Wort` | `=this.Plural` |
+| Artikel                                         | Substantiv                                   | Plural                                         |
+| ----------------------------------------------- | --------------------------------------------- | ----------------------------------------------- |
+| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")`  | `=choice(this.Genus = "der", this.Plural, "")`  |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")`  | `=choice(this.Genus = "die", this.Plural, "")`  |
+| <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")`  | `=choice(this.Genus = "das", this.Plural, "")`  |
 
 > [!INFO]
+> 
 
 ---
 
 ## Siehe auch
 
-- [[Gesellschaft]]
-- [[Bevölkerung]]
+- 
 
 ---
 
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
-<!--SR:!2026-07-03,0,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

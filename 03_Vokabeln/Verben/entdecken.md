@@ -4,40 +4,37 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: B1
+Niveau: B2
 Bedeutung: felfedezni
 Präteritum: entdeckte
 Partizip_II: entdeckt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 14"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **entdecke**   |
-| du               | **entdeckst** |
-| er / sie / es    | **entdeckt**  |
-| wir              | **entdecken**  |
-| ihr              | **entdeckt**  |
-| sie / Sie        | **entdecken**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[finden]]
-- [[erfinden]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-23,0,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

@@ -3,41 +3,38 @@ Wort: lächeln
 Wortart: Verb
 Verbtyp:
   - schwach
-Niveau: A2
+  - untrennbar
+Niveau: B1
 Bedeutung: mosolyogni
 Präteritum: lächelte
 Partizip_II: gelächelt
-Hilfsverb:
-  - hat
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
-aliases:
-  - lächele
-  - lächelst
-  - lächelt
-  - lächelte
-  - gelächelt
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 11"
+aliases: 
 ---
 
-# lächeln
+# `=this.Wort`
 
-## Ungarisch Bedeutung: "mosolyogni"
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Infinitiv   | Präteritum   | Partizip II       |
-| ----------- | ------------ | ----------------- |
-| **lächeln** | **lächelte** | hat **gelächelt** |
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb         |
-| ---------------- | ------------ |
-| ich              | **lächele**  |
-| du               | **lächelst** |
-| er / sie / es    | **lächelt**  |
-| wir              | **lächeln**  |
-| ihr              | **lächelt**  |
-| sie / Sie        | **lächeln**  |
+> [!INFO]
+> 
+>
+> **Verbtyp:** `=this.Verbtyp`
+
+---
+
+## Siehe auch
+
+- 
 
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-06,1,190-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

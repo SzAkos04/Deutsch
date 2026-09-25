@@ -2,16 +2,15 @@
 Wort: gründen
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - gemischt
   - untrennbar
-Niveau: B1
-Bedeutung: alapítani
+Niveau: B2
+Bedeutung: alapít, megalapít
 Präteritum: gründete
 Partizip_II: gegründet
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 17"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -19,30 +18,23 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb                                         |
-| ---------------- | -------------------------------------------- |
-| ich              | **gründe** |
-| du               | **gründest** |
-| er / sie / es    | **gründet** |
-| wir              | **gründen** |
-| ihr              | **gründet** |
-| sie / Sie        | **gründen** |
-
 > [!INFO]
+> 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
 
 ## Siehe auch
 
-- [[Partei]]
-- [[Gesellschaft]]
+- 
 
 ---
 
-`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, \
-`=this.Hilfsverb` `=this.Partizip_II`
+`=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

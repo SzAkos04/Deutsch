@@ -1,17 +1,12 @@
 ---
 Wort: morgig
 Wortart: Adjektiv
-Niveau: B2
+Niveau: B1
 Bedeutung: holnapi
-Komparativ:
-Superlativ:
-Quelle:
-aliases:
-  - morgiger
-  - morgige
-  - morgiges
-  - morgigen
-  - morgigem
+Komparativ: morgiger
+Superlativ: morgigsten
+Quelle: "[[Német haladó félintenzív]] – Lektion 12"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -19,24 +14,21 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
-> **Absolutadjektiv:** nem fokozható
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
 
 ## Siehe auch
 
-- [[03_Vokabeln/Adverben/morgen|morgen]]
-- [[03_Vokabeln/Substantive/Morgen|Morgen]]
-- [[heutig]]
-- [[gestrig]]
+- 
 
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-08-25,113,290-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

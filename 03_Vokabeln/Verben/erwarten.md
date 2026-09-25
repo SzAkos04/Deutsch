@@ -2,41 +2,39 @@
 Wort: erwarten
 Wortart: Verb
 Verbtyp:
-  - schwach
+  - gemischt
   - untrennbar
-Niveau: B1
-Bedeutung: várni, elvárni
+Niveau: A2
+Bedeutung: vár vmit, elvár, számol valamivel
 Präteritum: erwartete
 Partizip_II: erwartet
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **erwarte**   |
-| du               | **erwartest** |
-| er / sie / es    | **erwartet**  |
-| wir              | **erwarten**  |
-| ihr              | **erwartet**  |
-| sie / Sie        | **erwarten**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[hoffen]]
-- [[brauchen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

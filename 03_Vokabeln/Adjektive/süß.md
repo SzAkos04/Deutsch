@@ -2,17 +2,11 @@
 Wort: süß
 Wortart: Adjektiv
 Niveau: A2
-Bedeutung: édes, aranyos
+Bedeutung: édes
 Komparativ: süßer
 Superlativ: süßesten
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
-aliases:
-  - süßer
-  - süße
-  - süßes
-  - süßen
-  - süßesten
-  - süßem
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -20,8 +14,11 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
+
+> [!INFO]
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
 
@@ -32,6 +29,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-21,46,290-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

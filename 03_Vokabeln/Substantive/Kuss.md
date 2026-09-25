@@ -1,13 +1,12 @@
 ---
 Wort: Kuss
 Wortart: Substantiv
-Niveau: A2
+Niveau: B2
 Genus: der
 Plural: -̈e
 Bedeutung: csók
-Quelle: "[[AnnenMayKantereit - Vielleicht Vielleicht]]"
-aliases:
-  - Küsse
+Quelle: "[[Német haladó félintenzív]] – Lektion 16"
+aliases: 
 ---
 
 # `=this.Genus` `=this.Wort`, `=this.Plural`
@@ -15,8 +14,13 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Artikel                                         | Substantiv                                   | Plural                                         |
-| ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
-| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")` | `=choice(this.Genus = "der", this.Plural, "")` |
+| ----------------------------------------------- | --------------------------------------------- | ----------------------------------------------- |
+| <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")`  | `=choice(this.Genus = "der", this.Plural, "")`  |
+| <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")`  | `=choice(this.Genus = "die", this.Plural, "")`  |
+| <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")`  | `=choice(this.Genus = "das", this.Plural, "")`  |
+
+> [!INFO]
+> 
 
 ---
 
@@ -27,6 +31,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
-<!--SR:!2026-05-12,7,250-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

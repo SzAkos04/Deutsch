@@ -1,0 +1,38 @@
+---
+Ausdruck: Eindruck machen auf +Akk
+Wortart:
+  - Redewendung
+Niveau: B2
+Bedeutung: benyomást kelt
+Beispiel: 
+Kontext:
+  - alltäglich
+Quelle: "[[Német haladó félintenzív]] – Lektion 14"
+aliases: 
+---
+
+# `=this.Ausdruck`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+> [!QUOTE] Beispiel
+> 
+> `=this.Beispiel`
+
+> [!INFO] Kontext & Benutzung
+> **Kontext:** `=this.Kontext`
+> 
+> 
+
+---
+
+## Siehe auch
+
+- 
+
+---
+
+`=this.Ausdruck` :: `=this.Bedeutung`
+<!--SR:!2026-09-25,1,250-->
+
+#Lernkarten

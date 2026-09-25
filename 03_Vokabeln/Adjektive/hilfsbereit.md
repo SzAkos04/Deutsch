@@ -1,27 +1,34 @@
 ---
 Wort: hilfsbereit
 Wortart: Adjektiv
-Niveau: B1
+Niveau: A2
 Bedeutung: segítőkész
 Komparativ: hilfsbereiter
-Superlativ: hilfsbereitsten
-Quelle:
-aliases:
+Superlativ: hilfsbereitesten
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
+
 ## Siehe auch
-- [[fürsorglich]]
-- [[nett]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-10,1,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

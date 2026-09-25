@@ -1,44 +1,34 @@
 ---
 Wort: heutig
 Wortart: Adjektiv
-Niveau: B2
+Niveau: B1
 Bedeutung: mai
-Komparativ:
-Superlativ:
-Quelle:
-aliases:
-  - heutiger
-  - heutige
-  - heutiges
-  - heutigen
-  - heutigsten
-  - heutigem
+Komparativ: heutiger
+Superlativ: heutigsten
+Quelle: "[[Német haladó félintenzív]] – Lektion 12"
+aliases: 
 ---
 
 # `=this.Wort`
 
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
-| Positiv          | Komparativ | Superlativ |
-| ---------------- | ---------- | ---------- |
-| **`=this.Wort`** | -          | -          |
+| Positiv          | Komparativ             | Superlativ                |
+| ----------------- | ----------------------- | -------------------------- |
+| **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
-> **Wichtig:** nem fokozható
-
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
 
 ## Siehe auch
 
-- [[heute]]
-- [[heutzutage]]
-- [[gestrig]]
-- [[morgig]]
+- 
 
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-30,26,290-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

@@ -5,38 +5,36 @@ Verbtyp:
   - stark
   - untrennbar
 Niveau: B1
-Bedeutung: kérni (vkit vmire)
+Bedeutung: kér valakit valamire
 Präteritum: bat
 Partizip_II: gebeten
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 12"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **bitte**   |
-| du               | **bittest** |
-| er / sie / es    | **bittet**  |
-| wir              | **bitten**  |
-| ihr              | **bittet**  |
-| sie / Sie        | **bitten**  |
-
 > [!INFO]
-> 
+> vonzat: +Akk um +Akk
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[anfragen]]
-- [[ersuchen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

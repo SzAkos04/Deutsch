@@ -1,27 +1,34 @@
 ---
 Wort: selbstständig
 Wortart: Adjektiv
-Niveau: B1
-Bedeutung: önálló, független
+Niveau: B2
+Bedeutung: önálló
 Komparativ: selbstständiger
 Superlativ: selbstständigsten
-Quelle:
-aliases:
+Quelle: "[[Német haladó félintenzív]] – Lektion 15"
+aliases: 
 ---
+
 # `=this.Wort`
+
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
 | Positiv          | Komparativ             | Superlativ                |
-| ---------------- | ---------------------- | ------------------------- |
+| ----------------- | ----------------------- | -------------------------- |
 | **`=this.Wort`** | **`=this.Komparativ`** | am **`=this.Superlativ`** |
 
 > [!INFO]
+> Automatikusan generált fokozás – rendhagyó alak esetén ellenőrizd!
 
 ---
+
 ## Siehe auch
-- [[abhängig]]
-- [[erwachsen]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-05-10,1,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten

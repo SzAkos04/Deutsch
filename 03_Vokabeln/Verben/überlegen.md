@@ -4,18 +4,13 @@ Wortart: Verb
 Verbtyp:
   - schwach
   - untrennbar
-Niveau: B1
-Bedeutung: átgondol, megfontol, tünődik
+Niveau: A2
+Bedeutung: megfontol
 Präteritum: überlegte
 Partizip_II: überlegt
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
-  - überlege
-  - überlegst
-  - überlegt
-  - überlegte
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -23,20 +18,12 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
+| ----------------- | ----------------------- | ------------------------------------------ |
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
-
-| Personalpronomen | Verb          |
-| ---------------- | ------------- |
-| ich              | **überlege**  |
-| du               | **überlegst** |
-| er / sie / es    | **überlegt**  |
-| wir              | **überlegen** |
-| ihr              | **überlegt**  |
-| sie / Sie        | **überlegen** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
@@ -48,5 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten 
+#Lernkarten

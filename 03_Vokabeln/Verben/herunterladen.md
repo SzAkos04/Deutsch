@@ -4,40 +4,37 @@ Wortart: Verb
 Verbtyp:
   - stark
   - trennbar
-Niveau: B1
-Bedeutung: letölteni
+Niveau: B2
+Bedeutung: letölt
 Präteritum: lud herunter
 Partizip_II: heruntergeladen
-Hilfsverb:
-  - hat
-Quelle:
-aliases:
+Hilfsverb: hat
+Quelle: "[[Német haladó félintenzív]] – Lektion 14"
+aliases: 
 ---
-# `=this.Wort`
-## Ungarisch Bedeutung: "`=this.Bedeutung`"
-| Infinitiv        | Präteritum             | Partizip II                               |
-| ---------------- | ---------------------- | ----------------------------------------- |
-| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
-| Personalpronomen | Verb            |
-| ---------------- | --------------- |
-| ich              | **lade herunter**   |
-| du               | **lädst herunter** |
-| er / sie / es    | **lädt herunter**  |
-| wir              | **herunterladen**  |
-| ihr              | **lädt herunter**  |
-| sie / Sie        | **herunterladen**  |
+# `=this.Wort`
+
+## Ungarisch Bedeutung: "`=this.Bedeutung`"
+
+| Infinitiv        | Präteritum             | Partizip II                               |
+| ----------------- | ----------------------- | ------------------------------------------ |
+| **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
 > 
+>
 > **Verbtyp:** `=this.Verbtyp`
 
 ---
+
 ## Siehe auch
-- [[hochladen]]
-- [[speichern]]
+
+- 
 
 ---
+
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-05-23,0,230-->
+<!--SR:!2026-09-25,1,250-->
+
 #Lernkarten
