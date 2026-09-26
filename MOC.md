@@ -8,18 +8,13 @@ tags:
 
 ---
 
-# 2. Kommunikation
-
-
----
-
-# 3. Vokabeln
+# 2. Vokabeln
 
 - [[Wörterbuch]]
 
 ---
 
-# 4. Lieder
+# 3. Lieder
 
 - [[AnnenMayKantereit - Vielleicht Vielleicht]]
 - [[Kanonenfieber - Verscharrt und Ungerühmt]]
@@ -28,6 +23,6 @@ tags:
 
 ---
 
-# 5. Kurs
+# 4. Kurs
 
 - [[Német haladó félintenzív]]
