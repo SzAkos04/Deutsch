@@ -16,7 +16,7 @@ tags:
 
 - [ ] **Szavak:** [[2026-09-24#Neue Wörter|Lektion 18]]
 
-- [ ] 
+- [x] 
 
 ## Megjegyzések
 
