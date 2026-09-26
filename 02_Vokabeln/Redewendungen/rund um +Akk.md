@@ -3,12 +3,13 @@ Ausdruck: rund um +Akk
 Wortart:
   - Redewendung
 Niveau: A2
-Bedeutung: itt: vminél
-Beispiel: 
+Bedeutung: "itt: vminél"
+Beispiel:
 Kontext:
   - alltäglich
-Quelle: "[[Német haladó félintenzív]] – Lektion 6"
-aliases: 
+Quelle:
+  - "[[Német haladó félintenzív]] – Lektion 6"
+aliases:
 ---
 
 # `=this.Ausdruck`
@@ -32,7 +33,7 @@ aliases:
 
 ---
 
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 <!--SR:!2026-09-25,1,250-->
 
 #Lernkarten/Wörter/Lektion06

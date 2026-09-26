@@ -3,12 +3,12 @@ Ausdruck: den Kopf/Willen durch|setzen
 Wortart:
   - Redewendung
 Niveau: B1
-Bedeutung: durchgesetzt
-Beispiel: 
+Bedeutung: akaratát keresztülviszi
+Beispiel:
 Kontext:
   - alltäglich
 Quelle: "[[Német haladó félintenzív]] – Lektion 8"
-aliases: 
+aliases:
 ---
 
 # `=this.Ausdruck`
@@ -32,7 +32,7 @@ aliases:
 
 ---
 
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 <!--SR:!2026-09-25,1,250-->
 
 #Lernkarten/Wörter/Lektion08

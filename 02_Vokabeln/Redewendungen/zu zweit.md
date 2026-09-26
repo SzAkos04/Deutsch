@@ -32,7 +32,7 @@ aliases:
 
 ---
 
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 <!--SR:!2026-09-25,1,250-->
 
 #Lernkarten/Wörter/Lektion03

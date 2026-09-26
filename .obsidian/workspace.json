@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "8010e5b67548347b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "02b1b5315d72d374",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MOC"
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
             }
           }
         ]
@@ -211,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5078125
+    "width": 379.5078125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,35 +223,36 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "ac498f99b6fb7d3a",
+  "active": "02b1b5315d72d374",
   "lastOpenFiles": [
-    "MOC.md",
-    "04_Kurs/Unterricht/2026-08-13.md",
-    "03_Lieder/Kanonenfieber - Verscharrt und Ungerühmt.md",
-    "04_Kurs/Unterricht/2026-07-16.md",
-    "02_Vokabeln/Adverben/drüben.md",
-    "02_Vokabeln/Substantive/Rolle.md",
-    "02_Vokabeln/Substantive/Möglichkeit.md",
-    "02_Vokabeln/Substantive/Jeans.md",
-    "02_Vokabeln/Substantive/Erzieher.md",
-    "02_Vokabeln/Substantive/Abenteuerlust.md",
-    "01_Grammatik/Grammatik MOC.md",
-    "01_Grammatik/Partizipien.md",
+    "02_Vokabeln/Wörterbuch.md",
+    "_Vorlagen/Redewendung Vorlage.md",
+    "02_Vokabeln/Redewendungen/zuständig für +Akk.md",
+    "02_Vokabeln/Redewendungen/zufrieden sein.md",
+    "02_Vokabeln/Redewendungen/zufrieden mit +D.md",
+    "02_Vokabeln/Redewendungen/zu zweit.md",
+    "02_Vokabeln/Redewendungen/zu dritt.md",
+    "02_Vokabeln/Redewendungen/Wert legen auf +Akk.md",
+    "02_Vokabeln/Redewendungen/weit entfernt.md",
+    "02_Vokabeln/Redewendungen/wegen +GenDat.md",
+    "02_Vokabeln/Redewendungen/wahr werden lassen.md",
+    "02_Vokabeln/Redewendungen/vor allem.md",
+    "02_Vokabeln/Redewendungen/von früher.md",
+    "02_Vokabeln/Redewendungen/Vollzeit arbeiten.md",
+    "02_Vokabeln/Redewendungen/verbunden sein.md",
+    "02_Vokabeln/Redewendungen/verboten sein.md",
+    "02_Vokabeln/Redewendungen/Verantwortung übernehmen.md",
+    "02_Vokabeln/Redewendungen/verantwortlich sein.md",
+    "02_Vokabeln/Redewendungen/unzufrieden sein.md",
+    "02_Vokabeln/Redewendungen/umsetzen in die Praxis.md",
+    "02_Vokabeln/Redewendungen/übrig bleiben.md",
+    "02_Vokabeln/Redewendungen/Überstunden machen.md",
+    "02_Vokabeln/Redewendungen/überrascht sein.md",
+    "02_Vokabeln/Redewendungen/trotz +Gen.md",
+    "02_Vokabeln/Redewendungen/Teilzeit arbeiten.md",
+    "02_Vokabeln/Redewendungen/Tee ziehen lassen.md",
+    "04_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "01_Grammatik.zip",
-    "04_Kurs/Unterricht/2026-09-14.md",
-    "04_Kurs/Unterricht/2026-09-22.md",
-    "04_Kurs/Unterricht/2026-09-24.md",
-    "03_Vokabeln/README_FONTOS.md",
-    "03_Vokabeln/Wörterbuch.md",
-    "02_Vokabeln/Verben/lächeln.md",
-    "02_Vokabeln/Adverben/ziemlich.md",
-    "02_Vokabeln/Adverben/zufällig.md",
-    "02_Vokabeln/Adverben/zahlreich.md",
-    "02_Vokabeln/Adverben/wochentags.md",
-    "02_Vokabeln/Adverben/vorwärts.md",
-    "02_Vokabeln/Adverben/wirklich.md",
-    "02_Vokabeln/Adverben/unbedingt.md",
-    "02_Vokabeln/Adverben/ursprünglich.md",
     "02_Vokabeln/Adverben",
     "02_Vokabeln/Verben",
     "02_Vokabeln/Substantive",
@@ -264,7 +261,6 @@
     "02_Vokabeln/Redewendungen",
     "02_Vokabeln/Adjektive",
     "02_Vokabeln",
-    "04_Kurs/Materialen/Menschen B1.pdf",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",

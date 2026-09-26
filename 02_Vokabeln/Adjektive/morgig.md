@@ -29,6 +29,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
-<!--SR:!2026-09-25,1,250-->
+<!--SR:!2026-09-29,3,250-->
 
 #Lernkarten/Wörter/Lektion12
