@@ -5,9 +5,8 @@ Niveau: B2
 Bedeutung: általános
 Komparativ: allgemeiner
 Superlativ: allgemeinsten
-Quelle:
-  - "[[Német haladó félintenzív]] – Lektion 15"
-aliases:
+Quelle: "[[Német haladó félintenzív]] – Lektion 15"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -32,4 +31,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion15

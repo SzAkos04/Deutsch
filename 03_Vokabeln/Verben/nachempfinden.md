@@ -5,7 +5,7 @@ Verbtyp:
   - stark
   - untrennbar
 Niveau: B1
-Bedeutung: átérez, szimpatizálni
+Bedeutung: átérezni, szimpatizálni
 Präteritum: empfand nach
 Partizip_II: nachempfunden
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion11

@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - trennbar
 Niveau: A2
-Bedeutung: megjósol valamit
+Bedeutung: megjósolni valamit
 Präteritum: sagte vorher
 Partizip_II: vorhergesagt
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion03

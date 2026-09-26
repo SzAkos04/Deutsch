@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - untrennbar
 Niveau: B2
-Bedeutung: alapít, megalapít
+Bedeutung: alapítani, megalapítani
 Präteritum: gründete
 Partizip_II: gegründet
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion17

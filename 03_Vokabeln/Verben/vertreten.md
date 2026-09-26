@@ -5,7 +5,7 @@ Verbtyp:
   - stark
   - untrennbar
 Niveau: B1
-Bedeutung: helyettesít, képvisel
+Bedeutung: helyettesíteni, képviselni
 Präteritum: vertrat
 Partizip_II: vertreten
 Hilfsverb: hat
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-25,0,230-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion12

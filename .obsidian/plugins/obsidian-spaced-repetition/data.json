@@ -1,11 +1,10 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards",
       "#Lernkarten"
     ],
     "flashcardTagsToIgnore": [],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "burySiblingCards": false,
     "flashcardCardOrder": "NewFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Random",
@@ -36,7 +35,7 @@
     ],
     "noteTagsToIgnore": [],
     "noteFoldersToIgnore": [
-      "**/*.excalidraw.md"
+      "_Vorlage"
     ],
     "openRandomNote": false,
     "autoNextNote": false,

@@ -5,7 +5,7 @@ Niveau: A2
 Bedeutung: izgalmas
 Komparativ: spannender
 Superlativ: spannendesten
-Quelle: "[[Német haladó félintenzív]] – Lektion 1"
+Quelle: "[[Német haladó félintenzív]] – Lektion 1, Lektion 12"
 aliases: 
 ---
 
@@ -31,4 +31,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion01 #Lernkarten/Lektion12

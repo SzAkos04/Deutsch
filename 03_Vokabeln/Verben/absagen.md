@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - trennbar
 Niveau: B1
-Bedeutung: lemond
+Bedeutung: lemondani
 Präteritum: sagte ab
 Partizip_II: abgesagt
 Hilfsverb: hat
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion12

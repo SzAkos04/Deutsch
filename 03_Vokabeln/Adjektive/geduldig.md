@@ -5,7 +5,7 @@ Niveau: A2
 Bedeutung: türelmes
 Komparativ: geduldiger
 Superlativ: geduldigsten
-Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+Quelle: "[[Német haladó félintenzív]] – Lektion 2, Lektion 8"
 aliases: 
 ---
 
@@ -31,4 +31,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion02 #Lernkarten/Lektion08

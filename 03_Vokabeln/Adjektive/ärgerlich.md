@@ -5,9 +5,8 @@ Niveau: B1
 Bedeutung: bosszantó
 Komparativ: ärgerlicher
 Superlativ: ärgerlichsten
-Quelle:
-  - "[[Német haladó félintenzív]] – Lektion 10"
-aliases:
+Quelle: "[[Német haladó félintenzív]] – Lektion 10"
+aliases: 
 ---
 
 # `=this.Wort`
@@ -32,4 +31,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion10

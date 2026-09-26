@@ -9,7 +9,7 @@ Bedeutung: hiányozni valahonnan
 Präteritum: fehlte
 Partizip_II: gefehlt
 Hilfsverb: hat
-Quelle: "[[Német haladó félintenzív]] – Lektion 3"
+Quelle: "[[Német haladó félintenzív]] – Lektion 3, Lektion 14"
 aliases: 
 ---
 
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion03 #Lernkarten/Lektion14

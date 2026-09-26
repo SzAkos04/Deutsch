@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - untrennbar
 Niveau: B1
-Bedeutung: jelent, tudósít
+Bedeutung: jelenteni, tudósítani
 Präteritum: berichtete
 Partizip_II: berichtet
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion12

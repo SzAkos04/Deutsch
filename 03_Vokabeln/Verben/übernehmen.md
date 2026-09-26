@@ -5,11 +5,11 @@ Verbtyp:
   - stark
   - untrennbar
 Niveau: A2
-Bedeutung: átvesz
+Bedeutung: átvenni
 Präteritum: übernahm
 Partizip_II: übernommen
 Hilfsverb: hat
-Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+Quelle: "[[Német haladó félintenzív]] – Lektion 2, Lektion 3"
 aliases: 
 ---
 
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion02 #Lernkarten/Lektion03

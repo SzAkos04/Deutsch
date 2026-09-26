@@ -5,7 +5,7 @@ Niveau: A2
 Genus: die
 Plural: -en
 Bedeutung: alkalom
-Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+Quelle: "[[Német haladó félintenzív]] – Lektion 2, Lektion 12"
 aliases: 
 ---
 
@@ -14,7 +14,7 @@ aliases:
 ## Ungarisch Bedeutung: "`=this.Bedeutung`"
 
 | Artikel                                         | Substantiv                                   | Plural                                         |
-| ----------------------------------------------- | --------------------------------------------- | ----------------------------------------------- |
+| ------------------------------------------------ | --------------------------------------------- | ----------------------------------------------- |
 | <mark style="background: #ADCCFFA6;">der</mark> | `=choice(this.Genus = "der", this.Wort, "")`  | `=choice(this.Genus = "der", this.Plural, "")`  |
 | <mark style="background: #FF5582A6;">die</mark> | `=choice(this.Genus = "die", this.Wort, "")`  | `=choice(this.Genus = "die", this.Plural, "")`  |
 | <mark style="background: #BBFABBA6;">das</mark> | `=choice(this.Genus = "das", this.Wort, "")`  | `=choice(this.Genus = "das", this.Plural, "")`  |
@@ -33,4 +33,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion02 #Lernkarten/Lektion12

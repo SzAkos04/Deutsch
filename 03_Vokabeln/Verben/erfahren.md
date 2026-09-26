@@ -5,7 +5,7 @@ Verbtyp:
   - stark
   - untrennbar
 Niveau: B2
-Bedeutung: megtud
+Bedeutung: megtudni
 Präteritum: erfuhr
 Partizip_II: erfahren
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion14

@@ -5,11 +5,11 @@ Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: támogat
+Bedeutung: támogatni
 Präteritum: unterstützte
 Partizip_II: unterstützt
 Hilfsverb: hat
-Quelle: "[[Német haladó félintenzív]] – Lektion 1"
+Quelle: "[[Német haladó félintenzív]] – Lektion 1, Lektion 9"
 aliases: 
 ---
 
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion01 #Lernkarten/Lektion09

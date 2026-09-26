@@ -5,7 +5,7 @@ Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: vezet, irányít, kormányoz
+Bedeutung: vezetni, irányítani, kormányozni
 Präteritum: steuerte
 Partizip_II: gesteuert
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion05

@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - trennbar
 Niveau: B2
-Bedeutung: kitölt
+Bedeutung: kitölteni
 Präteritum: füllte aus
 Partizip_II: ausgefüllt
 Hilfsverb: hat
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion14

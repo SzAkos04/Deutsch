@@ -5,7 +5,7 @@ Verbtyp:
   - stark
   - trennbar
 Niveau: B2
-Bedeutung: feltételez, elfogad, örökbe fogad
+Bedeutung: feltételezni, elfogadni, örökbe fogadni
 Präteritum: nahm an
 Partizip_II: angenommen
 Hilfsverb: hat
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-27,2,230-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion15

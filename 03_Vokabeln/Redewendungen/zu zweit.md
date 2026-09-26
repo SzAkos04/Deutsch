@@ -35,4 +35,4 @@ aliases:
 `=this.Ausdruck` :: `=this.Bedeutung`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion03

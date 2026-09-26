@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - untrennbar
 Niveau: B2
-Bedeutung: letartóztat
+Bedeutung: letartóztatni
 Präteritum: verhaftete
 Partizip_II: verhaftet
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion17

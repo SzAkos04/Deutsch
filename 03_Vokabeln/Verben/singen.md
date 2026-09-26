@@ -5,7 +5,7 @@ Verbtyp:
   - stark
   - untrennbar
 Niveau: A2
-Bedeutung: énekel
+Bedeutung: énekelni
 Präteritum: sang
 Partizip_II: gesungen
 Hilfsverb: hat
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-26,1,230-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion02

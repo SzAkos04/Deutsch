@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - trennbar
 Niveau: B2
-Bedeutung: elismer
+Bedeutung: elismerni
 Präteritum: erkannte an
 Partizip_II: anerkannt
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion17

@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - trennbar
 Niveau: B2
-Bedeutung: kiállít
+Bedeutung: kiállítani
 Präteritum: stellte aus
 Partizip_II: ausgestellt
 Hilfsverb: hat
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-26,1,230-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion17

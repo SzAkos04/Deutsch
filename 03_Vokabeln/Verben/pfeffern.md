@@ -5,12 +5,12 @@ Verbtyp:
   - schwach
   - untrennbar
 Niveau: A2
-Bedeutung: megborsozni
+Bedeutung: megborsózni
 Präteritum: pfefferte
 Partizip_II: gepfeffert
 Hilfsverb: hat
 Quelle: "[[Német haladó félintenzív]] – Lektion 6"
-aliases:
+aliases: 
 ---
 
 # `=this.Wort`
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-25,0,230-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion06

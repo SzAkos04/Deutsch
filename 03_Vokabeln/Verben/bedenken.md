@@ -5,7 +5,7 @@ Verbtyp:
   - gemischt
   - untrennbar
 Niveau: B1
-Bedeutung: átgondolni, szem előtt tart valamit
+Bedeutung: átgondolni, szem előtt tartani valamit
 Präteritum: bedachte
 Partizip_II: bedacht
 Hilfsverb: hat
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-25,1,250-->
+<!--SR:!2026-09-26,0,230-->
 
-#Lernkarten
+#Lernkarten/Lektion07

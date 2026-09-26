@@ -5,7 +5,7 @@ Verbtyp:
   - schwach
   - untrennbar
 Niveau: B2
-Bedeutung: nyilvánosságra hoz, kiad
+Bedeutung: nyilvánosságra hozni, kiadni
 Präteritum: veröffentlichte
 Partizip_II: veröffentlicht
 Hilfsverb: hat
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion15

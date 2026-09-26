@@ -3,13 +3,13 @@ Wort: vorstellen
 Wortart: Verb
 Verbtyp:
   - gemischt
-  - untrennbar
+  - trennbar
 Niveau: A2
-Bedeutung: bemutatkozik
-Präteritum: stellte sich vor
-Partizip_II: sich vorgestellt
+Bedeutung: bemutatni vkinek vmit, vkit
+Präteritum: stellte vor
+Partizip_II: vorgestellt
 Hilfsverb: hat
-Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+Quelle: "[[Német haladó félintenzív]] – Lektion 3, Lektion 12"
 aliases: 
 ---
 
@@ -22,7 +22,7 @@ aliases:
 | **`=this.Wort`** | **`=this.Präteritum`** | `=this.Hilfsverb` **`=this.Partizip_II`** |
 
 > [!INFO]
-> reflexív ige (sich)
+> vonzat: +D, +Akk
 >
 > **Verbtyp:** `=this.Verbtyp`
 
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion03 #Lernkarten/Lektion12

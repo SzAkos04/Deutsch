@@ -9,7 +9,7 @@ Bedeutung: kapni, fogadni
 Präteritum: erhielt
 Partizip_II: erhalten
 Hilfsverb: hat
-Quelle: "[[Német haladó félintenzív]] – Lektion 4"
+Quelle: "[[Német haladó félintenzív]] – Lektion 4, Lektion 5"
 aliases: 
 ---
 
@@ -37,4 +37,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion04 #Lernkarten/Lektion05

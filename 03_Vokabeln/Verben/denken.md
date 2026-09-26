@@ -5,11 +5,11 @@ Verbtyp:
   - gemischt
   - untrennbar
 Niveau: A2
-Bedeutung: gondol vmire, valakire
+Bedeutung: gondol vmire, valakire; gondolni vki/vmire
 Präteritum: dachte
 Partizip_II: gedacht
 Hilfsverb: hat
-Quelle: "[[Német haladó félintenzív]] – Lektion 2"
+Quelle: "[[Német haladó félintenzív]] – Lektion 2, Lektion 10"
 aliases: 
 ---
 
@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-09-25,1,250-->
 
-#Lernkarten
+#Lernkarten/Lektion02 #Lernkarten/Lektion10
