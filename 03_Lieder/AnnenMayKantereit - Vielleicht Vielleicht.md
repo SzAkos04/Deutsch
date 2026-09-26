@@ -46,7 +46,7 @@ tags:
 > Ja, es ist leicht, leicht, leicht, leicht
 > Ja, es ist leicht, leicht, leicht, leicht
 > 
-> Weil du siehst, was ich [[sonst]] [[niemand|niemandem]] [[03_Vokabeln/Verben/zeigen|zeige]]
+> Weil du siehst, was ich [[sonst]] [[niemand|niemandem]] [[zeigen|zeige]]
 > Ich kann dir [[erzählen]], was ich mir selbst [[verschweigen|verschweige]]
 > 
 > Und ich will, dass es für immer so bleibt
