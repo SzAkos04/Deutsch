@@ -25,4 +25,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten/Lektion12
+#Lernkarten/Wörter/Lektion12

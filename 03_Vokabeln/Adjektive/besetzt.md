@@ -31,4 +31,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Wort`, `=this.Komparativ`, am `=this.Superlativ`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten/Lektion04
+#Lernkarten/Wörter/Lektion04

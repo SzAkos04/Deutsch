@@ -33,4 +33,4 @@ aliases:
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
 <!--SR:!2026-09-25,1,250-->
 
-#Lernkarten/Lektion07 #Lernkarten/Lektion14
+#Lernkarten/Wörter/Lektion07 #Lernkarten/Wörter/Lektion14

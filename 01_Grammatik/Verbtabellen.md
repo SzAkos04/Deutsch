@@ -93,3 +93,5 @@ Erős igék (Umlaut): fahren, fliegen, sehen, nehmen, bitten, geben, essen, zieh
 - [[Perfekt]]
 - [[Konjunktiv II]]
 - [[Grammatik MOC]]
+
+#Lernkarten/Grammatik
