@@ -31,6 +31,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Genus` `=this.Wort`, `=this.Plural`
-<!--SR:!2026-09-26,0,230-->
+<!--SR:!2026-09-26,0,210-->
 
 #Lernkarten/Wörter/Lektion12

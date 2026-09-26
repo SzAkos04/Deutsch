@@ -35,6 +35,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`, `=this.Präteritum`, `=this.Hilfsverb` `=this.Partizip_II`
-<!--SR:!2026-09-26,0,230-->
+<!--SR:!2026-09-28,2,230-->
 
 #Lernkarten/Wörter/Lektion12

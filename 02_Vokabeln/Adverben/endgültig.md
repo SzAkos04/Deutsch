@@ -23,6 +23,6 @@ aliases:
 ---
 
 `=this.Bedeutung` :: `=this.Wort`
-<!--SR:!2026-09-25,1,250-->
+<!--SR:!2026-09-27,1,210-->
 
 #Lernkarten/Wörter/Lektion12
