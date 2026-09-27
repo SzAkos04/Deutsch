@@ -34,7 +34,7 @@ aliases:
 
 ---
 
-`=this.Ausdruck` :: `=this.Bedeutung`
+`=this.Bedeutung` :: `=this.Ausdruck`
 <!--SR:!2026-09-26,1,250-->
 
 #Lernkarten/Wörter/Vonzatos-igék
