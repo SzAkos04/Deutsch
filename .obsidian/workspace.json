@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "8798df9fc5c77faf",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +239,7 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8798df9fc5c77faf",
   "lastOpenFiles": [
     "02_Vokabeln/Wörterbuch.md",
     "_Vorlagen/Redewendung Vorlage.md",
