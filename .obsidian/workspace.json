@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Vokabeln/Wörterbuch.md",
-                "mode": "preview",
+                "file": "04_Kurs/Materialen/Extra/Vonzatos igek mondatok.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "Vonzatos igek mondatok"
             }
           }
         ],
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -229,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5078125,
-    "collapsed": true
+    "width": 803.34765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,8 +248,9 @@
   },
   "active": "41dbcfd23b446b0c",
   "lastOpenFiles": [
-    "MOC.md",
     "02_Vokabeln/Wörterbuch.md",
+    "04_Kurs/Materialen/Extra/Vonzatos igek mondatok.md",
+    "MOC.md",
     "02_Vokabeln/Redewendungen/abhängen von + D.md",
     "02_Vokabeln/Redewendungen/einladen zu + D.md",
     "02_Vokabeln/Redewendungen/telefonieren mit + D 2.md",
@@ -273,7 +274,6 @@
     "02_Vokabeln/Redewendungen/von früher.md",
     "02_Vokabeln/Redewendungen/Vollzeit arbeiten.md",
     "02_Vokabeln/Redewendungen/verbunden sein.md",
-    "02_Vokabeln/Redewendungen/verboten sein.md",
     "04_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "01_Grammatik.zip",
     "02_Vokabeln/Adverben",
