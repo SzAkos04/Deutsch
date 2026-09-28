@@ -11,10 +11,15 @@
             "id": "dfa30454a67f4987",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MOC"
             }
           }
         ]
@@ -171,12 +176,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "d87bb1ca0e552c9f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -205,16 +220,17 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "dfa30454a67f4987",
+  "active": "d87bb1ca0e552c9f",
   "lastOpenFiles": [
+    "MOC.md",
     "02_Vokabeln/Redewendungen/abhängen von + D.md",
     "02_Vokabeln/Redewendungen/einladen zu + D.md",
     "02_Vokabeln/Redewendungen/telefonieren mit + D 2.md",
@@ -225,7 +241,6 @@
     "02_Vokabeln/Redewendungen/sich bedanken für + Akk 2.md",
     "02_Vokabeln/Redewendungen/am späten Nachmittag.md",
     "_Vorlagen/Redewendung Vorlage.md",
-    "MOC.md",
     "02_Vokabeln/Wörterbuch.md",
     "02_Vokabeln/Redewendungen/zuständig für +Akk.md",
     "02_Vokabeln/Redewendungen/zufrieden sein.md",
