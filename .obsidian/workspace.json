@@ -23,21 +23,8 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
-          },
-          {
-            "id": "146f9a46289b19cc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04_Kurs/Materialen/Extra/Verben-mit-unregelmäßiger-Konjugation-JP.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Verben-mit-unregelmäßiger-Konjugation-JP"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +229,10 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "146f9a46289b19cc",
+  "active": "49a5f8c85340df93",
   "lastOpenFiles": [
+    "04_Kurs/Materialen/Stunden.nosync/20260928",
+    "04_Kurs/Materialen/Stunden.nosync/20270924",
     "04_Kurs/Materialen/Extra/Nem-lehet-Passivot-kepezni.pdf",
     "04_Kurs/Materialen/Extra/Menschen_B1.1_Kursbuch_Transkriptionen_Lektion_1–12.pdf",
     "04_Kurs/Materialen/Extra/ketezer-teszt-es-forditas_001.pdf",
@@ -278,8 +267,6 @@
     "02_Vokabeln/Redewendungen/vor allem.md",
     "04_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "01_Grammatik.zip",
-    "02_Vokabeln/Adverben",
-    "02_Vokabeln/Verben",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
