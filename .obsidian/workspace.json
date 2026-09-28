@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "c5b255d8c0cbcfeb",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5078125
+    "width": 379.5078125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +239,7 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c5b255d8c0cbcfeb",
   "lastOpenFiles": [
     "MOC.md",
     "02_Vokabeln/Redewendungen/abhängen von + D.md",
