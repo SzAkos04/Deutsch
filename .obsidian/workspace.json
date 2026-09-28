@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "41dbcfd23b446b0c",
+            "id": "146f9a46289b19cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Kurs/Materialen/Extra/Vonzatos igek mondatok.md",
+                "file": "04_Kurs/Unterricht/2026-09-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vonzatos igek mondatok"
+              "title": "2026-09-28"
             }
           }
         ],
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -230,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 803.34765625
+    "width": 362.87890625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,11 +245,12 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "41dbcfd23b446b0c",
+  "active": "146f9a46289b19cc",
   "lastOpenFiles": [
-    "02_Vokabeln/Wörterbuch.md",
-    "04_Kurs/Materialen/Extra/Vonzatos igek mondatok.md",
     "MOC.md",
+    "04_Kurs/Unterricht/2026-09-28.md",
+    "04_Kurs/Materialen/Extra/Vonzatos igek mondatok.md",
+    "02_Vokabeln/Wörterbuch.md",
     "02_Vokabeln/Redewendungen/abhängen von + D.md",
     "02_Vokabeln/Redewendungen/einladen zu + D.md",
     "02_Vokabeln/Redewendungen/telefonieren mit + D 2.md",
@@ -273,7 +273,6 @@
     "02_Vokabeln/Redewendungen/vor allem.md",
     "02_Vokabeln/Redewendungen/von früher.md",
     "02_Vokabeln/Redewendungen/Vollzeit arbeiten.md",
-    "02_Vokabeln/Redewendungen/verbunden sein.md",
     "04_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "01_Grammatik.zip",
     "02_Vokabeln/Adverben",
