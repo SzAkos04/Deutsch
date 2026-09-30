@@ -362,6 +362,7 @@ A cselekvőpasszív képzéséhez a **werden** segédigét és az igének az ún
 
 ---
 ## Siehe auch
+- [[Wörterbuch]]
 - [[Német haladó félintenzív]]
 - [[Zu + Infinitiv Konstruktionen]]
 - [[Grammatik MOC]]

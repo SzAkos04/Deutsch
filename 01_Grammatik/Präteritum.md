@@ -70,6 +70,7 @@ Mindkét igecsoportnak hordozza a jegyeit. Változik a tőhang (erős igék), az
 
 ---
 ## Siehe auch
+- [[Wörterbuch]]
 - [[Német haladó félintenzív]]
 - [[Perfekt]]
 - [[Plusquamperfekt]]

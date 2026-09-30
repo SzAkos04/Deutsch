@@ -112,6 +112,7 @@ Ha a következő igék együtt szerepelnek egy másik igével, akkor a Perfekt a
 
 ---
 ## Siehe auch
+- [[Wörterbuch]]
 - [[Német haladó félintenzív]]
 - [[Präteritum]]
 - [[Plusquamperfekt]]

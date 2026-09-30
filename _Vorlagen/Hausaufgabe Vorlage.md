@@ -27,6 +27,7 @@ tags:
 
 ## Siehe auch
 
+- [[Wörterbuch]]
 - [[Német haladó félintenzív]]
 - [[<% tp.date.now("YYYY-MM-DD") %>]]
 

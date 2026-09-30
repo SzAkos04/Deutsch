@@ -56,6 +56,7 @@ vidám volt → megházasodott
 
 ---
 ## Siehe auch
+- [[Wörterbuch]]
 - [[Német haladó félintenzív]]
 - [[Temporale Konjunktionen - während-solange]]
 - [[Temporale Konjunktionen - als-wenn]]

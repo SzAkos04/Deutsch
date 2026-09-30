@@ -341,6 +341,7 @@ Vannak olyan igék, melyek vonzhatnak ugyan magukhoz egy másik igét Infinitiv 
 
 ---
 ## Siehe auch
+- [[Wörterbuch]]
 - [[Német haladó félintenzív]]
 - [[Zu + Infinitiv Konstruktionen]]
 - [[Partizipien]]

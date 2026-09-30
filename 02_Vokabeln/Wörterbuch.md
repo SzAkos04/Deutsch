@@ -7,7 +7,7 @@ tags:
 
 ```dataviewjs
 const n = dv.pages('"02_Vokabeln"').where(p => p.Wortart).length;
-dv.paragraph(`**Összesen ${n} szó / kifejezés** a \`02_Vokabeln\` mappában.`);
+dv.paragraph(`**Összesen ${n} szó / kifejezés** a \`03_Vokabeln\` mappában.`);
 ```
 
 ## Összesítés szófajok szerint
@@ -95,6 +95,21 @@ FROM "02_Vokabeln"
 WHERE typeof(Wortart) = "array" AND contains(Wortart, "Vonzat")
 SORT lower(file.name) ASC
 ```
+
+---
+
+## Fachwortschatz (mérnöki/KIT-felkészülés, nem kurzus-specifikus)
+
+```dataview
+TABLE WITHOUT ID file.link AS "Szó", Wortart AS "Szófaj", Bedeutung AS "Jelentés", regexreplace(string(Quelle), "^.*Fachwortschatz: ", "") AS "Terület"
+FROM "02_Vokabeln"
+WHERE contains(string(Quelle), "Fachwortschatz")
+SORT regexreplace(string(Quelle), "^.*Fachwortschatz: ", "") ASC, lower(file.name) ASC
+```
+
+*(Ez a szekció most még üres lesz — amint bekerülnek az első mérnöki/KIT szavak
+`Fachwortschatz: <Terület>` jelöléssel a Quelle mezőjükben, itt automatikusan
+megjelennek, területenként csoportosítva.)*
 
 ---
 

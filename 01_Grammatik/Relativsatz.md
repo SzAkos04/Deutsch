@@ -183,6 +183,7 @@ Ha a vonatkozó névmáshoz egy prepozíció is társul, akkor a prepozíció me
 
 ---
 ## Siehe auch
+- [[Wörterbuch]]
 - [[Német haladó félintenzív]]
 - [[Konjunktionen (Wortstellung)]]
 - [[Grammatik MOC]]
