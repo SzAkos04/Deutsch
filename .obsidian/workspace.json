@@ -23,21 +23,8 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
-          },
-          {
-            "id": "0b8d5359e48bd675",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +229,12 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "0b8d5359e48bd675",
+  "active": "fcba05fdb9d13887",
   "lastOpenFiles": [
+    "MOC.md",
+    "04_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",
+    "04_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
+    "04_Kurs/Materialen/nemet_halado_segedlet.pdf",
     "04_Kurs/Materialen/Extra/Verben-mit-unregelmäßiger-Konjugation-JP.pdf",
     "04_Kurs/Materialen/Stunden.nosync/20260928",
     "04_Kurs/Materialen/Stunden.nosync/20260924",
@@ -251,12 +242,8 @@
     "04_Kurs/Materialen/Extra/Menschen_B1.1_Kursbuch_Transkriptionen_Lektion_1–12.pdf",
     "04_Kurs/Materialen/Extra/ketezer-teszt-es-forditas_001.pdf",
     "04_Kurs/Materialen/Extra/Gen.-Part..pdf",
-    "04_Kurs/Materialen/Extra/Adjektivdeklination.pdf",
-    "04_Kurs/Materialen/Extra/am-Telefon.pdf",
-    "04_Kurs/Materialen/Extra/Dömők_Szilvia_-_Gyakorló_Német_Nyelvtan.pdf",
     "04_Kurs/Unterricht/2026-09-28.md",
     "00_Eingang/2026-09-28 Hausaufgaben.md",
-    "MOC.md",
     "04_Kurs/Materialen/Extra/Vonzatos igek mondatok.md",
     "02_Vokabeln/Wörterbuch.md",
     "02_Vokabeln/Redewendungen/abhängen von + D.md",
@@ -279,7 +266,6 @@
     "02_Vokabeln/Redewendungen/wegen +GenDat.md",
     "02_Vokabeln/Redewendungen/wahr werden lassen.md",
     "02_Vokabeln/Redewendungen/vor allem.md",
-    "04_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
