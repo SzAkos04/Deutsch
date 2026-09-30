@@ -80,6 +80,7 @@ Plusquamperfekt képzése: **hatte/war + Partizip Perfekt**
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Präteritum]]
 - [[Perfekt]]
 - [[Grammatik MOC]]

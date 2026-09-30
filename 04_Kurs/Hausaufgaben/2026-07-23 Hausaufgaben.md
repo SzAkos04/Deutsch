@@ -70,6 +70,7 @@ tags:
 
 ## Siehe auch
 
+- [[Német haladó félintenzív]]
 - [[]]
 
 #Hausaufgabe

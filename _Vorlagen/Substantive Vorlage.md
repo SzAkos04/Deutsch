@@ -27,7 +27,7 @@ aliases:
 
 ## Siehe auch
 
-- 
+- [[Német haladó félintenzív]]
 
 ---
 

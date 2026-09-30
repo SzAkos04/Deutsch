@@ -412,6 +412,7 @@ A mintha kötőszó után, csakúgy mint a magyarban, a németben is feltételes
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Präteritum]]
 - [[Verbtabellen]]
 - [[Grammatik MOC]]

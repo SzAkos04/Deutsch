@@ -43,6 +43,7 @@ Jelentés: amíg, mialatt. Mindkét kötőszó után **KATI** szórendet alkalma
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Temporale Konjunktionen - bis]]
 - [[Temporale Konjunktionen - als-wenn]]
 - [[Temporale Konjunktionen - bevor-ehe]]

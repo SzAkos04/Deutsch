@@ -163,4 +163,5 @@ tags: [Grammatik]
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Grammatik MOC]]

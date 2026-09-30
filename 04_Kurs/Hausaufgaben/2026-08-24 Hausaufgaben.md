@@ -28,6 +28,7 @@ tags:
 
 ## Siehe auch
 
+- [[Német haladó félintenzív]]
 - [[2026-09-19]]
 
 #Hausaufgabe

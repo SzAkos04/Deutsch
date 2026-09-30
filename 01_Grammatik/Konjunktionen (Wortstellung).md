@@ -160,6 +160,7 @@ KATI szórenddel kezdett mondatot mindig **fordított** szórenddel kell folytat
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Temporale Konjunktionen - als-wenn]]
 - [[Relativsatz]]
 - [[Grammatik MOC]]

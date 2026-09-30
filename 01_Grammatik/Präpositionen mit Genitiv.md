@@ -110,5 +110,6 @@ tags: [Grammatik]
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Genitivus Partitivus]]
 - [[Grammatik MOC]]

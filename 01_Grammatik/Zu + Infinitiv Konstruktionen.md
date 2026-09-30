@@ -352,6 +352,7 @@ Ahelyett, hogy
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Zu + Infinitiv (Grundlagen)]]
 - [[Vorgangspassiv]]
 - [[Grammatik MOC]]

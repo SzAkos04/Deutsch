@@ -40,4 +40,5 @@ SORT Frist DESC
 
 ## Siehe auch
 
+- [[Német haladó félintenzív]]
 - [[Grammatik MOC]]

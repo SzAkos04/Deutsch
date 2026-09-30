@@ -69,6 +69,7 @@ tags: [Grammatik]
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Temporale Konjunktionen - während-solange]]
 - [[Temporale Konjunktionen - bis]]
 - [[Temporale Konjunktionen - bevor-ehe]]

@@ -192,4 +192,5 @@ Ebben az esetben is semleges nemű lesz a főnév. Azonban ha nem határozott n�
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Grammatik MOC]]

@@ -49,5 +49,6 @@ Jelentés: mielőtt, **KATI** szórend. A két mondatrész azonos igeidőben ál
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Temporale Konjunktionen - als-wenn]]
 - [[Grammatik MOC]]

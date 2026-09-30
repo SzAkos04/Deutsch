@@ -32,6 +32,7 @@ tags:
 
 ## Siehe auch
 
+- [[Német haladó félintenzív]]
 - [[<% tp.date.now("YYYY-MM-DD") %> Hausaufgaben]]
 
 #Unterricht

@@ -143,6 +143,7 @@ Lehetőség/szükségszerűség – andó, -endő, ható, -hető
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Adjektivdeklination]]
 - [[Zu + Infinitiv (Grundlagen)]]
 - [[Grammatik MOC]]

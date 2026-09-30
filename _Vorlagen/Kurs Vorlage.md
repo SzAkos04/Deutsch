@@ -48,4 +48,4 @@ SORT file.name ASC
 
 ## Siehe auch
 
-- 
+- [[Német haladó félintenzív]]

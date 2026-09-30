@@ -361,6 +361,7 @@ A határozatlan névelőkön kívül, még a **kein** tagadószó, valamint az �
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Nominalisierte Adjektive]]
 - [[Partizipien]]
 - [[Grammatik MOC]]

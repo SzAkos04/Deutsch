@@ -123,6 +123,7 @@ tags:
 
 ## Siehe auch
 
+- [[Német haladó félintenzív]]
 - [[2026-09-17]]
 
 #Hausaufgabe

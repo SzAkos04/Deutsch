@@ -89,6 +89,7 @@ Erős igék (Umlaut): fahren, fliegen, sehen, nehmen, bitten, geben, essen, zieh
 
 ---
 ## Siehe auch
+- [[Német haladó félintenzív]]
 - [[Präteritum]]
 - [[Perfekt]]
 - [[Konjunktiv II]]
