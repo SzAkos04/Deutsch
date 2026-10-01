@@ -38,9 +38,24 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "c57acbb6f383fa3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,8 +282,9 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "e974de8c08422fc6",
+  "active": "c57acbb6f383fa3c",
   "lastOpenFiles": [
+    "00_Eingang/Unbenannt.md",
     "MOC.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Német haladó félintenzív.md",
@@ -298,7 +314,6 @@
     "/03_Vokabeln/Verben/öffnen.md",
     "/03_Vokabeln/Verben/zunehmen.md",
     "/03_Vokabeln/Verben/zitieren.md",
-    "/03_Vokabeln/Verben/zerstören.md",
     "/03_Vokabeln/Substantive",
     "/03_Vokabeln/Verben",
     "/_Vorlagen",
