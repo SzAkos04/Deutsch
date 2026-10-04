@@ -39,8 +39,7 @@
               "title": "Wörterbuch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,10 +244,10 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "631f7faa87b79281",
+  "active": "d87bb1ca0e552c9f",
   "lastOpenFiles": [
-    "02_Vokabeln/Wörterbuch.md",
     "MOC.md",
+    "02_Vokabeln/Wörterbuch.md",
     "_Skripte/add_worterbuch_link.py",
     "add_worterbuch_link.py",
     "02_Vokabeln/Verben/abnehmen.md",
