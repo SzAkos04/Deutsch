@@ -25,21 +25,17 @@
             }
           },
           {
-            "id": "631f7faa87b79281",
+            "id": "37c02a76ebc4eb52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Vokabeln/Wörterbuch.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,8 +240,9 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "d87bb1ca0e552c9f",
+  "active": "37c02a76ebc4eb52",
   "lastOpenFiles": [
+    "01_Grammatik/Verbtabellen.md",
     "MOC.md",
     "02_Vokabeln/Wörterbuch.md",
     "_Skripte/add_worterbuch_link.py",
