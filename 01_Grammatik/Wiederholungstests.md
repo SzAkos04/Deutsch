@@ -161,7 +161,7 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 6. Die Kaffeemaschine scheint in Deutschland **gemacht worden zu sein**. ***d)***
 > 7. Der Zug schein Verspätung **zu haben**. ***b)***
 > 8. Helga ist blass, sie scheint krank **gewesen zu sein**. ***c)***
-> 9. Dein Freund scheint dich nicht **erzukennen**. ???
+> 9. Dein Freund scheint dich nicht **erkannt zu haben**. ***c)***
 > 10. Du scheinst dich im Sommer gut **erholt zu haben**. ***a)***
 %%.%%
 
@@ -271,35 +271,57 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Ich freue mich, **dich zu sehen**. ***a)***
+>                **dass du hier bist**. ***b)***
+>                **nach Köln mitgefahren zu sein**. ***d)***
+> 2. Meine Eltern **lassen mich** nicht allein ins Konzert **gehen**. ***a)***
+> 3. Heutzutage hat niemand Zeit, mit den Nachbarn **zu tratschen**. ***a)***
+>                                            **zu plaudern**. ***d)***
+> 4. Die Palmen im Wohnzimmer **haben** diese Woche nicht mehr **zu gießen**. ***d)***
+> 5. Mein Hausarzt sagt, dass ich den Oberkörper frei machen soll, **damit er** mich untersuchen **kann**. ***d)***
+
 %%.%%
 
 > [!question]- 2. Egészitsd ki a megfelelő vonatkozó névmással!
-> - Ist das der Mann, ….. du zu deinem Geburtstag eingeladen hast?
-> - Wie heißt eigentlich das Restaurant, ….. man so gut bedient wird?
-> - Kennst du die hübsche Frau, ….. sich Thomas schon seit Stunden unterhält?
-> - Warum müssen die Aufgaben, ….. uns unser Lehrer stellt, eigentlich immer so schwierig sein?
-> - Der Patient, ….. man heute Nacht operiert hatte, ist heute verstorben.
+> 1. Ist das der Mann, ….. du zu deinem Geburtstag eingeladen hast?
+> 2. Wie heißt eigentlich das Restaurant, ….. man so gut bedient wird?
+> 3. Kennst du die hübsche Frau, ….. sich Thomas schon seit Stunden unterhält?
+> 4. Warum müssen die Aufgaben, ….. uns unser Lehrer stellt, eigentlich immer so schwierig sein?
+> 5. Der Patient, ….. man heute Nacht operiert hatte, ist heute verstorben.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Ist das der Mann, **den** du zu deinem Geburtstag eingeladen hast?
+> 2. Wie heißt eigentlich das Restaurant, **wo** man so gut bedient wird?
+> 3. Kennst du die hübsche Frau, **mit der** sich Thomas schon seit Stunden unterhält?
+> 4. Warum müssen die Aufgaben, **die** uns unser Lehrer stellt, eigentlich immer so schwierig sein?
+> 5. Der Patient, **den** man heute Nacht operiert hatte, ist heute verstorben.
+
 %%.%%
 
 > [!question]- 3. Fordítsd le a mondatokat!
-> - Mikor kell ezt a munkát beadnod? (ab|geben)
-> - Az apát most nem lehet zavarni.
-> - Rendszeresen kell a feladatokat gyakorolnod.
-> - Az autót az utazás előtt alaposan le kell mosni.
-> - Ezt a könyvet nem lehet olyan gyorsan elolvasni.
-> - Az a férfi, aki a sarkon áll, a mi cégünknél dolgozik.
-> - Az a férfi, akit bemutattál nekem, a mi cégünknél dolgozik.
-> - A kerékpár, amivel a barátom a Fertő-tóhoz ment, tízsebességes. (r Gang, ''e)
-> - Az ágyban azt a könyvet olvasta, amit karácsonyra kapott.
+> 1. Mikor kell ezt a munkát beadnod? (*ab|geben*)
+> 2. Az apát most nem lehet zavarni.
+> 3. Rendszeresen kell a feladatokat gyakorolnod.
+> 4. Az autót az utazás előtt alaposan le kell mosni.
+> 5. Ezt a könyvet nem lehet olyan gyorsan elolvasni.
+> 6. Az a férfi, aki a sarkon áll, a mi cégünknél dolgozik.
+> 7. Az a férfi, akit bemutattál nekem, a mi cégünknél dolgozik.
+> 8. A kerékpár, amivel a barátom a Fertő-tóhoz ment, tízsebességes. (*r Gang, ''e*)
+> 9. Az ágyban azt a könyvet olvasta, amit karácsonyra kapott.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Wann hast du diese Arbeit abzugeben?
+> 2. Der Vater kann jetzt nicht gestört werden.
+> 3. Du hast die Aufgaben regelmäßig zu üben.
+> 4. Das Auto ist vor der Reise gründlich abzuwaschen.
+> 5. Dieses Buch kann nicht so schnell gelesen werden.
+> 6. Der Mann, der an der Ecke steht, arbeitet in unserem Unternehmen.
+> 7. Der Mann, den du mir vorgestellt hast, arbeitet in unserem Unternehmen.
+> 8. Das Fahrrad, mit dem meine Freund am Fertő See gefahren ist, hat 10 Gänge.
+> 9. Im Bett hat er das Buch gelesen, das er zu Weihnachten bekommen hat.
+
 %%.%%
 
 ## Test III.
@@ -318,20 +340,28 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs — lásd [[Partizipien]] elméletét az önellenőrzéshez.)*
+> 1. Elsa hat wieder sehr viel Geld für Geschenke **ausgegeben**. ***c)***
+> 2. Ich kenne keinen Briefmarken **sammelnden** Jungen. ***a)***
+> 3. Ein gefundenes Goldstück und noch ein Gefundenes Goldstück sind zwei **gefundene** Goldstücke. ***c)***
+> 4. In unserer Schule gibt es ungefähr 100 perfekt Englisch und Deutsch **sprechende** junge Talente. ***a)***
+> 5. In diesem Raum gibt es **einen Zeitung lesenden Mann**. ***a)***
+>                         **eine Zeitung lesende Frau**. ***c)***
+>                         **ein Zeitung lesendes Kind**. ***d)***
+
 %%.%%
 
 > [!question]- 2. Fordítsd le a mondatokat!
-> - Tegnap a szünetben meglepő történetet hallottam Elzáról.
-> - A vevőket bosszantották a bolt előtt dohányzó, hangosan nevetgélő eladónők.
-> - Húsz éve Amerikában élő nagybátyám még mindig hibátlanul beszél magyarul, de ott született gyerekei már csak angolul beszélnek.
-> - A villamoson jegy nélkül utazó utasoknak büntetést kell fizetni.
-> - Miután levágta a hajamat, kifizettem a számlát.
-> - Miután megvettem a házat, be fogunk költözni.
+> 1. Tegnap a szünetben meglepő történetet hallottam Elzáról.
+> 2. A vevőket bosszantották a bolt előtt dohányzó, hangosan nevetgélő eladónők.
+> 3. Húsz éve Amerikában élő nagybátyám még mindig hibátlanul beszél magyarul, de ott született gyerekei már csak angolul beszélnek.
+> 4. A villamoson jegy nélkül utazó utasoknak büntetést kell fizetni.
+> 5. Miután levágta a hajamat, kifizettem a számlát.
+> 6. Miután megvettem a házat, be fogunk költözni.
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs.)*
+> 1. Gestern in der
+
 %%.%%
 
 ---
