@@ -363,9 +363,9 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > [!success]- Megoldás
 > 1. Gestern in der Pause habe ich eine überraschende Geschichte über Elsa gehört.
 > 2. Die Kunden wurden von den vor dem Geschäft rauchenden und laut lachenden Verkäuferinnen gestört.
-> 3. Mein seit zwanzig Jahren in Amerika lebender Onkel spricht noch perfektes Ungarisch, aber seine dort geborenen Kinder sprechen nur Englisch.
-> 4. In der Straßenbahn ohne Ticket fahrende Fahrgäste müssen Strafe zahlen.
-> 5. Nachdem er mir die Haare geschnitten hatte, habe ich ich Rechnung bezahlt.
+> 3. Mein seit zwanzig Jahren in Amerika lebender Onkel spricht immer noch perfektes Ungarisch, aber seine dort geborenen Kinder sprechen nur Englisch.
+> 4. In der Straßenbahn ohne Ticket fahrende Fahrgäste müssen eine Strafe bezahlen.
+> 5. Nachdem er mir die Haare geschnitten hatte, bezahlte ich Rechnung.
 > 6. Nachdem ich das Haus erkauft habe, werden wir einziehen.
 
 %%.%%

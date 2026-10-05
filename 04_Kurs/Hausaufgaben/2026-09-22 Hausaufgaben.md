@@ -14,7 +14,10 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[2026-09-24#Neue Wörter|Lektion 18]]
+- [ ] **Szavak:** [[2026-09-24#Neue Wörter|Vonzatos igék]]
+
+> [!quizlet]- Quizlet
+> <iframe src="https://quizlet.com/1193551660/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 - [x] 
 
