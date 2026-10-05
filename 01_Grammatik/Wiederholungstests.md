@@ -37,7 +37,17 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs — lásd [[Relativsatz]] elméletét az önellenőrzéshez.)*
+> 1. Der Bus, **mit dem** unsere Freunde gekommen sind, war nicht geheizt.
+> 2. Die Kranke, **der** der Arzt eine Spritze gegeben hat, schläft schon.
+> 3. Die Theaterstücke, **in denen** die junge Schauspielerin spielt, sind alle interessant.
+> 4. Der Ring, **den** du mir zum Geburtstag geschenkt hast, ist sehr wertvoll.
+> 5. Die Frisörin, **zu der** wir gehen, ist sehr geschickt.
+> 6. Die Lehrerin, **an die** ich die Karte schriebe, unterrichtet Literatur.
+> 7. Das Auto, **dessen** Windschutzscheibe zerbrochen ist, steht in der Garage.
+> 8. **Wer** Hilfe braucht, dem helfen wir immer gern.
+> 9. Im Büro hörte ich manches, **das** dich auch interessieren würde.
+> 10. Meine Tante, **in deren** Wochenendhaus wir Urlaub machten, wohnt in Füred.
+
 %%.%%
 
 ## 2. Vorgangspassiv (Válaszd ki a helyes megoldást!)
@@ -123,7 +133,7 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 1. Er hilft mir immer, ….. ich ihn darum …..
 >    a) ohne ….. zu bitten b) ohne dass ….. bitte c) ohne ….. gebeten zu haben d) ohne dass ….. gebittet habe
 > 2. Er hat den Brief in den Briefkasten geworfen, ….. darauf eine Briefmarke …..
->    a) ohne ….. geklebt zu haben b) ohne zu geklebt haben c) anstatt ….. zu kleben haben d) ohne geklebt zu werden
+>    a) ohne ….. geklebt zu haben b) ohne ... zu geklebt haben c) anstatt ….. zu kleben haben d) ohne ... geklebt zu werden
 > 3. Der Spiegel wurde an die Wand gehängt, ohne vorher …..
 >    a) geputzt zu worden b) geputzt haben c) geputzt worden zu sein d) geputzt werden
 > 4. Der Mann kaufte eine neue Jacke, ….. seine Frau die alte …..
@@ -143,7 +153,16 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> *(A forrásanyagban nem szerepelt megoldókulcs — lásd [[Zu + Infinitiv Konstruktionen]] elméletét az önellenőrzéshez.)*
+> 1. Er hilft mir immer, **ohne dass** ich ihn darum **bitte**. ***b)***
+> 2. Er hat den Brief in den Briefkasten geworfen, **ohne** darauf eine Briefmarke **geklebt zu haben**. ***a)***
+> 3. Der Spiegel wurde an die Wand gehängt, ohne vorher **geputzt worden zu sein**. ***c)***
+> 4. Der Mann kaufte eine neue Jacke, **anstatt dass** seine Frau die alte **gewaschen hat**. ***c)***
+> 5. Die Kakteen blühen auch, ohne **gegossen zu werden**. ***d)***
+> 6. Die Kaffeemaschine scheint in Deutschland **gemacht worden zu sein**. ***d)***
+> 7. Der Zug schein Verspätung **zu haben**. ***b)***
+> 8. Helga ist blass, sie scheint krank **gewesen zu sein**. ***c)***
+> 9. Dein Freund scheint dich nicht **erzukennen**. ???
+> 10. Du scheinst dich im Sommer gut **erholt zu haben**. ***a)***
 %%.%%
 
 ## Test I.
