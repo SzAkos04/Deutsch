@@ -45,7 +45,7 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 6. Die Lehrerin, **an die** ich die Karte schriebe, unterrichtet Literatur. ***d)***
 > 7. Das Auto, **dessen** Windschutzscheibe zerbrochen ist, steht in der Garage. ***c)***
 > 8. **Wer** Hilfe braucht, dem helfen wir immer gern. ***b)***
-> 9. Im Büro hörte ich manches, **das** dich auch interessieren würde. ***b)***
+> 9. Im Büro hörte ich manches, **was** dich auch interessieren würde. ***a)***
 > 10. Meine Tante, **in deren** Wochenendhaus wir Urlaub machten, wohnt in Füred. ***a)***
 
 %%.%%
@@ -159,10 +159,11 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 4. Der Mann kaufte eine neue Jacke, **anstatt dass** seine Frau die alte **gewaschen hat**. ***c)***
 > 5. Die Kakteen blühen auch, ohne **gegossen zu werden**. ***d)***
 > 6. Die Kaffeemaschine scheint in Deutschland **gemacht worden zu sein**. ***d)***
-> 7. Der Zug schein Verspätung **zu haben**. ***b)***
+> 7. Der Zug scheint Verspätung **zu haben**. ***b)***
 > 8. Helga ist blass, sie scheint krank **gewesen zu sein**. ***c)***
 > 9. Dein Freund scheint dich nicht **erkannt zu haben**. ***c)***
 > 10. Du scheinst dich im Sommer gut **erholt zu haben**. ***a)***
+
 %%.%%
 
 ## Test I.
@@ -272,13 +273,15 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 %%.%%
 > [!success]- Megoldás
 > 1. Ich freue mich, **dich zu sehen**. ***a)***
->                **dass du hier bist**. ***b)***
->                **nach Köln mitgefahren zu sein**. ***d)***
+>    **dass du hier bist**. ***b)***
+>    **nach Köln mitgefahren zu sein**. ***d)***
 > 2. Meine Eltern **lassen mich** nicht allein ins Konzert **gehen**. ***a)***
+>    **wollen** ... **gehen**. ***c)***
 > 3. Heutzutage hat niemand Zeit, mit den Nachbarn **zu tratschen**. ***a)***
->                                            **zu plaudern**. ***d)***
+>    **zu plaudern**. ***d)***
 > 4. Die Palmen im Wohnzimmer **haben** diese Woche nicht mehr **zu gießen**. ***d)***
-> 5. Mein Hausarzt sagt, dass ich den Oberkörper frei machen soll, **damit er** mich untersuchen **kann**. ***d)***
+>    **dürfen** ... **gegossen werden**. ***b)***
+> 5. Mein Hausarzt sagt, dass ich den Oberkörper frei machen soll, **damit er** mich untersuchen **kann**. ***a)***
 
 %%.%%
 
@@ -313,13 +316,13 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 %%.%%
 > [!success]- Megoldás
 > 1. Wann hast du diese Arbeit abzugeben?
-> 2. Der Vater kann jetzt nicht gestört werden.
+> 2. Der Vater ist jetzt nicht zu stören.
 > 3. Du hast die Aufgaben regelmäßig zu üben.
-> 4. Das Auto ist vor der Reise gründlich abzuwaschen.
+> 4. Das Auto ist vor der Reise gründlich zu waschen.
 > 5. Dieses Buch kann nicht so schnell gelesen werden.
-> 6. Der Mann, der an der Ecke steht, arbeitet in unserem Unternehmen.
-> 7. Der Mann, den du mir vorgestellt hast, arbeitet in unserem Unternehmen.
-> 8. Das Fahrrad, mit dem meine Freund am Fertő See gefahren ist, hat 10 Gänge.
+> 6. Der Mann, der an der Ecke steht, arbeitet bei unserer Firma.
+> 7. Der Mann, den du mir vorgestellt hast, arbeitet bei unserer Firma.
+> 8. Das Fahrrad, mit dem meine Freund an den Fertő See gefahren ist, hat 10 Gänge.
 > 9. Im Bett hat er das Buch gelesen, das er zu Weihnachten bekommen hat.
 
 %%.%%
@@ -344,9 +347,7 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 > 2. Ich kenne keinen Briefmarken **sammelnden** Jungen. ***a)***
 > 3. Ein gefundenes Goldstück und noch ein Gefundenes Goldstück sind zwei **gefundene** Goldstücke. ***c)***
 > 4. In unserer Schule gibt es ungefähr 100 perfekt Englisch und Deutsch **sprechende** junge Talente. ***a)***
-> 5. In diesem Raum gibt es **einen Zeitung lesenden Mann**. ***a)***
->                         **eine Zeitung lesende Frau**. ***c)***
->                         **ein Zeitung lesendes Kind**. ***d)***
+> 5. In diesem Raum gibt es **eine Zeitung lesende Frau**. ***c)***
 
 %%.%%
 
@@ -361,7 +362,7 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 %%.%%
 > [!success]- Megoldás
 > 1. Gestern in der Pause habe ich eine überraschende Geschichte über Elsa gehört.
-> 2. Die Kunden wurden von den vor dem Geschäft rauchenden und laut lachenden Verkäuferinnen geärgert.
+> 2. Die Kunden wurden von den vor dem Geschäft rauchenden und laut lachenden Verkäuferinnen gestört.
 > 3. Mein seit zwanzig Jahren in Amerika lebender Onkel spricht noch perfektes Ungarisch, aber seine dort geborenen Kinder sprechen nur Englisch.
 > 4. In der Straßenbahn ohne Ticket fahrende Fahrgäste müssen Strafe zahlen.
 > 5. Nachdem er mir die Haare geschnitten hatte, habe ich ich Rechnung bezahlt.
