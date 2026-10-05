@@ -23,19 +23,8 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
-          },
-          {
-            "id": "37c02a76ebc4eb52",
-            "type": "leaf",
-            "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,11 +229,11 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "37c02a76ebc4eb52",
+  "active": "fcba05fdb9d13887",
   "lastOpenFiles": [
+    "02_Vokabeln/Wörterbuch.md",
     "01_Grammatik/Verbtabellen.md",
     "MOC.md",
-    "02_Vokabeln/Wörterbuch.md",
     "_Skripte/add_worterbuch_link.py",
     "add_worterbuch_link.py",
     "02_Vokabeln/Verben/abnehmen.md",
