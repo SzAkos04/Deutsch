@@ -28,15 +28,12 @@
             "id": "8f5ffb69abd13d36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "04_Kurs/Unterricht/2026-09-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "04_Kurs/Materialen/Menschen B1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2026-09-24"
+              "icon": "lucide-file-text",
+              "title": "Menschen B1"
             }
           }
         ],
@@ -247,12 +244,12 @@
   },
   "active": "8f5ffb69abd13d36",
   "lastOpenFiles": [
+    "04_Kurs/Unterricht/2026-09-24.md",
     "04_Kurs/Unterricht/2026-09-28.md",
     "04_Kurs/Hausaufgaben/2026-10-05 Hausaufgaben.md",
     "04_Kurs/Hausaufgaben/2026-09-28 Hausaufgaben.md",
     "04_Kurs/Hausaufgaben/2026-09-22 Hausaufgaben.md",
     "04_Kurs/Hausaufgaben/2026-09-17 Hausaufgaben.md",
-    "04_Kurs/Unterricht/2026-09-24.md",
     "04_Kurs/Unterricht/2026-09-22.md",
     "04_Kurs/Unterricht/2026-10-05.md",
     "04_Kurs/Unterricht/2026-07-09.md",
