@@ -37,16 +37,16 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> 1. Der Bus, **mit dem** unsere Freunde gekommen sind, war nicht geheizt.
-> 2. Die Kranke, **der** der Arzt eine Spritze gegeben hat, schläft schon.
-> 3. Die Theaterstücke, **in denen** die junge Schauspielerin spielt, sind alle interessant.
-> 4. Der Ring, **den** du mir zum Geburtstag geschenkt hast, ist sehr wertvoll.
-> 5. Die Frisörin, **zu der** wir gehen, ist sehr geschickt.
-> 6. Die Lehrerin, **an die** ich die Karte schriebe, unterrichtet Literatur.
-> 7. Das Auto, **dessen** Windschutzscheibe zerbrochen ist, steht in der Garage.
-> 8. **Wer** Hilfe braucht, dem helfen wir immer gern.
-> 9. Im Büro hörte ich manches, **das** dich auch interessieren würde.
-> 10. Meine Tante, **in deren** Wochenendhaus wir Urlaub machten, wohnt in Füred.
+> 1. Der Bus, **mit dem** unsere Freunde gekommen sind, war nicht geheizt. ***b)***
+> 2. Die Kranke, **der** der Arzt eine Spritze gegeben hat, schläft schon. ***d)***
+> 3. Die Theaterstücke, **in denen** die junge Schauspielerin spielt, sind alle interessant. ***d)***
+> 4. Der Ring, **den** du mir zum Geburtstag geschenkt hast, ist sehr wertvoll. ***c)***
+> 5. Die Frisörin, **zu der** wir gehen, ist sehr geschickt. ***a)***
+> 6. Die Lehrerin, **an die** ich die Karte schriebe, unterrichtet Literatur. ***d)***
+> 7. Das Auto, **dessen** Windschutzscheibe zerbrochen ist, steht in der Garage. ***c)***
+> 8. **Wer** Hilfe braucht, dem helfen wir immer gern. ***b)***
+> 9. Im Büro hörte ich manches, **das** dich auch interessieren würde. ***b)***
+> 10. Meine Tante, **in deren** Wochenendhaus wir Urlaub machten, wohnt in Füred. ***a)***
 
 %%.%%
 
@@ -360,7 +360,12 @@ Ez a jegyzet a teljes B1-es anyag átfogó, feleletválasztós és fordításos 
 
 %%.%%
 > [!success]- Megoldás
-> 1. Gestern in der
+> 1. Gestern in der Pause habe ich eine überraschende Geschichte über Elsa gehört.
+> 2. Die Kunden wurden von den vor dem Geschäft rauchenden und laut lachenden Verkäuferinnen geärgert.
+> 3. Mein seit zwanzig Jahren in Amerika lebender Onkel spricht noch perfektes Ungarisch, aber seine dort geborenen Kinder sprechen nur Englisch.
+> 4. In der Straßenbahn ohne Ticket fahrende Fahrgäste müssen Strafe zahlen.
+> 5. Nachdem er mir die Haare geschnitten hatte, habe ich ich Rechnung bezahlt.
+> 6. Nachdem ich das Haus erkauft habe, werden wir einziehen.
 
 %%.%%
 
