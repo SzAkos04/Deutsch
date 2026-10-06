@@ -25,15 +25,13 @@
             }
           },
           {
-            "id": "8f5ffb69abd13d36",
+            "id": "327073b1f57e5413",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04_Kurs/Materialen/Menschen B1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Menschen B1"
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
             }
           }
         ],
@@ -56,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -190,8 +188,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -205,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -242,8 +240,15 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "8f5ffb69abd13d36",
+  "active": "327073b1f57e5413",
   "lastOpenFiles": [
+    "02_Vokabeln/Wörterbuch.md",
+    "MOC.md",
+    "04_Kurs/Materialen/Menschen B1.pdf",
+    "02_Vokabeln/Substantive/Folge.md",
+    "02_Vokabeln/Substantive/Rolle.md",
+    "02_Vokabeln/Substantive/Folge copy.md",
+    "02_Vokabeln/Redewendungen/folgen aus + D.md",
     "04_Kurs/Unterricht/2026-09-24.md",
     "04_Kurs/Unterricht/2026-09-28.md",
     "04_Kurs/Hausaufgaben/2026-10-05 Hausaufgaben.md",
@@ -254,12 +259,9 @@
     "04_Kurs/Unterricht/2026-10-05.md",
     "04_Kurs/Unterricht/2026-07-09.md",
     "04_Kurs/Unterricht/2026-07-06.md",
-    "04_Kurs/Materialen/Menschen B1.pdf",
     "01_Grammatik/Wiederholungstests.md",
     "01_Grammatik/Grammatik MOC.md",
     "04_Kurs/Unterricht/2026-09-17.md",
-    "MOC.md",
-    "02_Vokabeln/Wörterbuch.md",
     "01_Grammatik/Verbtabellen.md",
     "_Skripte/add_worterbuch_link.py",
     "add_worterbuch_link.py",
@@ -275,11 +277,6 @@
     "04_Kurs/Materialen/Extra/Vonzatos igek mondatok.md",
     "02_Vokabeln/Redewendungen/abhängen von + D.md",
     "02_Vokabeln/Redewendungen/einladen zu + D.md",
-    "02_Vokabeln/Redewendungen/telefonieren mit + D 2.md",
-    "02_Vokabeln/Redewendungen/einladen zu + D 2.md",
-    "02_Vokabeln/Redewendungen/einen Blick werfen auf +Akk.md",
-    "02_Vokabeln/Redewendungen/sein gegen + Akk 2.md",
-    "02_Vokabeln/Redewendungen/sich verabreden mit + D 2.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",

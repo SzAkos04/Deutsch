@@ -4,9 +4,11 @@ Wortart: Substantiv
 Niveau: B2
 Genus: die
 Plural: -n
-Bedeutung: következmény, epizód
-Quelle: "[[Német haladó félintenzív]] – Lektion 13"
-aliases: 
+Bedeutung: "következmény, epizód, matematika: sorozat"
+Quelle:
+  - "[[Német haladó félintenzív]] – Lektion 13"
+  - "[[Wörterbuch]] – Fachwortschatz: Mathematik"
+aliases:
 ---
 
 # `=this.Genus` `=this.Wort`, `=this.Plural`
@@ -35,3 +37,4 @@ aliases:
 <!--SR:!2026-09-25,1,250-->
 
 #Lernkarten/Wörter/Lektion13
+#Lernkarten/Wörter/Fachwortschatz/Mathematik 

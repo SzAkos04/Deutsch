@@ -4,9 +4,11 @@ Wortart: Substantiv
 Niveau: A2
 Genus: die
 Plural: -n
-Bedeutung: szerep
-Quelle: "[[Német haladó félintenzív]] – Lektion 5"
-aliases: 
+Bedeutung: "szerep, mechanika: csiga"
+Quelle:
+  - "[[Német haladó félintenzív]] – Lektion 5"
+  - "[[Wörterbuch]] – Fachwortschatz: Statik"
+aliases:
 ---
 
 # `=this.Genus` `=this.Wort`, `=this.Plural`
@@ -35,3 +37,4 @@ aliases:
 <!--SR:!2026-09-25,1,250-->
 
 #Lernkarten/Wörter/Lektion05
+#Lernkarten/Wörter/Fachwortschatz/Statik 
