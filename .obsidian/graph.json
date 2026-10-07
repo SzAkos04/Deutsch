@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:02_Vokabeln  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "path:03_Lieder ",
       "color": {
         "a": 1,
@@ -46,6 +39,6 @@
   "repelStrength": 14.0824424115508,
   "linkStrength": 1,
   "linkDistance": 252,
-  "scale": 1.1997009187073586,
-  "close": true
+  "scale": 0.14176230389554784,
+  "close": false
 }
