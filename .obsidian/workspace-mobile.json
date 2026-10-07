@@ -60,13 +60,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "02_Vokabeln/Substantive/Elastizität.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Elastizität"
             }
           }
         ],
@@ -100,7 +100,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Lernkarten/Wörter/Fachwortschatz",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -108,7 +108,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "Suchen"
         }
       },
       {
@@ -151,7 +151,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "c4c43b4b721ff66b",
@@ -299,8 +299,12 @@
   },
   "active": "1a6696f326517174",
   "lastOpenFiles": [
-    "MOC.md",
+    "02_Vokabeln/Substantive/Achse.md",
+    "02_Vokabeln/Verben/ableiten.md",
+    "02_Vokabeln/Substantive/Aktuator.md",
     "02_Vokabeln/Wörterbuch.md",
+    "04_Kurs/Német haladó félintenzív.md",
+    "MOC.md",
     "00_Eingang/Unbenannt.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Német haladó félintenzív.md",
@@ -325,10 +329,6 @@
     "03_Vokabeln/Verben/verzichten auf.md",
     "/03_Vokabeln/Verben/zunehmen an.md",
     "/03_Vokabeln/Verben/sport treiben.md",
-    "/03_Vokabeln/Verben/nachhaltig wirtschaften.md",
-    "/03_Vokabeln/Verben/überraschen.md",
-    "/03_Vokabeln/Verben/öffnen.md",
-    "/03_Vokabeln/Verben/zunehmen.md",
     "/03_Vokabeln/Substantive",
     "/03_Vokabeln/Verben",
     "/_Vorlagen",
