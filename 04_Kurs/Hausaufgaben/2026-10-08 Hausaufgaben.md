@@ -15,8 +15,6 @@ tags:
 ## Feladatok
 
 - [ ] **Szavak:** [[2026-10-08#Neue Wörter|Lektion]]
-	
-- [ ] 
 
 ## Megjegyzések
 
