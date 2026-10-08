@@ -5,5 +5,7 @@
   "enabledCssSnippets": [
     "quizlet-callout"
   ],
-  "translucency": true
+  "translucency": true,
+  "showRibbon": true,
+  "showViewHeader": true
 }

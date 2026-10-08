@@ -1,8 +1,8 @@
 ---
-Titel: 2026-10-05 Hausaufgaben
+Titel: 2026-10-08 Hausaufgaben
 Kurs: "[[Német haladó félintenzív]]"
-Datum: 2026-10-05
-Frist: 2026-10-08
+Datum: 2026-10-08
+Frist: 2026-10-12
 Status: nincs elkezdve
 tags:
   - Hausaufgabe
@@ -14,10 +14,7 @@ tags:
 
 ## Feladatok
 
-- [ ] **Szavak:** [[2026-10-05#Neue Wörter|Lektion 20]]
-
-> [!quizlet]- Quizlet
-> <iframe src="https://quizlet.com/1219718038/flashcards/embed?i=2w1anb&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+- [ ] **Szavak:** [[2026-10-08#Neue Wörter|Lektion]]
 	
 - [ ] 
 
@@ -32,6 +29,6 @@ tags:
 
 - [[Wörterbuch]]
 - [[Német haladó félintenzív]]
-- [[2026-10-05]]
+- [[2026-10-08]]
 
 #Hausaufgabe
