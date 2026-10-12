@@ -54,8 +54,7 @@
               "title": "2026-10-08 Hausaufgaben"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,9 +210,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "debca08ee5b339fd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9afdaf56f0dcfca1",
@@ -250,8 +259,9 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "013da0b6dd595c03",
+  "active": "debca08ee5b339fd",
   "lastOpenFiles": [
+    "MOC.md",
     "~$rman_grammar_a1_c2.docx",
     "german_grammar_a1_c2.docx",
     "german_grammar_a1_c2.ipynb",
@@ -259,7 +269,6 @@
     "04_Kurs/Hausaufgaben/2026-10-08 Hausaufgaben.md",
     "04_Kurs/Hausaufgaben/2026-10-05 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-10-05.md",
-    "MOC.md",
     "02_Vokabeln/Wörterbuch.md",
     "04_Kurs/Materialen/Menschen B1.pdf",
     "02_Vokabeln/Substantive/Folge.md",
@@ -285,7 +294,6 @@
     "_Skripte",
     "script.py",
     "04_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",
-    "04_Kurs/Materialen/Wortschatz/nemet_halado_szoszedet.pdf",
     "00_Eingang/2026-09-28 Hausaufgaben.md",
     "04_Kurs/Materialen/Extra/Vonzatos igek mondatok.md",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
