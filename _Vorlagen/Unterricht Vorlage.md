@@ -1,6 +1,6 @@
 ---
 Titel: <% tp.file.title %>
-Kurs: "[[Német haladó félintenzív]]"
+Kurs: "[[Német középfok félintenzív]]"
 Datum: <% tp.date.now("YYYY-MM-DD") %>
 Thema:
 Buchseite:
@@ -33,7 +33,7 @@ tags:
 ## Siehe auch
 
 - [[Wörterbuch]]
-- [[Német haladó félintenzív]]
+- [[Német középfok félintenzív]]
 - [[<% tp.date.now("YYYY-MM-DD") %> Hausaufgaben]]
 
 #Unterricht

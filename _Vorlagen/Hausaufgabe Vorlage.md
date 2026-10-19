@@ -1,6 +1,6 @@
 ---
 Titel: <% tp.file.title %>
-Kurs: "[[Német haladó félintenzív]]"
+Kurs: "[[Német középfok félintenzív]]"
 Datum: <% tp.date.now("YYYY-MM-DD") %>
 Frist: <% tp.date.now("YYYY-MM-DD", 3) %>
 Status: nincs elkezdve
@@ -28,7 +28,7 @@ tags:
 ## Siehe auch
 
 - [[Wörterbuch]]
-- [[Német haladó félintenzív]]
+- [[Német középfok félintenzív]]
 - [[<% tp.date.now("YYYY-MM-DD") %>]]
 
 #Hausaufgabe
