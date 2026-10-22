@@ -58,15 +58,12 @@
             "id": "1a6696f326517174",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "04_Kurs/Materialen/sprich einfach b2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "MOC"
+              "icon": "lucide-file-text",
+              "title": "sprich einfach b2"
             }
           }
         ],
@@ -100,7 +97,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Lernkarten/Wörter/Fachwortschatz",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -151,7 +148,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "c4c43b4b721ff66b",
@@ -299,12 +296,12 @@
   },
   "active": "1a6696f326517174",
   "lastOpenFiles": [
+    "MOC.md",
     "02_Vokabeln/Substantive/Achse.md",
     "02_Vokabeln/Verben/ableiten.md",
     "02_Vokabeln/Substantive/Aktuator.md",
     "02_Vokabeln/Wörterbuch.md",
     "04_Kurs/Német haladó félintenzív.md",
-    "MOC.md",
     "00_Eingang/Unbenannt.md",
     "05_Kurs/Hausaufgaben/2026-07-06 Hausaufgaben.md",
     "05_Kurs/Német haladó félintenzív.md",
