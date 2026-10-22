@@ -28,15 +28,12 @@
             "id": "b88f0aebb0d34148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "04_Kurs/Unterricht/2026-10-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "04_Kurs/Materialen/sprich einfach b2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2026-10-22"
+              "icon": "lucide-file-text",
+              "title": "sprich einfach b2"
             }
           }
         ],
@@ -247,8 +244,11 @@
   },
   "active": "b88f0aebb0d34148",
   "lastOpenFiles": [
-    "00_Eingang/2026-10-19 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-10-22.md",
+    "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf",
+    "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
+    "04_Kurs/Materialen/Extra/Das Testbuch ÖSD.pdf",
+    "00_Eingang/2026-10-19 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-10-19.md",
     "_Vorlagen/Unterricht Vorlage.md",
     "04_Kurs/Német középfok félintenzív.md",
@@ -277,12 +277,8 @@
     "04_Kurs/Hausaufgaben/2026-09-22 Hausaufgaben.md",
     "04_Kurs/Hausaufgaben/2026-09-17 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-09-22.md",
-    "04_Kurs/Unterricht/2026-07-09.md",
     "_Skripte/add_worterbuch_link.py",
     "add_worterbuch_link.py",
-    "_Skripte/add_kurs_link.py",
-    "_Skripte",
-    "script.py",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
