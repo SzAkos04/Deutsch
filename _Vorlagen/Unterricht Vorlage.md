@@ -16,10 +16,6 @@ tags:
 
 `=this.Thema`
 
-## Grammatik
-
-- (nincs új nyelvtan)
-
 ## Órai feladatok
 
 - [ ] 

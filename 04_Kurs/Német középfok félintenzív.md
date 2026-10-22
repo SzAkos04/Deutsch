@@ -2,7 +2,7 @@
 Kurs: Német középfok félintenzív
 Niveau: B2
 Lehrer*in: Vitéz Adrienn
-Lehrbuch:
+Lehrbuch: "[[sprich einfach b2.pdf]]"
 Beginn: 2026-10-19
 tags:
   - Kurs
