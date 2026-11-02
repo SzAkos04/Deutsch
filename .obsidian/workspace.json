@@ -42,10 +42,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "04_Kurs/Materialen/sprich einfach b2.pdf"
+                "file": "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "sprich einfach b2"
+              "title": "TELC - Német nyelvvizsga gyakorlófeladatok"
             }
           }
         ],
@@ -258,6 +258,7 @@
   },
   "active": "fbb6aa07cb519afe",
   "lastOpenFiles": [
+    "04_Kurs/Materialen/sprich einfach b2.pdf",
     "04_Kurs/Német középfok félintenzív.md",
     "MOC.md",
     "04_Kurs/Unterricht/2026-10-22.md",
