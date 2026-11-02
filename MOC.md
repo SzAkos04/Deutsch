@@ -26,3 +26,4 @@ tags:
 # 4. Kurs
 
 - [[Német haladó félintenzív]]
+- [[Német középfok félintenzív]]

@@ -35,9 +35,21 @@
               "icon": "lucide-file-text",
               "title": "sprich einfach b2"
             }
+          },
+          {
+            "id": "fbb6aa07cb519afe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04_Kurs/Materialen/sprich einfach b2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "sprich einfach b2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -226,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.4453125
+    "width": 345.4453125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +256,10 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "b88f0aebb0d34148",
+  "active": "fbb6aa07cb519afe",
   "lastOpenFiles": [
+    "04_Kurs/Német középfok félintenzív.md",
+    "MOC.md",
     "04_Kurs/Unterricht/2026-10-22.md",
     "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf",
     "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
@@ -251,9 +267,7 @@
     "00_Eingang/2026-10-19 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-10-19.md",
     "_Vorlagen/Unterricht Vorlage.md",
-    "04_Kurs/Német középfok félintenzív.md",
     "04_Kurs/Német haladó félintenzív.md",
-    "MOC.md",
     "_Vorlagen/Hausaufgabe Vorlage.md",
     "04_Kurs/Materialen/nemet_kozephalado_segedlet.pdf",
     "04_Kurs/Materialen/Menschen B1.pdf",
