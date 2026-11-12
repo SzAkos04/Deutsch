@@ -48,8 +48,7 @@
               "title": "TELC - Német nyelvvizsga gyakorlófeladatok"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "cfaa348f8813bb40",
@@ -213,8 +211,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -256,11 +254,11 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "fbb6aa07cb519afe",
+  "active": "debca08ee5b339fd",
   "lastOpenFiles": [
+    "MOC.md",
     "04_Kurs/Materialen/sprich einfach b2.pdf",
     "04_Kurs/Német középfok félintenzív.md",
-    "MOC.md",
     "04_Kurs/Unterricht/2026-10-22.md",
     "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf",
     "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
@@ -293,7 +291,6 @@
     "04_Kurs/Hausaufgaben/2026-09-17 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-09-22.md",
     "_Skripte/add_worterbuch_link.py",
-    "add_worterbuch_link.py",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
