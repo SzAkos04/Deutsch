@@ -23,21 +23,8 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
-          },
-          {
-            "id": "b0a65c6910b7375e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04_Kurs/Materialen/sprich einfach b2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "sprich einfach b2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,15 +230,15 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "b0a65c6910b7375e",
+  "active": "fcba05fdb9d13887",
   "lastOpenFiles": [
-    "04_Kurs/Materialen/sprich einfach b2.pdf",
+    "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
     "MOC.md",
+    "04_Kurs/Materialen/Extra/Das Testbuch ÖSD.pdf",
+    "04_Kurs/Materialen/sprich einfach b2.pdf",
     "04_Kurs/Német középfok félintenzív.md",
     "04_Kurs/Unterricht/2026-10-22.md",
     "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf",
-    "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
-    "04_Kurs/Materialen/Extra/Das Testbuch ÖSD.pdf",
     "00_Eingang/2026-10-19 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-10-19.md",
     "_Vorlagen/Unterricht Vorlage.md",
