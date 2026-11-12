@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "b88f0aebb0d34148",
+            "id": "b0a65c6910b7375e",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -35,20 +35,9 @@
               "icon": "lucide-file-text",
               "title": "sprich einfach b2"
             }
-          },
-          {
-            "id": "fbb6aa07cb519afe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TELC - Német nyelvvizsga gyakorlófeladatok"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,10 +243,10 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "debca08ee5b339fd",
+  "active": "b0a65c6910b7375e",
   "lastOpenFiles": [
-    "MOC.md",
     "04_Kurs/Materialen/sprich einfach b2.pdf",
+    "MOC.md",
     "04_Kurs/Német középfok félintenzív.md",
     "04_Kurs/Unterricht/2026-10-22.md",
     "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf",
