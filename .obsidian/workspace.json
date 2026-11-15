@@ -30,10 +30,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf"
+                "file": "04_Kurs/Materialen/sprich einfach b2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "projekt-osdb2_compress"
+              "title": "sprich einfach b2"
             }
           }
         ],
@@ -245,13 +245,16 @@
   },
   "active": "1bd43e3f592d9835",
   "lastOpenFiles": [
-    "MOC.md",
-    "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
     "04_Kurs/Materialen/Extra/Das Testbuch ÖSD.pdf",
+    "04_Kurs/Materialen/Extra/Homonimák.pdf",
+    "04_Kurs/Materialen/Extra/Menschen_B1.2_Kursbuch_Transkriptionen_Lektion_13-24.pdf",
+    "04_Kurs/Materialen/Extra/Menschen_B1.1_Kursbuch_Transkriptionen_Lektion_1–12.pdf",
+    "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf",
+    "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
+    "MOC.md",
     "04_Kurs/Materialen/sprich einfach b2.pdf",
     "04_Kurs/Német középfok félintenzív.md",
     "04_Kurs/Unterricht/2026-10-22.md",
-    "04_Kurs/Materialen/Extra/TELC - Német nyelvvizsga gyakorlófeladatok.pdf",
     "00_Eingang/2026-10-19 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-10-19.md",
     "_Vorlagen/Unterricht Vorlage.md",
@@ -265,7 +268,6 @@
     "04_Kurs/Hausaufgaben/2026-10-12 Hausaufgaben.md",
     "~$rman_grammar_a1_c2.docx",
     "german_grammar_a1_c2.docx",
-    "german_grammar_a1_c2.ipynb",
     "04_Kurs/Hausaufgaben/2026-10-05 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-10-05.md",
     "02_Vokabeln/Wörterbuch.md",
@@ -279,7 +281,6 @@
     "04_Kurs/Hausaufgaben/2026-09-22 Hausaufgaben.md",
     "04_Kurs/Hausaufgaben/2026-09-17 Hausaufgaben.md",
     "04_Kurs/Unterricht/2026-09-22.md",
-    "_Skripte/add_worterbuch_link.py",
     "05_Kurs/Materialen/Menschen_B1/jpg/99.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/98.jpg",
     "05_Kurs/Materialen/Menschen_B1/jpg/97.jpg",
