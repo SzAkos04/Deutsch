@@ -23,8 +23,21 @@
               "icon": "lucide-file",
               "title": "MOC"
             }
+          },
+          {
+            "id": "1bd43e3f592d9835",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "projekt-osdb2_compress"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +243,10 @@
       "pseudo-mica:Change vibrancy": false
     }
   },
-  "active": "fcba05fdb9d13887",
+  "active": "1bd43e3f592d9835",
   "lastOpenFiles": [
-    "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
     "MOC.md",
+    "04_Kurs/Materialen/Extra/projekt-osdb2_compress.pdf",
     "04_Kurs/Materialen/Extra/Das Testbuch ÖSD.pdf",
     "04_Kurs/Materialen/sprich einfach b2.pdf",
     "04_Kurs/Német középfok félintenzív.md",
